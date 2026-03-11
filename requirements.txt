@@ -1,1 +1,5 @@
-pytest>=8.0
+# Minimal runtime dependencies for the POB AI project
+# Add package versions here as the project grows.
+
+# Example:
+# requests>=2.31.0
