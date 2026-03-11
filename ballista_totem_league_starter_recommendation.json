@@ -1,0 +1,58 @@
+{
+  "recommended_archetype": "kinetic_fusillade_totem",
+  "recommended_stage": "leveling",
+  "base_file": "Kinetic_Fusillade_Totem.json",
+  "score": 19,
+  "reasons": [
+    "matches playstyle 'totem'",
+    "good league starter",
+    "boosted by alias match: ballista, totem"
+  ],
+  "preferences": {
+    "source_prompt": "I want a ballista totem league starter",
+    "aliases": [
+      "ballista",
+      "totem"
+    ],
+    "playstyle": "totem",
+    "league_starter": true,
+    "stage": "leveling"
+  },
+  "generator_command": "python generate_build.py --archetype kinetic_fusillade_totem --stage leveling",
+  "shortlist": [
+    {
+      "archetype": "kinetic_fusillade_totem",
+      "stage": "leveling",
+      "base_file": "Kinetic_Fusillade_Totem.json",
+      "score": 19,
+      "reasons": [
+        "matches playstyle 'totem'",
+        "good league starter",
+        "boosted by alias match: ballista, totem"
+      ],
+      "generator_command": "python generate_build.py --archetype kinetic_fusillade_totem --stage leveling"
+    },
+    {
+      "archetype": "boneshatter_slayer",
+      "stage": "leveling",
+      "base_file": "boneshatter_slayer_base.json",
+      "score": -2,
+      "reasons": [
+        "good league starter",
+        "penalized for not matching requested playstyle 'totem'"
+      ],
+      "generator_command": "python generate_build.py --archetype boneshatter_slayer --stage leveling"
+    },
+    {
+      "archetype": "ice_crash_shadow",
+      "stage": "leveling",
+      "base_file": "build.json",
+      "score": -2,
+      "reasons": [
+        "good league starter",
+        "penalized for not matching requested playstyle 'totem'"
+      ],
+      "generator_command": "python generate_build.py --archetype ice_crash_shadow --stage leveling"
+    }
+  ]
+}

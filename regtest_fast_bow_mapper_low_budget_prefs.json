@@ -1,0 +1,15 @@
+{
+  "source_prompt": "I want a fast bow mapper league starter on low budget",
+  "aliases": [
+    "bow_mapper"
+  ],
+  "playstyle": "bow",
+  "goal": "fast mapper",
+  "budget": "low",
+  "league_starter": true,
+  "stage": "leveling",
+  "speed": "high",
+  "content_tags": [
+    "maps"
+  ]
+}

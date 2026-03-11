@@ -1,0 +1,11 @@
+{
+  "source_prompt": "I want a zoomy bow mapper for heist and maps on a low budget",
+  "playstyle": "bow",
+  "goal": "fast mapper",
+  "budget": "low",
+  "speed": "high",
+  "content_tags": [
+    "maps",
+    "heist"
+  ]
+}

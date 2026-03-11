@@ -1,0 +1,605 @@
+{
+  "source": "eNrtPW1z20bOn6tfwfFMn2knss3lO_MkfUZ-d2s7ruQkbb94VuLKYkKRCknZcTr-7w-wy1eJpChZ7l17d3eTs7gAFsACWCx2uXzzf1-nnnTPwsgN_Lc7ZE_ekZg_ChzXv3u78_7mZNfa-b-fOm-uaTx5Nz6Yux62_NT57g3_W_LYPfMATwa8mIZ3LP6Q0lJv4dmM-vGEBf4l_RSEp4HzdmcQeDR0ox1pSH3Hjd_uXAU-25FGHo2iKzplb3eO5sxzo3hHotGI-c5h3jLw6CMLAXhCQzqKWXiB3ffmcXAZONA-pl4EtKbU9QfB6DOLT8NgPnu7o-1I9y57EEDnl9fv-jcF1lw_Ya1PPfqZRZMdkO-7N9e8s0FMYymCf97u9EBN9I4d0Sn8CxSpNwdyimyZminv6cbOfiPewTyM4rWRBzPGnBx-jyi2rRNFr4O_DtnxeMxGsXvPDkM3PpxQf5R3KNfhrQt7Ofdid-a5OByr4M-WSKO91ADfBDH1jq4HOaxmKTLoiJiGIqtaM14Qr2bnwAOVFntQNZnoKlH3TNW2iFKH99GNJ8u4umabqqXu2cQAKk2453e-G7MNREPk68CNAv8ZetlA4MO554G3FzEtsFdV0_ds05Zl1arD7LOIhfc0dsss11tUMB26flmzmqaaxFTsPcvWZWLXoV5Snx4GUT7ujZDXLISYEpcQ5BUIAzYKIAwVUYi9RwxbNxocsdBbNY3abi_cMWsPuZZECcK63Gwmx_GgLdzahDdjqA-htx3kIJh7LSHjPACqhlnvEF-KkIqt1kEesa8FF9cbCJYgCamDPPcLvmE00GsHeMTuA_Tr1arhkef47LrApGrY6p4OgUMlpDZ4XE8eI3dEvUv61Z3OpzB73MC0nHcIAchqMNe7SexD1KrDJrKuaLXSnbghq8XUFVVtCGGeU9-nbJj1mBMaRHWohmzqZn2Mcf0zSKN6o9EcEqLHPExrjf6cU28QCDKP0WuEPvdHuSSK1UT4vR_yyF9IWZq6QJQ-ODAmSEOPtcbJu0kCQZvEQnR2x_ykx1xbmmXuaU1oF4yNJqeg7D6NC0mMaZt7hmlZeuMkkEtlKY26RuCirhvnpSpN6-0QFnVm7-mqbNoEJLF0Q20iUq0_QvYaJ91q9WnWngb5L_Rby_exz8K7x8HEZZ7TYlooQKc8HtJZixiO2i9itxqFcndVemmFWq2cWtSPNHTazXTtoNbl_J5GxeCv1yeeQqsCvqhQpRbjkkF2DRgOa7sSuQ6DT7jW8dZD64XTYF6YjTVLa3ZNgVAKhIayav4Sa70-c-aj0oRp12s3XbkdeLB8bStNhgWset5aqL04pqPPR4Fz11p3vJO1MMr8DeazGUQitIr2i0KclmFN4RYyMktbDfwOjLoYAZpn78UOWgAvdaCvzEsWeyEtMdp3xfOJhW7MNtCLXWgrR_QSwsYU5hJepbgM8shE9jStdk44gXVlq2UhBywvXetDQfAA3E-wBhWtBw2pV67VWlZC5n97XKRvtgIvdmDWzwkO5HDgD637WMSo6ubGnUJQjaIjGlPJSVL3DzR0qR8rMEw7UsRoOJpcwPCfUM8bQjh4u1N8yn_xYtqJ68UsPIJn2Ckqd5EiQYrY8Zt9Xh7Ev86nsyCMJY9GMaSpwdyPz2g0ebvjOOOxMlRHI9XQ5CHVmUxUOiKQDwydoaITQodDRx3qOxy1z6g3hWE7FD8P0wKgoKVbsBp3dMOiI2dsWoppj23m2CYdj3TGlPHYGBHDUYY7EvuK3FzTMH5My4WcX_4ExIli1-dlC4iNnrcjDSbBQ8-5R4FvgsCLshojnc2Y75Ro3ISMSTSNdCPUBR8D_CFNgWuYYYXnAJk_DV219a4Buaf-1P1TUw2ZdFXLlFX4pYL4VlcluqHhL9PWja5uKxaBX7qtqnpXsTTDhl-KpihalxBZw1-6oQNN1SY6x9Mt3e7qimUa8MvQNNnomkQ1n0qV1XOHm4EfgPC4tkI-NMUmBHjTLbNr6KZidQ3FsruGqlhKF5ZvmtxVQNtKl6iKjhCa1lVsSIe7lq6qXUWzidZVoUO5m4gCmGZXU00LGmH11yWWLNvwtw6Ygk9NM0ASIY8i6zpBGW0LurM03oeOWKqs4N-qDH_bwKlug1qgb10D8oZOgEmuV8A19a5uQRTqEplowJRqWxriGkCBGIaBf5ty1zYAXJMtAwgoyBSKY3YVEzjpGoZpAiPQrHaBOIBgmtwlNsCZxBC8cDAcIRgnAJNtywA4FcRWTAIcqTYsErqgWCBLgBb8q8kAj1hKF3IPFaSEpSUoGRTfVQwTlKrphg1kIL8CITWimF1IzS3gxYbxB04VG7rSDRO6JUgF_jBUWYORgjYC_cgARgzUL7GIjPLLILNmqjCQKqzAYWgMbAT7MEBFOoohyyoYIdobsGWCAWogvSbbwDKOKVoBMZFvA-QxLRxeYhv4HFYQXWGZmNMjL6YCbNo6ErCB_66wTQJMGmA8KARQB6UroDbgy1J4hzLwpSgqaEcxZKAApoZDoqg4sqBM0BSWDvjAACfcpjXLAgZ1sB8bqYGSiGrj4BHFEGMDNsZ9CMZEQ0WAwtEQwIhgnEAI2QDhFNlWoG_wQDBU1dQwCGJtiYaPvbK7-C5Ehhi8vbDXoRjJHgYCaNzxv3vzvn_B__huEsez6PX-_sPDw96MxpNgzL5C0ro3Cqb7M0CCkLEbfXY9bxfJ7vfgPwd3vx44v8z6M_3WGnx1-_a3i-PZaX9wMCDyH4OTD79_-OX09_PP87u7Uf_Us277njfWzh9uQu-ABScHZ0Nyceq_d3YHzm9fTs-uwng4vh2BkvWTY98nyoP17txT9d1PswMvPPO0m5NjtXd655DT29D9fXQ4pWyX3gbfri_PRopxISsnZ2ff1I8TLwoOv545V_fqEZFN-p4ovz28P--djezPnwx1YB38-svBaUwCOu8TJexp1jvz99nP72a3PebASNxeHA7vye9_vAvGV77863x8NjsdaoZ1-unh1xvn-Nvu4x_vZT1Ubo7vf7Z1euK8_4OyY2V8dW8-mNfj-_nH-y_jD398HJCr6cX9zax_fHR28Mftp9nA2b08vzhx77981K57l72e3Dv6o3d53tPujr70ri6P5Yej44PLX48feje_Hlx9Pn64O7o7_GN0_8U7MW9Aj9-Cx8vjx2j225cjm97a34bffvO_6p8e1f7lUBvPP-r66ft-7-1bPrD76ci-EftMkRjm5BcPpjyuolvtSG7MpvhTSXK9ZUD0rhyOaLVwGBtyQLUOjofCNh1rNnhcKw4xfBYAlTpAHlvbAPIQ3UIWHv1yOKtWFA2SgApR3uwXx-gNJrmhC5OdSJD2cXbmGQtO3_jHVRAzDosP0x9vBuidEWRCYXzKptHBIySlJ7h-X9i8SOZ_hB6wWGRYRZy3O3E4Z5g5jencw-e_zqnnYjoiF59eiI1VPwinWSUUSEE6ggsoQfHmcYZzdu_iQrT0vDghht2luYnIQRKGJNdJ85LkId8t7eVcH1JvFHG-XX_kzUG3fpKvZ7mPR4fIG-4UY9nOSWWKvAC314IgjnYWyWa9fvcGmEswT71gSD0lxU82k9Ud6U6M4SWLqQOZ6_45DGq0j1Ltc2rw10kYRPHQc_3PmPTy9BNRio95RF18-CVVtyJnPxDmSKh-p8QaSVlbkJTnsSJvotMk2yt0st9SUmShSdRspLEIGYuVWSZp0po1ZdIuNryYxGkPmZ8hBy9pWsDiPVvXtlLKyUmFVsZ1wehs4NFpSeH5w0zV-aMvBS_eqo6hB4l3sd9WxNZW9c6PPDq_m8RVdnUZ4MJ-Pl02rLzlxSwr62L7Qv8dXGmb8p7whaco9FUJXWyPlkVfaH656Mn7kdKO_rKQcsa8KYtfMqRkI3EIIr7zRVU42-RbHA4E-jhhZbDFQakEeqkIhJ1JD9CbJLqTRH-tLVVvFXE_UEhzAi9m_mDCsPJSUM1SW6aPpZY1lZBw2kIL2JMkupJEX_-Rk3wLcdvNsFfs4cPc83Hj10VeywNebsmHu_z8xWQu9_OXxaKDwHmU0r2pDfJnriesZOacrDcoB4HPogmNY3GqLxuPwnNYY_xWGJGlltKYZAxxXrY5QoV-pWAswRJs5rGv0k1I51O6NVvNXLM_jydYRq_yzbxt0Tnzlhez1KyLrYv8IfBovOyaCUCxdVHsYtvLuWjeSVvR9ZaSH4TzmDN67c0rR7z3gDMgczLAZR1UgLyYKtK-pLyz_Vah4tL13cBfiF1rKovv2Zd3vFeprQKlXoH1wAXuRZklf4icptWXl1c7Z1FKeZQqmARg353SmDkfYTkX-Nv31kPA8qpdNWtayiLThhdTUdrDXzaDCvVK5Dnlp5Zz5TUWEUv6Tp5kak5-v5h2Bf22pqS1tKSe47i4AUq9366rzOnY9_BgQtWypND0UouRvIst56MnMItOer4ziPnrKMWKYrklLyqWn7-UxLwbifqOJDpqK3c7sXv-iEVxSL3DsBw8yg2Z0OXHLxdb024k7GdbK61EZogy3k0AeXZ5lsLXiNhXFoqzWrnEpccvJ3Gxmy0L3AshEI7yQ2-5yKWGXOTS45cTmXeTLniW5ojkT5jH-faM2IDBP_kswSHO_dk85hTf7kzdaHQ7nI_H-JYXCBOH_BW245OT48Ob8w_HyYGYIgoX-NafT4e43hH_n596GjB-bE-K5sNI_AlZp8seOCNHoG7Xi1Awz6OziGVHQfgOS8K5B3gN1DjUmZu9FFZNKweop3TMLce_-0jDUeiyWr6y9hVMiQ7xTCgeIKqjhm9b1RMSpTysHomTrTWa4u-31VPBd81qxcHGBtzz6Yx6tT0nrSs0EeMeG5irO3ZHePaqechxR05ANeglO6xfO97Jwch6Gvw1tDoCorEeWbxKVoedtDZolb_GVqtV0VqPfsRGtFZ20ViPnB2WDnxQUx2VDKqB0lUgqqfgND3Xw92G2pE99lgGUk_wXTxhYXK8q47SJcSoFKTRcUJ3OI_r3bgA0aAr_qJHjYawrR5VvLZQIwO2NUSi0pH9GoUWYepJiaPutYGsCVWcZ63VX3I4tmEIkrmvRv2FGataCekp-Rr5k-YGJ-Hxt3cfuI44Il3jLgtgTQEjwO2f55Lh576fT2bxIPjzKZ54NPpcO95Jaz36e1FKqqAi0pdWRNCpnkcBfet5FG5g4RzPQ7Yxgf5iJpLj9ptzkOzcciVy2toUOZLjzBtTEIeuN0bnZ8I3xubxH3JihkuXpgkgg2nwj3juH4Ey4gbfaEmKs1UdSHLp1qIlpsJKSdemWNrAbIoBhT3HekIwl581ZIvtKGXvNpwx6uF794H3PIJLb3Y-hxi-qTWfUd9Jyb2rytHzcWipvSCOgCY_s3-EL4Q9V4c-mz5WEKrn681-uqrjx-hxnZW8gzCIQyz3fQuC6e9vd3bxXU1bVg3bNGVTtkXDRVbi4gfkIAE_cmEYQ25-abcI-BseZCR7qk0sVdMMwxanE9_wRXNydq9YPG4gN4-YePdc1Bw5RuHAHVIRh-10UXjsw7I7fnwtvb86__X9cedmwqSP8GQCRiv9TMPOGfU8CECOdPY4DF1H4pG68953v8yZdH70WpIdiylUVu2RZWu2PVYcbSRrQ1sdG2NtNCbUlm3qDMeGMlTtMbE0mymKTQ1FkR1qOuMOZ4mr6rVkmp3kqCAQ7vCHffbltWTIHVgXee4I_AhbiPq9FOIbbMBYEgOlGQtR-o5h5m29KS7wpeRFQuZ0zn18TSR78thRJG4VudAfgxB0zqIRnTEJIouQWJw0APJOZwGShoy_oBEGj9AhBwMn4EUDWPL3qX_HpBD_fbsj7-k7yUnHpKxQC6GshFBXQqQVA157WRh9uzz6_V7_uHMFxo0QnV9oOHdBr8EMdNo5DOk4Zs5rCQ2scx2ysfv1tYTX4zT8GMzHbX5kg63IneQ4LDCzm_23YAK6VTYBRbe_x3p8yCiMyuI-R6fnOJGkKVIcSKa91KqoRVxREpD4mr_zCkwUsdL1sNSnWMLoWEUMRxw5QZNjaX7Ar_8B2n_G9C567QTx7RQvo-nOkr5vBVJ37t8z12PO7TRwusmzFObpz5HQ9tOffDRfk6dXP6hkV9V__B6ZWpBDQhuWMM5K-cU3_0am1wCh10EQ0W7UG69Cmoz3kjnufCodenN-cutn9sC8GhtOdAw8PfXGYzAtnCaughhLhCcQ9YIx5s63reAP3XCEt9K8G3ruPTzO7LwSiXM1mFI8hsBfs4hOASzOF9DKRvjHHn_tkYLHAIWSCiReCHot0YzG7YJh3qIx3cZgTMJwhTGViVwFDpMOMaa-lrSic2pF51Q7mRkLN5QSLgUTUd5MJABA7y22Sy5E1ZRrHhRK9ACcS75AVLpDDbyWiNIQFnKH6TRQgukySMm9UnkwAKB8cNrjcqdFqGxkJLHIx4ARdWrFT61JysypFhQNFc-aoKn-zV0_gzBWQpgN4UFpCg9i0DaODsuOd0bv8SoSYW8iS1daRQwwiTswkxPIIp7t7LxV3YhM-qI1b1kdNEa8BnwbB7cOFl1uqTgZ2xAn1GIeZxbjhLIQJ9TaOLHa7V9p30uCN3S5tIgj8ZJOISdo5bYad1uumIK7role7_UNdCZgTJKqFyOYMKl6_0_MSOJ29M_y_0XvTrYIkU_Brlq5huk_Rh6NJ_R_YAEU_S8E08D1OoN4zvV3wLy4c0hhTB4jGKzeMKSoz-xRMSNNXh9_LYE7S-qevld4dDgPYeEVd8RuGhDOWpSCvSuldQvpFBzzB0XeVeUfi0ON9RUpLbBI8D9cmrhgMSKl_ISu5cGiBZ1OTEVPBYKvkKIm_8jtPwbm7uJJgimctJBlJpqE9FKRv5fwpJ6ER4KmkDhlM2aSFSe-s4KQknHy9IPK2dgKWcHfNAD9J_WK5_JHcv42JpskTEXl8_hFUPU_EH1XgVFYzDwwi0hipSDqwYRdpUA-lJa8S2QxltOEQz7BF1BxJ0nSZf5crDsfg7mwISpM5_FfGQ-2vBBYnQs0QFgrIez6fEIrB5nL3un5YecsCGN3BGnyHE-DHHhBAO5LZ1Ja6MaM7MiNosCbozM3pxjkKUUTwV5bnMhzAGFMaXUtX_TplQGs-HdhErYWJmFuU4vL1CFu1y6uT7uJJ1BRbeXemc-6IzqPmMT3eTF3fXDjSXIKURSjoud0lfuvAb6xEDkTH-M9Zv2Pw2C60L9SWhwwMbW-0nQ-YzesqZdlyZx5Mxcjf02ZpykTPsW4E_HbWyTxulFH7CDCRGXYVvLjADSV3MzmegznsAGjeIZFOv6KdVBB65gmJ94_BqEHkZA_XJFWq0R9ughgpLEL0VnPdzCaqcvAxDIFcJZq11xnJao1CcdmRa8qecpoYGf2ctZsQWf5bU1GRVqtkKfCBUV6-6JWwQ0tbcENGVdowdAVdVfRfsyrmbgPJ-H9n6jp8mSSeQ1LU87uGCR4-pPhyDyZ3yPK4pTEHQS3JqQYK94ShdUkIKVz3ytDFML40HTscslMPHxFDH1pjnqlydyfOK1C_vxKsaoTayFCqS6WizEKPKc7QpRumKFU1smIukuSOhlehcUPJy72FTV54z9wgVwrq9WwgG6KGv3gEQzoGhJsloULTdPslw8XsrpOBCBkmYRhKBsEEauqAKgp5ShCKgp2pkme8mPLNV3pt8uIhqo95Ze5GeXosmqeX1FGr4s6PJukktirTvZUJIZbJBKRkytnWgYbrMBtEG00lRTCDZHNynhjqcvxRrVzpy-EFYg2NFP_EjvZCHSqYokF6fePqysK_w0WelOwOArpHaRdoHUmndK5H3tgmVnYUIhWGzWSs0iYipjpj5eLLZqxkBRYFfHHrEtXlOqtrzydkI0ncXTyJkjNiFtRpN9WeL-mNmYfpcxDbR8OTnf5f1euA-o3rpb2qsoJCy5cP05gZCCMJPvDYmvVjcCRcXEaYiElwu3qrsSrFYqyxrZWEl1emavd8hVpUQ2EsFGIN4BiVEQWqyaTkVtnMmmtYCnI_KCau5pauYzhWuTHRXHn8T-tqL9JGDLbhiF-DVBhoWP-m4QgXdHrQlD97noeYkxznRBjmEYhwdA3TDBaRJQkQpQK2j1xMEfstj-nICDiQbbcx-qX6_ONCslh1ItSd4KAMebXeLSMC0RRKiKBWpljCP7zPMhLb8fN2RzNoziYFvxeN3aNcnLBD8JJQ4ZiDCaoX6fFoihCDdb1I0rM-mKJOb0Zt6T-9TshslzH_yEEL68V6ZxouhtcT_UkDL4x_x91tOFfV9EkjSu8QxbOPUZ9qY-Tz4qwhUuVUtgy1wlbpgoLsvJ90uYylGpr1dWWHMLSnnqeV1jm64U9nhN8CcmrDmyFhdHCVs0rUgwCY7EuEkd8ImhU5eUYQfQVO3-vNLE3mMm8RnkEAhVMU6OF80NT6tOl3EJ-AnXv4nzgM_6ppNL24u4P5q7Bdxb4l1DyqtLfPdFYeXCIaE12f8GXvM8-NwThMp6wk3n42A4eX0UHeLSI5v37BOGSgjVT7zoMHmDq2sYxoQq3WHUKgH5lt9R3bqOHIHSSWbvhCIDV-qiQVXsEQKnaABfHL4tHhdY6NND7ytI6Kk8ZFg4PFXcVeOECK4rpO1ed1eQHqJ0X6WA7p4zQVsURV7TWejAwUQHGjbQWLrFMKTXN_x5Gwu9xNIWcm3n4ZR64EVghLLlZ3PlIQw9tZltFC9Oyn5LbT1i4cDH_OeTKc1yMk9vbVfM0kBEvUtftP5KJvlyoKE_JFceTLN1GoPxknVWYts99fFcaUv8VE7eh150p8rxgBGsEWIDBlAmRCWvW2YZ--QAF3z8wcLuF7wSyrwAOXXGHBEZwGr1jfJZWrdTbCgcCXynGqi1EXFeQipyBrPBerSJg4LnjbDSTYu0atQe-NnjZ6gP5x9QeFlPuKi83Ks8h_UI9MJ8wO4d0E8xHkw7Pqi8YvZuz11IKUj7a3mdjPFQUiZpZgK83iWT80g3DAF9jaDMoVYyqjYl_6E4jWJm3SH3IU1IFKQUggdgUSsgThynvhVREk2W85JxOXhhF0084bQwPC2-OvLLaVxxLOxBlt1W-L7ryYn3wr5r5qobY-rsP8cKC8N9pnCvXbf-iwcZb0-tf9ipfqO4FMb-A_nr4vn-Br62Ji0bSe6vTu-mzOFqHkN9jlX0TwF6FwwuuUm_4GEU0TdKlwgX78koCsEBaxFfWwBfvb6lrYKRiQgJPZ4tda5sQeob4CQ1lCzSqBTK2IJCxBYE2olElEKkixJvOHaCy-AUHQVGsIQsfdUh73MS81S2oVNmWOtYxWHEOrJVC1_BW49kcKGtTKISozbpUt6V_fQvGQLbgX2QLfGhrWkLhuyfqs4LUOgZQ6ZLaFjTYjgnxunb6PnZxDipYgvYsbajP1YbyTI9ej4Hs-ujnmKRIVjaN9cmXh4qxvvAxopaxvjpQ6M-Obsa2pnKyrZiltFRr8vmloloLX2RaVGsVAf6FqRJ-9s2plqMifKuYk-qNPYrvO5W6zD_59CxL0FpqLfkWVZGFwuepWrJQ7Q_6dhxznfggSpcF9Rubzi7qFmK0-szI1nYMk2-oFcew8Fm1tsljBQNkOyO4cfqy9spKWxtjk9T2mcOqP3fG3NKwaNuK0FtbLW28MF4DD4uXxSE0NgturWcl8TnCUojPv1DYemFXO4hbm6-3UQfQNjPMQmbeavSK86uy2fBtKWnUn500as-mYKwbTnJ4c6Pws9yhKAeKa4jxdirqsAG_meojwyplJK6v4jdI8duJA3_s3iWLE_EjuU2K42dPpNiNPVa4RrlYSCzeUjyP2MLHx4dBgOeGkpXP_jJKfq0Iv_D3MbnZLr3hWJGrkGZ4nbx4LzK_Pvmy91sVLPC0_L3ylWzh7cwn-D7n2B0ld9utxMGiK3-zAK_hwhcM8N7xVBDSiPELPx_XZ1hb9x7b8Idvlw4oXukuLstLtTDoXR01dpVu4rXoJOafqBkk31NLJbHaDOP7qChOiqo3csZPhuNHFMR1sK3GKPuo1EroMPn8TPZlwOLV2zW2U2btMrhvp7cy2mE4jyZ4BXJ7PNSe0OMaJlHu9dyP3anr4Ic8WuDOqB9PWOBfun4QngZOrpk-9ehnFk0aseinBaxB4NHQzb6Nd-3REZsEnsPCBJUhj-JC7cw6TFlegVA48Zejqauwsh2a9PLyLLgoGlnVY5hdcb1sxTU4-X5kAWelaPBkA_6wrw3Q-BZZwaW1eviCZ7u468wcHhD4Ka4B88aFEKe3kHFtxWSjd40XUmaD3hZr_YFAG1tUqWUb9WiRe-d678Z85gLd8AlmKew3jN9agqFBLnKntjGutr0MRgG_yrIc9FfJkbzBGHge368sOvUKzDT1TBEMYlv2CpzFjyytYfnZfdeZZDLRmtSBR-9rtPFmP0uRxL2g_NdPnTf71zSevBvzS0rBBn_q_D_Baeox",
+  "class_name": "Duelist",
+  "ascendancy_name": "Slayer",
+  "level": 28,
+  "bandit": "None",
+  "notes": "Archetype stage: leveling\nLeveling Boneshatter Slayer setup focused on early campaign progression.\nApplied changes:\n- Set class=Duelist ascendancy=Slayer\n- Set level=28\n- Renamed tree to Boneshatter Slayer Leveling\n- Replaced main skill Boneshatter of Complex Trauma -> Boneshatter in group 4\n- Set movement group 5 to: Leap Slam\n- Removed Frostblink (1 occurrence(s))\n- Added War Banner to group 1\n- Added Blood and Sand to group 2\n- Added Ancestral Protector to group 3\n- Added Molten Shell to group 5\n- Set config enemyLevel=28",
+  "stats": {},
+  "config": {
+    "useFrenzyCharges": null,
+    "multiplierWarcryPower": null,
+    "prideEffect": null,
+    "useEnduranceCharges": null,
+    "buffFortification": null,
+    "conditionStationary": null,
+    "conditionKilledRecently": null,
+    "bloodSandStance": null,
+    "conditionLeeching": null,
+    "traumaStacks": null,
+    "multiplierWarcryUsedRecently": null,
+    "conditionEnemyFullLife": null,
+    "buffLifetap": null,
+    "ruthlessSupportMode": null,
+    "conditionEnemyMoving": null,
+    "conditionEnemyCrushed": null,
+    "conditionUsedWarcryRecently": null,
+    "conditionEnemyIntimidated": null,
+    "pantheonMinorGod": null,
+    "pantheonMajorGod": null,
+    "placeholder:enemySpeed": null,
+    "placeholder:enemyChaosResist": null,
+    "placeholder:enemyLightningDamage": null,
+    "placeholder:enemyCritChance": null,
+    "placeholder:enemyFireResist": null,
+    "placeholder:enemyColdDamage": null,
+    "placeholder:enemyFireDamage": null,
+    "placeholder:enemyLevel": null,
+    "placeholder:multiplierWitheredStackCountSelf": null,
+    "placeholder:enemyColdResist": null,
+    "placeholder:enemyLightningPen": null,
+    "placeholder:enemyLightningResist": null,
+    "placeholder:enemyChaosDamage": null,
+    "placeholder:sigilOfPowerStages": null,
+    "placeholder:enemyFirePen": null,
+    "placeholder:enemyCritDamage": null,
+    "placeholder:enemyColdPen": null,
+    "placeholder:ScorchStacks": null,
+    "placeholder:enemyDamageRollRange": null,
+    "placeholder:enemyArmour": null,
+    "placeholder:enemyPhysicalDamage": null,
+    "placeholder:enemyEvasion": null,
+    "placeholder:ShockStacks": null,
+    "enemyLevel": 28
+  },
+  "items": [
+    {
+      "id": "15",
+      "slot": "Flask 1",
+      "name": "The Writhing Jar",
+      "base": "Hallowed Hybrid Flask",
+      "rarity": "Unique",
+      "item_level": 77,
+      "level_req": 60,
+      "text": "Rarity: UNIQUE\nThe Writhing Jar\nHallowed Hybrid Flask\nUnique ID: 0d8e2a039c89499f2d4c04b93f6f4cf1a909adbf62b39f1849e229a6220da7df\nItem Level: 77\nQuality: 0\nLevelReq: 60\nImplicits: 0\n13% reduced Charges per use\n67% reduced Amount Recovered\nInstant Recovery\n2 Enemy Writhing Worms escape the Flask when used\nWrithing Worms are destroyed when Hit"
+    },
+    {
+      "id": "19",
+      "slot": "Weapon 1",
+      "name": "New Item",
+      "base": "Karui Chopper",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 58,
+      "text": "Rarity: RARE\nNew Item\nKarui Chopper\nCrafted: true\nPrefix: None\nPrefix: None\nPrefix: None\nSuffix: None\nSuffix: None\nSuffix: None\nQuality: 20\nSockets: R-R-R-R-R-R\nLevelReq: 58\nImplicits: 0\n259% increased Physical Damage\nAdds 42 to 79 Physical Damage\n23% increased Attack Speed\n+184 to Accuracy Rating\n8% increased damage per endurance charge\n{tags:dot_multi,physical_damage,unveiled_mod,damage,physical}{crafted}{range:1}+(31-35)% to Physical Damage over Time Multiplier"
+    },
+    {
+      "id": "21",
+      "slot": null,
+      "name": "New Item",
+      "base": "Medium Cluster Jewel",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 54,
+      "text": "Rarity: RARE\nNew Item\nMedium Cluster Jewel\nCrafted: true\nPrefix: {range:0.5}AfflictionNotableFlowofLife_\nPrefix: {range:0.5}AfflictionNotableCirclingOblivion\nSuffix: {range:0.5}AfflictionJewelSmallPassivesGrantAttributes2\nSuffix: {range:0.5}AfflictionJewelSmallPassivesGrantElementalRes2\nCluster Jewel Skill: affliction_physical_damage_over_time_multiplier\nCluster Jewel Node Count: 4\nLevelReq: 54\nImplicits: 3\n{crafted}Adds 4 Passive Skills\n{crafted}1 Added Passive Skill is a Jewel Socket\n{crafted}Added Small Passive Skills grant: 12% increased Physical Damage over Time\nAdded Small Passive Skills also grant: +3 to All Attributes\nAdded Small Passive Skills also grant: +3% to all Elemental Resistances\n1 Added Passive Skill is Circling Oblivion\n1 Added Passive Skill is Flow of Life"
+    },
+    {
+      "id": "22",
+      "slot": null,
+      "name": "New Item",
+      "base": "Small Cluster Jewel",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 67,
+      "text": "Rarity: RARE\nNew Item\nSmall Cluster Jewel\nCrafted: true\nPrefix: {range:0.5}AfflictionJewelSmallPassivesHaveIncreasedEffect2\nPrefix: {range:0.5}AfflictionNotableElegantForm\nSuffix: {range:0.5}AfflictionJewelSmallPassivesGrantElementalResSmall3\nSuffix: {range:0.5}AfflictionJewelSmallPassivesGrantChaosResSmall2\nCluster Jewel Skill: affliction_chance_to_dodge_attacks\nCluster Jewel Node Count: 3\nLevelReq: 67\nImplicits: 2\n{crafted}Adds 3 Passive Skills\n{crafted}Added Small Passive Skills grant: +4% chance to Suppress Spell Damage\nAdded Small Passive Skills also grant: +4% to Chaos Resistance\nAdded Small Passive Skills also grant: +4% to all Elemental Resistances\nAdded Small Passive Skills have 35% increased Effect\n1 Added Passive Skill is Elegant Form"
+    },
+    {
+      "id": "23",
+      "slot": "Belt",
+      "name": "Ryslatha's Coil",
+      "base": "Studded Belt",
+      "rarity": "Unique",
+      "item_level": null,
+      "level_req": 20,
+      "text": "Rarity: UNIQUE\nRyslatha's Coil\nStudded Belt\nCatalyst: Abrasive\nCatalystQuality: 20\nVariant: Pre 3.5.0\nVariant: Current\nSelected Variant: 2\nLevelReq: 20\nImplicits: 1\n{range:0.5}(20-30)% increased Stun Duration on Enemies\n{tags:jewellery_attribute}{range:0.5}+(20-40) to Strength\n{tags:attack,physical}{variant:1}20% less Minimum Physical Attack Damage\n{tags:attack,physical}{variant:2}{range:0}(30-40)% less Minimum Physical Attack Damage\n{tags:attack,physical}{variant:1}20% more Maximum Physical Attack Damage\n{tags:attack,physical}{variant:2}{range:1}(30-40)% more Maximum Physical Attack Damage\n{tags:attack,physical_damage}{range:0.5}Adds 1 to (15-20) Physical Damage to Attacks\n{tags:life}{variant:2}{range:0.5}+(80-100) to maximum Life\n{tags:life}Gain 50 Life when you Stun an Enemy"
+    },
+    {
+      "id": "4",
+      "slot": "Flask 5",
+      "name": "Horticultural Blood Sap Tincture of Dissolution",
+      "base": "Crafted: true",
+      "rarity": "Magic",
+      "item_level": null,
+      "level_req": 68,
+      "text": "Rarity: MAGIC\nHorticultural Blood Sap Tincture of Dissolution\nCrafted: true\nPrefix: {range:1}TinctureEffect4\nSuffix: {range:1}TinctureDamageOverTimeMultiplier5\nCatalystQuality: 20\nQuality: 20\nLevelReq: 68\nImplicits: 2\n{tags:physical_damage,bleed,damage,physical,attack,ailment}20% chance to cause Bleeding with Melee Weapons\n{tags:physical_damage,bleed,damage,physical,attack,ailment}{range:1}(60-130)% increased Damage with Bleeding from Melee Weapons\n22% increased effect\n+45% to Damage over Time Multiplier with Melee Weapon Attacks"
+    },
+    {
+      "id": "1",
+      "slot": "Helmet",
+      "name": "New Item",
+      "base": "Giantslayer Helmet",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 84,
+      "text": "Rarity: RARE\nNew Item\nGiantslayer Helmet\nArmour: 1698\nArmourBasePercentile: 1\nSearing Exarch Item\nEater of Worlds Item\nCrafted: true\nPrefix: {range:0.313}LocalBaseArmourAndLife3\nPrefix: {range:0.187}LocalIncreasedPhysicalDamageReductionRatingPercent7\nPrefix: {range:0.331}IncreasedLife9\nSuffix: {range:0.887}FireResist6\nSuffix: {range:0.521}ChaosResist5\nSuffix: None\nQuality: 20\nSockets: R-R-R-R\nLevelReq: 84\nImplicits: 2\n{exarch}{range:1}(23-24)% reduced Mana Cost of Attacks\n{tags:physical,elemental,fire}{eater}7% of Physical Damage from Hits taken as Fire Damage\n+64 to Armour\n93% increased Armour\n+165 to maximum Life\n+40% to Fire Resistance\n+28% to Chaos Resistance\n{tags:unveiled_mod,elemental,cold,chaos,resistance}{crafted}{range:1}+(13-15)% to Cold and Chaos Resistances"
+    },
+    {
+      "id": "2",
+      "slot": "Body Armour",
+      "name": "New Item",
+      "base": "Royal Plate",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 84,
+      "text": "Rarity: RARE\nNew Item\nRoyal Plate\nArmour: 4449\nArmourBasePercentile: 1\nSearing Exarch Item\nEater of Worlds Item\nCrafted: true\nPrefix: {range:0.303}LocalIncreasedPhysicalDamageReductionRating11\nPrefix: {range:0.662}LocalIncreasedPhysicalDamageReductionRatingPercent8_\nPrefix: {range:0.542}IncreasedLife12\nSuffix: {range:0.771}AdditionalPhysicalDamageReduction5_\nSuffix: {range:0.634}ColdResist6\nSuffix: None\nCatalystQuality: 20\nQuality: 20\nSockets: R-R-R-R-R-R\nLevelReq: 84\nImplicits: 2\n{exarch}Gain a Frenzy Charge every 10 seconds\n{tags:physical,elemental,fire}{eater}12% of Physical Damage from Hits taken as Fire Damage\n+431 to Armour\n107% increased Armour\n+183 to maximum Life\n+39% to Cold Resistance\n8% additional Physical Damage Reduction\n{crafted}{range:1}+(8-10)% chance to Suppress Spell Damage"
+    },
+    {
+      "id": "5",
+      "slot": "Gloves",
+      "name": "New Item",
+      "base": "Dragonscale Gauntlets",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 68,
+      "text": "Rarity: RARE\nNew Item\nDragonscale Gauntlets\nArmour: 214\nArmourBasePercentile: 1\nEvasion: 167\nEvasionBasePercentile: 1\nSearing Exarch Item\nEater of Worlds Item\nCrafted: true\nPrefix: {range:0.461}IncreasedLife8\nPrefix: {range:0.373}LocalBaseArmourAndLife2\nPrefix: None\nSuffix: {range:0.806}ChanceToSuppressSpells5__\nSuffix: {range:0.437}FireResist6\nSuffix: {range:1}ChaosResist3\nCatalystQuality: 20\nQuality: 20\nSockets: G-G-G-G\nLevelReq: 68\nImplicits: 2\n{tags:dot_multi,physical_damage,damage,physical}{exarch}{range:0.5}While a Unique Enemy is in your Presence, +(20-22)% to Physical Damage over Time Multiplier\n{eater}+7% chance to Suppress Spell Damage\n+14% chance to Suppress Spell Damage\n+39 to Armour\n+146 to maximum Life\n+38% to Fire Resistance\n+20% to Chaos Resistance\n{tags:unveiled_mod,damage}{crafted}{range:1}(37-43)% increased Damage while Leeching"
+    },
+    {
+      "id": "7",
+      "slot": "Boots",
+      "name": "New Item",
+      "base": "Dragonscale Boots",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 68,
+      "text": "Rarity: RARE\nNew Item\nDragonscale Boots\nArmour: 167\nArmourBasePercentile: 1\nEvasion: 167\nEvasionBasePercentile: 1\nSearing Exarch Item\nEater of Worlds Item\nCrafted: true\nPrefix: {range:0.525}IncreasedLife8\nPrefix: None\nPrefix: None\nSuffix: {range:0.877}ChanceToSuppressSpells5__\nSuffix: {range:0.676}ColdResist5\nSuffix: None\nCatalystQuality: 20\nQuality: 20\nSockets: G-G-G-G\nLevelReq: 68\nImplicits: 2\n{exarch}5% increased Action Speed\n{tags:physical_damage,bleed,damage,physical,attack,ailment}{eater}Bleeding you inflict deals Damage 7% faster\n+14% chance to Suppress Spell Damage\n+122 to maximum Life\n+33% to Cold Resistance\n{tags:elemental,lightning,ailment}{custom}{range:1}(56-60)% chance to Avoid being Shocked\n{tags:unveiled_mod,elemental,cold,speed,ailment}{custom}{range:0.5}(25-30)% increased Movement Speed\n{tags:unveiled_mod,elemental,cold,speed,ailment}{custom}100% chance to Avoid being Chilled\n{tags:unveiled_mod,elemental,cold,ailment}{crafted}100% chance to Avoid being Frozen"
+    },
+    {
+      "id": "12",
+      "slot": "Ring 1",
+      "name": "New Item",
+      "base": "Cerulean Ring",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 80,
+      "text": "Rarity: RARE\nNew Item\nCerulean Ring\nCrafted: true\nPrefix: {range:0.634}IncreasedLife7\nPrefix: None\nPrefix: None\nSuffix: {range:0.732}LightningResist7\nSuffix: {range:0.394}ChaosResist5\nSuffix: {range:0.384}AllResistances5\nCatalyst: Fertile\nCatalystQuality: 20\nLevelReq: 80\nImplicits: 1\n+1 to maximum frenzy charges\n+130 to maximum Life\n+15% to all Elemental Resistances\n+44% to Lightning Resistance\n+28% to Chaos Resistance\n{tags:resource,unveiled_mod,mana}{crafted}{range:0}Non-Channelling Skills have -(7-6) to Total Mana Cost"
+    },
+    {
+      "id": "14",
+      "slot": null,
+      "name": "New Item",
+      "base": "Large Cluster Jewel",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 54,
+      "text": "Rarity: RARE\nNew Item\nLarge Cluster Jewel\nCrafted: true\nPrefix: {range:0.5}AfflictionNotableFeedtheFury\nPrefix: {range:0.5}AfflictionNotableFueltheFight\nSuffix: {range:0.5}AfflictionNotableMartialProwess\nSuffix: {range:0.5}AfflictionJewelSmallPassivesGrantElementalRes2\nCatalystQuality: 20\nCluster Jewel Skill: affliction_axe_and_sword_damage\nCluster Jewel Node Count: 8\nLevelReq: 54\nImplicits: 3\n{crafted}Adds 8 Passive Skills\n{crafted}2 Added Passive Skills are Jewel Sockets\n{crafted}Added Small Passive Skills grant: Axe Attacks deal 12% increased Damage with Hits and Ailments\nAdded Small Passive Skills grant: Sword Attacks deal 12% increased Damage with Hits and Ailments\nAdded Small Passive Skills also grant: +3% to all Elemental Resistances\n1 Added Passive Skill is Feed the Fury\n1 Added Passive Skill is Fuel the Fight\n1 Added Passive Skill is Martial Prowess"
+    },
+    {
+      "id": "16",
+      "slot": "Amulet",
+      "name": "New Item",
+      "base": "Turquoise Amulet",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 65,
+      "text": "Rarity: RARE\nNew Item\nTurquoise Amulet\nWarlord Item\nCrafted: true\nPrefix: {range:0.461}IncreasedLife8\nPrefix: {range:0.789}DamagePerEnduranceChargeInfluence1__\nPrefix: None\nSuffix: {range:0.789}GlobalDamageOverTimeMultiplier1h5\nSuffix: {range:1}AllResistances3\nSuffix: {range:0.859}AllAttributes8\nCatalyst: Intrinsic\nCatalystQuality: 20\nLevelReq: 65\nImplicits: 2\n{crafted}Allocates Inveterate\n{tags:attribute}{range:1}+(16-24) to Dexterity and Intelligence\n+38 to all Attributes\n+26% to Damage over Time Multiplier\n+121 to maximum Life\n+11% to all Elemental Resistances\n4% increased Damage per Endurance Charge\n{tags:unveiled_mod,damage}{crafted}{range:0.5}(37-43)% increased Damage while Leeching"
+    },
+    {
+      "id": "6",
+      "slot": "Ring 2",
+      "name": "Kalandra's Touch",
+      "base": "Ring",
+      "rarity": "Unique",
+      "item_level": null,
+      "level_req": null,
+      "text": "Rarity: UNIQUE\nKalandra's Touch\nRing\nLeague: Kalandra\nImplicits: 0\nReflects your other Ring\nMirrored"
+    },
+    {
+      "id": "3",
+      "slot": null,
+      "name": "New Item",
+      "base": "Crimson Jewel",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 0,
+      "text": "Rarity: RARE\nNew Item\nCrimson Jewel\nCrafted: true\nPrefix: {range:1}PercentIncreasedLifeJewel\nPrefix: None\nSuffix: {range:1}JewelPhysicalDamageOverTimeMultiplier1\nSuffix: {range:1}MaximumFireResistanceJewel\nCatalystQuality: 20\nLevelReq: 0\nImplicits: 0\n+8% to Physical Damage over Time Multiplier\n7% increased maximum Life\n+2% to maximum Fire Resistance"
+    },
+    {
+      "id": "8",
+      "slot": null,
+      "name": "New Item",
+      "base": "Crimson Jewel",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 0,
+      "text": "Rarity: RARE\nNew Item\nCrimson Jewel\nCrafted: true\nPrefix: {range:1}PercentIncreasedLifeJewel\nPrefix: None\nSuffix: {range:1}JewelPhysicalDamageOverTimeMultiplier1\nSuffix: {range:1}MaximumLightningResistanceJewel\nCatalystQuality: 20\nLevelReq: 0\nImplicits: 0\n+8% to Physical Damage over Time Multiplier\n7% increased maximum Life\n+2% to maximum Lightning Resistance"
+    }
+  ],
+  "skill_groups": [
+    {
+      "label": "",
+      "slot": "Boots",
+      "enabled": true,
+      "gems": [
+        {
+          "name": "Lifetap",
+          "enabled": true,
+          "level": 20,
+          "quality": 20,
+          "skill_id": "SupportLifetap"
+        },
+        {
+          "name": "War Banner",
+          "enabled": true,
+          "level": null,
+          "quality": null,
+          "skill_id": null
+        }
+      ]
+    },
+    {
+      "label": "",
+      "slot": "Gloves",
+      "enabled": true,
+      "gems": [
+        {
+          "name": "Leap Slam",
+          "enabled": true,
+          "level": 1,
+          "quality": 0,
+          "skill_id": "LeapSlam"
+        },
+        {
+          "name": "Momentum",
+          "enabled": true,
+          "level": 20,
+          "quality": 20,
+          "skill_id": "SupportMomentum"
+        },
+        {
+          "name": "Lifetap",
+          "enabled": true,
+          "level": 20,
+          "quality": 20,
+          "skill_id": "SupportLifetap"
+        },
+        {
+          "name": "Faster Attacks",
+          "enabled": true,
+          "level": 20,
+          "quality": 20,
+          "skill_id": "SupportFasterAttacks"
+        },
+        {
+          "name": "Blood and Sand",
+          "enabled": true,
+          "level": null,
+          "quality": null,
+          "skill_id": null
+        }
+      ]
+    },
+    {
+      "label": "",
+      "slot": "Helmet",
+      "enabled": true,
+      "gems": [
+        {
+          "name": "Cast when Damage Taken",
+          "enabled": true,
+          "level": 1,
+          "quality": 0,
+          "skill_id": "SupportCastWhenDamageTaken"
+        },
+        {
+          "name": "Vaal Molten Shell",
+          "enabled": true,
+          "level": 5,
+          "quality": 0,
+          "skill_id": "VaalMoltenShell"
+        },
+        {
+          "name": "Lifetap",
+          "enabled": true,
+          "level": 20,
+          "quality": 20,
+          "skill_id": "SupportLifetap"
+        },
+        {
+          "name": "Vulnerability",
+          "enabled": true,
+          "level": 21,
+          "quality": 20,
+          "skill_id": "Vulnerability"
+        },
+        {
+          "name": "Ancestral Protector",
+          "enabled": true,
+          "level": null,
+          "quality": null,
+          "skill_id": null
+        }
+      ]
+    },
+    {
+      "label": "",
+      "slot": "Body Armour",
+      "enabled": true,
+      "gems": [
+        {
+          "name": "Boneshatter",
+          "enabled": true,
+          "level": 21,
+          "quality": 20,
+          "skill_id": "BoneshatterAltX"
+        },
+        {
+          "name": "Ruthless",
+          "enabled": true,
+          "level": 21,
+          "quality": 20,
+          "skill_id": "SupportRuthless"
+        },
+        {
+          "name": "Volatility",
+          "enabled": true,
+          "level": 21,
+          "quality": 20,
+          "skill_id": "SupportVolatility"
+        },
+        {
+          "name": "Awakened Brutality",
+          "enabled": true,
+          "level": 5,
+          "quality": 20,
+          "skill_id": "SupportAwakenedBrutality"
+        },
+        {
+          "name": "Awakened Melee Physical Damage",
+          "enabled": true,
+          "level": 5,
+          "quality": 20,
+          "skill_id": "SupportAwakenedMeleePhysicalDamage"
+        },
+        {
+          "name": "Cruelty",
+          "enabled": true,
+          "level": 21,
+          "quality": 20,
+          "skill_id": "SupportCruelty"
+        }
+      ]
+    },
+    {
+      "label": "",
+      "slot": "Weapon 1",
+      "enabled": true,
+      "gems": [
+        {
+          "name": "Pride",
+          "enabled": true,
+          "level": 21,
+          "quality": 20,
+          "skill_id": "Pride"
+        },
+        {
+          "name": "Enlighten",
+          "enabled": true,
+          "level": 4,
+          "quality": 0,
+          "skill_id": "SupportEnlighten"
+        },
+        {
+          "name": "Flesh and Stone",
+          "enabled": true,
+          "level": 21,
+          "quality": 0,
+          "skill_id": "FleshAndStone"
+        },
+        {
+          "name": "Ancestral Cry",
+          "enabled": true,
+          "level": 1,
+          "quality": 20,
+          "skill_id": "AncestralCry"
+        },
+        {
+          "name": "Autoexertion",
+          "enabled": true,
+          "level": 20,
+          "quality": 20,
+          "skill_id": "Autoexertion"
+        },
+        {
+          "name": "Arctic Armour",
+          "enabled": true,
+          "level": 20,
+          "quality": 20,
+          "skill_id": "ArcticArmour"
+        },
+        {
+          "name": "Leap Slam",
+          "enabled": true,
+          "level": null,
+          "quality": null,
+          "skill_id": null
+        },
+        {
+          "name": "Molten Shell",
+          "enabled": true,
+          "level": null,
+          "quality": null,
+          "skill_id": null
+        }
+      ]
+    }
+  ],
+  "skill_names": [
+    "Lifetap",
+    "War Banner",
+    "Leap Slam",
+    "Momentum",
+    "Faster Attacks",
+    "Blood and Sand",
+    "Cast when Damage Taken",
+    "Vaal Molten Shell",
+    "Vulnerability",
+    "Ancestral Protector",
+    "Boneshatter",
+    "Ruthless",
+    "Volatility",
+    "Awakened Brutality",
+    "Awakened Melee Physical Damage",
+    "Cruelty",
+    "Pride",
+    "Enlighten",
+    "Flesh and Stone",
+    "Ancestral Cry",
+    "Autoexertion",
+    "Arctic Armour",
+    "Molten Shell"
+  ],
+  "trees": [
+    {
+      "title": "Boneshatter Slayer Leveling",
+      "class_id": "4",
+      "ascend_class_id": "1",
+      "tree_version": "3_26",
+      "url": null,
+      "nodes": [
+        43601,
+        42911,
+        64587,
+        65728,
+        6289,
+        63282,
+        50340,
+        25682,
+        1325,
+        65744,
+        29797,
+        8533,
+        24914,
+        34400,
+        35118,
+        33287,
+        4378,
+        24383,
+        18009,
+        24544,
+        35859,
+        44624,
+        24224,
+        20551,
+        28498,
+        50845,
+        65753,
+        18302,
+        65730,
+        18901,
+        59928,
+        29547,
+        46519,
+        65395,
+        28475,
+        58449,
+        10143,
+        23984,
+        65762,
+        61666,
+        65770,
+        9695,
+        40867,
+        42009,
+        65747,
+        27422,
+        66771,
+        24083,
+        5197,
+        49178,
+        1909,
+        7162,
+        65732,
+        66756,
+        57953,
+        50986,
+        49318,
+        27119,
+        39678,
+        36047,
+        12407,
+        14056,
+        66752,
+        48438,
+        5233,
+        62429,
+        26725,
+        45696,
+        45341,
+        54127,
+        56381,
+        29933,
+        42293,
+        55676,
+        5152,
+        476,
+        63048,
+        64221,
+        12033,
+        16544,
+        18103,
+        23066,
+        47389,
+        30380,
+        3644,
+        15286,
+        10532,
+        60031,
+        33795,
+        487,
+        31471,
+        40907,
+        2491,
+        62817,
+        66768,
+        37800,
+        31961,
+        62530,
+        59335,
+        42086,
+        63723,
+        49571,
+        49412,
+        56595,
+        16306,
+        25933,
+        14767,
+        25796,
+        48287,
+        31080,
+        22356,
+        26023,
+        34009,
+        62319,
+        61198,
+        53118,
+        66777,
+        64406,
+        48807,
+        54629,
+        25781,
+        13922,
+        61262,
+        66754,
+        37956,
+        3184,
+        23038,
+        65760,
+        14930,
+        30691,
+        2092,
+        22703,
+        43374
+      ]
+    }
+  ]
+}

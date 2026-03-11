@@ -1,0 +1,1835 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PathOfBuilding>
+  <Build level="85" className="Scion" ascendClassName="Ascendant" bandit="None" targetVersion="3_0" mainSocketGroup="1" viewMode="ITEMS" />
+  <Config activeConfigSet="1">
+    <ConfigSet id="1">
+      <Input name="conditionEnemyLightningExposure" boolean="true" />
+      <Input name="usePowerCharges" boolean="true" />
+      <Input name="useFrenzyCharges" boolean="true" />
+      <Input name="conditionEnemyBlinded" boolean="true" />
+      <Input name="conditionEnemyBleeding" boolean="true" />
+      <Input name="pantheonMajorGod" string="TheBrineKing" />
+      <Input name="pantheonMinorGod" string="Garukhan" />
+      <Input name="conditionEnemyShocked" boolean="true" />
+      <Input name="conditionShockEffect" number="10" />
+      <Input name="customMods" string="Tornado shotgun 50% more damage  +50 all resistances" />
+      <Placeholder name="multiplierWitheredStackCountSelf" string="15" />
+      <Placeholder name="enemySpeed" string="700" />
+      <Placeholder name="enemyCritChance" string="5" />
+      <Placeholder name="enemyCritDamage" string="30" />
+      <Placeholder name="enemyLevel" string="84" />
+      <Placeholder name="enemyFireResist" string="50" />
+      <Placeholder name="enemyLightningDamage" string="2241" />
+      <Placeholder name="enemyColdDamage" string="2241" />
+      <Placeholder name="ScorchStacks" string="1" />
+      <Placeholder name="enemyLightningResist" string="50" />
+      <Placeholder name="enemyChaosResist" string="30" />
+      <Placeholder name="enemyLightningPen" string="3" />
+      <Placeholder name="enemyColdPen" string="3" />
+      <Placeholder name="enemyFirePen" string="3" />
+      <Placeholder name="enemyArmour" string="61989" />
+      <Placeholder name="meleeDistance" string="15" />
+      <Placeholder name="enemyDamageRollRange" string="70" />
+      <Placeholder name="enemyColdResist" string="50" />
+      <Placeholder name="sigilOfPowerStages" string="1" />
+      <Placeholder name="enemyFireDamage" string="2241" />
+      <Placeholder name="enemyEvasion" string="10143" />
+      <Placeholder name="enemyChaosDamage" string="896" />
+      <Placeholder name="projectileDistance" string="40" />
+      <Placeholder name="ShockStacks" string="1" />
+      <Placeholder name="configSpectralTigerCount" string="5" />
+      <Placeholder name="enemyPhysicalDamage" string="2241" />
+      <Input name="enemyLevel" number="83" />
+    </ConfigSet>
+  </Config>
+  <Tree activeSpec="1">
+    <Spec id="1" title="^xE9B3FBLv 85 (Crit Swap)" classId="0" ascendClassId="1" treeVersion="3_28" nodes="25511,56646,39521,27879,10829,24256,53828,4481,42632,2521,55485,58302,36764,56295,46578,35255,48878,52349,13714,64265,61653,5632,32091,32314,28330,38689,39861,52031,49605,30767,65427,46277,35754,16350,33508,46910,60259,19144,43010,37532,6538,49900,4207,58029,48828,48508,59220,9469,29993,34567,8281,52848,33310,25260,45283,20807,51524,44103,65154,47484,49621,22266,63618,18769,42104,49978,14090,53456,60440,28658,14804,6799,36858,59606,12412,20812,39718,49532,8732,40170,31683,5022,45202,63194,8938,63630,27444,51786,36881,22535,51146,16243,10696,25732,65034,32555,52099,15290,16167,20953,18182,58833,44339,51782,35503,57080,41119,27788,31039,32176,50288,30679,1461,542,1696,24496,65502,60592,63933,35851,6615,34906,31598,36287,13375" url="" />
+    <Spec id="2" title="^x9F8383Lv 11 (Before Totem Swap)" classId="0" ascendClassId="0" treeVersion="3_28" nodes="45456,62103,19144,58833,16167,43162,39773,23122,56153,47062,11688" url="" />
+    <Spec id="3" title="^xD1855CLv 14 (Merveil Totem Setup)" classId="0" ascendClassId="0" treeVersion="3_28" nodes="33545,14090,4207,29993,23122,45456,16167,52099,58833,11688,43162,39773,56153,47062,19144,62103" url="" />
+    <Spec id="4" title="^xEA7B7BLv 23 (Vaal Oversoul)" classId="0" ascendClassId="0" treeVersion="3_28" nodes="14090,46092,27415,52099,58833,64239,48778,16167,19098,62103,32710,33545,18033,4207,29993,45456,56153,51923,47062,41635,23122,43162,39773,11688,19144,64612,37671" url="" />
+    <Spec id="5" title="^x96A78DLv 34 (Normal Lab &amp; Dominus)" classId="0" ascendClassId="1" treeVersion="3_28" nodes="25511,14090,56646,46092,51923,48778,59606,39718,23122,18033,4481,47062,8938,41635,43162,62103,35754,27415,37671,52099,58833,34317,39861,16167,32710,64239,58029,28574,33545,19098,4207,29993,48411,56153,24496,63207,51786,45456,19144,39773,49978,2521,64612,11688" url="" />
+    <Spec id="6" title="^xC5D89DLv 40 (Malachai)" classId="0" ascendClassId="1" treeVersion="3_28" nodes="25511,14090,56646,46092,51923,48778,59606,39718,32710,18033,37671,34317,4481,45456,64239,45202,41635,20953,43162,23122,27415,8938,36287,62103,4750,65427,12412,35754,15290,16167,49978,52099,58833,13375,39861,29993,51786,4207,58029,28574,33545,19098,58288,1461,48411,56153,24496,63207,47062,19144,20807,39773,63618,2521,64612,11688" url="" />
+    <Spec id="7" title="^xA4DD00Lv 45 (Kitava)" classId="0" ascendClassId="1" treeVersion="3_28" nodes="13375,14090,4750,46092,51923,11688,48778,59606,39718,64612,23122,32710,36287,45202,25511,4481,45456,56646,8938,41635,12412,43162,20953,60942,27415,19144,64239,58288,65427,32555,35754,15290,16167,1461,52099,58833,51786,39861,52714,49978,62103,58029,28574,33545,19098,4207,29993,48411,56153,24496,63207,18033,47062,20807,39773,63618,2521,34317,37671" url="" />
+    <Spec id="8" title="^x08CB00Lv 50 (Tsoagoth)" classId="0" ascendClassId="1" treeVersion="3_28" nodes="13375,56646,2521,23122,3469,36287,4481,25260,27788,62103,65427,35754,52099,19144,39861,58029,33545,52714,29993,48411,63207,20807,34317,14090,4750,49978,63620,48778,59606,12412,32710,45456,8938,43162,64239,11688,32555,39718,15290,27415,64709,18033,58833,60942,51923,46277,4207,63618,49900,28574,25511,19098,51786,1461,20953,56153,24496,16167,45202,58288,41635,39773,47062,46092,64612,37671" url="" />
+    <Spec id="9" title="^xFFFADCLv 68 (3rd Lab + White Map)" classId="0" ascendClassId="1" treeVersion="3_28" nodes="20953,23471,56646,5237,2521,23122,53456,46291,4481,13714,64265,41635,28330,62103,65427,35754,46910,52099,19144,39861,6363,37671,51923,6538,20807,544,25511,6615,29993,34567,49900,35255,63207,7786,24256,55485,25260,13375,50288,34317,55648,1696,44339,48411,4750,49978,63620,56153,4207,60942,49532,8281,48778,59606,39718,65034,32710,63618,18033,5022,27788,14090,45456,58029,45202,8938,12412,43162,6799,16167,63194,8732,64239,25732,33545,32555,18182,15290,27415,36287,47062,58833,11688,51782,38689,3469,56295,46092,28574,32176,19098,51786,1461,58288,46277,24496,46578,60259,63933,37532,39773,34906,31598,64612,64709" url="" />
+    <Spec id="10" title="^xFF7DB0Lv 80 (Pre Crit Swap)" classId="0" ascendClassId="1" treeVersion="3_28" nodes="22266,56646,5237,39521,2521,58302,23122,3469,36287,48878,4481,13714,64265,11688,41635,13375,32314,27788,31598,28330,6615,49605,46291,65427,63933,35754,49900,50288,46910,52099,19144,43010,37532,6363,24496,1696,6538,51786,33545,56153,30679,29993,48411,58029,63207,60942,7786,24256,8281,58833,20807,60259,34317,49621,57080,14090,46578,4750,49978,63620,25260,16243,53456,55648,20953,36858,59606,12412,65034,32710,39718,63618,5022,25511,47062,45456,6799,45202,25732,63630,43162,49532,22535,51146,63194,64239,8732,8938,32555,58288,15290,16167,544,60440,18182,44339,51782,38689,51524,56295,55485,28574,32176,19098,4207,1461,34567,46277,30767,39861,33310,35255,62103,39773,34906,42104,64612,64709" url="" />
+    <Spec id="11" title="^xF9E400Lv 92 (Damage x Late Map)" classId="0" ascendClassId="1" treeVersion="3_28" nodes="13375,56646,27879,48614,48878,41119,64265,33310,32091,32314,52031,35754,41866,33508,60259,43010,39861,12143,58029,48828,52714,29993,34567,20807,9206,44339,18769,60440,24133,59606,39718,5022,64235,62744,22535,63194,29454,32555,16167,58833,28221,44103,51524,30455,28574,9469,37504,24496,65502,63933,6615,53828,20953,28859,36221,36764,53456,36287,63251,14292,4481,61653,5632,42632,28330,49605,65427,49900,19144,37532,6538,542,33545,12794,16079,19858,52848,48768,45283,31039,65154,14804,49978,18770,16243,36858,49532,12412,20812,40170,31683,8938,25511,36881,2521,16350,30679,51146,52349,10696,25732,22266,18182,35255,15290,55571,30767,1696,52099,10829,51782,38689,4207,24643,6799,63630,32176,45202,51786,1461,39521,46277,48508,60735,8281,14090,63618,59220,35503,31598,56295,27444" url="" />
+    <Spec id="12" title="^x9CD5FFLv 95 (Aegis Tanky Setup)" classId="0" ascendClassId="1" treeVersion="3_28" nodes="13375,39841,10829,5237,36281,62217,48614,58302,11497,41119,32091,45558,35754,41866,33508,32477,13862,58029,48828,29993,37569,20807,22217,9206,14090,7938,18174,29937,36542,59866,62162,45202,4656,24798,57264,50826,4397,29454,36678,16167,52230,58833,35503,27323,9469,37504,65502,42104,20953,56807,35038,56066,12597,2521,36764,36287,63251,42533,64878,42760,5632,56722,30969,12503,65427,21958,41996,52099,19144,6363,29379,544,59220,16079,19858,48508,7786,45283,4854,19635,28658,49621,54954,14804,18770,5408,12412,44184,63944,34774,40170,60735,27444,33755,903,46340,2715,63630,63618,23215,43061,20844,22266,15021,48660,36221,1031,4207,15290,15027,55648,6383,44103,12246,51782,63447,57080,32555,14936,14292,607,36881,30679,62744,21324,43787,6770,31683,56589,5456,46291,238,42632,15437,34483,23471" url="" />
+  </Tree>
+  <Items activeItemSet="1">
+    <ItemSet id="1" useSecondWeaponSet="nil">
+      <Slot name="Weapon 2 Swap" itemId="36" />
+      <Slot name="Flask 3" itemId="44" />
+      <Slot name="Flask 1" itemId="49" />
+      <Slot name="Flask 4" itemId="55" />
+      <Slot name="Flask 2" itemId="57" />
+      <Slot name="Helmet" itemId="62" />
+      <Slot name="Amulet" itemId="63" />
+      <Slot name="Belt" itemId="64" />
+      <Slot name="Ring 2" itemId="65" />
+      <Slot name="Boots" itemId="66" />
+      <Slot name="Flask 5" itemId="67" />
+      <Slot name="Body Armour" itemId="68" />
+      <Slot name="Weapon 1" itemId="76" />
+      <Slot name="Weapon 2" itemId="77" />
+      <Slot name="Gloves" itemId="78" />
+      <Slot name="Ring 1" itemId="81" />
+    </ItemSet>
+    <Item id="1">Rarity: NORMAL
+Small Mana Flask
+Unique ID: 9ea73b18413b33318ae9c94f6c4ed790eeda3bceeb209a618b117a7758c9289d
+Item Level: 1
+Quality: 0
+Implicits: 0</Item>
+    <Item id="2">Rarity: NORMAL
+Large Mana Flask
+Unique ID: 3ed1f2fd2deb23f6eb8d14ad6aa02e174980c934b84fa1a8c51e894aaf57109c
+Item Level: 13
+Quality: 0
+LevelReq: 6
+Implicits: 0</Item>
+    <Item id="3">Rarity: NORMAL
+Rawhide Boots
+Evasion: 14
+EvasionBasePercentile: 0.2
+Unique ID: d1fb2cb328013dc6a1d262a43a075711ebff72ed1eed8f51f14297a6ad4641a6
+Item Level: 6
+Quality: 0
+Sockets: B-G-R
+Implicits: 0</Item>
+    <Item id="4">Rarity: NORMAL
+Quicksilver Flask
+Unique ID: 8a83a057a4bb8de8cfc987f9d8ce4e8ef58103615df69d50eadaaccc2f15f1b7
+Item Level: 4
+Quality: 0
+LevelReq: 4
+Implicits: 0</Item>
+    <Item id="5">Rarity: NORMAL
+Twig Spirit Shield
+Energy Shield: 6
+EnergyShieldBasePercentile: 0
+Unique ID: 5d395a8cb8f4676be94c335e90e8bde873e94385959523dfca301bfba3e42ceb
+Item Level: 7
+Quality: 0
+Sockets: B-B R
+Implicits: 1
+11% increased Spell Damage</Item>
+    <Item id="6">Rarity: NORMAL
+Large Life Flask
+Unique ID: 096af658fb8e918f749fe49a25c519df3e45768a0302187f91ace95a24431a09
+Item Level: 10
+Quality: 0
+LevelReq: 6
+Implicits: 0</Item>
+    <Item id="7">Rarity: RARE
+Fate Edge
+Driftwood Wand
+Unique ID: d3fe2296efeef038fb085d75b989d6779abe0b3039f0320584964fcbc3bdd465
+Item Level: 5
+Quality: 0
+Sockets: B-B R
+LevelReq: 4
+Implicits: 1
+11% increased Spell Damage
+14% increased Spell Damage
+Adds 1 to 3 Physical Damage
+Adds 2 to 4 Cold Damage
+12% increased Stun Duration on Enemies</Item>
+    <Item id="8">Rarity: NORMAL
+Rusted Coif
+Armour: 17
+ArmourBasePercentile: 0.1667
+Energy Shield: 5
+EnergyShieldBasePercentile: 0
+Unique ID: 4a9890bc6abf979b98c55d13f0ccf335b269cca88c17473e486f59edef75f0df
+Item Level: 5
+Quality: 0
+Sockets: B-B R
+LevelReq: 5
+Implicits: 0</Item>
+    <Item id="9">Rarity: NORMAL
+Iron Ring
+Unique ID: 15c417ddb02be81798ccec38a267313cdfd8a91b35cf44a0048e2e38232ea077
+Item Level: 6
+Implicits: 1
+Adds 1 to 4 Physical Damage to Attacks</Item>
+    <Item id="10">Rarity: NORMAL
+Wrapped Mitts
+Evasion: 12
+EvasionBasePercentile: 0.25
+Energy Shield: 3
+EnergyShieldBasePercentile: 0
+Unique ID: 485c11eb47596450aadfd3fcac9705f89716205e1032ca9a085edd3be2029661
+Item Level: 7
+Quality: 0
+Sockets: G-B-B
+LevelReq: 5
+Implicits: 0</Item>
+    <Item id="11">Rarity: MAGIC
+Reinforced Lapis Amulet of the Squall
+Unique ID: 74902147bbe5e6e17b99729d88a0ba62aad70a70002f925271203c576d464826
+Item Level: 13
+LevelReq: 10
+Implicits: 1
++29 to Intelligence
+4% increased Armour
++16% to Lightning Resistance</Item>
+    <Item id="12">Rarity: MAGIC
+Lacquered Heavy Belt of Sipping
+Unique ID: 244963b5beb925b8432ee16196454cacdb20958b61424bac432bca1182cf7c3b
+Item Level: 13
+LevelReq: 8
+Implicits: 1
++26 to Strength
++3 to Armour
+15% reduced Flask Charges used</Item>
+    <Item id="13">Rarity: NORMAL
+Iron Ring
+Unique ID: 42818f0022efe891aeeec56d38c62391a23b8ba5a90e4a381ac88ad21bc7c11c
+Item Level: 8
+Implicits: 1
+Adds 1 to 4 Physical Damage to Attacks</Item>
+    <Item id="14">Rarity: NORMAL
+Medium Life Flask
+Unique ID: b86b0b2ff63680a2b1bfbdab802d46fda9d0c6858d5937e69af73944a4db024c
+Item Level: 3
+Quality: 0
+LevelReq: 3
+Implicits: 0</Item>
+    <Item id="15">Rarity: MAGIC
+Sanguine Light Brigandine of the Cloud
+Armour: 59
+ArmourBasePercentile: 0.7333
+Evasion: 59
+EvasionBasePercentile: 0.7333
+Unique ID: 8e8ad2562ead958128db6e812f915559d53734ff320f2f0e1c2aaa79ae2774a1
+Item Level: 11
+Quality: 0
+Sockets: G R-G
+LevelReq: 8
+Implicits: 0
++32 to maximum Life
++7% to Lightning Resistance</Item>
+    <Item id="16">Rarity: MAGIC
+Journeyman's Somatic Wand of Darting
+Unique ID: 3eb2a5b7364db020a5fe37a73263d37d049951125530a91acb074830de4220ee
+Item Level: 14
+Quality: 0
+Sockets: B-G B
+LevelReq: 12
+Implicits: 1
+Cannot roll Caster Modifiers
+20% increased Physical Damage
+13% increased Projectile Speed
++35 to Accuracy Rating</Item>
+    <Item id="17">Rarity: RARE
+Miracle Shroud
+Light Brigandine
+Armour: 68
+ArmourBasePercentile: 0.4559
+Evasion: 68
+EvasionBasePercentile: 0.4559
+Unique ID: 6965d95d060819ffdd6aef9d2a8eaafda036f2f438c75261d485c246ed3c8190
+Item Level: 15
+Quality: 0
+Sockets: B-R-G
+LevelReq: 8
+Implicits: 0
++11 to Dexterity
+24% increased Armour and Evasion
++36 to maximum Life
++10% to Lightning Resistance
+Reflects 4 Physical Damage to Melee Attackers</Item>
+    <Item id="18">Rarity: RARE
+Fate Halo
+Iron Mask
+Evasion: 50
+EvasionBasePercentile: 0.1667
+Energy Shield: 12
+EnergyShieldBasePercentile: 0.3333
+Unique ID: 403ee1e33a22755e8387acb87eae803689ca589cb04ee3834ec48535c49813d8
+Item Level: 17
+Quality: 0
+Sockets: G
+LevelReq: 17
+Implicits: 0
++15 to Dexterity
++16 to Intelligence
+9% increased Global Accuracy Rating
++21 to maximum Mana
+5% increased Light Radius</Item>
+    <Item id="19">Rarity: MAGIC
+Quicksilver Flask of the Lizard
+Unique ID: b8824de12d10a86bb9f73f90678b689ce887f8a3ec44d7cabfe84132cc8e9e57
+Item Level: 15
+Quality: 0
+LevelReq: 6
+Implicits: 0
+48% less Duration
+Immunity to Bleeding and Corrupted Blood during Effect</Item>
+    <Item id="20">Rarity: RARE
+Skull Slippers
+Leatherscale Boots
+Armour: 19
+ArmourBasePercentile: 0.4411
+Evasion: 19
+EvasionBasePercentile: 0.4411
+Unique ID: afb011d8b00a349b509c5729bdc6fca0e8ffbd6566f344f9b8ce3cc87d4d7147
+Item Level: 8
+Quality: 7
+Sockets: G-G-R
+LevelReq: 6
+Implicits: 0
+25% increased Armour and Evasion
++7 to maximum Life
++9% to Cold Resistance
+35% chance to Avoid being Shocked</Item>
+    <Item id="21">Rarity: RARE
+Golem Coil
+Iron Ring
+Unique ID: 15c417ddb02be81798ccec38a267313cdfd8a91b35cf44a0048e2e38232ea077
+Item Level: 6
+LevelReq: 5
+Implicits: 1
+Adds 1 to 4 Physical Damage to Attacks
++56 to Accuracy Rating
++4 to maximum Life
+Regenerate 4.2 Life per second
++16 to maximum Mana</Item>
+    <Item id="22">Rarity: MAGIC
+Seething Large Life Flask
+Unique ID: 763169210cb4367a5f6f863e4f0d89df9088e6244a77c57e49a147ce10abb72a
+Item Level: 15
+Quality: 0
+LevelReq: 6
+Implicits: 0
+66% reduced Amount Recovered
+Instant Recovery</Item>
+    <Item id="23">Rarity: MAGIC
+Constant Medium Mana Flask of Sealing
+Unique ID: babe444a8657b0d5010c5e75a2fb9602b60673ec145d2b0fcf95cb5db1ce939d
+Item Level: 15
+Quality: 0
+LevelReq: 6
+Implicits: 0
+17% increased Charge Recovery
+Grants Immunity to Bleeding for 8 seconds if used while Bleeding
+Grants Immunity to Corrupted Blood for 8 seconds if used while affected by Corrupted Blood</Item>
+    <Item id="24">Rarity: MAGIC
+Spiny Twig Spirit Shield of the Lizard
+Energy Shield: 7
+EnergyShieldBasePercentile: 0.5
+Unique ID: fb941075635ca427686e45d11f55df7de321bc139e0972dba13bdc44db69a267
+Item Level: 18
+Quality: 0
+Sockets: G-B
+Implicits: 1
+11% increased Spell Damage
+Regenerate 6.1 Life per second
+Reflects 9 Physical Damage to Melee Attackers</Item>
+    <Item id="25">Rarity: RARE
+Pain Nail
+Iron Ring
+Unique ID: 42818f0022efe891aeeec56d38c62391a23b8ba5a90e4a381ac88ad21bc7c11c
+Item Level: 8
+LevelReq: 8
+Implicits: 1
+Adds 1 to 4 Physical Damage to Attacks
++13 to Dexterity
+Adds 1 to 2 Fire Damage to Attacks
+9% increased Global Accuracy Rating
++6% to Lightning Resistance
+5% increased Light Radius</Item>
+    <Item id="26">Rarity: RARE
+Golem Sole
+Bronzescale Boots
+Armour: 79
+ArmourBasePercentile: 0.4944
+Evasion: 79
+EvasionBasePercentile: 0.4944
+Unique ID: 941d3916c70baffcb4414c08f09f564b65b8ae66f53845f8c36193b1d2c2e8f7
+Item Level: 35
+Quality: 0
+Sockets: R-G-B-G
+LevelReq: 30
+Implicits: 0
+34% increased Armour and Evasion
++14 to maximum Life
++19% to Lightning Resistance
++9% to Chaos Resistance
+18% increased Stun and Block Recovery</Item>
+    <Item id="27">Rarity: MAGIC
+Enduring Grand Mana Flask of Warding
+Unique ID: 5c742bbc962f5a32808493abe63aae784f13701fc0adc1567bbb5bf29669d627
+Item Level: 26
+Quality: 0
+LevelReq: 18
+Implicits: 0
+66% reduced Amount Recovered
+Effect is not removed when Unreserved Mana is Filled
+Effect does not Queue
+Removes Curses on use</Item>
+    <Item id="28">Rarity: NORMAL
+Ironscale Gauntlets
+Armour: 28
+ArmourBasePercentile: 0
+Evasion: 28
+EvasionBasePercentile: 0
+Unique ID: 4e299e14c6265ab95d93687957d00d7623ad8d9457f8bfab0670632316c891d7
+Item Level: 27
+Quality: 0
+Sockets: R-G-G-R
+LevelReq: 15
+Implicits: 0</Item>
+    <Item id="29">Rarity: RARE
+Morbid Mantle
+Full Ringmail
+Armour: 158
+ArmourBasePercentile: 0.0833
+Energy Shield: 34
+EnergyShieldBasePercentile: 0
+Unique ID: 28c29f951081a8bc57165375d177a38dbe1a959d3478133ead5652f1bf3177ef
+Item Level: 32
+Quality: 0
+Sockets: B-R-B-B
+LevelReq: 28
+Implicits: 0
++66 to maximum Life
+Regenerate 1.2 Life per second
++35 to maximum Mana
++23% to Cold Resistance</Item>
+    <Item id="30">Rarity: MAGIC
+Substantial Giant Life Flask
+Unique ID: da0e7267fa0015daea372a4f39fbe23a93553afb89b0f06849d13936269602d7
+Item Level: 27
+Quality: 0
+LevelReq: 24
+Implicits: 0
+41% increased Amount Recovered
+33% reduced Recovery rate</Item>
+    <Item id="31">Rarity: UNIQUE
+Shaper's Seed
+Agate Amulet
+Unique ID: f043dbca05d8574f7e4a9793914e39d7da46219e0598405ac4ee63490c25006b
+Item Level: 25
+LevelReq: 16
+Implicits: 1
++21 to Strength and Intelligence
+90% increased Mana Regeneration Rate
+Regenerate 4% of Life per second
+Nearby Allies gain 4% of Life Regenerated per second
+Nearby Allies gain 80% increased Mana Regeneration Rate</Item>
+    <Item id="32">Rarity: MAGIC
+Colossal Life Flask of Abundance
+Unique ID: 3d1572eb638d000ab962a461a1e1724456d6eae154075ad0a053e0ed5390c352
+Item Level: 31
+Quality: 0
+LevelReq: 30
+Implicits: 0
+Recover an additional 16% of Flask's Life Recovery Amount over 10 seconds if used while not on Full Life</Item>
+    <Item id="33">Rarity: RARE
+Bramble Bane
+Spiraled Wand
+Unique ID: a3a0eede61bc59e1573ba3bcc1a97390ef01a30cebf4da2b41e146368b37a904
+Item Level: 27
+Quality: 0
+Sockets: B-B-G
+LevelReq: 24
+Implicits: 1
+Adds 2 to 10 Lightning Damage to Spells and Attacks
++19% to Cold Damage over Time Multiplier
+Adds 1 to 3 Physical Damage
+Adds 2 to 41 Lightning Damage
+Adds 7 to 12 Fire Damage to Spells</Item>
+    <Item id="34">Rarity: RARE
+Golem Sole
+Bronzescale Boots
+Armour: 79
+ArmourBasePercentile: 0.4944
+Evasion: 79
+EvasionBasePercentile: 0.4944
+Unique ID: 941d3916c70baffcb4414c08f09f564b65b8ae66f53845f8c36193b1d2c2e8f7
+Item Level: 35
+Quality: 0
+Sockets: R-B-B-G
+LevelReq: 30
+Implicits: 0
+34% increased Armour and Evasion
++14 to maximum Life
++19% to Lightning Resistance
++9% to Chaos Resistance
+18% increased Stun and Block Recovery</Item>
+    <Item id="35">Rarity: RARE
+Pandemonium Brow
+Golden Mask
+Evasion: 120
+EvasionBasePercentile: 0
+Energy Shield: 25
+EnergyShieldBasePercentile: 0
+Unique ID: fe5322e64814a237266c5e8964213bb490fa86f8a5fca80ce8e17e59f0b3aa69
+Item Level: 42
+Quality: 0
+Sockets: B G
+LevelReq: 35
+Implicits: 0
++113 to Accuracy Rating
++24 to Evasion Rating
++5 to maximum Energy Shield
++37 to maximum Mana
+8% increased Rarity of Items found
++26% to Fire Resistance
++23% to Lightning Resistance</Item>
+    <Item id="36">Rarity: RARE
+Rapture Charm
+Jingling Spirit Shield
+Energy Shield: 32
+EnergyShieldBasePercentile: 0.75
+Unique ID: c4529c955869a60f2b40c96b89ccaf24ecb16dc169be8c31460404256749a300
+Item Level: 34
+Quality: 0
+Sockets: B-B-B
+LevelReq: 28
+Implicits: 1
+15% increased Spell Damage
++27 to Intelligence
++4 to maximum Energy Shield
+Regenerate 7.8 Life per second
++6% to all Elemental Resistances</Item>
+    <Item id="37">Rarity: RARE
+Rapture Skin
+Holy Chainmail
+Armour: 275
+ArmourBasePercentile: 1
+Energy Shield: 67
+EnergyShieldBasePercentile: 0.9725
+Unique ID: 8b316e056bb4c2891927e6f1d528eedf80206a87ff11ecc657bedad347a754d7
+Item Level: 40
+Quality: 0
+Sockets: R-B-G-G
+LevelReq: 35
+Implicits: 0
+18% increased Armour and Energy Shield
++8 to maximum Energy Shield
++32 to maximum Mana
++24% to Lightning Resistance
+9% increased Stun and Block Recovery</Item>
+    <Item id="38">Rarity: MAGIC
+Ebullient Sacred Mana Flask of Grounding
+Unique ID: 44f91e046c6a0e8d1f5165b621cdb389c6bb13bcd3ffc5797d6256d5296c2571
+Item Level: 40
+Quality: 0
+LevelReq: 36
+Implicits: 0
+48% reduced Amount Recovered
+135% increased Recovery rate
+50% of Recovery applied Instantly
+Grants Immunity to Shock for 10 seconds if used while Shocked</Item>
+    <Item id="39">Rarity: RARE
+Foe Spell
+Faun's Horn
+Unique ID: 65a42bff76d006d282d0a647d0b245d37d3e5ac83ea5a4f93e5e8083b83d7bfd
+Item Level: 36
+Quality: 0
+Sockets: B-G B
+LevelReq: 35
+Implicits: 1
+Adds 7 to 12 Fire Damage to Spells and Attacks
+18% increased Spell Damage
+14% increased Fire Damage
+Adds 17 to 35 Fire Damage
+37% increased Spell Critical Strike Chance
++27 to maximum Mana
+Gain 12 Life per Enemy Killed</Item>
+    <Item id="40">Rarity: MAGIC
+Hallowed Life Flask of Movement
+Unique ID: b5954cca15b0ac98380693d2da22b8e5fb00ca38eabcde43dac224d8be98da78
+Item Level: 46
+Quality: 0
+LevelReq: 42
+Implicits: 0
+Grants Immunity to Hinder for 8 seconds if used while Hindered
+Grants Immunity to Maim for 7 seconds if used while Maimed</Item>
+    <Item id="41">Rarity: RARE
+Glyph Knot
+Amethyst Ring
+Unique ID: ffc157108dcc5014b434b90b669c6b4b6505fb25e1f8542f38fea18e1ae40b37
+Item Level: 46
+LevelReq: 31
+Implicits: 1
++22% to Chaos Resistance
+Adds 3 to 5 Physical Damage to Attacks
++5 to maximum Energy Shield
+Regenerate 1.5 Life per second
+13% increased Rarity of Items found</Item>
+    <Item id="42">Rarity: RARE
+Doom Edge
+Blasting Wand
+Unique ID: 980379355b808baa7e3f5421f3762d598f4ed17616257b41a01b2daec9e820e2
+Item Level: 45
+Quality: 0
+Sockets: B-G B
+LevelReq: 40
+Implicits: 1
+Cannot roll Caster Modifiers
++25 to Intelligence
+18% increased Fire Damage
+Adds 2 to 3 Fire Damage
+Adds 7 to 113 Lightning Damage
+19% increased Attack Speed
+21% increased Stun Duration on Enemies</Item>
+    <Item id="43">Rarity: RARE
+Havoc Fist
+Eelskin Gloves
+Evasion: 243
+EvasionBasePercentile: 0.8696
+Unique ID: fd931ae7266f74973f40a9a81f6a687fc04a15ba5ee6c7bdbbe02a1181d1557a
+Item Level: 41
+Quality: 0
+Sockets: B-G-G-R
+LevelReq: 38
+Implicits: 0
+Adds 1 to 15 Lightning Damage to Attacks
++98 to Evasion Rating
++19 to maximum Life
++10% to Fire Resistance</Item>
+    <Item id="44">Rarity: MAGIC
+Jade Flask of Composure
+Unique ID: 06989f59fd8dd027434a64d081ac3a6b324e8006ec13476d21e4f45d2f4ab509
+Item Level: 42
+Quality: 0
+LevelReq: 27
+Implicits: 0
+33% Chance to Avoid being Stunned during Effect</Item>
+    <Item id="45">Rarity: RARE
+Gloom Finger
+Two-Stone Ring
+Unique ID: 56ce50849b82441d1cb370449f064baca104d61fe0fc8a8a969a6201e9763d67
+Item Level: 41
+LevelReq: 31
+Implicits: 1
++12% to Fire and Cold Resistances
+13% increased Fire Damage
++27 to maximum Life
+17% increased Rarity of Items found
++21% to Fire Resistance</Item>
+    <Item id="46">Rarity: MAGIC
+Jagged Chainmail Doublet of the Salamander
+Armour: 119
+ArmourBasePercentile: 0
+Energy Shield: 27
+EnergyShieldBasePercentile: 0
+Unique ID: 17b60882193e92703b2dfe14a42080595ab14b261d69af631227ed557f1a1df5
+Item Level: 44
+Quality: 0
+Sockets: R-B-R-G
+LevelReq: 21
+Implicits: 0
++13% to Fire Resistance
+Reflects 50 Physical Damage to Melee Attackers</Item>
+    <Item id="47">Rarity: MAGIC
+Effusive Hallowed Life Flask of Damping
+Unique ID: 5f980fa012a9f9f229930d8b250b1d6832b3dca22f0309bb0040d4238a083fa7
+Item Level: 44
+Quality: 0
+LevelReq: 42
+Implicits: 0
+45% reduced Amount Recovered
+135% increased Recovery rate
+50% of Recovery applied Instantly
+Grants Immunity to Ignite for 7 seconds if used while Ignited
+Removes all Burning when used</Item>
+    <Item id="48">Rarity: RARE
+Agony Salvation
+Zealot Helmet
+Armour: 166
+ArmourBasePercentile: 0.1699
+Energy Shield: 35
+EnergyShieldBasePercentile: 0.1838
+Unique ID: 676d45a1b8d63d61d0257f6554b0e5228795d12ab8bd75c295e5d6296515e165
+Item Level: 45
+Quality: 0
+Sockets: R-B
+LevelReq: 44
+Implicits: 0
++214 to Accuracy Rating
+36% increased Armour and Energy Shield
+Regenerate 2.8 Life per second
++23 to maximum Mana
++25% to Lightning Resistance</Item>
+    <Item id="49">Rarity: MAGIC
+Seething Sanctified Life Flask of Obstruction
+Unique ID: 7113256fdb1bc5147bf06ae8d81952502195b9ceac271ed11b47d816c3b830b4
+Item Level: 51
+Quality: 0
+LevelReq: 50
+Implicits: 0
+66% reduced Amount Recovered
+Instant Recovery
+Hinders nearby Enemies with 27% reduced Movement Speed if used while not on Full Life</Item>
+    <Item id="50">Rarity: RARE
+Victory Fist
+Samite Gloves
+Energy Shield: 40
+EnergyShieldBasePercentile: 0.6175
+Unique ID: a91a23a16bdba9e0cb98e3aab64baaf91dbe55061c92dd5c5861f16f59627d18
+Item Level: 47
+Quality: 0
+Sockets: B-B B
+LevelReq: 47
+Implicits: 0
+Adds 2 to 42 Lightning Damage to Attacks
+14% increased Energy Shield
++7% to Fire Resistance
++7% to Chaos Resistance
+9% increased Stun and Block Recovery</Item>
+    <Item id="51">Rarity: RARE
+Beast Peak
+Callous Mask
+Evasion: 181
+EvasionBasePercentile: 0.3383
+Energy Shield: 39
+EnergyShieldBasePercentile: 0.2963
+Unique ID: ff0072ed36d8a390d69d5b9ad3128774a013bd4646a0c752699fbcee188f4df8
+Item Level: 47
+Quality: 0
+Sockets: G-R-G-B
+LevelReq: 45
+Implicits: 0
++122 to Accuracy Rating
++7 to Evasion Rating
+35% increased Evasion and Energy Shield
++3 to maximum Energy Shield
++17 to maximum Mana
++22% to Fire Resistance
++22% to Lightning Resistance
+Corrupted</Item>
+    <Item id="52">Rarity: RARE
+Anarchy Pace
+Samite Slippers
+Energy Shield: 46
+EnergyShieldBasePercentile: 0.2
+Unique ID: 433b0e831a7c1980e3c02d103f995223205ea0e2ceafe0cf72271c207dc0ed89
+Item Level: 50
+Quality: 0
+Sockets: B-B-B-R
+LevelReq: 44
+Implicits: 0
++9 to Intelligence
++15 to maximum Energy Shield
++18 to maximum Mana
++28% to Cold Resistance
+15% increased Movement Speed</Item>
+    <Item id="53">Rarity: RARE
+Hypnotic Wing
+Crimson Round Shield
+Armour: 205
+ArmourBasePercentile: 0
+Evasion: 228
+EvasionBasePercentile: 0
+Unique ID: e64a5e8dc6ad23116210a852c01a8adb1e7491b430fd9307feb9ee7491245205
+Item Level: 49
+Quality: 0
+Sockets: G-R-G
+LevelReq: 49
+Implicits: 0
++50 to Armour
++73 to Evasion Rating
++49 to maximum Life
++28% to Lightning Resistance
+17% chance to Avoid Elemental Ailments</Item>
+    <Item id="54">Rarity: RARE
+Glyph Knot
+Amethyst Ring
+Unique ID: ffc157108dcc5014b434b90b669c6b4b6505fb25e1f8542f38fea18e1ae40b37
+Item Level: 46
+LevelReq: 31
+Implicits: 1
++22% to Chaos Resistance
+Adds 3 to 5 Physical Damage to Attacks
++5 to maximum Energy Shield
+Regenerate 1.5 Life per second
+13% increased Rarity of Items found
+{crafted}+16 to Intelligence</Item>
+    <Item id="55">Rarity: MAGIC
+Scholar's Quartz Flask of the Hare
+Unique ID: b1b5b431790290aedd7f82b711675e8277aacacdc5b765e3b28d5d64756e7f7a
+Item Level: 54
+Quality: 0
+LevelReq: 27
+Implicits: 0
+17% reduced Charges per use
+6% increased Movement Speed during Effect</Item>
+    <Item id="56">Rarity: RARE
+Chimeric Twine
+Heavy Belt
+Unique ID: fdf10d2a6480f0860171edcb54479550ad373d875a85864a95c12c39636d8ce7
+Item Level: 57
+LevelReq: 24
+Implicits: 1
++32 to Strength
++47 to Armour
++77 to maximum Life
++22% to Fire Resistance
+14% reduced Flask Charges used</Item>
+    <Item id="57">Rarity: MAGIC
+Apprentice's Divine Mana Flask
+Unique ID: 29293d5f3625adda1b664489cfd09777378500eaabb8329f53754f043e255ab9
+Item Level: 66
+Quality: 0
+LevelReq: 60
+Implicits: 0
+16% reduced Charges per use</Item>
+    <Item id="58">Rarity: MAGIC
+Doctor's Quicksilver Flask of the Catfish
+Unique ID: af77d0c9c3aa903d6a948581d2d78f495def4e5d68435ae62d7914b13265d02c
+Item Level: 63
+Quality: 0
+LevelReq: 50
+Implicits: 0
+23% chance to gain a Flask Charge when you deal a Critical Strike
+50% chance to Avoid being Ignited during Effect</Item>
+    <Item id="59">Rarity: RARE
+Gale Ward
+Elegant Ringmail
+Armour: 636
+ArmourBasePercentile: 0.1929
+Energy Shield: 156
+EnergyShieldBasePercentile: 0.2402
+Unique ID: cf724381ef8ff7d0ad674f73a25d32515cc922a2dea61ca5cbc2fb2c19970bb6
+Item Level: 66
+Quality: 0
+Sockets: R-G-R-B
+LevelReq: 64
+Implicits: 0
++37 to Intelligence
+64% increased Armour and Energy Shield
++3 to maximum Life
+Regenerate 16.6 Life per second
+24% increased Stun and Block Recovery</Item>
+    <Item id="60">Rarity: UNIQUE
+Moonsorrow
+Kinetic Wand
+Unique ID: bd4ece6d231e1d5ecad0159bf8594180f13afcaee799f971b2129da7667d6494
+Item Level: 77
+Quality: 4
+Sockets: G-B B
+LevelReq: 59
+Implicits: 1
+Cannot roll Caster Modifiers
+Socketed Gems are supported by Level 20 Blind
++10 to Intelligence
+37% increased Spell Damage
+264% increased Physical Damage
+28% increased Lightning Damage
+10% increased Cast Speed
+10% chance to Blind Enemies on hit</Item>
+    <Item id="61">Rarity: UNIQUE
+Doedre's Tenure
+Velvet Gloves
+Energy Shield: 11
+EnergyShieldBasePercentile: 0.3333
+Unique ID: 59ef0d4a43187837c56b40d98a7bb1750a8a884ab54cf4d22515f94228cc38c5
+Item Level: 77
+Quality: 0
+Sockets: B-R-R-B
+LevelReq: 12
+Implicits: 0
++38 to Intelligence
+100% increased Spell Damage
+24% reduced Cast Speed
+Corrupted</Item>
+    <Item id="62">Rarity: UNIQUE
+Wilma's Requital
+Solaris Circlet
+Energy Shield: 265
+EnergyShieldBasePercentile: 1
+Quality: 20
+Sockets: B-B-B-B
+LevelReq: 59
+Implicits: 0
+{range:0.5}+(300-500) to Accuracy Rating
+{range:0.5}(200-250)% increased Energy Shield
+Increases and Reductions to Cast Speed apply to Attack Speed
+{range:1}(20-30)% increased Elemental Damage with Attack Skills
+Ancestral Bond</Item>
+    <Item id="63">Rarity: UNIQUE
+Warped Timepiece
+Turquoise Amulet
+Variant: Pre 3.11.0
+Variant: Pre 3.19.0
+Variant: Current
+Selected Variant: 3
+LevelReq: 50
+Implicits: 2
+{crafted}Allocates Surveillance
+{tags:jewellery_attribute}{range:0.5}+(16-24) to Dexterity and Intelligence
+{tags:attack,speed}{variant:1}{range:0.5}(8-12)% increased Attack Speed
+{tags:attack,speed}{variant:2}{range:0.5}(10-15)% increased Attack Speed
+{tags:attack,speed}{variant:3}{range:0.463}(10-25)% increased Attack Speed
+{tags:caster,speed}{variant:1}{range:0.5}(8-12)% increased Cast Speed
+{tags:caster,speed}{variant:2}{range:0.5}(10-15)% increased Cast Speed
+{tags:caster,speed}{variant:3}{range:0.463}(10-25)% increased Cast Speed
+{tags:speed}{variant:1}12% increased Movement Speed
+{tags:speed}{variant:2,3}{range:0.5}(10-15)% increased Movement Speed
+{variant:1}{range:0.5}(8-12)% reduced Skill Effect Duration
+{variant:2}{range:0.5}(10-15)% reduced Skill Effect Duration
+{variant:3}{range:0.829}(10-20)% reduced Skill Effect Duration
+{tags:life,jewellery_defense}{variant:1,2}30% increased total Recovery per second from Life, Mana, or Energy Shield Leech
+{variant:3}Debuffs on you Expire 100% Faster</Item>
+    <Item id="64">Rarity: RARE
+New Item
+Heavy Belt
+Crafted: true
+Prefix: {range:0.979}IncreasedLife8
+Prefix: None
+Prefix: None
+Suffix: {range:0.169}LightningResist7
+Suffix: {range:0.042}ColdResist6
+Suffix: {range:0.218}ChaosResist6
+LevelReq: 64
+Implicits: 1
+{tags:attribute}{range:1}+(25-35) to Strength
++129 to maximum Life
++36% to Cold Resistance
++43% to Lightning Resistance
++32% to Chaos Resistance</Item>
+    <Item id="65">Rarity: RARE
+New Item
+Amethyst Ring
+Crafted: true
+Prefix: {range:1}IncreasedLife3
+Prefix: None
+Prefix: None
+Suffix: {range:0.736}AllResistances5
+Suffix: {range:0.268}AllAttributes4
+Suffix: None
+LevelReq: 48
+Implicits: 1
+{tags:chaos,resistance}{range:1}+(17-23)% to Chaos Resistance
++14 to all Attributes
++54 to maximum Life
++16% to all Elemental Resistances
+{tags:unveiled_mod,elemental,fire,chaos,resistance}{crafted}{range:0.5}+(13-15)% to Fire and Chaos Resistances</Item>
+    <Item id="66">Rarity: RARE
+New Item
+Phantom Boots
+Evasion: 283
+EvasionBasePercentile: 1
+Energy Shield: 56
+EnergyShieldBasePercentile: 1
+Crafted: true
+Prefix: {range:0.246}MovementVelocity5
+Prefix: {range:0.5}IncreasedLife4
+Prefix: None
+Suffix: {range:0.535}ChanceToSuppressSpells3
+Suffix: None
+Suffix: None
+Quality: 20
+Sockets: G-G-G-G
+LevelReq: 84
+Implicits: 0
++10% chance to Suppress Spell Damage
++62 to maximum Life
+30% increased Movement Speed
+{tags:unveiled_mod,elemental,fire,chaos,resistance}{crafted}{range:1}+(13-15)% to Fire and Chaos Resistances</Item>
+    <Item id="67">Rarity: MAGIC
+Endless Diamond Flask of Penetrating
+Crafted: true
+Prefix: {range:0.5}FlaskChargesAddedIncreasePercent3_
+Suffix: {range:0.345}FlaskBuffCriticalChanceWhileHealing4__
+Quality: 20
+LevelReq: 52
+Implicits: 0
+28% increased Charge Recovery
+46% increased Critical Strike Chance during Effect</Item>
+    <Item id="68">Rarity: UNIQUE
+Doppelganger Guise
+Sadist Garb
+Evasion: 589
+EvasionBasePercentile: 1
+Energy Shield: 128
+EnergyShieldBasePercentile: 1
+League: Ritual
+Variant: Pre 3.17.0
+Variant: Current
+Selected Variant: 2
+Quality: 20
+Sockets: B-B-B-B-B-B
+LevelReq: 68
+Implicits: 0
+Grants Level 20 Unhinge Skill
+{range:0.5}(40-60)% more Critical Strike Chance while Insane
+Enemies Killed by your Hits are destroyed while Insane
+{variant:1}{range:0.5}(15-25)% less Physical and Chaos Damage Taken while Sane
+{variant:2}{range:1}(30-40)% less Physical and Chaos Damage Taken while Sane
+Regenerate 10% Life over one second when Hit while Sane</Item>
+    <Item id="69">Rarity: UNIQUE
+The Light of Meaning
+Prismatic Jewel
+Variant: Life
+Variant: Energy Shield
+Variant: Mana
+Variant: Armour
+Variant: Evasion Rating
+Variant: Attributes
+Variant: Global Crit Chance
+Variant: Physical Damage
+Variant: Lightning Damage
+Variant: Cold Damage
+Variant: Fire Damage
+Variant: Chaos Damage
+Variant: Chaos Resistance
+Selected Variant: 9
+Radius: Large
+Limited to: 1
+Implicits: 0
+{variant:1}Passive Skills in Radius also grant +5 to Maximum Life
+{variant:2}Passive Skills in Radius also grant 3% increased Energy Shield
+{variant:3}Passive Skills in Radius also grant +5 to Maximum Mana
+{variant:4}Passive Skills in Radius also grant 7% increased Armour
+{variant:5}Passive Skills in Radius also grant 7% increased Evasion Rating
+{variant:6}Passive Skills in Radius also grant +2 to all Attributes
+{variant:7}Passive Skills in Radius also grant 5% Increased Global Critical Strike Chance
+{variant:8}Passive Skills in Radius also grant 6% increased Physical Damage
+{variant:9}Passive Skills in Radius also grant 6% increased Lightning Damage
+{variant:10}Passive Skills in Radius also grant 6% increased Cold Damage
+{variant:11}Passive Skills in Radius also grant 6% increased Fire Damage
+{variant:12}Passive Skills in Radius also grant 6% increased Chaos Damage
+{variant:13}Passive Skills in Radius also grant +4% to Chaos Resistance</Item>
+    <Item id="70">Rarity: RARE
+New Item
+Cobalt Jewel
+Crafted: true
+Prefix: {range:0.5}PercentIncreasedLifeJewel
+Prefix: {range:0.5}EnergyShieldJewel
+Suffix: None
+Suffix: None
+LevelReq: 0
+Implicits: 0
+7% increased maximum Energy Shield
+6% increased maximum Life</Item>
+    <Item id="71">Rarity: RARE
+New Item
+Harmonic Spirit Shield
+Energy Shield: 79
+EnergyShieldBasePercentile: 1
+Crafted: true
+Prefix: {range:0.169}SpellDamageOnWeapon5
+Prefix: None
+Prefix: None
+Suffix: {range:0.803}AllResistances4
+Suffix: None
+Suffix: None
+Quality: 20
+Sockets: B-B-B
+LevelReq: 65
+Implicits: 1
+{tags:caster_damage,damage,caster}{range:0.5}(10-15)% increased Spell Damage
+57% increased Spell Damage
++14% to all Elemental Resistances</Item>
+    <Item id="72">Rarity: UNIQUE
+Doedre's Tenure
+Velvet Gloves
+Energy Shield: 16
+EnergyShieldBasePercentile: 1
+Variant: Pre 2.6.0
+Variant: Pre 3.19.0
+Variant: Current
+Selected Variant: 3
+Quality: 20
+Sockets: B-B-B-B
+LevelReq: 12
+Implicits: 0
+{variant:1}+10 to Intelligence
+{variant:2}+20 to Intelligence
+{variant:3}{range:0.5}+(20-50) to Intelligence
+{variant:1}{range:0.5}(40-50)% increased Spell Damage
+{variant:2}{range:0.5}(50-60)% increased Spell Damage
+{variant:3}100% increased Spell Damage
+{variant:1}20% reduced Cast Speed
+{variant:2}15% reduced Cast Speed
+{variant:3}{range:0.5}(15-25)% reduced Cast Speed
+{variant:1}+16 to maximum Energy Shield
+{variant:2}+32 to maximum Energy Shield</Item>
+    <Item id="73">Rarity: UNIQUE
+Piscator's Vigil
+Imbued Wand
+Variant: Pre 2.3.0
+Variant: Pre 2.6.0
+Variant: Pre 3.21.0
+Variant: Current
+Selected Variant: 4
+{variant:1,2,3}Tornado Wand
+{variant:4}Imbued Wand
+{variant:5}Kinetic Wand
+Quality: 20
+Sockets: B-B-B
+LevelReq: 59
+Implicits: 4
+{variant:1}{range:0.5}(16-19)% increased Spell Damage
+{variant:2,3}{range:0.5}(35-39)% increased Spell Damage
+{variant:4}{range:0.817}(33-37)% increased Spell Damage
+{variant:5}Cannot roll Caster Modifiers
+No Physical Damage
+{range:0.659}(10-18)% increased Attack Speed
+{range:0.598}(20-30)% increased Critical Strike Chance
+{range:0.817}+(340-400) to Accuracy Rating
+{range:0.878}Attacks with this Weapon have (100-115)% increased Elemental Damage
+{variant:3,4,5}Damage with Weapons Penetrates 5% Elemental Resistances</Item>
+    <Item id="74">Rarity: UNIQUE
+Warped Timepiece
+Turquoise Amulet
+Variant: Pre 3.11.0
+Variant: Pre 3.19.0
+Variant: Current
+Selected Variant: 3
+LevelReq: 50
+Implicits: 1
+{tags:jewellery_attribute}{range:0.5}+(16-24) to Dexterity and Intelligence
+{tags:attack,speed}{variant:1}{range:0.5}(8-12)% increased Attack Speed
+{tags:attack,speed}{variant:2}{range:0.5}(10-15)% increased Attack Speed
+{tags:attack,speed}{variant:3}{range:0.5}(10-25)% increased Attack Speed
+{tags:caster,speed}{variant:1}{range:0.5}(8-12)% increased Cast Speed
+{tags:caster,speed}{variant:2}{range:0.5}(10-15)% increased Cast Speed
+{tags:caster,speed}{variant:3}{range:0.5}(10-25)% increased Cast Speed
+{tags:speed}{variant:1}12% increased Movement Speed
+{tags:speed}{variant:2,3}{range:0.5}(10-15)% increased Movement Speed
+{variant:1}{range:0.5}(8-12)% reduced Skill Effect Duration
+{variant:2}{range:0.5}(10-15)% reduced Skill Effect Duration
+{variant:3}{range:0.22}(10-20)% reduced Skill Effect Duration
+{tags:life,jewellery_defense}{variant:1,2}30% increased total Recovery per second from Life, Mana, or Energy Shield Leech
+{variant:3}Debuffs on you Expire 100% Faster</Item>
+    <Item id="75">Rarity: UNIQUE
+Piscator's Vigil
+Imbued Wand
+Variant: Pre 2.3.0
+Variant: Pre 2.6.0
+Variant: Pre 3.21.0
+Variant: Current
+Selected Variant: 4
+{variant:1,2,3}Tornado Wand
+{variant:4}Imbued Wand
+{variant:5}Kinetic Wand
+Quality: 20
+Sockets: B-B-B
+LevelReq: 59
+Implicits: 4
+{variant:1}{range:0.5}(16-19)% increased Spell Damage
+{variant:2,3}{range:0.5}(35-39)% increased Spell Damage
+{variant:4}{range:0.817}(33-37)% increased Spell Damage
+{variant:5}Cannot roll Caster Modifiers
+No Physical Damage
+{range:0.659}(10-18)% increased Attack Speed
+{range:0.598}(20-30)% increased Critical Strike Chance
+{range:0.817}+(340-400) to Accuracy Rating
+{range:0.878}Attacks with this Weapon have (100-115)% increased Elemental Damage
+{variant:3,4,5}Damage with Weapons Penetrates 5% Elemental Resistances</Item>
+    <Item id="76">Rarity: RARE
+New Item
+Kinetic Wand
+Crafted: true
+Prefix: {range:0.761}LocalAddedLightningDamage7
+Prefix: None
+Prefix: None
+Suffix: {range:0.099}LocalCriticalStrikeChance5
+Suffix: {range:0.694}LocalIncreasedAttackSpeed3
+Suffix: None
+Quality: 20
+Sockets: B-B-B
+LevelReq: 59
+Implicits: 1
+Cannot roll Caster Modifiers
+Adds 10 to 170 Lightning Damage
+12% increased Attack Speed
+30% increased Critical Strike Chance
+{tags:caster_damage,damage,caster}{custom}{range:0.647}(67-82)% increased Spell Damage
+{tags:elemental_damage,unveiled_mod,damage,elemental,attack}{crafted}{range:0.5}Attacks with this Weapon Penetrate (11-13)% Elemental Resistances</Item>
+    <Item id="77">Rarity: RARE
+New Item
+Harmonic Spirit Shield
+Energy Shield: 79
+EnergyShieldBasePercentile: 1
+Shaper Item
+Crafted: true
+Prefix: {range:0.268}SpellDamageOnWeapon6
+Prefix: {range:0.5}IncreasedLife5
+Prefix: {range:0.5}MaximumTotemUber1
+Suffix: {range:0.654}AllResistances4
+Suffix: None
+Suffix: None
+Quality: 20
+Sockets: B-B-B
+LevelReq: 65
+Implicits: 1
+{tags:caster_damage,damage,caster}{range:1}(10-15)% increased Spell Damage
+74% increased Spell Damage
++77 to maximum Life
++13% to all Elemental Resistances
++1 to maximum number of Summoned Totems
+{tags:unveiled_mod,elemental,fire,chaos,resistance}{crafted}{range:0.5}+(13-15)% to Fire and Chaos Resistances</Item>
+    <Item id="78">Rarity: RARE
+New Item
+Phantom Mitts
+Evasion: 283
+EvasionBasePercentile: 1
+Energy Shield: 56
+EnergyShieldBasePercentile: 1
+Searing Exarch Item
+Eater of Worlds Item
+Crafted: true
+Prefix: {range:1}AddedLightningDamage3
+Prefix: None
+Prefix: None
+Suffix: None
+Suffix: {range:0.205}IncreasedAccuracyNew5_
+Suffix: None
+Quality: 20
+Sockets: G-G-G-G
+LevelReq: 84
+Implicits: 2
+{exarch}15% chance to Intimidate Enemies for 4 seconds on Hit
+{eater}Inflict Lightning Exposure on Hit, applying -12% to Lightning Resistance
+Adds 2 to 23 Lightning Damage to Attacks
++377 to Accuracy Rating</Item>
+    <Item id="79">Rarity: UNIQUE
+Unnatural Instinct
+Viridian Jewel
+Radius: Small
+Limited to: 1
+Implicits: 0
+Allocated Small Passive Skills in Radius grant nothing
+Grants all bonuses of Unallocated Small Passive Skills in Radius</Item>
+    <Item id="80">Rarity: UNIQUE
+The Green Nightmare
+Viridian Jewel
+League: Breach
+Variant: Pre 3.16.0
+Variant: Pre 3.21.0
+Variant: Current
+Selected Variant: 3
+Radius: Large
+Limited to: 1
+Implicits: 0
+{variant:1,2}Gain 5% of Cold Damage as Extra Chaos Damage
+{variant:3}{range:0.902}Gain (6-10)% of Cold Damage as Extra Chaos Damage
+{variant:1}Passives granting Cold Resistance or all Elemental Resistances in Radius
+{variant:1}also grant Chance to Suppress Spell Damage at 35% of its value
+{variant:2}Passives granting Cold Resistance or all Elemental Resistances in Radius
+{variant:2}also grant Chance to Suppress Spell Damage at 50% of its value
+{variant:3}Passives granting Cold Resistance or all Elemental Resistances in Radius
+{variant:3}also grant Chance to Suppress Spell Damage at 70% of its value
+{variant:1,2}Passives granting Cold Resistance or all Elemental Resistances in Radius
+{variant:1,2}also grant an equal chance to gain a Frenzy Charge on Kill</Item>
+    <Item id="81">Rarity: UNIQUE
+Timeclasp
+Moonstone Ring
+Variant: Pre 2.6.0
+Variant: Pre 3.17.0
+Variant: Pre 3.19.0
+Variant: Current
+Selected Variant: 4
+LevelReq: 25
+Implicits: 1
+{tags:jewellery_defense}{range:0.5}+(15-25) to maximum Energy Shield
+{tags:attack,speed}{range:0.5}(10-15)% increased Attack Speed
+{tags:caster,speed}{variant:1}{range:0.5}(5-8)% increased Cast Speed
+{tags:caster,speed}{variant:2,3}{range:0.5}(5-10)% increased Cast Speed
+{tags:caster,speed}{variant:4}{range:0.5}(10-15)% increased Cast Speed
+{tags:jewellery_defense}{variant:1}{range:0.5}+(10-25) to maximum Energy Shield
+{tags:jewellery_defense}{variant:2}{range:0.5}+(15-25) to maximum Energy Shield
+{tags:jewellery_defense}{variant:3}{range:0.5}+(40-45) to maximum Energy Shield
+{tags:mana}{variant:1}15% reduced Mana Regeneration Rate
+{tags:mana}{variant:2,3}15% increased Mana Regeneration Rate
+{tags:caster}{variant:1}Temporal Chains has 30% reduced Effect on You
+{tags:caster}{variant:2}Temporal Chains has 50% reduced Effect on You
+{variant:3}{range:0.5}(-10-10)% increased Skill Effect Duration
+{variant:4}{range:0.049}(-20-20)% increased Skill Effect Duration
+{tags:resource,life}{variant:4}{range:0.5}(6-12)% of Damage Taken Recouped as Life
+{tags:resource,mana}{variant:4}{range:0.5}(6-12)% of Damage Taken Recouped as Mana
+{variant:4,3}Unaffected by Temporal Chains</Item>
+    <Item id="82">Rarity: UNIQUE
+Timeclasp
+Moonstone Ring
+Variant: Pre 2.6.0
+Variant: Pre 3.17.0
+Variant: Pre 3.19.0
+Variant: Current
+Selected Variant: 4
+LevelReq: 25
+Implicits: 1
+{tags:jewellery_defense}{range:0.5}+(15-25) to maximum Energy Shield
+{tags:attack,speed}{range:0.5}(10-15)% increased Attack Speed
+{tags:caster,speed}{variant:1}{range:0.5}(5-8)% increased Cast Speed
+{tags:caster,speed}{variant:2,3}{range:0.5}(5-10)% increased Cast Speed
+{tags:caster,speed}{variant:4}{range:0.5}(10-15)% increased Cast Speed
+{tags:jewellery_defense}{variant:1}{range:0.5}+(10-25) to maximum Energy Shield
+{tags:jewellery_defense}{variant:2}{range:0.5}+(15-25) to maximum Energy Shield
+{tags:jewellery_defense}{variant:3}{range:0.5}+(40-45) to maximum Energy Shield
+{tags:mana}{variant:1}15% reduced Mana Regeneration Rate
+{tags:mana}{variant:2,3}15% increased Mana Regeneration Rate
+{tags:caster}{variant:1}Temporal Chains has 30% reduced Effect on You
+{tags:caster}{variant:2}Temporal Chains has 50% reduced Effect on You
+{variant:3}{range:0.5}(-10-10)% increased Skill Effect Duration
+{variant:4}{range:0.049}(-20-20)% increased Skill Effect Duration
+{tags:resource,life}{variant:4}{range:0.5}(6-12)% of Damage Taken Recouped as Life
+{tags:resource,mana}{variant:4}{range:0.5}(6-12)% of Damage Taken Recouped as Mana
+{variant:3,4}Unaffected by Temporal Chains</Item>
+    <Item id="83">Rarity: UNIQUE
+The Tides of Time
+Vanguard Belt
+Shaper Item
+LevelReq: 78
+Implicits: 1
+{tags:jewellery_defense}{range:0.915}+(260-320) to Armour and Evasion Rating
+{tags:life,mana}100% Increased Life Recovery from Flasks
+{tags:life,mana}100% Increased Mana Recovery from Flasks
+Flasks applied to you have 25% Increased Effect
+{range:0.5}Life Flasks gain (0-3) charges every 3 seconds
+{range:0.5}Mana Flasks gain (0-3) charges every 3 seconds
+{range:1}Utility Flasks gain (0-3) charges every 3 seconds</Item>
+    <Item id="84">Rarity: MAGIC
+Perpetual Diamond Flask of Incision
+Crafted: true
+Prefix: {range:0.243}FlaskChargesAddedIncreasePercent5__
+Suffix: {range:0.173}FlaskBuffCriticalChanceWhileHealing5
+Quality: 20
+LevelReq: 66
+Implicits: 0
+47% increased Charge Recovery
+51% increased Critical Strike Chance during Effect</Item>
+    <Item id="85">Rarity: UNIQUE
+Brutal Restraint
+Timeless Jewel
+League: Legion
+Variant: Asenath (Dance with Death)
+Variant: Deshret (Wind Dancer) (Pre 3.11.0)
+Variant: Nasima (Second Sight)
+Variant: Balbala (The Traitor)
+Selected Variant: 4
+LevelReq: 20
+Radius: Large
+Limited to: 1
+Implicits: 0
+{variant:1}{range:0.5}Denoted service of (500-8000) dekhara in the akhara of Asenath
+{variant:2}{range:0.5}Denoted service of (500-8000) dekhara in the akhara of Deshret
+{variant:3}{range:0.5}Denoted service of (500-8000) dekhara in the akhara of Nasima
+{variant:4}{range:0.841}Denoted service of (500-8000) dekhara in the akhara of Balbala
+Passives in radius are Conquered by the Maraketh
+Historic</Item>
+    <Item id="86">Rarity: MAGIC
+Perpetual Bismuth Flask of the Rainbow
+Crafted: true
+Prefix: {range:0.454}FlaskChargesAddedIncreasePercent5__
+Suffix: {range:0.335}FlaskBuffResistancesWhileHealing5_
+Quality: 20
+LevelReq: 66
+Implicits: 0
+48% increased Charge Recovery
+19% additional Elemental Resistances during Effect</Item>
+    <Item id="87">Rarity: MAGIC
+Perpetual Amethyst Flask of the Cheetah
+Crafted: true
+Prefix: {range:0.384}FlaskChargesAddedIncreasePercent5__
+Suffix: {range:0.198}FlaskBuffMovementSpeedWhileHealing3
+Quality: 20
+LevelReq: 68
+Implicits: 0
+48% increased Charge Recovery
+12% increased Movement Speed during Effect</Item>
+    <Item id="88">Rarity: RARE
+New Item
+Necrotic Armour
+Evasion: 2492
+EvasionBasePercentile: 1
+Energy Shield: 535
+EnergyShieldBasePercentile: 1
+Searing Exarch Item
+Eater of Worlds Item
+Crafted: true
+Prefix: {range:0.31}LocalBaseEvasionRatingAndEnergyShield7___
+Prefix: {range:0.141}LocalIncreasedEvasionAndEnergyShield7
+Prefix: None
+Suffix: {range:0.574}ChanceToSuppressSpellsHigh4_
+Suffix: None
+Suffix: None
+Quality: 20
+Sockets: G-G-G-G-G-G
+LevelReq: 84
+Implicits: 2
+{exarch}Flasks gain a Charge every 3 seconds
+{tags:aura}{eater}{range:0.5}Wrath has (22-24)% increased Aura Effect
++18% chance to Suppress Spell Damage
++245 to Evasion Rating
+93% increased Evasion and Energy Shield
++64 to maximum Energy Shield
+{crafted}Can have up to 3 Crafted Modifiers
+{tags:block,unveiled_mod}{crafted}{range:0.5}(5-7)% Chance to Block Attack Damage
+{tags:unveiled_mod,defences,energy_shield}{crafted}Regenerate 150 Energy Shield per second while a Rare or Unique Enemy is Nearby</Item>
+    <Item id="89">Rarity: UNIQUE
+Impossible Escape
+Viridian Jewel
+League: Sentinel
+Variant: Acrobatics
+Variant: Ancestral Bond
+Variant: Arrow Dancing
+Variant: Arsenal of Vengeance
+Variant: Avatar of Fire
+Variant: Blood Magic
+Variant: Bloodsoaked Blade
+Variant: Call to Arms
+Variant: Chaos Inoculation
+Variant: Conduit
+Variant: Crimson Dance
+Variant: Divine Shield
+Variant: Eldritch Battery
+Variant: Elemental Equilibrium
+Variant: Elemental Overload
+Variant: Eternal Youth
+Variant: Ghost Dance
+Variant: Ghost Reaver
+Variant: Glancing Blows
+Variant: Hex Master
+Variant: Imbalanced Guard
+Variant: Iron Grip
+Variant: Iron Reflexes
+Variant: Iron Will
+Variant: Lethe Shade
+Variant: Magebane
+Variant: Mind Over Matter
+Variant: Minion Instability
+Variant: Necromantic Aegis
+Variant: Pain Attunement
+Variant: Perfect Agony
+Variant: Point Blank
+Variant: Precise Technique
+Variant: Resolute Technique
+Variant: Runebinder
+Variant: Solipsism
+Variant: Supreme Ego
+Variant: The Agnostic
+Variant: The Impaler
+Variant: Unwavering Stance
+Variant: Vaal Pact
+Variant: Versatile Combatant
+Variant: Wicked Ward
+Variant: Wind Dancer
+Variant: Zealot's Oath
+Variant: Everything (QoL Test Variant)
+Selected Variant: 27
+Radius: Small
+Limited to: 1
+Implicits: 0
+{variant:1,46}Passive Skills in radius of Acrobatics can be allocated without being connected to your tree
+{variant:2,46}Passive Skills in radius of Ancestral Bond can be allocated without being connected to your tree
+{variant:46,3}Passive Skills in radius of Arrow Dancing can be allocated without being connected to your tree
+{variant:46,4}Passive Skills in radius of Arsenal of Vengeance can be allocated without being connected to your tree
+{variant:5,46}Passive Skills in radius of Avatar of Fire can be allocated without being connected to your tree
+{variant:46,6}Passive Skills in radius of Blood Magic can be allocated without being connected to your tree
+{variant:7,46}Passive Skills in radius of Bloodsoaked Blade can be allocated without being connected to your tree
+{variant:46,8}Passive Skills in radius of Call to Arms can be allocated without being connected to your tree
+{variant:46,9}Passive Skills in radius of Chaos Inoculation can be allocated without being connected to your tree
+{variant:10,46}Passive Skills in radius of Conduit can be allocated without being connected to your tree
+{variant:11,46}Passive Skills in radius of Crimson Dance can be allocated without being connected to your tree
+{variant:46,12}Passive Skills in radius of Divine Shield can be allocated without being connected to your tree
+{variant:46,13}Passive Skills in radius of Eldritch Battery can be allocated without being connected to your tree
+{variant:14,46}Passive Skills in radius of Elemental Equilibrium can be allocated without being connected to your tree
+{variant:15,46}Passive Skills in radius of Elemental Overload can be allocated without being connected to your tree
+{variant:46,16}Passive Skills in radius of Eternal Youth can be allocated without being connected to your tree
+{variant:17,46}Passive Skills in radius of Ghost Dance can be allocated without being connected to your tree
+{variant:46,18}Passive Skills in radius of Ghost Reaver can be allocated without being connected to your tree
+{variant:46,19}Passive Skills in radius of Glancing Blows can be allocated without being connected to your tree
+{variant:20,46}Passive Skills in radius of Hex Master can be allocated without being connected to your tree
+{variant:46,21}Passive Skills in radius of Imbalanced Guard can be allocated without being connected to your tree
+{variant:22,46}Passive Skills in radius of Iron Grip can be allocated without being connected to your tree
+{variant:23,46}Passive Skills in radius of Iron Reflexes can be allocated without being connected to your tree
+{variant:46,24}Passive Skills in radius of Iron Will can be allocated without being connected to your tree
+{variant:25,46}Passive Skills in radius of Lethe Shade can be allocated without being connected to your tree
+{variant:46,26}Passive Skills in radius of Magebane can be allocated without being connected to your tree
+{variant:46,27}Passive Skills in radius of Mind Over Matter can be allocated without being connected to your tree
+{variant:28,46}Passive Skills in radius of Minion Instability can be allocated without being connected to your tree
+{variant:46,29}Passive Skills in radius of Necromantic Aegis can be allocated without being connected to your tree
+{variant:30,46}Passive Skills in radius of Pain Attunement can be allocated without being connected to your tree
+{variant:31,46}Passive Skills in radius of Perfect Agony can be allocated without being connected to your tree
+{variant:46,32}Passive Skills in radius of Point Blank can be allocated without being connected to your tree
+{variant:33,46}Passive Skills in radius of Precise Technique can be allocated without being connected to your tree
+{variant:34,46}Passive Skills in radius of Resolute Technique can be allocated without being connected to your tree
+{variant:35,46}Passive Skills in radius of Runebinder can be allocated without being connected to your tree
+{variant:46,36}Passive Skills in radius of Solipsism can be allocated without being connected to your tree
+{variant:46,37}Passive Skills in radius of Supreme Ego can be allocated without being connected to your tree
+{variant:46,38}Passive Skills in radius of The Agnostic can be allocated without being connected to your tree
+{variant:46,39}Passive Skills in radius of The Impaler can be allocated without being connected to your tree
+{variant:40,46}Passive Skills in radius of Unwavering Stance can be allocated without being connected to your tree
+{variant:46,41}Passive Skills in radius of Vaal Pact can be allocated without being connected to your tree
+{variant:46,42}Passive Skills in radius of Versatile Combatant can be allocated without being connected to your tree
+{variant:46,43}Passive Skills in radius of Wicked Ward can be allocated without being connected to your tree
+{variant:44,46}Passive Skills in radius of Wind Dancer can be allocated without being connected to your tree
+{variant:45,46}Passive Skills in radius of Zealot's Oath can be allocated without being connected to your tree
+Corrupted</Item>
+    <Item id="90">Rarity: MAGIC
+Perpetual Quartz Flask of the Antelope
+Crafted: true
+Prefix: {range:0.701}FlaskChargesAddedIncreasePercent5__
+Suffix: {range:1}FlaskBuffEvasionWhileHealing2
+Quality: 20
+LevelReq: 66
+Implicits: 0
+49% increased Charge Recovery
+50% increased Evasion Rating during Effect</Item>
+    <Item id="91">Rarity: MAGIC
+Perpetual Granite Flask of the Armadillo
+Crafted: true
+Prefix: {range:0.525}FlaskChargesAddedIncreasePercent5__
+Suffix: {range:0.535}FlaskBuffArmourWhileHealing4
+Quality: 20
+LevelReq: 67
+Implicits: 0
+48% increased Charge Recovery
+58% increased Armour during Effect</Item>
+    <Item id="92">Rarity: UNIQUE
+Warped Timepiece
+Turquoise Amulet
+Variant: Pre 3.11.0
+Variant: Pre 3.19.0
+Variant: Current
+Selected Variant: 3
+LevelReq: 50
+Implicits: 2
+{crafted}Allocates Disintegration
+{tags:jewellery_attribute}{range:0.5}+(16-24) to Dexterity and Intelligence
+{tags:attack,speed}{variant:1}{range:0.5}(8-12)% increased Attack Speed
+{tags:attack,speed}{variant:2}{range:0.5}(10-15)% increased Attack Speed
+{tags:attack,speed}{variant:3}{range:0.463}(10-25)% increased Attack Speed
+{tags:caster,speed}{variant:1}{range:0.5}(8-12)% increased Cast Speed
+{tags:caster,speed}{variant:2}{range:0.5}(10-15)% increased Cast Speed
+{tags:caster,speed}{variant:3}{range:0.463}(10-25)% increased Cast Speed
+{tags:speed}{variant:1}12% increased Movement Speed
+{tags:speed}{variant:2,3}{range:0.5}(10-15)% increased Movement Speed
+{variant:1}{range:0.5}(8-12)% reduced Skill Effect Duration
+{variant:2}{range:0.5}(10-15)% reduced Skill Effect Duration
+{variant:3}{range:0.829}(10-20)% reduced Skill Effect Duration
+{tags:life,jewellery_defense}{variant:1,2}30% increased total Recovery per second from Life, Mana, or Energy Shield Leech
+{variant:3}Debuffs on you Expire 100% Faster</Item>
+    <Item id="93">Rarity: UNIQUE
+The Blue Nightmare
+Cobalt Jewel
+League: Breach
+Variant: Pre 3.21.0
+Variant: Current
+Selected Variant: 2
+Radius: Large
+Limited to: 1
+Implicits: 0
+{variant:1}Gain 5% of Lightning Damage as Extra Chaos Damage
+{variant:2}{range:0.5}Gain (6-10)% of Lightning Damage as Extra Chaos Damage
+{variant:1}Passives granting Lightning Resistance or all Elemental Resistances in Radius
+{variant:1}also grant Chance to Block Spell Damage at 35% of its value
+{variant:2}Passives granting Lightning Resistance or all Elemental Resistances in Radius
+{variant:2}also grant Chance to Block Spell Damage at 50% of its value
+{variant:1}Passives granting Lightning Resistance or all Elemental Resistances in Radius
+{variant:1}also grant an equal chance to gain a Power Charge on Kill</Item>
+    <Item id="94">Rarity: UNIQUE
+Aegis Aurora
+Champion Kite Shield
+Armour: 1464
+ArmourBasePercentile: 1
+Energy Shield: 296
+EnergyShieldBasePercentile: 1
+Variant: Pre 1.1.0
+Variant: Pre 3.5.0
+Variant: Current
+Selected Variant: 3
+Quality: 20
+Sockets: B-B-B
+LevelReq: 62
+Implicits: 0
+{variant:1,2}{range:0.5}(80-100)% increased Armour and Energy Shield
+{variant:3}{range:0.939}(300-400)% increased Armour and Energy Shield
++10% to all Elemental Resistances
++5% to maximum Cold Resistance
++6% Chance to Block
+{variant:1}Recover Energy Shield equal to 4% of Armour when you Block
+{variant:2,3}Recover Energy Shield equal to 2% of Armour when you Block
+{range:0.866}(10-20)% increased Elemental Damage with Attack Skills</Item>
+    <Item id="95">Rarity: RARE
+New Item
+Kinetic Wand
+Crafted: true
+Prefix: {range:0.958}LocalAddedLightningDamage8
+Prefix: None
+Prefix: None
+Suffix: {range:0.077}LocalCriticalStrikeChance5
+Suffix: None
+Suffix: None
+Quality: 20
+Sockets: B-B-B
+LevelReq: 59
+Implicits: 1
+Cannot roll Caster Modifiers
+Adds 14 to 228 Lightning Damage
+30% increased Critical Strike Chance
+{tags:caster_damage,damage,caster}{custom}{range:0.829}(67-82)% increased Spell Damage
+{tags:elemental_damage,unveiled_mod,damage,elemental,attack}{crafted}{range:0.5}Attacks with this Weapon Penetrate (11-13)% Elemental Resistances</Item>
+    <Item id="96">Rarity: RARE
+New Item
+Sacred Chainmail
+Armour: 2660
+ArmourBasePercentile: 1
+Energy Shield: 566
+EnergyShieldBasePercentile: 1
+Searing Exarch Item
+Eater of Worlds Item
+Crafted: true
+Prefix: {range:0.789}LocalBaseArmourAndEnergyShield7
+Prefix: {range:0.845}LocalIncreasedArmourAndEnergyShield7
+Prefix: None
+Suffix: {range:1}FireResist4
+Suffix: None
+Suffix: None
+Quality: 20
+Sockets: B-B-B-B-B-B
+LevelReq: 84
+Implicits: 2
+{exarch}Flasks gain a Charge every 3 seconds
+{tags:physical,elemental,cold}{eater}10% of Physical Damage from Hits taken as Cold Damage
++283 to Armour
+99% increased Armour and Energy Shield
++70 to maximum Energy Shield
++29% to Fire Resistance
+{crafted}Can have up to 3 Crafted Modifiers
+{tags:block,unveiled_mod}{crafted}{range:0.976}(5-7)% Chance to Block Attack Damage
+{tags:unveiled_mod,defences,energy_shield}{crafted}Regenerate 150 Energy Shield per second while a Rare or Unique Enemy is Nearby</Item>
+    <Item id="97">Rarity: UNIQUE
+Anathema
+Moonstone Ring
+LevelReq: 49
+Implicits: 1
+{tags:jewellery_defense}{range:0.793}+(15-25) to maximum Energy Shield
+{tags:jewellery_attribute}{range:0.78}+(30-40) to Intelligence
+{tags:caster,speed}{range:0.732}(10-15)% increased Cast Speed
+(10-20)% chance to gain a Power Charge when you Cast a Curse Spell
+Your Curse Limit is equal to your maximum Power Charges</Item>
+    <Item id="98">Rarity: RARE
+New Item
+Leviathan Gauntlets
+Armour: 1176
+ArmourBasePercentile: 1
+Searing Exarch Item
+Eater of Worlds Item
+Crafted: true
+Prefix: {range:0.521}LocalIncreasedPhysicalDamageReductionRating6
+Prefix: {range:0.669}LocalIncreasedPhysicalDamageReductionRatingPercent6
+Prefix: {range:0.75}IncreasedLife6
+Suffix: {range:0.944}ChaosResist5
+Suffix: None
+Suffix: None
+Quality: 20
+Sockets: R-R-R-R
+LevelReq: 84
+Implicits: 2
+{eater}Inflict Lightning Exposure on Hit, applying -12% to Lightning Resistance
+{exarch}15% chance to Intimidate Enemies for 4 seconds on Hit
++111 to Armour
+87% increased Armour
++96 to maximum Life
++30% to Chaos Resistance
+{tags:attribute}{crafted}{range:1}+(26-30) to Strength</Item>
+    <Item id="99">Rarity: UNIQUE
+The Tides of Time
+Vanguard Belt
+Shaper Item
+LevelReq: 78
+Implicits: 1
+{tags:jewellery_defense}{range:0.854}+(260-320) to Armour and Evasion Rating
+{tags:life,mana}100% Increased Life Recovery from Flasks
+{tags:life,mana}100% Increased Mana Recovery from Flasks
+Flasks applied to you have 25% Increased Effect
+{range:0.5}Life Flasks gain (0-3) charges every 3 seconds
+{range:0.5}Mana Flasks gain (0-3) charges every 3 seconds
+{range:1}Utility Flasks gain (0-3) charges every 3 seconds</Item>
+    <Item id="100">Rarity: MAGIC
+Bottomless Bismuth Flask of the Rainbow
+Unique ID: 8e5810f5c78ef86630ea396a7ce82583a6b64dbe291b7014610fb5cf8d443097
+Item Level: 85
+Quality: 20
+LevelReq: 64
+Implicits: 1
+{crafted}Used when Charges reach full
+38% increased Charge Recovery
+20% additional Elemental Resistances during Effect</Item>
+    <Item id="101">Rarity: MAGIC
+Chemist's Sapphire Flask of Bog Moss
+Unique ID: 9cf744f1093140cf178fbfd0380f9a19865b2ff1aca3662296a1e273abbafce4
+Item Level: 85
+Quality: 20
+LevelReq: 65
+Implicits: 1
+{crafted}Used when Charges reach full
+26% reduced Charges per use
+53% chance to Avoid being Shocked during Effect</Item>
+    <Item id="102">Rarity: MAGIC
+Chemist's Topaz Flask of the Armadillo
+Unique ID: 7efa08e7eb1008a4002dd105012271bb5b6260e28248564c81ac7d67bed4f995
+Item Level: 85
+Quality: 20
+LevelReq: 67
+Implicits: 1
+{crafted}Used when Charges reach full
+27% reduced Charges per use
+56% increased Armour during Effect</Item>
+    <Item id="103">Rarity: MAGIC
+Perpetual Ruby Flask of Bog Moss
+Crafted: true
+Prefix: {range:0.648}FlaskChargesAddedIncreasePercent5__
+Suffix: {range:0.261}FlaskBuffAvoidShock5
+Quality: 20
+LevelReq: 66
+Implicits: 0
+49% increased Charge Recovery
+52% chance to Avoid being Shocked during Effect</Item>
+    <Item id="104">Rarity: MAGIC
+Perpetual Diamond Flask of Incision
+Crafted: true
+Prefix: {range:0.701}FlaskChargesAddedIncreasePercent5__
+Suffix: {range:0.507}FlaskBuffCriticalChanceWhileHealing5
+Quality: 20
+LevelReq: 66
+Implicits: 0
+49% increased Charge Recovery
+53% increased Critical Strike Chance during Effect</Item>
+    <Item id="105">Rarity: UNIQUE
+Wilma's Requital
+Solaris Circlet
+Energy Shield: 277
+EnergyShieldBasePercentile: 1
+Quality: 20
+Sockets: B-B-B-B
+LevelReq: 59
+Implicits: 1
+{tags:resource,mana,gem}Socketed Skill Gems get a 90% Cost &amp; Reservation Multiplier
+{range:0.902}+(300-500) to Accuracy Rating
+{range:0.78}(200-250)% increased Energy Shield
+Increases and Reductions to Cast Speed apply to Attack Speed
+{range:0.915}(20-30)% increased Elemental Damage with Attack Skills
+Ancestral Bond
+Corrupted</Item>
+    <Item id="106">Rarity: RARE
+New Item
+Amethyst Ring
+Crafted: true
+Prefix: {range:0.225}AddedLightningDamage8
+Prefix: {range:0.085}IncreasedLife6
+Prefix: {range:0.75}WeaponElementalDamage4
+Suffix: {range:0.542}ChaosResist5
+Suffix: {range:0.099}Strength8
+Suffix: None
+LevelReq: 59
+Implicits: 1
+{tags:chaos,resistance}{range:1}+(17-23)% to Chaos Resistance
++44 to Strength
+Adds 4 to 58 Lightning Damage to Attacks
++86 to maximum Life
++28% to Chaos Resistance
+35% increased Elemental Damage with Attack Skills
+{tags:resource,unveiled_mod,mana}{crafted}{range:0.5}Non-Channelling Skills have -(7-6) to Total Mana Cost</Item>
+    <Item id="107">Rarity: UNIQUE
+Stormshroud
+Viridian Jewel
+Implicits: 0
+{range:0.963}+(10-15)% to Lightning Resistance
+Modifiers to Chance to Avoid being Shocked apply to all Elemental Ailments</Item>
+    <Item id="108">Rarity: RARE
+New Item
+Paladin Boots
+Armour: 660
+ArmourBasePercentile: 1
+Energy Shield: 159
+EnergyShieldBasePercentile: 1
+Searing Exarch Item
+Eater of Worlds Item
+Crafted: true
+Prefix: {range:0.254}LocalBaseArmourAndEnergyShield4
+Prefix: {range:0.669}LocalIncreasedArmourAndEnergyShield6
+Prefix: {range:0.859}MovementVelocity5
+Suffix: {range:0.155}ChaosResist6
+Suffix: None
+Suffix: None
+Quality: 20
+Sockets: B-B-B-B
+LevelReq: 84
+Implicits: 2
+{tags:elemental,lightning,ailment}{exarch}{range:0.5}(33-35)% chance to Avoid being Shocked
+{eater}{range:0.5}(33-35)% increased Armour from Equipped Helmet and Gloves
++58 to Armour
+87% increased Armour and Energy Shield
++24 to maximum Energy Shield
++32% to Chaos Resistance
+30% increased Movement Speed
+{tags:elemental,fire,cold,lightning,ailment}{crafted}{range:0.5}(16-20)% chance to Avoid Elemental Ailments</Item>
+  </Items>
+  <Skills activeSkillSet="1" sortGemsByDPSField="CombinedDPS">
+    <SkillSet id="1">
+      <Skill enabled="true" slot="Body Armour" mainActiveSkill="1" includeInFullDPS="true" label="" groupIndex="1">
+        <Gem nameSpec="Kinetic Fusillade" skillId="KineticFusillade" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="Ballista Totem" skillId="SupportBallistaTotem" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="Greater Volley" skillId="SupportGreaterVolley" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="Less Duration" skillId="SupportLessDuration" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="Increased Critical Damage" skillId="SupportIncreasedCriticalDamage" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="Added Lightning Damage" skillId="SupportAddedLightningDamage" level="20" quality="20" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Helmet" mainActiveSkill="1" includeInFullDPS="true" label="" groupIndex="2">
+        <Gem nameSpec="Arcanist Brand" skillId="BrandSupport" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="Tornado" skillId="Tornado" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="Conductivity" skillId="Conductivity" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="More Duration" skillId="SupportMoreDuration" level="20" quality="20" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Weapon 1" mainActiveSkill="1" includeInFullDPS="true" label="" groupIndex="3">
+        <Gem nameSpec="Frenzy" skillId="Frenzy" level="20" quality="0" enabled="true" />
+        <Gem nameSpec="Power Charge On Critical" skillId="SupportPowerChargeOnCritical" level="20" quality="0" enabled="true" />
+        <Gem nameSpec="Greater Multiple Projectiles" skillId="SupportGreaterMultipleProjectiles" level="20" quality="0" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Weapon 2" mainActiveSkill="1" includeInFullDPS="true" label="" groupIndex="4">
+        <Gem nameSpec="Faster Attacks" skillId="SupportFasterAttacks" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="Shield Charge" skillId="" level="" quality="" enabled="true" />
+        <Gem nameSpec="Faster Attacks" skillId="" level="" quality="" enabled="true" />
+        <Gem nameSpec="Frostblink" skillId="" level="" quality="" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Weapon 2" mainActiveSkill="1" includeInFullDPS="true" label="" groupIndex="5" />
+      <Skill enabled="true" slot="Gloves" mainActiveSkill="1" includeInFullDPS="true" label="" groupIndex="6">
+        <Gem nameSpec="Sniper's Mark" skillId="SnipersMark" level="20" quality="0" enabled="true" />
+        <Gem nameSpec="Mark On Hit" skillId="SupportMarkOnHit" level="20" quality="0" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Gloves" mainActiveSkill="1" includeInFullDPS="true" label="" groupIndex="7">
+        <Gem nameSpec="Steelskin" skillId="QuickGuard" level="12" quality="0" enabled="true" />
+        <Gem nameSpec="Cast when Damage Taken" skillId="SupportCastWhenDamageTaken" level="4" quality="0" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Boots" mainActiveSkill="1" includeInFullDPS="true" label="" groupIndex="8">
+        <Gem nameSpec="Wrath" skillId="Wrath" level="20" quality="0" enabled="true" />
+        <Gem nameSpec="Grace" skillId="Grace" level="20" quality="0" enabled="true" />
+        <Gem nameSpec="Enlighten" skillId="SupportEnlighten" level="3" quality="0" enabled="true" />
+        <Gem nameSpec="Clarity" skillId="Clarity" level="14" quality="0" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Body Armour" mainActiveSkill="1" includeInFullDPS="true" label="" groupIndex="9">
+        <Gem nameSpec="Unhinge" skillId="Unhinge" level="20" quality="0" enabled="true" />
+      </Skill>
+    </SkillSet>
+  </Skills>
+  <Notes>Archetype stage: early_maps
+Kinetic Fusillade Ballista Totem early maps setup using the crit swap tree and stable ranged totem mapping package.
+Applied changes:
+- Set class=Scion ascendancy=Ascendant
+- Set level=85
+- Selected tree '^xE9B3FBLv 85 (Crit Swap)'
+- Selected primary skill group containing 'Kinetic Fusillade'
+- Set main skill to Kinetic Fusillade in group 1
+- Set movement group 4 to: Shield Charge, Faster Attacks, Frostblink
+- Set config enemyLevel=83
+- Set config conditionEnemyLightningExposure=True
+- Set config conditionEnemyShocked=True
+- Set config conditionShockEffect=10
+- Set config usePowerCharges=True
+- Set config useFrenzyCharges=True</Notes>
+  <Calcs />
+  <Attributes />
+  <PlayerStat />
+  <MinionStat />
+</PathOfBuilding>

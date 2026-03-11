@@ -1,0 +1,9 @@
+{
+  "class_name": "Shadow",
+  "ascendancy_name": "None",
+  "level": "32",
+  "skill_names": "<error: 'PathOfBuildingAPI' object has no attribute 'skill_names'>",
+  "items_count": 19,
+  "skill_groups_count": 0,
+  "trees_count": 1
+}

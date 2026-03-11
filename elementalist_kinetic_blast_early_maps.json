@@ -1,0 +1,818 @@
+{
+  "source": "eNrtfWlz20iS6Ofhr0BoY1_YYUoGUDi99mzoltySpRZluz1fHCBYJGGBABsAJdMd_u-bWQUQBRIXD7e7583OjocC8qjKq7KyDrz-368TX3qkUeyFwZs95UDek2jghgMvGL3Ze39_tm_t_e8_O69vnWR8MzyaeT6--WfnH6_Zb6nvBAMvebP3LgzonuT6Thy_cyb0zd5HL3HHe9KjR5-uwwE8uLy-vbm735N8-kh94CQDJ3fsRI6b0OgKHx7OkpDDJtEMqDmxS4PBcU7z1KcTGiSO78XJnjR1gmRMw-Da-RJG5-Ega8TiuRcUnk8cL-iF7gNNzqNwNoUm7EmJE41o8iHrPvks70Hf_vH61nfmNOolTiLF8M-bvUMQkTOiJ84E_oVuOf4MGmQoimaaB6auy6Zukr2XtchHsyhONqPQm1I6WCDpB4qhqFWwtxE9HQ6pm3iP9DjykuOxE7g5RxR8Beb60NczP_GmvkcjoXFWFcbFOuTvQ1D0yW1vAUsUXbd168C2bM027Hq8MFngVXIAEx0f-SDYDbhcjgIvoQVEXdONA0M1bPhF1DqmJciKrWiKfmAoBuCSOuTb0IvDYAvBbNDoa48Zv4Co6ESzFPXAsmxTtpRKG5n5PsQLEbNSHXc0ptGjk3jF3lXbXzjpe0FRe5qpGqpqHeiyoWiyVumQEXVuhtxL7pyBN4uvaRLROO_egVkpCydwjsM4ty9NqwO9pRFEsaSAITcg9KgbQuATUVTVPJBt1WrBqpxAJc8rb0jbQ67VnRRh3dZs1o_TXlu4tQlv1qA7cJl2kL1w5reETPJAa1Uawwn9mluyVgl2GQj2pdVQewzRKZtbxyLM6cVt7hqyYpsHRNMhQpmVbnI7nsee6_jXzldvMpvAKHHvPNBAGCTA-qsNZjROAogxVdhElXWjCvvMi-hGiMehP9gMceyEcXVPNVWvdnEvuIB069B1Z5A1zXN-tmHU-VMOaFQPt5BhuK8Q-jJwcxNT6ui-DyIWsoXMpI4DotyB_2Ay1Pdpa5ycTeqHbbIHzmxEg5RjLi3VIgd6HdoVpe74HIR95yS0XcwWBEZqBYzAooDrtB04JQJWiNUOY0VWxoFtaoqR_lNHpFxuVi3jcqEphnpQaZqnAY1G897Yo37eP9XUSBuErHnHzrQVLpO-SEDUgqK3Y1kmFrkN6pom9dGJBu3Gl9yJasHWbfqjE4sBH_xMt-olyzFEodYYKoWkGzAGdGk2oOvVc5rwC85o_DXxDqNJOItajKvYCQ4s9kFuGrL4bO6ODmZuYYisnp0tpmZHPsxFlzqiyY1o0FLfL8OtRD1MEsd9OAkHI9oWhTFZC6PYvt5sOoVAhCbRfsKHYzHMATwhDzL1ZuAbsGkxCuhy3ZjdmkEOvMxAVRpzkdZcljBWWJm1acQSG70N9DKLZo1eQ9TAsgurQVyHwlh0UJnSncG8r9UkjgEW56TVThc-QdvHWLLJZ2p6G2jIt5oRziIafJsv0yetwEUGNePXABI38IbWPJYxytjcexOIp3F84iSOFLP61pnnJzQ6AW0jLkpUGqRJ_Acn8pwgUVj1a-mhyh7G1Inc8RUgv9kT_zpzfL8PgQSeIuPXL1kBEH_dR5RKTub9LlJhLcM_xCLe5QAsOi0S4m-CNbkYWjrntha_2fvD1i2ja9uW8b37B9FlYnUVQ9d0-MvSzS5WOvANZEGG2jU0y8Q3RCOK2VVMW1PxL0Umdle1LRP_sFQZXtmazQBVA4holm3JDM1UCQAaOqIpqqLqXaKpjIhBNEvt6rJtk-97UuIlPohxNh2w4TsIBzTGVIyYelc3DM3o6pqmAR9dMcyuqsv4r2noBvCyTKvLOgVpF9G7QFjDl6ZlAXloQVeRdUXp6qpMFHiLqNAbmXQtW4PO844qmmIDAdWA9soW9Eg3FB3eWqZhg4BsXQNI21C6mgoPDFnT5C70lXUWWHV125CNLrFNxepiqwkQ0BAc2AJ5SJyAgGpaQF4DEl0QlKV0bWykamtAHWY0KvJTUCqKrmrdVHq6Bo23NeBKZBswUUvAGKhqRJblLtFVXQeqFvRUA1EDT4JdNA1TAao2NEWTNWBMbF0FMUA7DRCJooBkTRUI6jB7hAYZqgWEiYoENGibrluWDIIxdGyEashM4CAM1YJGc2UCPxkkrmsqMITXAKmAKoAhAXXYNjaP2QexFNPoqqoNjTR0C7naqiqDUizQAeJD95hZQbugBanBqRrqHwwIBGMZwEmxiAYNVm0ZVWPCv4aqQdcMi3G1FBkar1gadMRGiWs2NsQEpYNQFTAjYA4UDBsAsR0gZQJ8gZ-OIBb4BXRERTKKhi020UFANBooHTQPdgHCJF3DhJ8q4AIPXQXF6QTIo4YRnJm2YsigPgWNQAWjheaBFZhdUKEC7qLL0EkFvA1ki9YJpgEiACqAw50ITF1BM1RtcBr0UwwVWBtxovlh0eUDzwcXghghlNlhYMMQ8Y_X7--u2I9_jJNkGr96-fLp6elg6iTjcEi_Qrp34IaTl1OgBMFlP37wfH8fSb08hP87Gl0fj05-_UzefzJv1Yuof-jtm96Hefj7LbR0fv21N5qeWPFn209MZX4lv_P6j4Zx-vj-_bD_24N_9-uXUPXujhPzaBw89o1fjHdO_214-y9yqT49PL7_dE3toRPsT99--frtxD98unvqv727pF8-ydcPn3_7cnOoBJ_J70PN6w_Gv1xffDv9df_-rXLxr8C7cT4N4uO32u3QS05-_dL_TE6_nh-pD1-elI-_xP3DeP7x2B48ub99fiCfzQ_up9uv11exf7__4fJsYunK_Y377tcLem8lF9qnd_DqfXw6-Wp9in795cHv3ZKb2_2p_Xv09os-P5l-ml1HF_NxtD8aG-fz2b_U4eAX7-h8Qu1PF7IxuO6fh0r_7ZfE-kbCr0-PQ-Oo_-F9FN2fvT1Wrq9-m95_Mgaxbu2fDPVT82TwGHjvtJPD3uXRL6PT0fHcPX7725XtfPs0ce3eRUiS00Nlcvbk2YP7Y_rh9mkW0Xv7_Cz89O7rtwuyH9nvh_rZYfjpC2UKfplp-DVfe4m5utO_JC-hEzYWKDyu4m_mR3x0WwVUjRyQhbIqQEWgyLy_ElATWUOkrQTUc0AWjCvbaAoUwZlTuNcvRRG8xkws8mAo4eP4Sxwu2cCK4yn-uJxMwyiR6Ff8n1snSuZv9oaOH1M-APfQG2IYxIfOzE_O6eTXmeN7CMTG--zpFV9vC8JosiixgbMCSXgZH80h9coW3AoPz3DiulRlj8fhE-b2HO5-PsVx8PDqir859JO0CUgka2uWGWBrezTBBIxnB-kDyRvgs2yQhcghjZwJTeMDg5JiPwTEo3Awl7IZHa7mHeaUWeqy9OzY8d2YvfCdPsoAlzax9DTIOuwFrj8DPQVpvpq1OVUrdAOyLZYboSp_ATkknnsEgQ2S7t8zaatyRvfcD_uOry7EiY1AveUNYY9WaS0gGVBKGcFOuBpXGh6AhHiulRKSUkpiQ5QM2g1nASedLr5ik0fcVq9p4kBa47y8BOONX6LmXjLpwa9CI1-WCyU1h57jRnTw0YuncWvRVKFvIQ1OR0oJ7UYYC3sXG1kvjTuazCKc1uV1i43EUkunnUQWJKQCjR2LprSh9TK6DECaTkwHuI6c11I2EVMTqXaSWlCRMjJSRmfH0qpqb73A7iMvgM5sIqBl1HYCWWDtuPsZ3frufgh9B-xowx6XYLfrtIi4434LpBcJATa7bKQLk_injHG92WQSBpcuPQ99OhEk30LwRUz24ho0HQZLLV1-s0GYZ7wkYCal3HY67tV0JeNNB4vXL-sk2UsAdkNZirh_gjQZux8ozztIfusEKnS3VqSLmumGYl3G_xNEu2D5A8Vb061cxktAtXI-86EbG8pYxP0T5MvY_UDZVnQnl6sA0BDaoV2P9CfFdrYWyUvJa6m0DK-lfhiqlOHuVjVis-pziTNWZuYLYfF61lyD304EHFdaIO84qRCb1mR7F9Sf0OSn2N5ZFMZJ3_eCh3XEX4LVUugC4k6NTiD81xX2bURdj6_gt5f1KlI7UQt4O5V0TvevmyzjWneMG1xx__MaUaUMr2VALaDuNp6KpCvi6X0YBc4gXKezyygt554Z1k67mFH9647RFxjO1xFvEaGdcFOcnYqW02wQ7EfqTCFdU36OtwbelEbxtROJY5CqNHprCV5LZ2WY_w_6HP9PLHECO46RWbUNJPsQ0Lip6IZtuAkuvGSDJGgVt50UEE-6CSSGuePsJ29TpeX9DEvzRp5_M2Q7UNYSdBleS1NDVCkcSinybkcGsV0VBvbReaQ3w-MwePTSrXDt-12J267viI5dFwns1s1m-RTjr2Fhv8489-F8xvaJtpdzCVa5hNOVO8G8Ekp9oLNryeZ0K8wKzwROnHUNqgSrnSmJiDvtqEB4xY7Snz2asOVfvq7LFoCRTrp-ir_Z8imwnsWUH0Th4yl7nKqMrdAmTnLiDYc0ooGLK7Ss6YwTUmELrnyL1j_uQNLJ_JV0d3h32nlHnyQE6FxO-jNcRXOCQec4coYJHbySkEgHkvKh9_WV9EfkQJr4SvnOd4qy5YubgDdHW4W6Cl3HPxwMhAIUx9EXsHhGs9ObDUVE-UDnqIsFEz7PZTsRyTJ0yiZbU-klkfeQ7l_NYRmbdJX6laTKnXRJ_pV0tA__6bDV8jv6-ytJt0EOU99zPXyrdP5InFH8ymXT7c8D1vpu-j_84Xeh1c8I2Sfm8_9Gt04XlZik0hWljq5VvgIxxZIuJaFka0LhMH2rqCIiF4fE5NFRCzQXa1hcDhIXBLO863Bwhy1NDUFizQavyo5FLEGojRCkEUJrhNBXIV4zRyrarVpntxdONAkDzwWBePBe4hWiDt-Jn_71SjLtjrg3_wjElR6WgDwKNb0Dk0cbWBgtHiqpMPSGP1oZqqFvY6iKvK_oGxnqC9NEK53wLSUS9rLzh8tlJ7J48czaV2Rg4TITRJxsf3iR4F_HNsssj9RZ3pXnjrM8_9iLXJ8my2ZHZH0bu1uNhSKxlFBV6C3F0XZskgWjtDTRKOXOC5WIxlKQTccoBLXiu90YRZlCtTqFvqNuFOK-Gr7fqJMecAE1WcTI_lpV4bLObWW7WMO0h1gpxztIIYLRYVChyCqtc-RKtK31f76_-E-dDVhsWEtbI_G-dAyzoPz0JaQeS4bwQrWqLejPCh1ldqTX2dEtxDzI_KRrL0ni3IpUi7Q2It3YyIaYtpqGpTY2sDCqsixMbW8dNZahyJVZzQtDXRllflxMMNrokhWc_1RdLtRnKtb37DzOB-qHIMC5thMtr-fpdV5eojBVF_WbdSDV8I_TplmnzWMPEuOASoeTGY7W6zlR_VymWg8tRZ9LV7VE6ap5gnXog_adhMbSYTzuSmxdikXNXhJGkzQJdBLoY3-W0GI-phj7qvacJWIJzBFHyZhhntCvkB2CqPgchKmRrM5B8HG6mvkDvfNHpXFWnU0cTmgynoMg73BkaszHmBXgQcEKA1CK6icbuWFuC0QuTfTxbF83Yof7ML9eUrW5rxLIvUFJ7BCgdLcA5FpWZHynWBL2o0zDuvbTNFymP7s2DadOMqaRdET9pCm1qouQ2-lJKa0cgIYgkXRp1wd-RSWp-r4mP18R8wvD_hOHPkWujZZYBUukt_SJ-s2OkY5pBRFz1NbpBvOvPM_g2LmM5eKgo1XmD4b45s8SZW117Qo3rEjH_oztC2kp0cPh0Oe17XdhgnXJOxrQJ2ddgS5TuY28SRgNPJhkhFjsExslsULkK8lZIH2esG1PaVFhCfpdOIBeYXkUcgKxjlbID4gwgmH4saRbfriLc4vz16rEwuvSe8mJaNY8npMUCGKNYuL4_jLWCGQA7eLbtvDMjONLxaQzq6-VcZW8WMolJTFRVQJmivm7V9oUdS8rxK_Mld-_u_z1_Wnn1KcjeC1dzPqRF3eyk8hS5qzOaAZJ7RUdgdA76SHjV9KxM_CiUHrWm00jyAMh7XCdAVaqnwswYy-ZxTnM6Sh8Lj0DW5fIgaIcyALoB7BN-C0QPIfuDXCMw6sKRaJOPC1wvgHzDRJWlX_e6UHbXTAjaQGviXmY3OEXhUF_0H87V97EQ-gkxBBfCEZ_pGKDQUbwveNwMvHYlQiA9UyVZXlfMeBfCPxu6IFRQqh3AYaCmUFel4opJ6ZuRYzJMydGtiGWSTwnp23XUaaWTupJMTglGCjKmjn7cRj8PqN4qqc_l2B0l04h5gTghqcTQKOdC0hnwshz_1YOtwRhtHRJsoEbMmxmyBCXjfZWXFCjTogh_3uor1SwmhDriFwqZTyNCT2EQVM6jV1nSjsfvMiDASFYinc9nM0H8GARSA7dCNKnxHNj4RkuzSVRNpzkz6MofILRKHBxCiI8jilKLRxKH2DGRlkCn799dMAj8SXei5I_P_LDEObbzgjkW3wYh84D6OTIh9ArRkgYwzD5jyaxGIxx4nAZhO7MZ8FSeAVtn3mJ8ACGyTgMWAcEwifeI86102rd4vGpP4jwnljpCGaqNJqLb9KrXqXT32ee74FlzyZlr_EUrR86ItHUwD6Fs2ScPz4f4wx5qV384R11gIrw1OfiR1E9CYK4oF9BmJjz5M8uJ5AYI9GBxFbWhTcRyOE88qZLj-7o0Kdfabz0-CPkD_mjK4q-0hsX1AOKpH0nEJ94MG9HEcC7pNAunuqA1mAg7LNDR_k7VtyewE-sb8PoLDTl1gH3hQR6FjABCy9ohHd0SIejMBBI3UJISNCMggfhIdu6SaV76o4DD9w_fwXTz9CfJeXvgGkfOiR2oxf63hRmrILuhZwgf3gP0jocBaBN0dTxKfit44sk3wdPqG7Uby8pmsMHx8HU0RX6jZcW4KktjGSgakAQXn703Ae2UC7q_SPqhNmZwPRfkHGGSbZEdOOIlnmKt3IlY2zQs1_DKxAN2GT6tiwvIXkuwpLddrlIVzO-L2XFeaSGyJEHKcmFmNankpOWmAbSk5eMwZvgITbSDYOANwlCxRwmtex2ByFTaWRViH3bstOMLqlnJ4bUHXDTGritRuptmeqNEi0MADvoYz07YVzZlpfZ1LWV4WoHvbNqOYqj4A6Y2fXMlgfXbTni7TD1Ek0H7a0ZNYaUQjKwA0kqai27QpKxC3b1YWU5edlanlqTPEuToq3Z6u3ZZsnWLoTbwFNM4rbuYmOQEZLDXfTNasGMJ5274FYfYIrJ7NZje2N0yZPkHfRNVWp5LSffW_euMXVZJPVbsyKtWGWThV3IUmtmh5OQrXvWGFCEyc0u-lXPLJs07YKTWc9paTK2tSCtJkGuTvJ20cv6eLIyedyWJWkMKUuT0q0ZNiYuhcnuLuYn9YmLMIneum-NYWVlcr41y8a8ZXXSvzXPxhiTFxN2ob96XosixS5Y1ccYofixC2b1iYpYVNkFN7uRW1qs2ZpZY0hZKQLtoi5Qn6wsiku7YFUfUEqKVrtgWj8fEophWzNrDClCkW1rZo2xZLV4tyHP4zCKZtOEDv7NFquWIMxGCKsRwm6EUORmkGapKs1iVZrlqjQLVmmWrNIsWqVZtkqzcJVm6arN0lVb2GyzdNVm6arN0lWbpas2S1dtlq7aLF21WbqkWbqkWbqkRUholi5pli5pli5pli5pli5pli5plq7WLF2tWbpas3S1FhG3Wbpa2x05-rbL_9qGy_-KZmnqv_P6f-2-_-yK3ebzsPIBMQzhtGu-N1iRP39ehTYUIkDj0s0CuoQ0qTlIq8ir-_1Uteb4rL4Kbxhq9RFao-G4bf4lULLZscVjJwjCRIpC30ebwvoJqNIbAsU426rM9sMqtsVXucQDszbbh66YRNzHnKKxY4pEUUtO05qV-0aJ2eI07Qs8cwvE-SHxFahcJv_f5XulXmb-7MO78oFpq8Wd39YqjKKVHvI1VyFtY9nD2JeZ0hYBrrHqZcQy8fBGvg8_NrY-AWz9wBPAZuHszvHiDC_raccyq88HK6qxuqcdXQ4e4hJrvq4kCGPlCLHydzxAvIWTKTUOZG15BlkjTedRe9RhRZHTr_jdH0741MFgjJPuMPIhoPIDAQ071lWl0c9kRWs-0myWjIQqsWsQrbKd78IXsEpGPjxWl39RrMRpbU37nn8RzNjsFLSaOiZ3xe9_UCbj79rqNnRpCgJn1-2kV2emmNP0s3NdmrlOdwjNBlKoou_Gf7MCbwqU0RpG4QQvX4LMDT82KjlxYfh8odeczLZrTmaDf68e_nqhycy_GQfhrNELTeGHkHB0Fp-rVvnhpP8USFoNqfbPPny8q4ChkYZ4oZQeuiQNF8iYljDeZ1_OBQFpq-ksH9ruw2xs4fch6pC3l4aD8jtpNjo0C4EhjQX4jVBJkfCbnVIYZBkpOG8ndXHh-wrSrYeakFTJGQw83DoEPn-P0QKU_ULRmsfL_JinSmqPeSqk-nw24efyM9lmx_ohOih_4aOhPy8LVuWN7p0guqm39lqTqH-K27a8oML6XDb51VaS5_J7KqzNrreAP3vJbPHV27JBnVT4_AW4gv65zPEtxRQShZJMQjeIkCjom1-XsRQTnEBafAwyzQkkiv2SYF7Lv7wWt0sSFGWjLEFVm-PJC2KW3fChaG2v-LDk6lTkBdHKMwtCSjOL4tweTYFxZNMWKbOK_6yytItZys--F2NnaYZROS-pPvm9iDu565fnD9kUg5QkInJdhrFp2sAcPvdzPxvDu47n47PFJGPRymeavq-Zhcn04WPoDdKFy94YuQ-ydKNQJ9D3leKVdsch-Fz4FCzcCT2eXcV5HzmP2QnilslIacLwQrXLnV6Vy6cNXCKz4JGC4Qw-T8JBN8Y85fsf7iwGIxUEoer7RH5eczFJW1pcOmRfMQpiHWHcvgli35mBVqRhGElaFqoxufsFD_zUZETKv00-pGwzxVHFc8hq6QrIp_CB8s0xeOklDjk3wfxrdrOLeCxJIgeqdiAL59VmUYTnnFZP2aiC35ly4y0suKeR-XBqNl9w9cUHn_i8cgkLVrSw6GY8zyphhxlIvIK9erFHiq7Kz0tdY20CywNnM4H01goZb61gJPK5g0CHgItGdDDD3bknkLmwww14VoWHJuYDEPQnHvZa8CR9pdiHMUk8VZ1isUxF0kvKJ-hr1IFxIplPqcATt2JIY7wu2AvYpQaAAq1IxjBwrB60XmKUNWwn3D7hnpC8AJpSwl0lvLdbzZSUhrigNEQF5W-Ssyit94WUBhYiHvotDSy4Je3emWBEuY28GC_wdfndQNlh35MQ3jLT7krvQJtg_Z1jB1Q6j_H84SzqQwyC-JI9Ewf6pcAkH6w8UvV2sYo03hLU7M5pjb2-Nr9EK888HFYT-C44qVJwzBVTx_1Si0pCevVHa-rqdyJvS12UQ-mFDS8WKyNryaSMrtolK7GTbC7t9mJuQ6NJmGLk1cW4fBZR-o12ecRik6vLUeAlhZOg5Dtes7IOjvK97GIWVhGvQs5GkrkYxNUyKswu2CwXsRcjUUvizbIkQn5J0vGxyUxXm7MyoOSI2dCyaNR_6uR_vY2ENUt4qraz--dsyyhOZY3yPSN89XphQpWXFWpyeYndLCmD2Zo43S2pram69n1Bh0OZxZXtshFRWNLWfsBdd2yhS7PqbzS07ZJFLVKd5r4gejlLYm82RBUmnGVz-1UplN66jTNSfTk_xziz3NL4P3V5voO0LAW8oM5gPAvwbo3C7YJZApglfbnpaqUJWOtb_xqnjxxbk_d1vXCH5_qY-YWfVW3U5X2jrI3CdC1LZerGWiyFYFTDDYGTMMAtKHHn45gGbIqEhRDJKbztshesgoIEFhvB2NBoyIuK99_-cwZGqdGdhTO_H0aBcFPGB_YtvOU7hwq7O0ntRSCTWYIHFb6_MJtrcbm8eWCrA4YENoYsdjr150VoXlZcSV3AHBJJl9kiBLiTF8E0xp_9yOsYVbNUyOyi3HgchbPBilgLkquYEpSOBhWSKymx5iIrzgAyMf1IgdTuI3ob-gkrtcfjEY4rzZdTniMAf94bgxcPFmnJ25nnUlzAwrXxlWU8AQ-YCVvu9LKEgoPzF9hGvOYviYt7VcVdqKtrc7Yt0mCDLvMdUrmXLiuxuymXQslX21fUQuCr2AaabhZ9H9OYfzVIeqZgzJRWJK3albvplMJFpqwbfXYLy4hJl2mNX3OZbbX2Yg7Gn8bSC75-VrNJ9QW76pc3Ecup_CjULF6muIlp7iKotrwmT63dFMPcfh37NrQaS7W28Iem21oFWwWmeTYN_z2Cp8VcXa38dNHKMtHSltCSFPN78ZLrGA2WXxj-TLGwcLy6lXrVulcFrZGNzRvPLeAhh3MI13hlVESd1NBTK2Xr16tGf-j7WMANMY_ARXRhqwxbqlY1fASUVjr0k2y8ZeJAaneRXEMwgOTqt3DazsRxQ6VgtIjHY9nSJicuGnsHNp_PUBUiGnq2pFh1RkEphPAFj2x9Qa88YLDYfEmH7KtoXYdtsFneCa0WU9l0F86qca9IWDNKtki1NO7KQMtXD4javOjaSEMpuB67rPh0yC45yGT3p1l8qT3X7jBYSs8aE5J0B9Dy9eElpwGsmrvKV1b4r53AuaLUHQPOZB55ziDNRsrBlylnW-Qa7jLXq_baSU9jPNI9Bv2zqXy2M0bRSpKQ5f14ZuU96PKBVtwRVDBeiXUY01X8gm3g_NW_0lW-QnwbhSMasIn6osZ25jvxQ6ei_CRXzgEWUSJb2-S7sXgRGdyvALtPdPj_4uw4czc2_4X5sTSYsa0tlLljV8KPpeAlOaAbyQ_jdGjLKlVsc1aIyoVRDe-ayfcU4BybOoOfK_-lhbTrw_PL485J6EIykB1OOPGcCd77yBSQTgNhpptQP5zSZudmaDynhhDIhH8TYFZLSrbsKRwc86V0L9JHdKIL6vgsaSpXP9GL6lfJysYOJ21-uhfvKStmsKvlneUsu6PLZVvguG9mBsDj8Q885kjKr3H_iLfmpWoAR5mOadI5x00BdR6imsuf_WF7967TyJI6xXKlSJGL46voOzDIdvicDuSHV7ij1eOVfnznQB9UyMo_6qL8w6WOQ96PFJrebNFv8Sargjmzi0ycHRuzfGCZpNagtap4Zu7coO2_gkEbzbrpeT6GyYJ2jmeRT592rh091w1wiCnvP_lcFWWMHxFlsmEpze7wGk5sC5sDMdQfr5seTbLMoPpTxekXtP0wYd9ffrPHISRA8hL-QWW8DwN_3_bf31292ctaU4IjHfbncexkHwURicib0lB3QIPsgIa2Axr6DmgY69NQpd6TM92BcsoJqbsiRHZFSNsVIX1XhDbS2i4Utgtd7UJNu9DQLpSzhV4uqA-Tlm20Uk5B3ZoC2ZqCtjUFfWsK6-jiKBzM07LQNgqpIaPuhgzZDRltN2T03ZBZR1PnfojX0WyhpHIK6tYUyNYUtK0p6FtTWM9rwiTezl9KCKjbEiDbEtC2JaBvS2AtLVB_q1GkDF_dEp9sia9tia9vid8sfwZ3OYCHUhAOKEIatrIEnHLgXzZkr2vQiWoapAafv68jQEy9lgB7LwrAcRPvEd7jTDmD5VNTwQAIaS0BTVFru8Df14lQ0fAWw2oZsve1BCyi1RLA9zXTI8y2N83S1wm-bBFHcFO8gbANiqiYVqYtsNCb4LnuBechjXN1fhxLYKK2y9aEeoDVVsgCjrlGuiE0ruWgKDCyW8VvgYXShIAr_QXNk1YYQu9VrRXGRmWKHU3tlV1N7ZVdTe2VXU3tlV1N7ZWtp_bcX4U-kJYuLsiPaO1QBCMgZT7Oq4U9mrA_7iNnQPF4tzv-SHETRoxAHCbGX8eO78a8thhMZ4kUJ1jAfLN3enZ2enx_-eE0i9sTL3Y_4zLBNYT4lBVHCWaTPo1YQZKDxrgA_pk_TiF7lH3jmBUu2fo4P2a1J7mh7zvTmA6yyqUUz_oxh36z98GjTwz8hCaO58cl1C68hK_eNdFidHLoVUofQUqRh1GnntDpVxphIX4Bv0rqJExaNYe3BVca8WLRMlnh0nQTKb6kjNc64maFEipYyW4igjBlXeGXxjdhp1AVyr6fT2kvcZK4lVDwXE48pa439FyOVap1vnLQKJt0pb6ExpHfQrYcaBX5NvTiMGjCTqFKpMpOPzVKlUOV2Bd1nXkTNgdaRWZ7DnDLUBOBBWAYgLxLKJ36NNtQ20TrXRgwY8f7azKUVYLXEGT42kkjwRs8LZDBrlLKD3238J4MskRW3rBRSwympC9O4DShMpgSuQq3dTRGIxG2NKg1kmAwq6h843UTMocqVUGa9TWIn0OVCIGvejb2PwUrcRIWXNnm8DaRYhl8a4LsMpwdtCscjHbQGrYhNDtjUC4wlmA0-ksK1QqdT2hF7PcJ-5LSdkTQ47ajgI63HYV7L3CTWVQaNe6W05FV9LvyHCTdstGAnEFtir-47GpjCmcRDb7NN0Znt29WxP-TdA9pqwFgAbwdLbzAKts6totm1UWRSmKrYuK0-HBZ01MeCe5x81q7IMdBtycEg_lFeda4BiU-hnuPbJdNMr4NQ387gukuKWjZuv0scVPqhrOpEwwyajfVufo60guTGIgezTx_cEJHNIi3aiU7rC7Qef0ym9a9vnWiZC4NaJykW71gxPX9PTwfRYO8cb1x-HQ4eOQ3aIV-nL1g1N6FkBxh887eX11JvY-Ht9LV4f2pdH54fSrd3N5f3rzrvep09s_ws0GONJz5vkT5FWQx_1zs8aUEcovZRR7SxJn3Ke6SlfrsuriYJrOp9PRSctgH754FoRRR9hGEYMB3pz2NQ9y0MwQZhE_PgRO4hQNkY5z30Ejy567nSGzXt4_b7dqQeDsLRlHoBNlOpoe-5PozPB6JNZsg_Q4ffgEpfnKmgOAN2Q6fJzwo0afsE4QxgPq4bRSvBeVHMp_CKKZACabcDBwvnUmiufSQfuZgOIthioM72p6BSkBQI9yqzuHd2TeJ9yzuSpMwotLAG8IkaOYn2HYmp67kjikIzQ99NxyHvvQS2spkGzzA74EX0VHkzKGH7OTgDBrjSIEHs3cp7QC2yBkOw2ggeQnaSqbe18dhMPRGaTWa_8G2FPHd468XT7LtR4mX-BTnGUMHmpjuOeI1gT4YEXWCYkkbdyqx8yHpIT1mtuBhEN38eVbwKNYUsLaa1h8WJ6nyoXO5aNH5ry-hn7C7kZj4sp3Y_IYTaZDehZbeopwdO2PoDwCdn9UqXpIxEHYHdzqL3rBryq7DQVzedF0W-g2Cw-_0BWhRx-EsSIo4peIC3bFxsjDaN2HwgXktlEU20B5roUmmwqNZhGd7WohBUD8P-2vzSk1nbTw-lV4f73gMTrqMl9nb4lhThoufvbsZgqM8eiw0n36F4AJJIhZAMhK3vuNSPGYAASQTkqVlFCgyZbsY6-BzoTL4_ObEOqRFfY7JsMduZKiF11d976OHKQkdMGxmyD3qD9do6tK1FXWYplxE5bWwGgRShBfu0FgHKyqWCMuRVFVTCmjZ-Y4NUJduBFkLN_8GTjvNu2HkjluoflHK9UaefzNkcaiH39yoRSPl_brNkrA2WNijtRDQ-BsQDMW27AKSWHWoEIGsaEVGhUpDlckWMLhm7iDnYBt819Js_r2iNbwrvxy5NtrYxqqjtOC14idpCTZdd1jkBzwDZX_hz_uIUizkQwLjMOuLcDX4WxhOWJxjlwjhX7-92du3dPuAKJpuK7qukfTFJ3hhkgOiyrpiGbpu26CYGDJWrA6feHgtJZsapXEcmvP65a2TjG-GLMEGC_xn5_8ArUAAqw==",
+  "class_name": "Witch",
+  "ascendancy_name": "Elementalist",
+  "level": 92,
+  "bandit": "None",
+  "notes": "Archetype stage: early_maps\nKinetic Blast Elementalist early maps setup focused on fast elemental clear and smooth wand mapping.\nApplied changes:\n- Set class=Witch ascendancy=Elementalist\n- Set level=92\n- Selected tree 'update'\n- Selected primary skill group containing 'Kinetic Blast'\n- Set main skill to Kinetic Blast in group 1\n- Set movement group 3 to: Shield Charge, Faster Attacks, Frostblink\n- Set config enemyLevel=83\n- Set config conditionEnemyChilled=True\n- Set config conditionEnemyIgnited=True\n- Set config conditionEnemyShocked=True\n- Set config usePowerCharges=True\n- Set config useFrenzyCharges=True",
+  "stats": {},
+  "config": {
+    "conditionShockedEnemyRecently": true,
+    "multiplierRage": 30,
+    "customMods": " #jolt 30% more maximum attack damage +40% to critical strike multiplier 10% increased damage taken  ",
+    "configResonanceCount": 50,
+    "usePowerCharges": true,
+    "useFrenzyCharges": true,
+    "useEnduranceCharges": true,
+    "conditionEnemyBurning": true,
+    "conditionShockEffect": 50,
+    "conditionEnemyShocked": true,
+    "conditionEnemyIgnited": true,
+    "conditionEnemyChilled": true,
+    "waveOfConvictionExposureType": "Lightning",
+    "placeholder:enemyLevel": "84",
+    "placeholder:enemyFireResist": "50",
+    "placeholder:ShockStacks": "1",
+    "placeholder:multiplierWitheredStackCountSelf": "15",
+    "placeholder:enemyLightningResist": "50",
+    "placeholder:enemySpeed": "700",
+    "placeholder:enemyChaosResist": "30",
+    "placeholder:enemyCritDamage": "30",
+    "placeholder:enemyPhysicalDamage": "2241",
+    "placeholder:enemyLightningDamage": "2241",
+    "placeholder:enemyColdDamage": "2241",
+    "placeholder:ScorchStacks": "1",
+    "placeholder:sigilOfPowerStages": "1",
+    "placeholder:enemyLightningPen": "3",
+    "placeholder:enemyColdPen": "3",
+    "placeholder:enemyFirePen": "3",
+    "placeholder:enemyArmour": "61989",
+    "placeholder:enemyEvasion": "10143",
+    "placeholder:enemyDamageRollRange": "70",
+    "placeholder:enemyFireDamage": "2241",
+    "placeholder:enemyColdResist": "50",
+    "placeholder:enemyChaosDamage": "896",
+    "placeholder:enemyCritChance": "5",
+    "enemyLevel": 83
+  },
+  "items": [
+    {
+      "id": "1",
+      "slot": null,
+      "name": "New Item",
+      "base": "Imbued Wand",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 59,
+      "text": "Rarity: RARE\nNew Item\nImbued Wand\nCrafted: true\nPrefix: {range:1}SpellDamageOnWeapon4\nPrefix: {range:1}LocalAddedLightningDamage5\nPrefix: None\nSuffix: {range:0.5}LocalIncreasedAttackSpeed3\nSuffix: {range:1}LocalCriticalStrikeChance3\nSuffix: None\nQuality: 20\nSockets: B-B-B\nLevelReq: 59\nImplicits: 1\n{tags:caster_damage,damage,caster}{range:0.5}(33-37)% increased Spell Damage\n54% increased Spell Damage\nAdds 5 to 94 Lightning Damage\n12% increased Attack Speed\n24% increased Critical Strike Chance"
+    },
+    {
+      "id": "2",
+      "slot": null,
+      "name": "New Item",
+      "base": "Harmonic Spirit Shield",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 65,
+      "text": "Rarity: RARE\nNew Item\nHarmonic Spirit Shield\nEnergy Shield: 79\nEnergyShieldBasePercentile: 1\nCrafted: true\nPrefix: {range:1}SpellDamageOnWeapon4\nPrefix: {range:0.5}IncreasedLife5\nPrefix: None\nSuffix: None\nSuffix: None\nSuffix: None\nQuality: 20\nSockets: B-B-B\nLevelReq: 65\nImplicits: 1\n{tags:caster_damage,damage,caster}{range:0.5}(10-15)% increased Spell Damage\n54% increased Spell Damage\n+77 to maximum Life\n{crafted}{range:0.5}+(8-10)% chance to Suppress Spell Damage"
+    },
+    {
+      "id": "3",
+      "slot": null,
+      "name": "New Item",
+      "base": "Lich's Circlet",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 84,
+      "text": "Rarity: RARE\nNew Item\nLich's Circlet\nEnergy Shield: 305\nEnergyShieldBasePercentile: 1\nCrafted: true\nPrefix: {range:0.5}LocalIncreasedEnergyShieldPercent4\nPrefix: {range:1}LocalIncreasedEnergyShield4\nPrefix: None\nSuffix: None\nSuffix: None\nSuffix: None\nQuality: 20\nSockets: B-B-B-B\nLevelReq: 84\nImplicits: 0\n+23 to maximum Energy Shield\n62% increased Energy Shield"
+    },
+    {
+      "id": "4",
+      "slot": null,
+      "name": "New Item",
+      "base": "Necrotic Armour",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 84,
+      "text": "Rarity: RARE\nNew Item\nNecrotic Armour\nEvasion: 1836\nEvasionBasePercentile: 1\nEnergy Shield: 391\nEnergyShieldBasePercentile: 1\nCrafted: true\nPrefix: {range:1}LocalBaseEvasionRatingAndEnergyShield4\nPrefix: {range:1}LocalIncreasedEvasionAndEnergyShield4\nPrefix: None\nSuffix: None\nSuffix: None\nSuffix: None\nQuality: 20\nSockets: G-G-G-G-G-G\nLevelReq: 84\nImplicits: 0\n+85 to Evasion Rating\n67% increased Evasion and Energy Shield\n+28 to maximum Energy Shield"
+    },
+    {
+      "id": "5",
+      "slot": null,
+      "name": "New Item",
+      "base": "Phantom Mitts",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 84,
+      "text": "Rarity: RARE\nNew Item\nPhantom Mitts\nEvasion: 283\nEvasionBasePercentile: 1\nEnergy Shield: 56\nEnergyShieldBasePercentile: 1\nCrafted: true\nPrefix: None\nPrefix: {range:0.5}IncreasedLife4\nPrefix: None\nSuffix: None\nSuffix: {range:1}IncreasedAttackSpeed2\nSuffix: None\nQuality: 20\nSockets: G-G-G-G\nLevelReq: 84\nImplicits: 0\n10% increased Attack Speed\n+62 to maximum Life"
+    },
+    {
+      "id": "6",
+      "slot": null,
+      "name": "New Item",
+      "base": "Phantom Boots",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 84,
+      "text": "Rarity: RARE\nNew Item\nPhantom Boots\nEvasion: 283\nEvasionBasePercentile: 1\nEnergy Shield: 56\nEnergyShieldBasePercentile: 1\nCrafted: true\nPrefix: {range:0.718}MovementVelocity4\nPrefix: {range:0.5}IncreasedLife4\nPrefix: None\nSuffix: None\nSuffix: None\nSuffix: None\nQuality: 20\nSockets: G-G-G-G\nLevelReq: 84\nImplicits: 0\n+62 to maximum Life\n25% increased Movement Speed"
+    },
+    {
+      "id": "7",
+      "slot": null,
+      "name": "New Item",
+      "base": "Citrine Amulet",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 28,
+      "text": "Rarity: RARE\nNew Item\nCitrine Amulet\nCrafted: true\nPrefix: None\nPrefix: {range:0.5}AddedLightningDamage5\nPrefix: {range:0.5}IncreasedLife4\nSuffix: None\nSuffix: None\nSuffix: None\nLevelReq: 28\nImplicits: 2\n{crafted}Allocates Ash, Frost and Storm\n{tags:attribute}{range:0.5}+(16-24) to Strength and Dexterity\nAdds 2 to 34 Lightning Damage to Attacks\n+62 to maximum Life"
+    },
+    {
+      "id": "8",
+      "slot": null,
+      "name": "New Item",
+      "base": "Amethyst Ring",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 30,
+      "text": "Rarity: RARE\nNew Item\nAmethyst Ring\nCrafted: true\nPrefix: {range:0.5}AddedColdDamage5\nPrefix: {range:1}IncreasedLife3\nPrefix: None\nSuffix: None\nSuffix: None\nSuffix: None\nLevelReq: 30\nImplicits: 1\n{tags:chaos,resistance}{range:0.5}+(17-23)% to Chaos Resistance\nAdds 10 to 18 Cold Damage to Attacks\n+54 to maximum Life"
+    },
+    {
+      "id": "9",
+      "slot": null,
+      "name": "New Item",
+      "base": "Leather Belt",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 19,
+      "text": "Rarity: RARE\nNew Item\nLeather Belt\nCrafted: true\nPrefix: {range:1}IncreasedLife4\nPrefix: None\nPrefix: None\nSuffix: None\nSuffix: None\nSuffix: None\nLevelReq: 19\nImplicits: 1\n{tags:resource,life}{range:0.5}+(25-40) to maximum Life\n+69 to maximum Life"
+    },
+    {
+      "id": "10",
+      "slot": null,
+      "name": "New Item",
+      "base": "Cobalt Jewel",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 0,
+      "text": "Rarity: RARE\nNew Item\nCobalt Jewel\nCrafted: true\nPrefix: {range:0.5}PercentIncreasedLifeJewel\nPrefix: None\nSuffix: None\nSuffix: {range:0.5}AttackSpeedJewel\nLevelReq: 0\nImplicits: 0\n4% increased Attack Speed\n6% increased maximum Life"
+    },
+    {
+      "id": "11",
+      "slot": null,
+      "name": "New Item",
+      "base": "Large Cluster Jewel",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 54,
+      "text": "Rarity: RARE\nNew Item\nLarge Cluster Jewel\nCrafted: true\nPrefix: {range:0.5}AfflictionNotableRenewal\nPrefix: None\nSuffix: None\nSuffix: {range:0.5}AfflictionNotablePrimordialBond\nCluster Jewel Skill: affliction_minion_damage\nCluster Jewel Node Count: 8\nLevelReq: 54\nImplicits: 3\n{crafted}Adds 8 Passive Skills\n{crafted}2 Added Passive Skills are Jewel Sockets\n{crafted}Added Small Passive Skills grant: Minions deal 10% increased Damage\n1 Added Passive Skill is Primordial Bond\n1 Added Passive Skill is Renewal"
+    },
+    {
+      "id": "12",
+      "slot": null,
+      "name": "Elegant Hubris",
+      "base": "Timeless Jewel",
+      "rarity": "Unique",
+      "item_level": null,
+      "level_req": 20,
+      "text": "Rarity: UNIQUE\nElegant Hubris\nTimeless Jewel\nLeague: Legion\nVariant: Cadiro (Supreme Decadence)\nVariant: Chitus (Supreme Ego) (Pre 3.11.0)\nVariant: Victario (Supreme Grandstanding)\nVariant: Caspiro (Supreme Ostentation)\nSelected Variant: 4\nLevelReq: 20\nRadius: Large\nLimited to: 1\nImplicits: 0\n{variant:1}{range:0.5}Commissioned (2000-160000) coins to commemorate Cadiro\n{variant:2}{range:0.5}Commissioned (2000-160000) coins to commemorate Chitus\n{variant:3}{range:0.5}Commissioned (2000-160000) coins to commemorate Victario\n{variant:4}{range:0.5}Commissioned (2000-160000) coins to commemorate Caspiro\nPassives in radius are Conquered by the Eternal Empire\nHistoric"
+    },
+    {
+      "id": "13",
+      "slot": null,
+      "name": "Elegant Hubris",
+      "base": "Timeless Jewel",
+      "rarity": "Unique",
+      "item_level": 86,
+      "level_req": null,
+      "text": "Rarity: UNIQUE\nElegant Hubris\nTimeless Jewel\nItem Level: 86\nRadius: Large\nLimited to: 1\nImplicits: 0\nCommissioned 53360 coins to commemorate Caspiro\nPassives in radius are Conquered by the Eternal Empire\nHistoric"
+    },
+    {
+      "id": "14",
+      "slot": null,
+      "name": "Impossible Escape",
+      "base": "Viridian Jewel",
+      "rarity": "Unique",
+      "item_level": null,
+      "level_req": null,
+      "text": "Rarity: UNIQUE\nImpossible Escape\nViridian Jewel\nLeague: Sentinel\nVariant: Acrobatics\nVariant: Ancestral Bond\nVariant: Arrow Dancing\nVariant: Arsenal of Vengeance\nVariant: Avatar of Fire\nVariant: Blood Magic\nVariant: Bloodsoaked Blade\nVariant: Call to Arms\nVariant: Chaos Inoculation\nVariant: Conduit\nVariant: Crimson Dance\nVariant: Divine Shield\nVariant: Eldritch Battery\nVariant: Elemental Equilibrium\nVariant: Elemental Overload\nVariant: Eternal Youth\nVariant: Ghost Dance\nVariant: Ghost Reaver\nVariant: Glancing Blows\nVariant: Hex Master\nVariant: Imbalanced Guard\nVariant: Iron Grip\nVariant: Iron Reflexes\nVariant: Iron Will\nVariant: Lethe Shade\nVariant: Magebane\nVariant: Mind Over Matter\nVariant: Minion Instability\nVariant: Necromantic Aegis\nVariant: Pain Attunement\nVariant: Perfect Agony\nVariant: Point Blank\nVariant: Precise Technique\nVariant: Resolute Technique\nVariant: Runebinder\nVariant: Solipsism\nVariant: Supreme Ego\nVariant: The Agnostic\nVariant: The Impaler\nVariant: Unwavering Stance\nVariant: Vaal Pact\nVariant: Versatile Combatant\nVariant: Wicked Ward\nVariant: Wind Dancer\nVariant: Zealot's Oath\nVariant: Everything (QoL Test Variant)\nSelected Variant: 30\nRadius: Small\nLimited to: 1\nImplicits: 0\n{variant:1,46}Passive Skills in radius of Acrobatics can be allocated without being connected to your tree\n{variant:2,46}Passive Skills in radius of Ancestral Bond can be allocated without being connected to your tree\n{variant:46,3}Passive Skills in radius of Arrow Dancing can be allocated without being connected to your tree\n{variant:46,4}Passive Skills in radius of Arsenal of Vengeance can be allocated without being connected to your tree\n{variant:5,46}Passive Skills in radius of Avatar of Fire can be allocated without being connected to your tree\n{variant:46,6}Passive Skills in radius of Blood Magic can be allocated without being connected to your tree\n{variant:7,46}Passive Skills in radius of Bloodsoaked Blade can be allocated without being connected to your tree\n{variant:46,8}Passive Skills in radius of Call to Arms can be allocated without being connected to your tree\n{variant:46,9}Passive Skills in radius of Chaos Inoculation can be allocated without being connected to your tree\n{variant:10,46}Passive Skills in radius of Conduit can be allocated without being connected to your tree\n{variant:11,46}Passive Skills in radius of Crimson Dance can be allocated without being connected to your tree\n{variant:46,12}Passive Skills in radius of Divine Shield can be allocated without being connected to your tree\n{variant:46,13}Passive Skills in radius of Eldritch Battery can be allocated without being connected to your tree\n{variant:14,46}Passive Skills in radius of Elemental Equilibrium can be allocated without being connected to your tree\n{variant:15,46}Passive Skills in radius of Elemental Overload can be allocated without being connected to your tree\n{variant:46,16}Passive Skills in radius of Eternal Youth can be allocated without being connected to your tree\n{variant:17,46}Passive Skills in radius of Ghost Dance can be allocated without being connected to your tree\n{variant:46,18}Passive Skills in radius of Ghost Reaver can be allocated without being connected to your tree\n{variant:46,19}Passive Skills in radius of Glancing Blows can be allocated without being connected to your tree\n{variant:20,46}Passive Skills in radius of Hex Master can be allocated without being connected to your tree\n{variant:46,21}Passive Skills in radius of Imbalanced Guard can be allocated without being connected to your tree\n{variant:22,46}Passive Skills in radius of Iron Grip can be allocated without being connected to your tree\n{variant:23,46}Passive Skills in radius of Iron Reflexes can be allocated without being connected to your tree\n{variant:46,24}Passive Skills in radius of Iron Will can be allocated without being connected to your tree\n{variant:25,46}Passive Skills in radius of Lethe Shade can be allocated without being connected to your tree\n{variant:46,26}Passive Skills in radius of Magebane can be allocated without being connected to your tree\n{variant:46,27}Passive Skills in radius of Mind Over Matter can be allocated without being connected to your tree\n{variant:28,46}Passive Skills in radius of Minion Instability can be allocated without being connected to your tree\n{variant:46,29}Passive Skills in radius of Necromantic Aegis can be allocated without being connected to your tree\n{variant:30,46}Passive Skills in radius of Pain Attunement can be allocated without being connected to your tree\n{variant:31,46}Passive Skills in radius of Perfect Agony can be allocated without being connected to your tree\n{variant:46,32}Passive Skills in radius of Point Blank can be allocated without being connected to your tree\n{variant:33,46}Passive Skills in radius of Precise Technique can be allocated without being connected to your tree\n{variant:34,46}Passive Skills in radius of Resolute Technique can be allocated without being connected to your tree\n{variant:35,46}Passive Skills in radius of Runebinder can be allocated without being connected to your tree\n{variant:46,36}Passive Skills in radius of Solipsism can be allocated without being connected to your tree\n{variant:46,37}Passive Skills in radius of Supreme Ego can be allocated without being connected to your tree\n{variant:46,38}Passive Skills in radius of The Agnostic can be allocated without being connected to your tree\n{variant:46,39}Passive Skills in radius of The Impaler can be allocated without being connected to your tree\n{variant:40,46}Passive Skills in radius of Unwavering Stance can be allocated without being connected to your tree\n{variant:46,41}Passive Skills in radius of Vaal Pact can be allocated without being connected to your tree\n{variant:46,42}Passive Skills in radius of Versatile Combatant can be allocated without being connected to your tree\n{variant:46,43}Passive Skills in radius of Wicked Ward can be allocated without being connected to your tree\n{variant:44,46}Passive Skills in radius of Wind Dancer can be allocated without being connected to your tree\n{variant:45,46}Passive Skills in radius of Zealot's Oath can be allocated without being connected to your tree\nCorrupted"
+    },
+    {
+      "id": "15",
+      "slot": null,
+      "name": "Elegant Hubris",
+      "base": "Timeless Jewel",
+      "rarity": "Unique",
+      "item_level": 84,
+      "level_req": null,
+      "text": "Rarity: UNIQUE\nElegant Hubris\nTimeless Jewel\nItem Level: 84\nRadius: Large\nLimited to: 1\nImplicits: 0\nCommissioned 148420 coins to commemorate Caspiro\nPassives in radius are Conquered by the Eternal Empire\nHistoric"
+    },
+    {
+      "id": "16",
+      "slot": "Weapon 1",
+      "name": "New Item",
+      "base": "Kinetic Wand",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 65,
+      "text": "Rarity: RARE\nNew Item\nKinetic Wand\nCrafted: true\nPrefix: {range:0.366}LocalAddedColdDamage10__\nPrefix: {range:0.613}LocalAddedFireDamage10_\nPrefix: {range:0.331}LocalAddedLightningDamage10\nSuffix: {range:0.225}LocalIncreasedAttackSpeed5\nSuffix: {range:0.662}LocalCriticalStrikeChance6\nSuffix: {range:1}LocalCriticalMultiplier3\nQuality: 20\nSockets: B-B-B\nLevelReq: 65\nImplicits: 1\nCannot roll Caster Modifiers\nAdds 109 to 198 Fire Damage\nAdds 92 to 173 Cold Damage\nAdds 17 to 312 Lightning Damage\n17% increased Attack Speed\n37% increased Critical Strike Chance\n+24% to Global Critical Strike Multiplier"
+    },
+    {
+      "id": "17",
+      "slot": "Weapon 2",
+      "name": "New Item",
+      "base": "Harmonic Spirit Shield",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 68,
+      "text": "Rarity: RARE\nNew Item\nHarmonic Spirit Shield\nEnergy Shield: 79\nEnergyShieldBasePercentile: 1\nCrafted: true\nPrefix: {range:0.792}IncreasedLife8\nPrefix: {range:0.141}SpellDamageOnWeapon7\nPrefix: {range:0.965}LocalIncreasedBlockPercentage6\nSuffix: {range:0.387}AllResistances6\nSuffix: None\nSuffix: None\nQuality: 20\nSockets: B-B-B\nLevelReq: 68\nImplicits: 1\n{tags:caster_damage,damage,caster}{range:0.5}(10-15)% increased Spell Damage\n75% increased Chance to Block\n87% increased Spell Damage\n+126 to maximum Life\n+17% to all Elemental Resistances\n{crafted}{range:1}+(8-10)% chance to Suppress Spell Damage"
+    },
+    {
+      "id": "18",
+      "slot": "Helmet",
+      "name": "New Item",
+      "base": "Lich's Circlet",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 84,
+      "text": "Rarity: RARE\nNew Item\nLich's Circlet\nEnergy Shield: 431\nEnergyShieldBasePercentile: 1\nSearing Exarch Item\nEater of Worlds Item\nCrafted: true\nPrefix: {range:0.521}IncreasedLife8\nPrefix: {range:0.014}LocalIncreasedEnergyShieldPercent7_\nPrefix: {range:0.239}LocalIncreasedEnergyShield8\nSuffix: {range:0.5}ChaosResist5\nSuffix: {range:0.718}FireResist6\nSuffix: {range:0.944}ColdResist6\nQuality: 20\nSockets: B-B-B-B\nLevelReq: 84\nImplicits: 2\n{tags:damage}{exarch}4% increased Damage per Power Charge\n{tags:physical,elemental,fire}{eater}6% of Physical Damage from Hits taken as Fire Damage\n+53 to maximum Energy Shield\n92% increased Energy Shield\n+122 to maximum Life\n+40% to Fire Resistance\n+41% to Cold Resistance\n+28% to Chaos Resistance"
+    },
+    {
+      "id": "19",
+      "slot": "Gloves",
+      "name": "New Item",
+      "base": "Phantom Mitts",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 84,
+      "text": "Rarity: RARE\nNew Item\nPhantom Mitts\nEvasion: 283\nEvasionBasePercentile: 1\nEnergy Shield: 56\nEnergyShieldBasePercentile: 1\nSearing Exarch Item\nEater of Worlds Item\nCrafted: true\nPrefix: {range:0.43}IncreasedLife8\nPrefix: {range:1}AddedLightningDamage3\nPrefix: None\nSuffix: {range:0.782}IncreasedAccuracyNew4\nSuffix: {range:1}ChanceToSuppressSpells5__\nSuffix: {range:0.944}IncreasedAttackSpeed3\nQuality: 20\nSockets: G-G-G-G\nLevelReq: 84\nImplicits: 2\n{exarch}Gain 1 Rage on Attack Hit\n{eater}Projectiles Pierce 2 additional Targets\n+14% chance to Suppress Spell Damage\nAdds 2 to 23 Lightning Damage to Attacks\n13% increased Attack Speed\n+328 to Accuracy Rating\n+121 to maximum Life"
+    },
+    {
+      "id": "20",
+      "slot": "Body Armour",
+      "name": "New Item",
+      "base": "Necrotic Armour",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 84,
+      "text": "Rarity: RARE\nNew Item\nNecrotic Armour\nEvasion: 3575\nEvasionBasePercentile: 1\nEnergy Shield: 732\nEnergyShieldBasePercentile: 1\nSearing Exarch Item\nEater of Worlds Item\nCrafted: true\nPrefix: {range:1}LocalBaseEvasionRatingAndEnergyShield8___\nPrefix: {range:0.465}LocalIncreasedEvasionAndEnergyShield8\nPrefix: {range:1}LocalIncreasedEvasionAndEnergyShieldAndStunRecovery6\nSuffix: {range:0.93}ChanceToSuppressSpellsHigh5___\nSuffix: {range:0.817}FireResist5\nSuffix: {range:0.563}ColdResist5\nQuality: 20\nSockets: G-G-G-G-G-G\nLevelReq: 84\nImplicits: 2\n{exarch}Gain an Endurance Charge every 12 seconds\n{tags:physical,elemental,fire}{eater}11% of Physical Damage from Hits taken as Fire Damage\n+22% chance to Suppress Spell Damage\n+375 to Evasion Rating\n147% increased Evasion and Energy Shield\n+80 to maximum Energy Shield\n+34% to Fire Resistance\n+33% to Cold Resistance\n17% increased Stun and Block Recovery"
+    },
+    {
+      "id": "21",
+      "slot": "Boots",
+      "name": "New Item",
+      "base": "Phantom Boots",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 84,
+      "text": "Rarity: RARE\nNew Item\nPhantom Boots\nEvasion: 283\nEvasionBasePercentile: 1\nEnergy Shield: 56\nEnergyShieldBasePercentile: 1\nSearing Exarch Item\nEater of Worlds Item\nCrafted: true\nPrefix: {range:0.461}IncreasedLife8\nPrefix: None\nPrefix: None\nSuffix: {range:1}FireResist4\nSuffix: {range:1}ChaosResist3\nSuffix: {range:0.701}ChanceToSuppressSpells5__\nQuality: 20\nSockets: G-G-G-G\nLevelReq: 84\nImplicits: 2\n{tags:elemental,lightning,ailment}{exarch}{range:1}(45-47)% chance to Avoid being Shocked\n{eater}{range:0.5}(15-17)% increased Cooldown Recovery Rate of Travel Skills\n+14% chance to Suppress Spell Damage\n+121 to maximum Life\n+29% to Fire Resistance\n+20% to Chaos Resistance\n{tags:unveiled_mod,speed}{custom}{range:1}(25-30)% increased Movement Speed\n{tags:unveiled_mod,speed}{custom}{range:0.5}(13-16)% chance to gain Onslaught for 4 seconds on Kill"
+    },
+    {
+      "id": "22",
+      "slot": "Amulet",
+      "name": "Yoke of Suffering",
+      "base": "Onyx Amulet",
+      "rarity": "Unique",
+      "item_level": null,
+      "level_req": 70,
+      "text": "Rarity: UNIQUE\nYoke of Suffering\nOnyx Amulet\nVariant: Pre 3.24.0\nVariant: Current\nSelected Variant: 2\nLevelReq: 70\nImplicits: 2\n{crafted}Allocates Lethality\n{tags:jewellery_attribute}{range:1}+(10-16) to all Attributes\n{tags:jewellery_resistance}{range:1}+(10-20)% to Fire Resistance\n{tags:jewellery_resistance}{range:1}+(10-20)% to Cold Resistance\n{tags:jewellery_resistance}{range:0.5}+(20-40)% to Lightning Resistance\n30% reduced Duration of Ailments on Enemies\n{range:0.5}(5-10)% chance to Shock\n{variant:1}Enemies take 5% increased Damage for each type of Ailment you have inflicted on them\n{variant:2}{range:1}Enemies take (5-10)% increased Damage for each type of Ailment you have inflicted on them\nYour Elemental Damage can Shock"
+    },
+    {
+      "id": "23",
+      "slot": "Ring 1",
+      "name": "The Taming",
+      "base": "Prismatic Ring",
+      "rarity": "Unique",
+      "item_level": null,
+      "level_req": 30,
+      "text": "Rarity: UNIQUE\nThe Taming\nPrismatic Ring\nLeague: Domination, Nemesis\nCatalyst: Turbulent\nCatalystQuality: 20\nVariant: Pre 3.0.0\nVariant: Pre 3.25.0\nVariant: Current\nSelected Variant: 3\nLevelReq: 30\nImplicits: 1\n{tags:jewellery_resistance}{range:0.5}+(8-10)% to all Elemental Resistances\n{tags:jewellery_elemental,attack}{variant:1}15% increased Elemental Damage with Attack Skills\n{tags:jewellery_elemental,attack}{variant:2}30% increased Elemental Damage with Attack Skills\n{tags:jewellery_resistance}{variant:1}{range:0.5}+(10-15)% to all Elemental Resistances\n{tags:jewellery_resistance}{variant:2,3}{range:0.5}+(20-30)% to all Elemental Resistances\n{tags:jewellery_elemental}{variant:1}15% increased Elemental Damage\n{tags:jewellery_elemental}{variant:2}30% increased Elemental Damage\n{variant:1}5% chance to Freeze, Shock and Ignite\n{variant:2,3}10% chance to Freeze, Shock and Ignite\n{variant:1}10% increased Damage per Freeze, Shock and Ignite on Enemy\n{variant:2}20% increased Damage with Hits and Ailments per Freeze, Shock and Ignite on Enemy\n{tags:jewellery_elemental}{variant:3}{range:1}(30-40)% increased Elemental Damage with Hits and Ailments for each type of Elemental Ailment on Enemy"
+    },
+    {
+      "id": "24",
+      "slot": "Ring 2",
+      "name": "New Item",
+      "base": "Amethyst Ring",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 64,
+      "text": "Rarity: RARE\nNew Item\nAmethyst Ring\nCrafted: true\nPrefix: {range:0.986}IncreasedLife6\nPrefix: {range:0.331}WeaponElementalDamage5\nPrefix: {range:0.401}AddedLightningDamage7\nSuffix: {range:0.894}ChaosResist6\nSuffix: {range:0.254}LightningResist7\nSuffix: None\nCatalystQuality: 20\nLevelReq: 64\nImplicits: 1\n{tags:chaos,resistance}{range:0.5}+(17-23)% to Chaos Resistance\nAdds 3 to 48 Lightning Damage to Attacks\n+99 to maximum Life\n+43% to Lightning Resistance\n+35% to Chaos Resistance\n39% increased Elemental Damage with Attack Skills\n{tags:unveiled_mod,elemental,lightning,chaos,resistance}{crafted}{range:0.5}+(13-15)% to Lightning and Chaos Resistances"
+    },
+    {
+      "id": "25",
+      "slot": "Belt",
+      "name": "Headhunter",
+      "base": "Leather Belt",
+      "rarity": "Unique",
+      "item_level": null,
+      "level_req": 40,
+      "text": "Rarity: UNIQUE\nHeadhunter\nLeather Belt\nLeague: Nemesis\nLevelReq: 40\nImplicits: 1\n{tags:life}{range:0.5}+(25-40) to maximum Life\n{tags:jewellery_attribute}{range:0.5}+(40-55) to Strength\n{tags:jewellery_attribute}{range:0.5}+(40-55) to Dexterity\n{tags:life}{range:0.5}+(50-60) to maximum Life\n{range:0.5}(20-30)% increased Damage with Hits against Rare monsters\nWhen you Kill a Rare monster, you gain its Modifiers for 60 seconds"
+    },
+    {
+      "id": "26",
+      "slot": null,
+      "name": "Foulborn Ancestral Vision",
+      "base": "Viridian Jewel",
+      "rarity": "Unique",
+      "item_level": 83,
+      "level_req": null,
+      "text": "Rarity: UNIQUE\nFoulborn Ancestral Vision\nViridian Jewel\nItem Level: 83\nLimited to: 1\nImplicits: 0\n{mutated}+7% chance to Suppress Spell Damage\nModifiers to Chance to Suppress Spell Damage also apply to Chance to Avoid Elemental Ailments at 50% of their Value"
+    },
+    {
+      "id": "27",
+      "slot": null,
+      "name": "Stormshroud",
+      "base": "Viridian Jewel",
+      "rarity": "Unique",
+      "item_level": null,
+      "level_req": null,
+      "text": "Rarity: UNIQUE\nStormshroud\nViridian Jewel\nImplicits: 0\n{range:0.5}+(10-15)% to Lightning Resistance\nModifiers to Chance to Avoid being Shocked apply to all Elemental Ailments"
+    },
+    {
+      "id": "28",
+      "slot": "Graft 1",
+      "name": "New Item",
+      "base": "Jolting Eshgraft",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 68,
+      "text": "Rarity: RARE\nNew Item\nJolting Eshgraft\nCrafted: true\nPrefix: {range:0.5}GraftPrefixSharedIncreasedJuiceGained3\nPrefix: {range:1}GraftPrefixEshSpellDamage5\nSuffix: {range:0.25}GraftSuffixJoltGrantsCriticalStrikeMultiplier3\nSuffix: {range:0.599}GraftSuffixSkillLevel3\nLevelReq: 68\nImplicits: 2\n{tags:critical}{range:0.5}(4-12)% increased Global Critical Strike Chance\nUses level (1-30) Jolting Eshgraft\n29% increased Spell Damage\n16% increased Graftblood gained\nJolt granted by this Graft grants +4% to Critical Strike Multiplier\n+4 to level of Skills used by this Graft"
+    },
+    {
+      "id": "29",
+      "slot": null,
+      "name": "New Item",
+      "base": "Storming Eshgraft",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 59,
+      "text": "Rarity: RARE\nNew Item\nStorming Eshgraft\nCrafted: true\nPrefix: {range:0.641}GraftPrefixEshSpellDamage8\nPrefix: {range:0.5}GraftPrefixSharedIncreasedJuiceGained3\nSuffix: None\nSuffix: {range:0.5}GraftSuffixEshLightningRingBuffAddedLightning2\nLevelReq: 59\nImplicits: 2\n{tags:elemental_damage,damage,elemental,lightning}{range:0.5}Adds (1-4) to (18-20) Lightning Damage\nUses level (1-30) Storming Eshgraft\n43% increased Spell Damage\n16% increased Graftblood gained\nRadiant Ground created by Skills from this Graft grants Allies on it an additional 5 to 24 added Lightning Damage"
+    },
+    {
+      "id": "30",
+      "slot": "Graft 2",
+      "name": "New Item",
+      "base": "Molten Xophgraft",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 65,
+      "text": "Rarity: RARE\nNew Item\nMolten Xophgraft\nCrafted: true\nPrefix: {range:0.239}GraftPrefixXophGlobalIncreasedAttackDamage9\nPrefix: {range:0.5}GraftPrefixSharedIncreasedJuiceGained3\nSuffix: {range:0.313}GraftSuffixCooldownSpeed5\nSuffix: {range:0.19}GraftSuffixIncreasedDuration5\nLevelReq: 65\nImplicits: 2\n{tags:defences,armour}{range:0.5}(10-20)% increased Armour\nUses level (1-30) Molten Xophgraft\n46% increased Attack Damage\n16% increased Graftblood gained\nSkills used by this Graft have 32% increased Cooldown Recovery Rate\nSkills used by this Graft have 31% increased Skill Effect Duration"
+    },
+    {
+      "id": "31",
+      "slot": null,
+      "name": "New Item",
+      "base": "Viridian Jewel",
+      "rarity": "Rare",
+      "item_level": null,
+      "level_req": 0,
+      "text": "Rarity: RARE\nNew Item\nViridian Jewel\nCrafted: true\nPrefix: {range:0.5}ShieldAttackSpeedJewel\nPrefix: {range:0.798}PercentIncreasedLifeJewel\nSuffix: {range:1}ManaLeechPermyriadSuffixJewel\nSuffix: {range:1}PercentIncreasedAccuracyJewel\nLevelReq: 0\nImplicits: 0\n5% increased Attack Speed while holding a Shield\n14% increased Global Accuracy Rating\n7% increased maximum Life\n0.4% of Physical Attack Damage Leeched as Mana"
+    },
+    {
+      "id": "32",
+      "slot": "Flask 1",
+      "name": "Progenesis",
+      "base": "Amethyst Flask",
+      "rarity": "Unique",
+      "item_level": null,
+      "level_req": 60,
+      "text": "Rarity: UNIQUE\nProgenesis\nAmethyst Flask\nQuality: 20\nLevelReq: 60\nImplicits: 0\n{range:0.5}(10-20)% reduced Charges per use\n{range:0.5}(-35-35)% increased Duration\nWhen Hit during effect, 25% of Life loss from Damage taken occurs over 4 seconds instead"
+    },
+    {
+      "id": "33",
+      "slot": "Flask 2",
+      "name": "Doctor's Diamond Flask of the Antelope",
+      "base": "Crafted: true",
+      "rarity": "Magic",
+      "item_level": null,
+      "level_req": 35,
+      "text": "Rarity: MAGIC\nDoctor's Diamond Flask of the Antelope\nCrafted: true\nPrefix: {range:0.5}FlaskChanceRechargeOnCrit3___\nSuffix: {range:1}FlaskBuffEvasionWhileHealing2\nQuality: 20\nLevelReq: 35\nImplicits: 0\n23% chance to gain a Flask Charge when you deal a Critical Strike\n50% increased Evasion Rating during Effect"
+    },
+    {
+      "id": "34",
+      "slot": "Flask 3",
+      "name": "Wine of the Prophet",
+      "base": "Gold Flask",
+      "rarity": "Unique",
+      "item_level": null,
+      "level_req": 27,
+      "text": "Rarity: UNIQUE\nWine of the Prophet\nGold Flask\nQuality: 20\nLevelReq: 27\nImplicits: 0\n+60 to Maximum Charges\n{range:0.5}(20-100)% increased Charges per Use\nGrants a random Divination buff for 20 seconds when used"
+    },
+    {
+      "id": "35",
+      "slot": "Flask 4",
+      "name": "Doctor's Jade Flask of the Impala",
+      "base": "Crafted: true",
+      "rarity": "Magic",
+      "item_level": null,
+      "level_req": 67,
+      "text": "Rarity: MAGIC\nDoctor's Jade Flask of the Impala\nCrafted: true\nPrefix: {range:0.5}FlaskChanceRechargeOnCrit3___\nSuffix: {range:0.873}FlaskBuffEvasionWhileHealing4\nQuality: 20\nLevelReq: 67\nImplicits: 0\n23% chance to gain a Flask Charge when you deal a Critical Strike\n59% increased Evasion Rating during Effect"
+    },
+    {
+      "id": "36",
+      "slot": "Flask 5",
+      "name": "Doctor's Silver Flask of the Curlew",
+      "base": "Crafted: true",
+      "rarity": "Magic",
+      "item_level": null,
+      "level_req": 36,
+      "text": "Rarity: MAGIC\nDoctor's Silver Flask of the Curlew\nCrafted: true\nPrefix: {range:0.5}FlaskChanceRechargeOnCrit3___\nSuffix: {range:0.5}FlaskBuffCurseEffect3_\nQuality: 20\nLevelReq: 36\nImplicits: 0\n23% chance to gain a Flask Charge when you deal a Critical Strike\n50% reduced Effect of Curses on you during Effect"
+    }
+  ],
+  "skill_groups": [
+    {
+      "label": "",
+      "slot": "Body Armour",
+      "enabled": true,
+      "gems": [
+        {
+          "name": "Kinetic Blast",
+          "enabled": true,
+          "level": 20,
+          "quality": 20,
+          "skill_id": "KineticBlast"
+        },
+        {
+          "name": "Sacred Wisps",
+          "enabled": true,
+          "level": 20,
+          "quality": 20,
+          "skill_id": "SupportSacredWisps"
+        },
+        {
+          "name": "Returning Projectiles",
+          "enabled": true,
+          "level": 20,
+          "quality": 20,
+          "skill_id": "SupportReturningProjectiles"
+        },
+        {
+          "name": "Increased Critical Damage",
+          "enabled": true,
+          "level": 20,
+          "quality": 20,
+          "skill_id": "SupportIncreasedCriticalDamage"
+        },
+        {
+          "name": "Trinity",
+          "enabled": true,
+          "level": 20,
+          "quality": 20,
+          "skill_id": "SupportTrinity"
+        },
+        {
+          "name": "Volatility",
+          "enabled": true,
+          "level": 20,
+          "quality": 20,
+          "skill_id": "SupportVolatility"
+        }
+      ]
+    },
+    {
+      "label": "",
+      "slot": "Boots",
+      "enabled": true,
+      "gems": [
+        {
+          "name": "Summon Ice Golem",
+          "enabled": true,
+          "level": 20,
+          "quality": 0,
+          "skill_id": "SummonIceGolem"
+        },
+        {
+          "name": "Summon Stone Golem",
+          "enabled": true,
+          "level": 20,
+          "quality": 0,
+          "skill_id": "SummonStoneGolem"
+        },
+        {
+          "name": "Summon Lightning Golem",
+          "enabled": true,
+          "level": 20,
+          "quality": 0,
+          "skill_id": "SummonLightningGolem"
+        },
+        {
+          "name": "Summon Flame Golem",
+          "enabled": true,
+          "level": 20,
+          "quality": 0,
+          "skill_id": "SummonFlameGolem"
+        }
+      ]
+    },
+    {
+      "label": "",
+      "slot": "Gloves",
+      "enabled": true,
+      "gems": [
+        {
+          "name": "Faster Attacks",
+          "enabled": true,
+          "level": 20,
+          "quality": 0,
+          "skill_id": "SupportFasterAttacks"
+        },
+        {
+          "name": "Shield Charge",
+          "enabled": true,
+          "level": null,
+          "quality": null,
+          "skill_id": null
+        },
+        {
+          "name": "Faster Attacks",
+          "enabled": true,
+          "level": null,
+          "quality": null,
+          "skill_id": null
+        },
+        {
+          "name": "Frostblink",
+          "enabled": true,
+          "level": null,
+          "quality": null,
+          "skill_id": null
+        }
+      ]
+    },
+    {
+      "label": "",
+      "slot": "Helmet",
+      "enabled": true,
+      "gems": []
+    },
+    {
+      "label": "",
+      "slot": "Helmet",
+      "enabled": true,
+      "gems": [
+        {
+          "name": "Precision",
+          "enabled": true,
+          "level": 20,
+          "quality": 0,
+          "skill_id": "Precision"
+        }
+      ]
+    },
+    {
+      "label": "",
+      "slot": "Boots",
+      "enabled": true,
+      "gems": [
+        {
+          "name": "Spellslinger",
+          "enabled": true,
+          "level": 20,
+          "quality": 0,
+          "skill_id": "Spellslinger"
+        },
+        {
+          "name": "Tornado",
+          "enabled": true,
+          "level": 20,
+          "quality": 0,
+          "skill_id": "Tornado"
+        }
+      ]
+    },
+    {
+      "label": "",
+      "slot": "Gloves",
+      "enabled": true,
+      "gems": [
+        {
+          "name": "Haste",
+          "enabled": true,
+          "level": 20,
+          "quality": 0,
+          "skill_id": "Haste"
+        }
+      ]
+    },
+    {
+      "label": "",
+      "slot": "Weapon 1",
+      "enabled": true,
+      "gems": [
+        {
+          "name": "Sniper's Mark",
+          "enabled": true,
+          "level": 20,
+          "quality": 21,
+          "skill_id": "SnipersMark"
+        },
+        {
+          "name": "Mark On Hit",
+          "enabled": true,
+          "level": 20,
+          "quality": 0,
+          "skill_id": "SupportMarkOnHit"
+        }
+      ]
+    },
+    {
+      "label": "",
+      "slot": null,
+      "enabled": true,
+      "gems": [
+        {
+          "name": "Sigil of Power",
+          "enabled": true,
+          "level": 20,
+          "quality": 0,
+          "skill_id": "SigilOfPower"
+        },
+        {
+          "name": "Wave of Conviction",
+          "enabled": true,
+          "level": 20,
+          "quality": 0,
+          "skill_id": "WaveOfConviction"
+        }
+      ]
+    },
+    {
+      "label": "",
+      "slot": null,
+      "enabled": true,
+      "gems": [
+        {
+          "name": "Steelskin",
+          "enabled": false,
+          "level": 20,
+          "quality": 0,
+          "skill_id": "QuickGuard"
+        },
+        {
+          "name": "Automation",
+          "enabled": true,
+          "level": 20,
+          "quality": 0,
+          "skill_id": "Automation"
+        }
+      ]
+    }
+  ],
+  "skill_names": [
+    "Kinetic Blast",
+    "Sacred Wisps",
+    "Returning Projectiles",
+    "Increased Critical Damage",
+    "Trinity",
+    "Volatility",
+    "Summon Ice Golem",
+    "Summon Stone Golem",
+    "Summon Lightning Golem",
+    "Summon Flame Golem",
+    "Faster Attacks",
+    "Shield Charge",
+    "Frostblink",
+    "Precision",
+    "Spellslinger",
+    "Tornado",
+    "Haste",
+    "Sniper's Mark",
+    "Mark On Hit",
+    "Sigil of Power",
+    "Wave of Conviction",
+    "Steelskin",
+    "Automation"
+  ],
+  "trees": [
+    {
+      "title": "update",
+      "class_id": "3",
+      "ascend_class_id": "2",
+      "tree_version": "3_27",
+      "url": null,
+      "nodes": [
+        13375,
+        56646,
+        54447,
+        15167,
+        25067,
+        27656,
+        48878,
+        9586,
+        41635,
+        63447,
+        27788,
+        50472,
+        10511,
+        52031,
+        63067,
+        31703,
+        8948,
+        13862,
+        61419,
+        41263,
+        20807,
+        56158,
+        18769,
+        16954,
+        13961,
+        4269,
+        60440,
+        26557,
+        48778,
+        59606,
+        39718,
+        33753,
+        56461,
+        45202,
+        62744,
+        12783,
+        24426,
+        32681,
+        9788,
+        29454,
+        20528,
+        18182,
+        51524,
+        34723,
+        25411,
+        9469,
+        30926,
+        857,
+        65502,
+        43000,
+        35255,
+        24872,
+        49651,
+        4367,
+        37671,
+        20953,
+        40483,
+        39521,
+        56066,
+        10115,
+        57226,
+        53456,
+        36287,
+        63251,
+        4481,
+        55880,
+        61653,
+        25260,
+        27659,
+        12888,
+        12125,
+        49605,
+        65427,
+        32763,
+        21958,
+        4036,
+        49900,
+        38207,
+        38176,
+        22972,
+        65826,
+        59220,
+        52848,
+        54279,
+        31039,
+        11551,
+        34317,
+        12475,
+        5296,
+        18865,
+        61834,
+        53290,
+        18770,
+        16243,
+        36858,
+        40810,
+        44184,
+        63944,
+        14936,
+        47306,
+        51146,
+        65834,
+        6910,
+        65824,
+        33310,
+        34506,
+        58998,
+        32210,
+        41476,
+        27038,
+        62849,
+        62697,
+        54043,
+        6797,
+        23334,
+        15228,
+        53114,
+        12738,
+        63482,
+        16023,
+        1461,
+        21678,
+        46277,
+        9261,
+        19501,
+        31315,
+        25511,
+        27879,
+        53123,
+        32657,
+        15117,
+        56295,
+        35038
+      ]
+    }
+  ]
+}

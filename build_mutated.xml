@@ -1,0 +1,316 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PathOfBuilding>
+  <Build level="32" className="Shadow" ascendClassName="None" bandit="None" targetVersion="3_0" mainSocketGroup="1" viewMode="ITEMS" />
+  <Config activeConfigSet="1">
+    <ConfigSet id="1">
+      <Input name="resistancePenalty" number="0" />
+      <Placeholder name="meleeDistance" number="0" />
+      <Placeholder name="enemyLightningDamage" number="0" />
+      <Placeholder name="enemyColdDamage" number="0" />
+      <Placeholder name="sigilOfPowerStages" number="0" />
+      <Placeholder name="enemyChaosDamage" number="0" />
+      <Placeholder name="enemyLightningPen" number="0" />
+      <Placeholder name="enemyColdPen" number="0" />
+      <Placeholder name="enemyFirePen" number="0" />
+      <Placeholder name="enemyArmour" number="0" />
+      <Placeholder name="enemyEvasion" number="0" />
+      <Placeholder name="ScorchStacks" number="0" />
+      <Placeholder name="enemyDamageRollRange" number="0" />
+      <Placeholder name="configSpectralTigerCount" number="0" />
+      <Placeholder name="enemyFireResist" number="0" />
+      <Placeholder name="enemyFireDamage" number="0" />
+      <Placeholder name="multiplierWitheredStackCountSelf" number="0" />
+      <Placeholder name="enemyLevel" number="0" />
+      <Placeholder name="enemyLightningResist" number="0" />
+      <Placeholder name="projectileDistance" number="0" />
+      <Placeholder name="enemyChaosResist" number="0" />
+      <Placeholder name="enemySpeed" number="0" />
+      <Placeholder name="enemyCritChance" number="0" />
+      <Placeholder name="enemyCritDamage" number="0" />
+      <Placeholder name="enemyPhysicalDamage" number="0" />
+      <Placeholder name="enemyColdResist" number="0" />
+      <Placeholder name="ShockStacks" number="0" />
+    </ConfigSet>
+  </Config>
+  <Tree activeSpec="1">
+    <Spec id="1" title="" classId="6" ascendClassId="0" treeVersion="3_27" nodes="31583,30205,41689,42686,42623,47362,49308,33783,32710,5823,41989,58244,62069,9877,1767,4502,36585,60737,58069,57248,54338,21575,42804,44683,27415,1600,23507,35894,24050,25058,3656,48477,33903,21835,40644,42649,20852,46408,45272" url="" />
+  </Tree>
+  <Items activeItemSet="1">
+    <ItemSet id="1" useSecondWeaponSet="nil">
+      <Slot name="Flask 5" itemId="1" />
+      <Slot name="Helmet" itemId="3" />
+      <Slot name="Flask 4" itemId="5" />
+      <Slot name="Ring 2" itemId="9" />
+      <Slot name="Gloves" itemId="10" />
+      <Slot name="Belt" itemId="11" />
+      <Slot name="Body Armour" itemId="12" />
+      <Slot name="Boots" itemId="13" />
+      <Slot name="Flask 2" itemId="15" />
+      <Slot name="Flask 1" itemId="16" />
+      <Slot name="Ring 1" itemId="17" />
+      <Slot name="Amulet" itemId="18" />
+      <Slot name="Weapon 1" itemId="19" />
+    </ItemSet>
+    <Item id="1">Rarity: NORMAL
+Grand Mana Flask
+Unique ID: 09018e9f7c7b6f45129099bc43753b340671417b3e15d43fc233eaabeb44666e
+Item Level: 18
+Quality: 0
+LevelReq: 18
+Implicits: 0</Item>
+    <Item id="2">Rarity: UNIQUE
+Gorebreaker
+Spiked Club
+Unique ID: 68fe466ed5a23f2b6429ad2f25562a354863a881e463c411030dfb4cfa805a81
+Item Level: 25
+Quality: 0
+Sockets: R-R G
+LevelReq: 10
+Implicits: 1
+10% reduced Enemy Stun Threshold
+331% increased Physical Damage
+20% reduced Attack Speed
+13% reduced Enemy Stun Threshold
+45% increased Stun Duration on Enemies
+Extra gore</Item>
+    <Item id="3">Rarity: RARE
+Maelstrom Dome
+Cone Helmet
+Armour: 46
+ArmourBasePercentile: 0.3502
+Unique ID: 207000bc06a72e42fbd5b8d014b6090a033333e2d2cc279aea23ce3368f7ba30
+Item Level: 15
+Quality: 0
+Sockets: R B G
+LevelReq: 7
+Implicits: 0
++10 to Strength
++59 to Accuracy Rating
+9% increased Armour
++12 to maximum Life
++12% to Fire Resistance
+6% increased Stun and Block Recovery</Item>
+    <Item id="4">Rarity: NORMAL
+Greater Life Flask
+Unique ID: 31a20411e1735f6edebb6450763b67bca174a7380da01e66ad323b09cdf909c9
+Item Level: 13
+Quality: 0
+LevelReq: 12
+Implicits: 0</Item>
+    <Item id="5">Rarity: NORMAL
+Large Mana Flask
+Unique ID: 083a37b3d2a4a0eb432a8774a67637eab2e001bf752c947d7c5a607fee4ff2e8
+Item Level: 10
+Quality: 0
+LevelReq: 6
+Implicits: 0</Item>
+    <Item id="6">Rarity: MAGIC
+Simmering Greater Life Flask
+Unique ID: 86598390fbedc69d1165603bf9f7dda0cef3bc045afada0ba52f0b14d6c7fea7
+Item Level: 15
+Quality: 0
+LevelReq: 12
+Implicits: 0
+53% reduced Amount Recovered
+135% increased Recovery rate
+50% of Recovery applied Instantly</Item>
+    <Item id="7">Rarity: UNIQUE
+Blackheart
+Iron Ring
+Unique ID: 068eafd81d0cf485d1b051a2661eb2e55b13548ee1bd5eb5eaa7bdb3ea490601
+Item Level: 54
+Implicits: 1
+Adds 1 to 4 Physical Damage to Attacks
+Adds 12 to 20 Chaos Damage to Attacks
+Regenerate 14.2 Life per second
+10% chance to Cause Monsters to Flee</Item>
+    <Item id="8">Rarity: UNIQUE
+Lavianga's Wisdom
+War Hammer
+Unique ID: 1b5fa64baaa33e4006133a4ef130c2244f5c880dcbe6b3d399c9a9b8011da19e
+Item Level: 53
+Quality: 0
+Sockets: R
+LevelReq: 20
+Implicits: 1
+10% reduced Enemy Stun Threshold
+194% increased Physical Damage
++70 to maximum Life
++70 to maximum Mana
+5% reduced Movement Speed
+16% increased Area of Effect
+19% increased Area Damage</Item>
+    <Item id="9">Rarity: UNIQUE
+Berek's Grip
+Two-Stone Ring
+Unique ID: 1a255ac577af9080023a213ac33c7c6e2b6fffccd7418e8a14a71056f99e419a
+Item Level: 68
+LevelReq: 20
+Implicits: 1
++14% to Cold and Lightning Resistances
+30% increased Cold Damage
+Adds 1 to 62 Lightning Damage to Spells and Attacks
++36 to maximum Life
+1% of Damage Leeched as Life against Shocked Enemies
+1% of Damage Leeched as Energy Shield against Frozen Enemies</Item>
+    <Item id="10">Rarity: UNIQUE
+Lochtonial Caress
+Iron Gauntlets
+Armour: 6
+ArmourBasePercentile: 0
+Unique ID: 435f5d99adb1ff94f2f52b4ebd1e3dde806cb8e8a1fd036d2c0fcba5e90b256d
+Item Level: 82
+Quality: 0
+Sockets: B-R
+Implicits: 0
+11% increased Attack Speed
+15% increased Cast Speed
+11% reduced maximum Mana
+12% chance to gain a Power, Frenzy or Endurance Charge on Kill
+Conduit</Item>
+    <Item id="11">Rarity: UNIQUE
+Feastbind
+Rustic Sash
+Unique ID: 100d9e0e6b568f8cea1d4ff42227bd95fa9313788bf7ffaeffb867e49cef62b2
+Item Level: 81
+LevelReq: 11
+Implicits: 1
+16% increased Global Physical Damage
+Adds 5 to 10 Physical Damage to Attacks
++25 to maximum Life
+0.2% of Physical Attack Damage Leeched as Life
+50% increased Flask Charges gained during any Flask Effect
+50% increased Mana Regeneration Rate during any Flask Effect</Item>
+    <Item id="12">Rarity: UNIQUE
+Tabula Rasa
+Simple Robe
+Unique ID: 0848631439782f1ce5e0ea54d13afda8440d5eb1a90c296f5d20ce984f82d994
+Item Level: 77
+Quality: 0
+Sockets: W-W-W-W-W-W
+Implicits: 0</Item>
+    <Item id="13">Rarity: UNIQUE
+Wondertrap
+Velvet Slippers
+Energy Shield: 28
+EnergyShieldBasePercentile: 0.6667
+Unique ID: 591783eadc542b61cebb4252498335aa6539228e7d1d7e7af145bce6f89a625a
+Item Level: 13
+Quality: 0
+Sockets: B-G-B
+LevelReq: 9
+Implicits: 0
++13 to Strength
++14 to Dexterity
++29 to Intelligence
++18 to maximum Energy Shield
+100% increased Rarity of Items found when on Low Life
+15% increased Movement Speed</Item>
+    <Item id="14">Rarity: UNIQUE
+Extractor Mentis
+Agate Amulet
+Unique ID: bd7107661edffdd294430d90ba50cf3deffc591de53a7d8fd2a883a25ea8419f
+Item Level: 75
+LevelReq: 16
+Implicits: 1
++21 to Strength and Intelligence
++33 to Strength
+Recover 1% of Life on Kill
+5% chance to grant Onslaught to nearby Enemies on Kill
+5% chance to grant Chaotic Might to nearby Enemies on Kill
+10% chance to gain Onslaught for 10 seconds on Kill
+10% chance to gain Chaotic Might for 10 seconds on Kill</Item>
+    <Item id="15">Rarity: NORMAL
+Colossal Life Flask
+Unique ID: 9202b01dc7ef718a3573e838e93703b75ee8582b28acc2378c1285609c1b77c2
+Item Level: 32
+Quality: 0
+LevelReq: 30
+Implicits: 0</Item>
+    <Item id="16">Rarity: NORMAL
+Colossal Life Flask
+Unique ID: 580f1ff48691ee593415f8a04706b1fb25683df505cdfd0f96f1cd58b048056f
+Item Level: 30
+Quality: 0
+LevelReq: 30
+Implicits: 0</Item>
+    <Item id="17">Rarity: RARE
+Entropy Whorl
+Coral Ring
+Unique ID: 8374c6d92b930b768bbba0fcdd4d87edf33f3956a3409714ec3f74cb91bab8c2
+Item Level: 30
+LevelReq: 24
+Implicits: 1
++28 to maximum Life
++2 to all Attributes
++14 to Intelligence
+Adds 1 to 23 Lightning Damage to Attacks
++79 to maximum Life
+Regenerate 7.5 Life per second
+24% increased Elemental Damage with Attack Skills</Item>
+    <Item id="18">Rarity: RARE
+Ghoul Gorget
+Amber Amulet
+Unique ID: dd77b2e562e9d6d95f76bbec0c1457b82145773b74382922e38191755bb4b029
+Item Level: 28
+LevelReq: 15
+Implicits: 1
++20 to Strength
+10% increased Lightning Damage
++7 to maximum Energy Shield
++5 to maximum Life
+Regenerate 9.3 Life per second
+Gain 5 Mana per Enemy Killed</Item>
+    <Item id="19">Rarity: UNIQUE
+The Stormheart
+Royal Staff
+Unique ID: 1c49d817055db734461539e118e0d19ca84db368cd8514d36ef1297c487bb11e
+Item Level: 80
+Quality: 0
+Sockets: R-G-R
+LevelReq: 28
+Implicits: 1
++20% Chance to Block Spell Damage while wielding a Staff
+84% increased Physical Damage
+Adds 35 to 52 Cold Damage
+Adds 6 to 82 Lightning Damage
+25% increased Critical Strike Chance
+100% chance to Avoid being Shocked while Chilled
+50% chance to Shock Chilled Enemies</Item>
+  </Items>
+  <Skills activeSkillSet="1" sortGemsByDPSField="CombinedDPS">
+    <SkillSet id="1">
+      <Skill enabled="true" slot="Weapon 2" mainActiveSkill="1" includeInFullDPS="true" label="" groupIndex="1">
+        <Gem nameSpec="Determination" skillId="Hatred" level="2" quality="0" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Helmet" mainActiveSkill="1" includeInFullDPS="true" label="" groupIndex="2">
+        <Gem nameSpec="Herald of Ice" skillId="HeraldOfIce" level="5" quality="0" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Gloves" mainActiveSkill="1" includeInFullDPS="true" label="" groupIndex="3">
+        <Gem nameSpec="Contagion" skillId="Contagion" level="9" quality="0" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Body Armour" mainActiveSkill="1" includeInFullDPS="true" label="" groupIndex="4">
+        <Gem nameSpec="Ice Crash" skillId="IceCrash" level="2" quality="0" enabled="true" />
+        <Gem nameSpec="Melee Physical Damage" skillId="SupportMeleePhysicalDamage" level="4" quality="0" enabled="true" />
+        <Gem nameSpec="Added Cold Damage" skillId="SupportAddedColdDamage" level="8" quality="0" enabled="true" />
+        <Gem nameSpec="Elemental Damage with Attacks" skillId="SupportElementalDamageWithAttacks" level="4" quality="0" enabled="true" />
+        <Gem nameSpec="Leap Slam" skillId="LeapSlam" level="5" quality="0" enabled="true" />
+        <Gem nameSpec="Faster Attacks" skillId="SupportFasterAttacks" level="6" quality="0" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Boots" mainActiveSkill="1" includeInFullDPS="true" label="" groupIndex="5">
+        <Gem nameSpec="Frostblink" skillId="Frostblink" level="9" quality="0" enabled="true" />
+        <Gem nameSpec="Clarity" skillId="Clarity" level="6" quality="0" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Boots" mainActiveSkill="1" includeInFullDPS="true" label="" groupIndex="6">
+        <Gem nameSpec="Frostblink" skillId="Frostblink" level="9" quality="0" enabled="true" />
+        <Gem nameSpec="Determination" skillId="Hatred" level="3" quality="0" enabled="true" />
+        <Gem nameSpec="Clarity" skillId="Clarity" level="7" quality="0" enabled="true" />
+      </Skill>
+    </SkillSet>
+  </Skills>
+  <Notes />
+  <Calcs />
+  <Attributes />
+  <PlayerStat />
+  <MinionStat />
+</PathOfBuilding>

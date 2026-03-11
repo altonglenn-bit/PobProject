@@ -1,0 +1,89 @@
+{
+  "recommended_archetype": "kinetic_fusillade_totem",
+  "recommended_stage": "endgame",
+  "base": "Kinetic_Fusillade_Totem.json",
+  "score": 15,
+  "reasons": [
+    "good bossing profile",
+    "supports content 'bossing'",
+    "fits endgame stage",
+    "tiebreak boost for safer ranged bossing",
+    "extra tiebreak boost for safe uber-ready profile",
+    "extra fit for safer uber bossing"
+  ],
+  "prefs": {
+    "source_prompt": "I want a bossing build for ubers",
+    "goal": "bossing",
+    "stage": "endgame",
+    "content_tags": [
+      "bossing"
+    ]
+  },
+  "command": "python generate_build.py --archetype kinetic_fusillade_totem --stage endgame",
+  "shortlist": [
+    {
+      "archetype": "kinetic_fusillade_totem",
+      "stage": "endgame",
+      "base": "Kinetic_Fusillade_Totem.json",
+      "score": 15,
+      "reasons": [
+        "good bossing profile",
+        "supports content 'bossing'",
+        "fits endgame stage",
+        "tiebreak boost for safer ranged bossing",
+        "extra tiebreak boost for safe uber-ready profile",
+        "extra fit for safer uber bossing"
+      ]
+    },
+    {
+      "archetype": "boneshatter_slayer",
+      "stage": "endgame",
+      "base": "boneshatter_slayer_base.json",
+      "score": 12,
+      "reasons": [
+        "good bossing profile",
+        "supports content 'bossing'",
+        "fits endgame stage",
+        "extra tiebreak boost for safe uber-ready profile",
+        "extra fit for safer uber bossing"
+      ]
+    },
+    {
+      "archetype": "kinetic_fusillade_totem",
+      "stage": "early_maps",
+      "base": "Kinetic_Fusillade_Totem.json",
+      "score": 12,
+      "reasons": [
+        "good bossing profile",
+        "supports content 'bossing'",
+        "tiebreak boost for safer ranged bossing",
+        "extra tiebreak boost for safe uber-ready profile",
+        "extra fit for safer uber bossing"
+      ]
+    },
+    {
+      "archetype": "kinetic_fusillade_totem",
+      "stage": "leveling",
+      "base": "Kinetic_Fusillade_Totem.json",
+      "score": 10,
+      "reasons": [
+        "good bossing profile",
+        "supports content 'bossing'",
+        "tiebreak boost for safer ranged bossing",
+        "extra tiebreak boost for safe uber-ready profile",
+        "extra fit for safer uber bossing"
+      ]
+    },
+    {
+      "archetype": "spectre_summoner_necromancer",
+      "stage": "endgame",
+      "base": "Spectre_Summoner_Necromancer.json",
+      "score": 9,
+      "reasons": [
+        "supports content 'bossing'",
+        "fits endgame stage",
+        "tiebreak boost for safer automated bossing"
+      ]
+    }
+  ]
+}

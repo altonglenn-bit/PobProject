@@ -1,0 +1,245 @@
+{
+  "results": [
+    {
+      "name": "bossing_ubers",
+      "prompt": "I want a bossing build for ubers",
+      "expected_archetype": "kinetic_fusillade_totem",
+      "actual_archetype": "kinetic_fusillade_totem",
+      "expected_stage": "endgame",
+      "actual_stage": "endgame",
+      "score": 15,
+      "reasons": [
+        "good bossing profile",
+        "supports content 'bossing'",
+        "fits endgame stage",
+        "tiebreak boost for safer ranged bossing",
+        "extra tiebreak boost for safe uber-ready profile",
+        "extra fit for safer uber bossing"
+      ],
+      "shortlist": [
+        {
+          "archetype": "kinetic_fusillade_totem",
+          "stage": "endgame",
+          "base": "Kinetic_Fusillade_Totem.json",
+          "base_file": "Kinetic_Fusillade_Totem.json",
+          "recommended_archetype": "kinetic_fusillade_totem",
+          "recommended_stage": "endgame",
+          "score": 15,
+          "reasons": [
+            "good bossing profile",
+            "supports content 'bossing'",
+            "fits endgame stage",
+            "tiebreak boost for safer ranged bossing",
+            "extra tiebreak boost for safe uber-ready profile",
+            "extra fit for safer uber bossing"
+          ],
+          "breakdown": {
+            "goal": [
+              {
+                "points": 5,
+                "reason": "good bossing profile"
+              }
+            ],
+            "content": [
+              {
+                "points": 2,
+                "reason": "supports content 'bossing'"
+              }
+            ],
+            "stage": [
+              {
+                "points": 2,
+                "reason": "fits endgame stage"
+              }
+            ],
+            "special": [
+              {
+                "points": 2,
+                "reason": "tiebreak boost for safer ranged bossing"
+              },
+              {
+                "points": 1,
+                "reason": "extra tiebreak boost for safe uber-ready profile"
+              },
+              {
+                "points": 3,
+                "reason": "extra fit for safer uber bossing"
+              }
+            ]
+          }
+        },
+        {
+          "archetype": "boneshatter_slayer",
+          "stage": "endgame",
+          "base": "boneshatter_slayer_base.json",
+          "base_file": "boneshatter_slayer_base.json",
+          "recommended_archetype": "boneshatter_slayer",
+          "recommended_stage": "endgame",
+          "score": 9,
+          "reasons": [
+            "good bossing profile",
+            "supports content 'bossing'",
+            "fits endgame stage",
+            "extra tiebreak boost for safe uber-ready profile"
+          ],
+          "breakdown": {
+            "goal": [
+              {
+                "points": 5,
+                "reason": "good bossing profile"
+              }
+            ],
+            "content": [
+              {
+                "points": 2,
+                "reason": "supports content 'bossing'"
+              }
+            ],
+            "stage": [
+              {
+                "points": 2,
+                "reason": "fits endgame stage"
+              }
+            ],
+            "special": [
+              {
+                "points": 1,
+                "reason": "extra tiebreak boost for safe uber-ready profile"
+              }
+            ],
+            "penalties": [
+              {
+                "points": -1,
+                "reason": "small tiebreak penalty for melee on safe uber-style request"
+              }
+            ]
+          }
+        },
+        {
+          "archetype": "spectre_summoner_necromancer",
+          "stage": "endgame",
+          "base": "Spectre_Summoner_Necromancer.json",
+          "base_file": "Spectre_Summoner_Necromancer.json",
+          "recommended_archetype": "spectre_summoner_necromancer",
+          "recommended_stage": "endgame",
+          "score": 7,
+          "reasons": [
+            "supports bossing content",
+            "supports content 'bossing'",
+            "fits endgame stage"
+          ],
+          "breakdown": {
+            "goal": [
+              {
+                "points": 3,
+                "reason": "supports bossing content"
+              }
+            ],
+            "content": [
+              {
+                "points": 2,
+                "reason": "supports content 'bossing'"
+              }
+            ],
+            "stage": [
+              {
+                "points": 2,
+                "reason": "fits endgame stage"
+              }
+            ]
+          }
+        },
+        {
+          "archetype": "lightning_arrow_deadeye",
+          "stage": "endgame",
+          "base": "lightning_arrow_deadeye_base.json",
+          "base_file": "lightning_arrow_deadeye_base.json",
+          "recommended_archetype": "lightning_arrow_deadeye",
+          "recommended_stage": "endgame",
+          "score": 2,
+          "reasons": [
+            "fits endgame stage"
+          ],
+          "breakdown": {
+            "stage": [
+              {
+                "points": 2,
+                "reason": "fits endgame stage"
+              }
+            ]
+          }
+        },
+        {
+          "archetype": "elementalist_kinetic_blast",
+          "stage": "endgame",
+          "base": "Elementalist_Kinetic_Blast_base.json",
+          "base_file": "Elementalist_Kinetic_Blast_base.json",
+          "recommended_archetype": "elementalist_kinetic_blast",
+          "recommended_stage": "endgame",
+          "score": 2,
+          "reasons": [
+            "fits endgame stage"
+          ],
+          "breakdown": {
+            "stage": [
+              {
+                "points": 2,
+                "reason": "fits endgame stage"
+              }
+            ]
+          }
+        }
+      ],
+      "breakdown": {
+        "goal": [
+          {
+            "points": 5,
+            "reason": "good bossing profile"
+          }
+        ],
+        "content": [
+          {
+            "points": 2,
+            "reason": "supports content 'bossing'"
+          }
+        ],
+        "stage": [
+          {
+            "points": 2,
+            "reason": "fits endgame stage"
+          }
+        ],
+        "special": [
+          {
+            "points": 2,
+            "reason": "tiebreak boost for safer ranged bossing"
+          },
+          {
+            "points": 1,
+            "reason": "extra tiebreak boost for safe uber-ready profile"
+          },
+          {
+            "points": 3,
+            "reason": "extra fit for safer uber bossing"
+          }
+        ]
+      },
+      "prefs": {
+        "source_prompt": "I want a bossing build for ubers",
+        "goal": "bossing",
+        "stage": "endgame",
+        "content_tags": [
+          "bossing"
+        ]
+      },
+      "status": "pass",
+      "generated_files": {
+        "json": "/tmp/tmpve8nf3nh/bossing_ubers.json",
+        "xml": "/tmp/tmpve8nf3nh/bossing_ubers.xml",
+        "encoded": "/tmp/tmpve8nf3nh/bossing_ubers_encoded.txt"
+      },
+      "encoded_length": 21323
+    }
+  ],
+  "e2e": true
+}

@@ -1,0 +1,78 @@
+{
+  "recommended_archetype": "kinetic_fusillade_totem",
+  "recommended_stage": "endgame",
+  "base_file": "Kinetic_Fusillade_Totem.json",
+  "score": 26,
+  "reasons": [
+    "good bossing profile",
+    "fits tanky/safe preference",
+    "supports content 'bossing'",
+    "supports content 'maps'",
+    "fits endgame stage",
+    "strong safe-build fit",
+    "tiebreak boost for safer ranged bossing",
+    "extra tiebreak boost for safe uber-ready profile"
+  ],
+  "preferences": {
+    "source_prompt": "I want a safe build for red maps and voidstones",
+    "goal": "bossing",
+    "tankiness": "high",
+    "stage": "endgame",
+    "content_tags": [
+      "maps",
+      "bossing"
+    ]
+  },
+  "generator_command": "python generate_build.py --archetype kinetic_fusillade_totem --stage endgame",
+  "shortlist": [
+    {
+      "archetype": "kinetic_fusillade_totem",
+      "stage": "endgame",
+      "base_file": "Kinetic_Fusillade_Totem.json",
+      "score": 26,
+      "reasons": [
+        "good bossing profile",
+        "fits tanky/safe preference",
+        "supports content 'bossing'",
+        "supports content 'maps'",
+        "fits endgame stage",
+        "strong safe-build fit",
+        "tiebreak boost for safer ranged bossing",
+        "extra tiebreak boost for safe uber-ready profile"
+      ],
+      "generator_command": "python generate_build.py --archetype kinetic_fusillade_totem --stage endgame"
+    },
+    {
+      "archetype": "boneshatter_slayer",
+      "stage": "endgame",
+      "base_file": "boneshatter_slayer_base.json",
+      "score": 23,
+      "reasons": [
+        "good bossing profile",
+        "fits tanky/safe preference",
+        "supports content 'bossing'",
+        "supports content 'maps'",
+        "fits endgame stage",
+        "strong safe-build fit",
+        "small tiebreak penalty for melee on safe uber-style request",
+        "extra tiebreak boost for safe uber-ready profile"
+      ],
+      "generator_command": "python generate_build.py --archetype boneshatter_slayer --stage endgame"
+    },
+    {
+      "archetype": "spectre_summoner_necromancer",
+      "stage": "endgame",
+      "base_file": "Spectre_Summoner_Necromancer.json",
+      "score": 20,
+      "reasons": [
+        "fits tanky/safe preference",
+        "supports content 'bossing'",
+        "supports content 'maps'",
+        "fits endgame stage",
+        "strong safe-build fit",
+        "tiebreak boost for safer automated bossing"
+      ],
+      "generator_command": "python generate_build.py --archetype spectre_summoner_necromancer --stage endgame"
+    }
+  ]
+}

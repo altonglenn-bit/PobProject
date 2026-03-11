@@ -1,0 +1,101 @@
+{
+  "recommended_archetype": "lightning_arrow_deadeye",
+  "recommended_stage": "early_maps",
+  "base": "lightning_arrow_deadeye_base.json",
+  "score": 32,
+  "reasons": [
+    "matches playstyle 'bow'",
+    "strong mapping profile",
+    "high clear-speed profile",
+    "fits low budget",
+    "good league starter",
+    "supports content 'maps'",
+    "boosted by alias match: bow_mapper"
+  ],
+  "prefs": {
+    "source_prompt": "I want a fast bow mapper league starter on low budget",
+    "aliases": [
+      "bow_mapper"
+    ],
+    "playstyle": "bow",
+    "goal": "fast mapper",
+    "budget": "low",
+    "league_starter": true,
+    "stage": "leveling",
+    "speed": "high",
+    "content_tags": [
+      "maps"
+    ]
+  },
+  "command": "python generate_build.py --archetype lightning_arrow_deadeye --stage early_maps",
+  "shortlist": [
+    {
+      "archetype": "lightning_arrow_deadeye",
+      "stage": "early_maps",
+      "base": "lightning_arrow_deadeye_base.json",
+      "score": 32,
+      "reasons": [
+        "matches playstyle 'bow'",
+        "strong mapping profile",
+        "high clear-speed profile",
+        "fits low budget",
+        "good league starter",
+        "supports content 'maps'",
+        "boosted by alias match: bow_mapper"
+      ]
+    },
+    {
+      "archetype": "lightning_arrow_deadeye",
+      "stage": "endgame",
+      "base": "lightning_arrow_deadeye_base.json",
+      "score": 29,
+      "reasons": [
+        "matches playstyle 'bow'",
+        "strong mapping profile",
+        "high clear-speed profile",
+        "fits low budget",
+        "good league starter",
+        "supports content 'maps'",
+        "boosted by alias match: bow_mapper"
+      ]
+    },
+    {
+      "archetype": "lightning_arrow_deadeye",
+      "stage": "leveling",
+      "base": "lightning_arrow_deadeye_base.json",
+      "score": 29,
+      "reasons": [
+        "matches playstyle 'bow'",
+        "strong mapping profile",
+        "high clear-speed profile",
+        "fits low budget",
+        "good league starter",
+        "supports content 'maps'",
+        "boosted by alias match: bow_mapper",
+        "fits leveling stage"
+      ]
+    },
+    {
+      "archetype": "kinetic_fusillade_totem",
+      "stage": "early_maps",
+      "base": "Kinetic_Fusillade_Totem.json",
+      "score": 7,
+      "reasons": [
+        "fits low budget",
+        "good league starter",
+        "supports content 'maps'"
+      ]
+    },
+    {
+      "archetype": "elementalist_kinetic_blast",
+      "stage": "early_maps",
+      "base": "Elementalist_Kinetic_Blast_base.json",
+      "score": 7,
+      "reasons": [
+        "strong mapping profile",
+        "high clear-speed profile",
+        "supports content 'maps'"
+      ]
+    }
+  ]
+}

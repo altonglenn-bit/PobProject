@@ -1,0 +1,10 @@
+{
+  "source_prompt": "I want a ballista totem league starter",
+  "aliases": [
+    "ballista",
+    "totem"
+  ],
+  "playstyle": "totem",
+  "league_starter": true,
+  "stage": "leveling"
+}

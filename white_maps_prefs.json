@@ -1,0 +1,7 @@
+{
+  "source_prompt": "I want a build for white maps",
+  "stage": "early_maps",
+  "content_tags": [
+    "maps"
+  ]
+}

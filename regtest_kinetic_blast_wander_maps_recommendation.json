@@ -1,0 +1,79 @@
+{
+  "recommended_archetype": "elementalist_kinetic_blast",
+  "recommended_stage": "early_maps",
+  "base": "Elementalist_Kinetic_Blast_base.json",
+  "score": 15,
+  "reasons": [
+    "matches playstyle 'caster'",
+    "supports content 'maps'",
+    "boosted by alias match: kinetic_blast",
+    "fits early mapping stage"
+  ],
+  "prefs": {
+    "source_prompt": "I want a kinetic blast wander for maps",
+    "aliases": [
+      "kinetic_blast"
+    ],
+    "playstyle": "caster",
+    "content_tags": [
+      "maps"
+    ]
+  },
+  "command": "python generate_build.py --archetype elementalist_kinetic_blast --stage early_maps",
+  "shortlist": [
+    {
+      "archetype": "elementalist_kinetic_blast",
+      "stage": "early_maps",
+      "base": "Elementalist_Kinetic_Blast_base.json",
+      "score": 15,
+      "reasons": [
+        "matches playstyle 'caster'",
+        "supports content 'maps'",
+        "boosted by alias match: kinetic_blast",
+        "fits early mapping stage"
+      ]
+    },
+    {
+      "archetype": "elementalist_kinetic_blast",
+      "stage": "endgame",
+      "base": "Elementalist_Kinetic_Blast_base.json",
+      "score": 13,
+      "reasons": [
+        "matches playstyle 'caster'",
+        "supports content 'maps'",
+        "boosted by alias match: kinetic_blast"
+      ]
+    },
+    {
+      "archetype": "elementalist_kinetic_blast",
+      "stage": "leveling",
+      "base": "Elementalist_Kinetic_Blast_base.json",
+      "score": 11,
+      "reasons": [
+        "matches playstyle 'caster'",
+        "supports content 'maps'",
+        "boosted by alias match: kinetic_blast"
+      ]
+    },
+    {
+      "archetype": "spectre_summoner_necromancer",
+      "stage": "early_maps",
+      "base": "Spectre_Summoner_Necromancer.json",
+      "score": -2,
+      "reasons": [
+        "supports content 'maps'",
+        "fits early mapping stage"
+      ]
+    },
+    {
+      "archetype": "lightning_arrow_deadeye",
+      "stage": "early_maps",
+      "base": "lightning_arrow_deadeye_base.json",
+      "score": -2,
+      "reasons": [
+        "supports content 'maps'",
+        "fits early mapping stage"
+      ]
+    }
+  ]
+}

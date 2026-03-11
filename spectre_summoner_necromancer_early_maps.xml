@@ -1,0 +1,2394 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PathOfBuilding>
+  <Build level="95" className="Witch" ascendClassName="Necromancer" bandit="None" targetVersion="3_0" mainSocketGroup="1" viewMode="ITEMS" />
+  <Config activeConfigSet="1">
+    <ConfigSet id="1">
+      <Input name="minionsOverrideFrenzyCharges" number="2" />
+      <Input name="multiplierCorpseConsumedRecently" boolean="true" />
+      <Input name="conditionEnemyBlinded" boolean="true" />
+      <Input name="useEnduranceCharges" boolean="true" />
+      <Input name="buffOnslaught" boolean="true" />
+      <Input name="conditionEnemyUnnerved" boolean="true" />
+      <Input name="conditionUsingFlask" boolean="true" />
+      <Input name="buffArcaneSurge" boolean="true" />
+      <Input name="conditionShockEffect" number="16" />
+      <Input name="pantheonMinorGod" string="Gruthkul" />
+      <Input name="conditionEnemyOnConsecratedGround" boolean="true" />
+      <Input name="conditionEnemyShocked" boolean="true" />
+      <Input name="feedingFrenzyFeedingFrenzyActive" boolean="true" />
+      <Input name="customMods" string="^4Minion taunt Nearby enemies deal 10% less damage  ^4Arcane Surge for minions (Bitterbind Point) Minions have 20% increased cast speed  ^4Perfect Forest Warrior Compensation (not using it in high budget) Minions have 20% reduced cast speed " />
+      <Input name="minionBuffOnslaught" boolean="true" />
+      <Input name="pantheonMajorGod" string="Lunaris" />
+      <Input name="multiplierNearbyEnemies" boolean="true" />
+      <Input name="multiplierBeenHitRecently" boolean="true" />
+      <Input name="multiplierSummonedMinion" number="12" />
+      <Input name="conditionFullEnergyShield" boolean="true" />
+      <Input name="conditionOnConsecratedGround" boolean="true" />
+      <Input name="minionsUseFrenzyCharges" boolean="true" />
+      <Placeholder name="multiplierWitheredStackCountSelf" string="15" />
+      <Placeholder name="enemySpeed" string="700" />
+      <Placeholder name="enemyCritChance" string="5" />
+      <Placeholder name="enemyCritDamage" string="30" />
+      <Placeholder name="enemyLevel" string="84" />
+      <Placeholder name="enemyPhysicalDamage" string="2241" />
+      <Placeholder name="enemyLightningDamage" string="2241" />
+      <Placeholder name="enemyColdResist" string="50" />
+      <Placeholder name="ScorchStacks" string="1" />
+      <Placeholder name="enemyChaosDamage" string="896" />
+      <Placeholder name="enemyChaosResist" string="30" />
+      <Placeholder name="enemyLightningPen" string="3" />
+      <Placeholder name="enemyColdPen" string="3" />
+      <Placeholder name="enemyFirePen" string="3" />
+      <Placeholder name="enemyArmour" string="61989" />
+      <Placeholder name="meleeDistance" string="15" />
+      <Placeholder name="enemyDamageRollRange" string="70" />
+      <Placeholder name="enemyColdDamage" string="2241" />
+      <Placeholder name="sigilOfPowerStages" string="1" />
+      <Placeholder name="enemyLightningResist" string="50" />
+      <Placeholder name="enemyEvasion" string="10143" />
+      <Placeholder name="enemyFireDamage" string="2241" />
+      <Placeholder name="projectileDistance" string="40" />
+      <Placeholder name="ShockStacks" string="1" />
+      <Placeholder name="configSpectralTigerCount" string="5" />
+      <Placeholder name="enemyFireResist" string="50" />
+      <Input name="enemyLevel" number="83" />
+    </ConfigSet>
+  </Config>
+  <Tree activeSpec="1">
+    <Spec id="1" title="^2Low Budget End-Game" classId="3" ascendClassId="3" treeVersion="3_28" nodes="7388,10904,19103,2292,60472,3533,23027,36634,65668,26866,24824,23185,48362,37326,41472,7688,11088,19919,1203,55190,64426,34171,48719,60554,15405,26725,36915,20832,49254,63282,50422,2913,50862,21958,13862,44967,26196,54267,43818,26481,54447,61471,62429,11730,54849,61419,44908,10031,27308,37569,1031,15631,5415,31875,25332,64210,55646,15081,19635,26270,22062,26298,30380,14057,60791,6967,29353,62767,18174,34880,15046,33755,15522,58218,65664,17821,33631,54159,36542,6712,63723,53118,34552,42668,36949,25535,38921,57264,48109,26712,43133,4397,43647,25989,50570,65108,50826,9386,29106,18309,13009,41190,14936,1593,59928,34917,63138,21330,53279,27203,27195,27611,36017,5743,17735,44429,14603,43689,39648,11420,35288,7374,6764,60398,48290" url="" />
+    <Spec id="2" title="^4Medium Budget End-Game" classId="3" ascendClassId="3" treeVersion="3_28" nodes="7388,54447,23027,36634,65697,48362,63282,11088,65705,64426,34171,20832,7374,44967,26196,19919,49080,65698,61419,37569,65706,55646,55743,14057,60791,29353,18174,15046,17821,65699,36542,6967,63723,66692,1031,65707,10904,57264,50826,26712,4397,43133,13009,36949,64210,44908,44169,27195,14603,60398,48290,61992,19103,5743,60472,3533,23185,37326,41472,65701,48719,6764,36915,50862,21958,54267,60554,62429,54849,65702,43689,15631,31875,25332,19635,26298,24824,26866,34880,53118,1593,66688,11420,27203,59928,65703,33755,13862,11730,39648,38921,9386,10031,33631,61471,25989,43647,2913,30380,41190,6712,58218,29106,18309,65108,42668,50570,25535,48109,15522,65696,21330,53279,34917,26270,27611,36017,54159,17735,50422,27308,55190,1203,15405,35288,26481,5415,49254,26725" url="" />
+    <Spec id="3" title="^1High Budget DORYANI'S PROTOTYPE" classId="3" ascendClassId="3" treeVersion="3_28" nodes="7388,4184,59826,54447,487,20987,23027,36634,64587,65697,6289,26725,28862,65573,65705,34171,49254,26196,19919,49080,33287,65698,65574,37569,65706,48287,55646,55743,5591,34478,14057,60791,29353,34098,15046,29712,65699,36542,6712,59928,66692,65707,10904,57264,48109,26712,4397,13009,36949,36678,64210,62108,9052,65568,44169,44202,861,62017,14603,9086,60398,48290,7444,5197,5743,60472,52502,9408,65569,37326,41472,65701,48719,6764,36915,7960,11420,62429,65570,65702,43689,46340,65578,31875,25332,32738,26298,24824,5233,34880,28311,65571,48813,65703,65579,38921,23690,17570,43647,66688,30380,42668,65577,53793,29106,18309,42800,10729,27203,34661,63723,58218,65696,53118,11730,54159,6967,9386,48284,63422,17735,63282,55676,1203,40653,10851,35288,26270,48362,55190,65575" url="" />
+    <Spec id="4" title="Mirror Tier" classId="3" ascendClassId="3" treeVersion="3_28" nodes="7388,4184,54447,487,20987,23027,36634,64587,65697,48362,63282,28862,65573,65705,34171,49254,63422,19919,49080,33287,65698,65574,37569,65706,48287,55646,55743,5591,34478,14057,60791,29353,34098,15046,29712,65699,36542,6967,59928,66692,65707,10904,57264,48109,26712,4397,13009,36949,36678,58218,62108,9052,65568,44169,44202,861,62017,53793,60398,48290,7444,5197,5743,60472,52502,9408,65569,37326,41472,65701,48719,6764,36915,7960,11420,62429,65570,65702,10851,46340,65578,31875,25332,32738,26298,30380,5233,34880,28311,65571,48813,65703,65579,38921,23690,66688,64210,65577,43647,27203,40653,42668,14603,26270,29106,18309,42800,10729,24824,34661,55190,43689,65696,10031,38989,2292,53118,63723,48284,6712,17735,6289,55676,9386,11730,1203,35288,26725,54159,26196,65575" url="" />
+  </Tree>
+  <Items activeItemSet="1">
+    <ItemSet id="1" useSecondWeaponSet="nil">
+      <Slot name="Weapon 1" itemId="43" />
+      <Slot name="Weapon 2" itemId="16" />
+      <Slot name="Helmet" itemId="15" />
+      <Slot name="Body Armour" itemId="36" />
+      <Slot name="Gloves" itemId="55" />
+      <Slot name="Boots" itemId="59" />
+      <Slot name="Amulet" itemId="34" />
+      <Slot name="Ring 1" itemId="45" />
+      <Slot name="Ring 2" itemId="44" />
+      <Slot name="Belt" itemId="52" />
+      <Slot name="Flask 1" itemId="8" />
+      <Slot name="Flask 2" itemId="31" />
+      <Slot name="Flask 3" itemId="47" />
+      <Slot name="Flask 4" itemId="32" />
+      <Slot name="Flask 5" itemId="54" />
+      <Slot name="Belt Abyssal Socket 1" itemId="49" />
+      <Slot name="Belt Abyssal Socket 2" itemId="50" />
+    </ItemSet>
+    <Item id="23">Rarity: RARE
+New Item
+Convoking Wand
+Crafted: true
+Prefix: {range:0.5}GlobalSpellGemsLevel1
+Prefix: {range:0.5}MinionGemLevel1h1
+Prefix: {range:0.761}MinionDamageOnWeapon5
+Suffix: None
+Suffix: None
+Suffix: None
+Quality: 20
+Sockets: B-B-B
+LevelReq: 72
+Implicits: 1
+{tags:damage,minion}{range:1}Minions deal (26-30)% increased Damage
++1 to Level of all Spell Skill Gems
++1 to Level of all Minion Skill Gems
+Minions deal 66% increased Damage
+{crafted}Can have up to 3 Crafted Modifiers
+{tags:skill,caster,gem}{crafted}Trigger a Socketed Spell when you Use a Skill, with a 8 second Cooldown
+{tags:skill,caster,gem}{crafted}Spells Triggered this way have 150% more Cost
+{tags:unveiled_mod,attack,caster,speed,minion}{crafted}{range:0.5}Minions have (14-15)% increased Attack Speed
+{tags:unveiled_mod,attack,caster,speed,minion}{crafted}{range:0.5}Minions have (14-15)% increased Cast Speed</Item>
+    <Item id="7">Rarity: RARE
+New Item
+Calling Wand
+Crafted: true
+Prefix: None
+Prefix: None
+Prefix: None
+Suffix: None
+Suffix: None
+Suffix: None
+Quality: 20
+Sockets: B-B-B
+LevelReq: 20
+Implicits: 1
+{tags:damage,minion}{range:0.5}Minions deal (12-16)% increased Damage
++1 to Level of all Minion Skill Gems
+Minions deal 54% increased Damage
+{tags:skill,unveiled_mod,caster,gem}{crafted}Trigger a Socketed Spell when you Use a Skill, with a 8 second Cooldown
+{crafted}Spells Triggered this way have 150% more Cost</Item>
+    <Item id="43">Rarity: RARE
+New Item
+Convoking Wand
+Crafted: true
+Prefix: {range:0.5}GlobalSpellGemsLevel1
+Prefix: {range:0.5}MinionGemLevel1h1
+Prefix: {range:0.465}MinionDamageOnWeapon8
+Suffix: None
+Suffix: {range:0.261}MinionAttackAndCastSpeed7
+Suffix: None
+Quality: 20
+Sockets: B-B-B
+LevelReq: 72
+Implicits: 1
+{tags:damage,minion}{range:1}Minions deal (26-30)% increased Damage
++1 to Level of all Spell Skill Gems
++1 to Level of all Minion Skill Gems
+Minions deal 104% increased Damage
+Minions have 24% increased Attack and Cast Speed
+{tags:skill,caster,gem}{crafted}Trigger a Socketed Spell when you Use a Skill, with a 8 second Cooldown
+{tags:skill,caster,gem}{crafted}Spells Triggered this way have 150% more Cost</Item>
+    <Item id="19">Rarity: UNIQUE
+Dying Breath
+Iron Staff
+Variant: Pre 2.6.0
+Variant: Current
+Selected Variant: 2
+{variant:1}Coiled Staff
+{variant:2}Iron Staff
+Quality: 20
+Sockets: B-B-B-B-B-B
+LevelReq: 13
+Implicits: 1
+18% Chance to Block Attack Damage while wielding a Staff
+18% increased Cast Speed
+18% increased maximum Mana
+18% increased Area of Effect of Aura Skills
+18% increased Area of Effect of Hex Skills
+Nearby Enemies have 18% increased Effect of Curses on them
+Nearby allies gain 18% increased Damage
+18% increased effect of Non-Curse Auras from your Skills</Item>
+    <Item id="39">Rarity: RARE
+New Item
+Convoking Wand
+Crafted: true
+Prefix: {range:0.5}GlobalSpellGemsLevel1
+Prefix: {range:0.5}MinionGemLevel1h1
+Prefix: {range:1}MinionDamageOnWeapon8
+Suffix: None
+Suffix: {range:1}MinionAttackAndCastSpeed7
+Suffix: None
+Quality: 20
+Sockets: B-B-B
+LevelReq: 72
+Implicits: 1
+{tags:damage,minion}{range:1}Minions deal (26-30)% increased Damage
++1 to Level of all Spell Skill Gems
++1 to Level of all Minion Skill Gems
+Minions deal 109% increased Damage
+Minions have 25% increased Attack and Cast Speed
+{tags:skill,caster,gem}{crafted}Trigger a Socketed Spell when you Use a Skill, with a 8 second Cooldown
+{tags:skill,caster,gem}{crafted}Spells Triggered this way have 150% more Cost</Item>
+    <Item id="56">Rarity: RARE
+Kraken Song
+Fossilised Spirit Shield
+Energy Shield: 54
+EnergyShieldBasePercentile: 0.8077
+Item Level: 75
+Quality: 0
+Sockets: G-R-B
+LevelReq: 59
+Implicits: 1
+Minions deal 10% increased Damage
++65 to maximum Life
+{tags:minion,gem}{custom}+1 to Level of all Minion Skill Gems
+Get ress and attributes here</Item>
+    <Item id="16">Rarity: UNIQUE
+Bitterbind Point
+Titanium Spirit Shield
+Energy Shield: 257
+EnergyShieldBasePercentile: 0.7048
+Item Level: 85
+Quality: 20
+Sockets: G-B
+LevelReq: 68
+Implicits: 0
+189% increased Energy Shield
+Raised Spectres have 91% increased maximum Life
++1 to maximum number of Spectres
+Gain Arcane Surge when you deal a Critical Strike
+Your Raised Spectres also gain Arcane Surge when you do
+69% increased Spell Critical Strike Chance per Raised Spectre</Item>
+    <Item id="15">Rarity: UNIQUE
+The Dark Monarch
+Lich's Circlet
+Energy Shield: 266
+EnergyShieldBasePercentile: 1
+Variant: Animated Weapons
+Variant: Summoned Golems
+Variant: Summoned Raging Spirits
+Variant: Raised Spectres
+Variant: Raised Spiders
+Variant: Raised Zombies
+Variant: Summoned Reapers
+Variant: Sentinels of Absolution
+Variant: Sentinels of Dominance
+Variant: Sentinels of Purity
+Variant: Summoned Holy Relics
+Variant: Summoned Phantasms
+Variant: Summoned Skeletons
+Variant: Summoned Spectral Wolves
+Selected Variant: 4
+Quality: 20
+Sockets: B-B-B-B
+LevelReq: 80
+Implicits: 0
+{range:0.768}+(50-100) to maximum Energy Shield
++1 to Level of all Minion Skill Gems
+{range:0.805}+(27-37)% to Chaos Resistance
+50% reduced Light Radius
+{variant:1}Maximum number of Animated Weapons is Doubled
+{variant:1}Cannot have Minions other than Animated Weapons
+{variant:2}Maximum number of Summoned Golems is Doubled
+{variant:2}Cannot have Minions other than Summoned Golems
+{variant:3}Maximum number of Summoned Raging Spirits is Doubled
+{variant:3}Cannot have Minions other than Summoned Raging Spirits
+{variant:4}Maximum number of Raised Spectres is Doubled
+{variant:4}Cannot have Minions other than Raised Spectres
+{variant:5}Maximum number of Raised Spiders is Doubled
+{variant:5}Cannot have Minions other than Raised Spiders
+{variant:6}Maximum number of Raised Zombies is Doubled
+{variant:6}Cannot have Minions other than Raised Zombies
+{variant:7}Maximum number of Summoned Reapers is Doubled
+{variant:7}Cannot have Minions other than Summoned Reapers
+{variant:8}Maximum number of Sentinels of Absolution is Doubled
+{variant:8}Cannot have Minions other than Sentinels of Absolution
+{variant:9}Maximum number of Sentinels of Dominance is Doubled
+{variant:9}Cannot have Minions other than Sentinels of Dominance
+{variant:10}Maximum number of Sentinels of Purity is Doubled
+{variant:10}Cannot have Minions other than Sentinels of Purity
+{variant:11}Maximum number of Summoned Holy Relics is Doubled
+{variant:11}Cannot have Minions other than Summoned Holy Relics
+{variant:12}Maximum number of Summoned Phantasms is Doubled
+{variant:12}Cannot have Minions other than Summoned Phantasms
+{variant:13}Maximum number of Summoned Skeletons is Doubled
+{variant:13}Cannot have Minions other than Summoned Skeletons
+{variant:14}Maximum number of Summoned Spectral Wolves is Doubled
+{variant:14}Cannot have Minions other than Summoned Spectral Wolves</Item>
+    <Item id="51">Rarity: RARE
+Low budget Helmet
+Praetor Crown
+Armour: 193
+ArmourBasePercentile: 0
+Energy Shield: 70
+EnergyShieldBasePercentile: 1
+Crafted: true
+Prefix: None
+Prefix: {range:0.915}GlobalIncreaseMinionSpellSkillGemLevel2
+Prefix: {range:0.689}IncreasedLife6
+Suffix: None
+Suffix: None
+Suffix: None
+Quality: 20
+Sockets: B-B-R-R
+LevelReq: 68
+Implicits: 0
++95 to maximum Life
++2 to Level of all Minion Skill Gems
+{tags:unveiled_mod,minion}{crafted}+1 to maximum number of Raised Zombies
+{tags:unveiled_mod,minion}{crafted}+1 to maximum number of Skeletons</Item>
+    <Item id="20">Rarity: UNIQUE
+Leer Cast
+Festival Mask
+Evasion: 92
+EvasionBasePercentile: 0
+Energy Shield: 20
+EnergyShieldBasePercentile: 0
+Variant: Pre 3.19.0
+Variant: Current
+Selected Variant: 2
+Quality: 20
+Sockets: G-G-G-G
+LevelReq: 28
+Implicits: 0
+{range:0.5}+(20-30) to Dexterity
+{variant:1}30% reduced Damage
+{variant:2}25% reduced Damage
+{variant:1}{range:0.5}+(20-30) to maximum Life
+{variant:2}{range:0.5}+(60-100) to maximum Life
+{variant:1}{range:0.5}+(20-30) to maximum Mana
+{variant:2}{range:0.5}+(60-100) to maximum Mana
+{variant:1}You and nearby allies gain 15% increased Damage
+{variant:2}You and nearby allies gain 50% increased Damage</Item>
+    <Item id="21">Rarity: RARE
+Armour/Energy Shield Chest
+Saintly Chainmail
+Armour: 905
+ArmourBasePercentile: 0
+Energy Shield: 217
+EnergyShieldBasePercentile: 0
+Searing Exarch Item
+Eater of Worlds Item
+Crafted: true
+Prefix: {range:0.69}LocalIncreasedArmourAndEnergyShield6
+Prefix: {range:0.254}IncreasedLife10
+Prefix: None
+Suffix: None
+Suffix: {range:0.887}ChaosResist4
+Suffix: {range:0.68}AdditionalPhysicalDamageReduction4
+Quality: 20
+Sockets: B-B-R-R-R-B
+LevelReq: 70
+Implicits: 2
+{tags:resistance}{exarch}+1% to all maximum Resistances
+{tags:physical,elemental,cold}{eater}11% of Physical Damage from Hits taken as Cold Damage
+88% increased Armour and Energy Shield
++149 to maximum Life
++25% to Chaos Resistance
+7% additional Physical Damage Reduction
+{custom}+1 to maximum number of spectres
+{tags:unveiled_mod,elemental,fire,chaos,resistance}{crafted}{range:1}+(13-15)% to Fire and Chaos Resistances</Item>
+    <Item id="42">Rarity: RARE
+Armour/Energy Shield Chest
+Saintly Chainmail
+Armour: 905
+ArmourBasePercentile: 0
+Energy Shield: 217
+EnergyShieldBasePercentile: 0
+Crafted: true
+Prefix: {range:0.69}LocalIncreasedArmourAndEnergyShield6
+Prefix: None
+Prefix: None
+Suffix: None
+Suffix: {range:1}ChaosResist3
+Suffix: None
+Quality: 20
+Sockets: B-B-R-R-R-B
+LevelReq: 70
+Implicits: 0
+88% increased Armour and Energy Shield
++20% to Chaos Resistance
+Corrupted</Item>
+    <Item id="36">Rarity: UNIQUE
+Doryani's Prototype
+Saint's Hauberk
+Armour: 1762
+ArmourBasePercentile: 1
+Energy Shield: 302
+EnergyShieldBasePercentile: 1
+League: Harvest
+Quality: 20
+Sockets: R-R-R-R-R-R
+LevelReq: 67
+Implicits: 0
+{range:0.915}(150-200)% increased Armour and Energy Shield
+{range:0.89}+(60-90) to maximum Life
+Deal no Non-Lightning Damage
+Armour also applies to Lightning Damage taken from Hits
+Lightning Resistance does not affect Lightning Damage taken
+Nearby Enemies have Lightning Resistance equal to yours</Item>
+    <Item id="60">Rarity: UNIQUE
+Doryani's Prototype
+Saint's Hauberk
+Armour: 1762
+ArmourBasePercentile: 1
+Energy Shield: 302
+EnergyShieldBasePercentile: 1
+League: Harvest
+Quality: 20
+Sockets: R-R-R-R-R-R
+LevelReq: 67
+Implicits: 2
+{tags:gem}+1 to Level of Socketed Gems
+{tags:minion,gem}+2 to Level of Socketed Minion Gems
+{range:0.915}(150-200)% increased Armour and Energy Shield
+{range:0.89}+(60-90) to maximum Life
+Deal no Non-Lightning Damage
+Armour also applies to Lightning Damage taken from Hits
+Lightning Resistance does not affect Lightning Damage taken
+Nearby Enemies have Lightning Resistance equal to yours
+Corrupted</Item>
+    <Item id="73">Rarity: UNIQUE
+Zahndethus' Cassock
+Sage's Robe
+Energy Shield: 257
+EnergyShieldBasePercentile: 1
+Variant: Pre 1.0.0
+Variant: Pre 1.3.0
+Variant: Pre 2.6.0
+Variant: Current
+Selected Variant: 4
+Quality: 20
+Sockets: B-B-B-B-B-B
+LevelReq: 37
+Implicits: 0
+{variant:1}Adds 1 to 25 Lightning Damage
+{variant:2,3,4}Adds 1 to 40 Lightning Damage to Attacks
+{variant:1,2,3}{range:0.5}(75-100)% increased Energy Shield
+{variant:4}{range:0.5}(125-150)% increased Energy Shield
+{variant:1}{range:0.5}+(20-25)% to Chaos Resistance
+{variant:2,3,4}{range:0.5}+(40-50)% to Chaos Resistance
+25% increased Light Radius
+{variant:1}25% chance to create Consecrated Ground when you Block
+{variant:2}50% chance to create Consecrated Ground when you Block
+{variant:3,4}100% chance to create Consecrated Ground when you Block</Item>
+    <Item id="24">Rarity: RARE
+Energy Shield Gloves
+Warlock Gloves
+Energy Shield: 142
+EnergyShieldBasePercentile: 1
+Searing Exarch Item
+Eater of Worlds Item
+Crafted: true
+Prefix: {range:0.32}IncreasedLife7
+Prefix: None
+Prefix: {range:0.5}LocalIncreasedEnergyShield6
+Suffix: None
+Suffix: None
+Suffix: {range:0.711}ChaosResist5
+Quality: 20
+Sockets: B-B-B-B
+LevelReq: 84
+Implicits: 2
+{tags:damage,minion}{exarch}{range:1}Minions deal (23-25)% increased Damage
+{eater}+5% chance to Suppress Spell Damage
++35 to maximum Energy Shield
++104 to maximum Life
++29% to Chaos Resistance
+{tags:damage,minion}{custom}{range:0.5}Minions deal (28-30)% increased Damage
+{tags:unveiled_mod,elemental,cold,chaos,resistance}{crafted}{range:0.5}+(13-15)% to Cold and Chaos Resistances</Item>
+    <Item id="18">Rarity: RARE
+Armour Gloves
+Titan Gauntlets
+Armour: 362
+ArmourBasePercentile: 1
+Crafted: true
+Prefix: {range:0.5}LocalIncreasedPhysicalDamageReductionRating2
+Prefix: None
+Prefix: {range:0.5}IncreasedLife6
+Suffix: {range:1}FireResist4
+Suffix: {range:1}LightningResist4
+Suffix: None
+Quality: 20
+Sockets: R-R-R-R
+LevelReq: 69
+Implicits: 0
++24 to Armour
++92 to maximum Life
++29% to Fire Resistance
++29% to Lightning Resistance
+{tags:attribute}{crafted}{range:0.5}+(21-25) to Dexterity</Item>
+    <Item id="55">Rarity: RARE
+New Item
+Leviathan Gauntlets
+Armour: 496
+ArmourBasePercentile: 1
+Energy Shield: 42
+EnergyShieldBasePercentile: 1
+Crafted: true
+Prefix: None
+Prefix: None
+Prefix: None
+Suffix: None
+Suffix: None
+Suffix: None
+Quality: 20
+Sockets: R-R-R-R
+LevelReq: 84
+Implicits: 2
+{tags:damage,minion}{exarch}{range:1}Minions deal (23-25)% increased Damage
+{eater}+5% chance to Suppress Spell Damage
++35 to maximum Energy Shield
++104 to maximum Life
++25% to Chaos Resistance
+{tags:damage,minion}{custom}{range:0.5}Minions deal (28-30)% increased Damage
+{tags:unveiled_mod,elemental,cold,chaos,resistance}{crafted}{range:0.5}+(13-15)% to Cold and Chaos Resistances</Item>
+    <Item id="48">Rarity: RARE
+AG gloves any base with ele weakness
+Titan Gauntlets
+Armour: 334
+ArmourBasePercentile: 1
+Crafted: true
+Prefix: {range:0.5}LocalIncreasedPhysicalDamageReductionRating2
+Prefix: {range:0.5}LocalIncreasedPhysicalDamageReductionRatingPercent5
+Prefix: {range:0.5}IncreasedLife6
+Suffix: None
+Suffix: None
+Suffix: None
+Quality: 20
+Sockets: R-R-R-R
+LevelReq: 69
+Implicits: 1
+{tags:caster,curse}Curse Enemies with Elemental Weakness on Hit
++10% to chaos resistance
+Corrupted</Item>
+    <Item id="22">Rarity: RARE
+New Item
+Warlock Boots
+Energy Shield: 100
+EnergyShieldBasePercentile: 1
+Elder Item
+Crafted: true
+Prefix: {range:1}MovementVelocity6
+Prefix: {range:0.18}IncreasedLife6
+Prefix: None
+Suffix: {range:1}GlobalRaiseSpectreGemLevelUber1
+Suffix: {range:1}ColdResist4
+Suffix: None
+Quality: 20
+Sockets: B-B-B-B
+LevelReq: 84
+Implicits: 0
++88 to maximum Life
++1 to Level of all Raise Spectre Gems
++29% to Cold Resistance
+35% increased Movement Speed
+{tags:unveiled_mod,elemental,lightning,chaos,resistance}{crafted}{range:1}+(13-15)% to Lightning and Chaos Resistances</Item>
+    <Item id="25">Rarity: UNIQUE
+Bones of Ullr
+Silk Slippers
+Energy Shield: 38
+EnergyShieldBasePercentile: 1
+Variant: Pre 3.8.0
+Variant: Current
+Selected Variant: 2
+Quality: 20
+Sockets: B-B-B-B
+LevelReq: 22
+Implicits: 0
++20 to maximum Life
++20 to maximum Mana
+{range:0.5}(40-60)% increased Energy Shield
+{range:0.5}(5-15)% increased Movement Speed
+{variant:1}+1 to Maximum number of Raised Zombies
+{variant:1}+1 to Maximum number of Spectres
+{variant:2}+1 to Level of all Raise Zombie Gems
+{variant:2}+1 to Level of all Raise Spectre Gems</Item>
+    <Item id="59">Rarity: RARE
+New Item
+Leviathan Greaves
+Armour: 496
+ArmourBasePercentile: 1
+Crafted: true
+Prefix: None
+Prefix: None
+Prefix: None
+Suffix: None
+Suffix: None
+Suffix: None
+Quality: 20
+Sockets: R-R-R-R
+LevelReq: 84
+Implicits: 0
++88 to maximum Life
++2 to Level of all Raise Spectre Gems
++40% to Cold Resistance
+35% increased Movement Speed
+{tags:unveiled_mod,elemental,cold,chaos,resistance}{crafted}{range:1}+(13-15)% to Cold and Chaos Resistances</Item>
+    <Item id="46">Rarity: UNIQUE
+Windscream
+Reinforced Greaves
+Armour: 238
+ArmourBasePercentile: 1
+Variant: Pre 2.6.0
+Variant: Pre 3.19.0
+Variant: Current
+Selected Variant: 3
+Quality: 20
+Sockets: R-R-R-R
+LevelReq: 33
+Implicits: 0
+{range:0.5}(50-80)% increased Armour
+{range:0.5}+(10-15)% to all Elemental Resistances
+{variant:1}10% increased Movement Speed
+{variant:2}15% increased Movement Speed
+{variant:3}20% increased Movement Speed
+{variant:1}10% increased Elemental Damage
+{variant:2}{range:0.5}(10-20)% increased Elemental Damage
+You can apply an additional Curse
+{variant:3}50% increased Area of Effect of Hex Skills</Item>
+    <Item id="63">Rarity: UNIQUE
+Bonemeld
+Marble Amulet
+Item Level: 86
+LevelReq: 74
+Implicits: 2
+{crafted}Allocates Death Attunement
+Regenerate 1.33% of Life per second
++14 to all Attributes
++2 to Level of all Minion Skill Gems
+-2% to all Resistances per Minion from your Non-Vaal Skills
+3% increased Defences per Minion from your Non-Vaal Skills
+Minions gain added Resistances equal to 50% of your Resistances</Item>
+    <Item id="3">Rarity: UNIQUE
+The Jinxed Juju
+Citrine Amulet
+Variant: Pre 3.16.0
+Variant: Pre 3.20.0
+Variant: Current
+Selected Variant: 3
+LevelReq: 48
+Implicits: 2
+{crafted}Allocates Death Attunement
+{tags:jewellery_attribute}{range:1}+(16-24) to Strength and Dexterity
+{tags:jewellery_attribute}{range:0.5}+(30-40) to Intelligence
+{tags:jewellery_resistance}{range:0.5}+(23-31)% to Chaos Resistance
+{tags:caster}{variant:1}{range:0.5}(10-15)% increased Effect of your Curses
+{tags:caster}{variant:2}{range:0.5}(5-10)% increased Effect of your Curses
+{variant:1,3}{range:0.5}(10-15)% increased effect of Non-Curse Auras from your Skills
+{variant:2}{range:0.5}(5-10)% increased effect of Non-Curse Auras from your Skills
+10% of Damage from Hits is taken from your Spectres' Life before you
+(The damage they take will be divided evenly between them)</Item>
+    <Item id="34">Rarity: UNIQUE
+Replica Dragonfang's Flight
+Onyx Amulet
+Variant: Pre 3.23.0
+Variant: Current
+Variant: Tempest Shield
+Variant: Smoke Mine
+Variant: Temporal Rift
+Variant: Punishment
+Variant: Hatred
+Variant: Storm Rain
+Variant: Alchemist's Mark
+Variant: Soulrend
+Variant: Rage Vortex
+Variant: Vortex
+Variant: Defiance Banner
+Variant: Summon Lightning Golem
+Variant: Flame Dash
+Variant: Tornado
+Variant: Ancestral Cry
+Variant: Leap Slam
+Variant: Ground Slam
+Variant: Siphoning Trap
+Variant: Conversion Trap
+Variant: Rolling Magma
+Variant: Detonate Mines
+Variant: General's Cry
+Variant: Bladefall of Trarthus
+Variant: Decoy Totem
+Variant: Summon Stone Golem
+Variant: Stormblast Mine
+Variant: Kinetic Bolt
+Variant: Enfeeble
+Variant: Molten Shell
+Variant: Consecrated Path
+Variant: Purity of Elements
+Variant: Ball Lightning
+Variant: Scourge Arrow
+Variant: Arcanist Brand
+Variant: Dual Strike
+Variant: Exsanguinate
+Variant: Rejuvenation Totem
+Variant: Spirit Offering
+Variant: Bladestorm
+Variant: Lightning Conduit
+Variant: Flammability
+Variant: Anger
+Variant: Reave
+Variant: Infernal Blow
+Variant: Summon Flame Golem
+Variant: Mirror Arrow
+Variant: Herald of Agony
+Variant: Volcanic Fissure
+Variant: Venom Gyre
+Variant: Chain Hook
+Variant: Scorching Ray
+Variant: Flamethrower Trap
+Variant: Puncture
+Variant: Tectonic Slam
+Variant: Ice Spear
+Variant: Spectral Helix
+Variant: Void Sphere
+Variant: Frost Bomb
+Variant: Double Strike
+Variant: Intuitive Link
+Variant: Blight
+Variant: Quickstep
+Variant: Unearth
+Variant: Sniper's Mark
+Variant: Shrapnel Ballista
+Variant: Storm Call
+Variant: Arctic Armour
+Variant: Flesh Offering
+Variant: Searing Bond
+Variant: Flame Wall
+Variant: Sweep
+Variant: Dominating Blow
+Variant: Sunder
+Variant: Ensnaring Arrow
+Variant: Rain of Arrows
+Variant: Voltaxic Burst
+Variant: Bone Offering
+Variant: Volatile Dead
+Variant: Forbidden Rite
+Variant: Explosive Concoction
+Variant: Storm Brand
+Variant: Wrath
+Variant: Devouring Totem
+Variant: Glacial Shield Swipe
+Variant: Lightning Trap
+Variant: Shield Charge
+Variant: Flameblast
+Variant: Herald of Ash
+Variant: Lacerate
+Variant: Autoexertion
+Variant: Holy Flame Totem
+Variant: Seismic Cry
+Variant: Lightning Spire Trap
+Variant: Temporal Chains
+Variant: Detonate Dead
+Variant: Shockwave Totem
+Variant: Bladefall
+Variant: Artillery Ballista
+Variant: Fire Trap
+Variant: Shattering Steel
+Variant: Discharge
+Variant: Summon Skitterbots
+Variant: Contagion
+Variant: Poisonous Concoction
+Variant: Corrupting Fever
+Variant: Petrified Blood
+Variant: Infernal Cry
+Variant: Summon Raging Spirit
+Variant: Immortal Call
+Variant: Ethereal Knives
+Variant: Lightning Strike
+Variant: Vengeful Cry
+Variant: Winter Orb
+Variant: Vampiric Link
+Variant: Herald of Purity
+Variant: Smite
+Variant: Shield Crush
+Variant: Conductivity
+Variant: Freezing Pulse
+Variant: Boneshatter
+Variant: Raise Zombie
+Variant: Earthshatter
+Variant: Steelskin
+Variant: Arcane Cloak
+Variant: Ambush
+Variant: Phase Run
+Variant: Summon Carrion Golem
+Variant: Blazing Salvo
+Variant: Ice Nova
+Variant: Siege Ballista
+Variant: Frostbolt
+Variant: Determination
+Variant: Firestorm
+Variant: Desecrate
+Variant: Split Arrow
+Variant: Cold Snap
+Variant: Heavy Strike
+Variant: Battlemage's Cry
+Variant: Frostbite
+Variant: Molten Strike
+Variant: Crushing Fist
+Variant: Purifying Flame
+Variant: Kinetic Blast
+Variant: Zealotry
+Variant: Clarity
+Variant: Flame Surge
+Variant: Viper Strike
+Variant: Cobra Lash
+Variant: Blade Flurry
+Variant: Summon Chaos Golem
+Variant: Blade Blast
+Variant: Storm Burst
+Variant: Soul Link
+Variant: Divine Ire
+Variant: Purity of Fire
+Variant: Enduring Cry
+Variant: Lightning Arrow
+Variant: Frost Shield
+Variant: Spellslinger
+Variant: Summon Skeletons
+Variant: Tornado Shot
+Variant: Discipline
+Variant: Divine Retribution
+Variant: Bodyswap
+Variant: Penance Brand
+Variant: Elemental Hit
+Variant: Malevolence
+Variant: Hydrosphere
+Variant: Whirling Blades
+Variant: Orb of Storms
+Variant: Animate Weapon
+Variant: Perforate
+Variant: Reap
+Variant: Essence Drain
+Variant: Explosive Trap
+Variant: Grace
+Variant: Wither
+Variant: Purity of Ice
+Variant: Elemental Weakness
+Variant: Dread Banner
+Variant: Despair
+Variant: Pestilent Strike
+Variant: Haste
+Variant: Frostblink
+Variant: Wave of Conviction
+Variant: Dark Pact
+Variant: Ice Trap
+Variant: Stormbind
+Variant: Pyroclast Mine
+Variant: Ice Crash
+Variant: Rallying Cry
+Variant: Plague Bearer
+Variant: Blade Trap
+Variant: Convocation
+Variant: Glacial Hammer
+Variant: Fireball
+Variant: Protective Link
+Variant: Lancing Steel
+Variant: Wild Strike
+Variant: Automation
+Variant: Bear Trap
+Variant: Herald of Ice
+Variant: War Banner
+Variant: Raise Spectre
+Variant: Blink Arrow
+Variant: Eviscerate
+Variant: Precision
+Variant: Intimidating Cry
+Variant: Energy Blade
+Variant: Seismic Trap
+Variant: Vitality
+Variant: Poacher's Mark
+Variant: Righteous Fire
+Variant: Spectral Throw
+Variant: Flicker Strike
+Variant: Blade Vortex
+Variant: Armageddon Brand
+Variant: Eye of Winter
+Variant: Lightning Tendrils
+Variant: Galvanic Arrow
+Variant: Vulnerability
+Variant: Warlord's Mark
+Variant: Icicle Mine
+Variant: Cremation
+Variant: Portal
+Variant: Shock Nova
+Variant: Snipe
+Variant: Explosive Arrow
+Variant: Summon Reaper
+Variant: Blood Rage
+Variant: Spectral Shield Throw
+Variant: Bane
+Variant: Brand Recall
+Variant: Lightning Warp
+Variant: Ice Shot
+Variant: Barrage
+Variant: Burning Arrow
+Variant: Hexblast
+Variant: Cleave
+Variant: Sigil of Power
+Variant: Frost Blades
+Variant: Frenzy
+Variant: Summon Ice Golem
+Variant: Absolution
+Variant: Frost Wall
+Variant: Summon Holy Relic
+Variant: Pride
+Variant: Creeping Frost
+Variant: Assassin's Mark
+Variant: Destructive Link
+Variant: Purity of Lightning
+Variant: Flame Link
+Variant: Berserk
+Variant: Flesh and Stone
+Variant: Frozen Legion
+Variant: Swordstorm
+Variant: Animate Guardian
+Variant: Glacial Cascade
+Variant: Charged Dash
+Variant: Blast Rain
+Variant: Spark
+Variant: Withering Step
+Variant: Static Strike
+Variant: Toxic Rain
+Variant: Crackling Lance
+Variant: Dash
+Variant: Blood and Sand
+Variant: Incinerate
+Variant: Herald of Thunder
+Variant: Earthquake
+Variant: Galvanic Field
+Variant: Wintertide Brand
+Variant: Splitting Steel
+Variant: Caustic Arrow
+Variant: Power Siphon
+Variant: Vigilant Strike
+Variant: Arc
+Variant: Manabond
+Variant: Cyclone
+Selected Variant: 2
+Has Alt Variant: true
+Selected Alt Variant: 206
+LevelReq: 56
+Implicits: 2
+{crafted}Allocates Death Attunement
+{tags:jewellery_attribute}{range:1}+(10-16) to all Attributes
+{tags:jewellery_resistance}{variant:1}{range:0.5}+(10-15)% to all Elemental Resistances
+{tags:jewellery_resistance}{variant:2}{range:0.5}+(5-10)% to all Elemental Resistances
+{variant:3}+3 to Level of all Tempest Shield Gems
+{variant:4}+3 to Level of all Smoke Mine Gems
+{variant:5}+3 to Level of all Temporal Rift Gems
+{variant:6}+3 to Level of all Punishment Gems
+{variant:7}+3 to Level of all Hatred Gems
+{variant:8}+3 to Level of all Storm Rain Gems
+{variant:9}+3 to Level of all Alchemist's Mark Gems
+{variant:10}+3 to Level of all Soulrend Gems
+{variant:11}+3 to Level of all Rage Vortex Gems
+{variant:12}+3 to Level of all Vortex Gems
+{variant:13}+3 to Level of all Defiance Banner Gems
+{variant:14}+3 to Level of all Summon Lightning Golem Gems
+{variant:15}+3 to Level of all Flame Dash Gems
+{variant:16}+3 to Level of all Tornado Gems
+{variant:17}+3 to Level of all Ancestral Cry Gems
+{variant:18}+3 to Level of all Leap Slam Gems
+{variant:19}+3 to Level of all Ground Slam Gems
+{variant:20}+3 to Level of all Siphoning Trap Gems
+{variant:21}+3 to Level of all Conversion Trap Gems
+{variant:22}+3 to Level of all Rolling Magma Gems
+{variant:23}+3 to Level of all Detonate Mines Gems
+{variant:24}+3 to Level of all General's Cry Gems
+{variant:25}+3 to Level of all Bladefall of Trarthus Gems
+{variant:26}+3 to Level of all Decoy Totem Gems
+{variant:27}+3 to Level of all Summon Stone Golem Gems
+{variant:28}+3 to Level of all Stormblast Mine Gems
+{variant:29}+3 to Level of all Kinetic Bolt Gems
+{variant:30}+3 to Level of all Enfeeble Gems
+{variant:31}+3 to Level of all Molten Shell Gems
+{variant:32}+3 to Level of all Consecrated Path Gems
+{variant:33}+3 to Level of all Purity of Elements Gems
+{variant:34}+3 to Level of all Ball Lightning Gems
+{variant:35}+3 to Level of all Scourge Arrow Gems
+{variant:36}+3 to Level of all Arcanist Brand Gems
+{variant:37}+3 to Level of all Dual Strike Gems
+{variant:38}+3 to Level of all Exsanguinate Gems
+{variant:39}+3 to Level of all Rejuvenation Totem Gems
+{variant:40}+3 to Level of all Spirit Offering Gems
+{variant:41}+3 to Level of all Bladestorm Gems
+{variant:42}+3 to Level of all Lightning Conduit Gems
+{variant:43}+3 to Level of all Flammability Gems
+{variant:44}+3 to Level of all Anger Gems
+{variant:45}+3 to Level of all Reave Gems
+{variant:46}+3 to Level of all Infernal Blow Gems
+{variant:47}+3 to Level of all Summon Flame Golem Gems
+{variant:48}+3 to Level of all Mirror Arrow Gems
+{variant:49}+3 to Level of all Herald of Agony Gems
+{variant:50}+3 to Level of all Volcanic Fissure Gems
+{variant:51}+3 to Level of all Venom Gyre Gems
+{variant:52}+3 to Level of all Chain Hook Gems
+{variant:53}+3 to Level of all Scorching Ray Gems
+{variant:54}+3 to Level of all Flamethrower Trap Gems
+{variant:55}+3 to Level of all Puncture Gems
+{variant:56}+3 to Level of all Tectonic Slam Gems
+{variant:57}+3 to Level of all Ice Spear Gems
+{variant:58}+3 to Level of all Spectral Helix Gems
+{variant:59}+3 to Level of all Void Sphere Gems
+{variant:60}+3 to Level of all Frost Bomb Gems
+{variant:61}+3 to Level of all Double Strike Gems
+{variant:62}+3 to Level of all Intuitive Link Gems
+{variant:63}+3 to Level of all Blight Gems
+{variant:64}+3 to Level of all Quickstep Gems
+{variant:65}+3 to Level of all Unearth Gems
+{variant:66}+3 to Level of all Sniper's Mark Gems
+{variant:67}+3 to Level of all Shrapnel Ballista Gems
+{variant:68}+3 to Level of all Storm Call Gems
+{variant:69}+3 to Level of all Arctic Armour Gems
+{variant:70}+3 to Level of all Flesh Offering Gems
+{variant:71}+3 to Level of all Searing Bond Gems
+{variant:72}+3 to Level of all Flame Wall Gems
+{variant:73}+3 to Level of all Sweep Gems
+{variant:74}+3 to Level of all Dominating Blow Gems
+{variant:75}+3 to Level of all Sunder Gems
+{variant:76}+3 to Level of all Ensnaring Arrow Gems
+{variant:77}+3 to Level of all Rain of Arrows Gems
+{variant:78}+3 to Level of all Voltaxic Burst Gems
+{variant:79}+3 to Level of all Bone Offering Gems
+{variant:80}+3 to Level of all Volatile Dead Gems
+{variant:81}+3 to Level of all Forbidden Rite Gems
+{variant:82}+3 to Level of all Explosive Concoction Gems
+{variant:83}+3 to Level of all Storm Brand Gems
+{variant:84}+3 to Level of all Wrath Gems
+{variant:85}+3 to Level of all Devouring Totem Gems
+{variant:86}+3 to Level of all Glacial Shield Swipe Gems
+{variant:87}+3 to Level of all Lightning Trap Gems
+{variant:88}+3 to Level of all Shield Charge Gems
+{variant:89}+3 to Level of all Flameblast Gems
+{variant:90}+3 to Level of all Herald of Ash Gems
+{variant:91}+3 to Level of all Lacerate Gems
+{variant:92}+3 to Level of all Autoexertion Gems
+{variant:93}+3 to Level of all Holy Flame Totem Gems
+{variant:94}+3 to Level of all Seismic Cry Gems
+{variant:95}+3 to Level of all Lightning Spire Trap Gems
+{variant:96}+3 to Level of all Temporal Chains Gems
+{variant:97}+3 to Level of all Detonate Dead Gems
+{variant:98}+3 to Level of all Shockwave Totem Gems
+{variant:99}+3 to Level of all Bladefall Gems
+{variant:100}+3 to Level of all Artillery Ballista Gems
+{variant:101}+3 to Level of all Fire Trap Gems
+{variant:102}+3 to Level of all Shattering Steel Gems
+{variant:103}+3 to Level of all Discharge Gems
+{variant:104}+3 to Level of all Summon Skitterbots Gems
+{variant:105}+3 to Level of all Contagion Gems
+{variant:106}+3 to Level of all Poisonous Concoction Gems
+{variant:107}+3 to Level of all Corrupting Fever Gems
+{variant:108}+3 to Level of all Petrified Blood Gems
+{variant:109}+3 to Level of all Infernal Cry Gems
+{variant:110}+3 to Level of all Summon Raging Spirit Gems
+{variant:111}+3 to Level of all Immortal Call Gems
+{variant:112}+3 to Level of all Ethereal Knives Gems
+{variant:113}+3 to Level of all Lightning Strike Gems
+{variant:114}+3 to Level of all Vengeful Cry Gems
+{variant:115}+3 to Level of all Winter Orb Gems
+{variant:116}+3 to Level of all Vampiric Link Gems
+{variant:117}+3 to Level of all Herald of Purity Gems
+{variant:118}+3 to Level of all Smite Gems
+{variant:119}+3 to Level of all Shield Crush Gems
+{variant:120}+3 to Level of all Conductivity Gems
+{variant:121}+3 to Level of all Freezing Pulse Gems
+{variant:122}+3 to Level of all Boneshatter Gems
+{variant:123}+3 to Level of all Raise Zombie Gems
+{variant:124}+3 to Level of all Earthshatter Gems
+{variant:125}+3 to Level of all Steelskin Gems
+{variant:126}+3 to Level of all Arcane Cloak Gems
+{variant:127}+3 to Level of all Ambush Gems
+{variant:128}+3 to Level of all Phase Run Gems
+{variant:129}+3 to Level of all Summon Carrion Golem Gems
+{variant:130}+3 to Level of all Blazing Salvo Gems
+{variant:131}+3 to Level of all Ice Nova Gems
+{variant:132}+3 to Level of all Siege Ballista Gems
+{variant:133}+3 to Level of all Frostbolt Gems
+{variant:134}+3 to Level of all Determination Gems
+{variant:135}+3 to Level of all Firestorm Gems
+{variant:136}+3 to Level of all Desecrate Gems
+{variant:137}+3 to Level of all Split Arrow Gems
+{variant:138}+3 to Level of all Cold Snap Gems
+{variant:139}+3 to Level of all Heavy Strike Gems
+{variant:140}+3 to Level of all Battlemage's Cry Gems
+{variant:141}+3 to Level of all Frostbite Gems
+{variant:142}+3 to Level of all Molten Strike Gems
+{variant:143}+3 to Level of all Crushing Fist Gems
+{variant:144}+3 to Level of all Purifying Flame Gems
+{variant:145}+3 to Level of all Kinetic Blast Gems
+{variant:146}+3 to Level of all Zealotry Gems
+{variant:147}+3 to Level of all Clarity Gems
+{variant:148}+3 to Level of all Flame Surge Gems
+{variant:149}+3 to Level of all Viper Strike Gems
+{variant:150}+3 to Level of all Cobra Lash Gems
+{variant:151}+3 to Level of all Blade Flurry Gems
+{variant:152}+3 to Level of all Summon Chaos Golem Gems
+{variant:153}+3 to Level of all Blade Blast Gems
+{variant:154}+3 to Level of all Storm Burst Gems
+{variant:155}+3 to Level of all Soul Link Gems
+{variant:156}+3 to Level of all Divine Ire Gems
+{variant:157}+3 to Level of all Purity of Fire Gems
+{variant:158}+3 to Level of all Enduring Cry Gems
+{variant:159}+3 to Level of all Lightning Arrow Gems
+{variant:160}+3 to Level of all Frost Shield Gems
+{variant:161}+3 to Level of all Spellslinger Gems
+{variant:162}+3 to Level of all Summon Skeletons Gems
+{variant:163}+3 to Level of all Tornado Shot Gems
+{variant:164}+3 to Level of all Discipline Gems
+{variant:165}+3 to Level of all Divine Retribution Gems
+{variant:166}+3 to Level of all Bodyswap Gems
+{variant:167}+3 to Level of all Penance Brand Gems
+{variant:168}+3 to Level of all Elemental Hit Gems
+{variant:169}+3 to Level of all Malevolence Gems
+{variant:170}+3 to Level of all Hydrosphere Gems
+{variant:171}+3 to Level of all Whirling Blades Gems
+{variant:172}+3 to Level of all Orb of Storms Gems
+{variant:173}+3 to Level of all Animate Weapon Gems
+{variant:174}+3 to Level of all Perforate Gems
+{variant:175}+3 to Level of all Reap Gems
+{variant:176}+3 to Level of all Essence Drain Gems
+{variant:177}+3 to Level of all Explosive Trap Gems
+{variant:178}+3 to Level of all Grace Gems
+{variant:179}+3 to Level of all Wither Gems
+{variant:180}+3 to Level of all Purity of Ice Gems
+{variant:181}+3 to Level of all Elemental Weakness Gems
+{variant:182}+3 to Level of all Dread Banner Gems
+{variant:183}+3 to Level of all Despair Gems
+{variant:184}+3 to Level of all Pestilent Strike Gems
+{variant:185}+3 to Level of all Haste Gems
+{variant:186}+3 to Level of all Frostblink Gems
+{variant:187}+3 to Level of all Wave of Conviction Gems
+{variant:188}+3 to Level of all Dark Pact Gems
+{variant:189}+3 to Level of all Ice Trap Gems
+{variant:190}+3 to Level of all Stormbind Gems
+{variant:191}+3 to Level of all Pyroclast Mine Gems
+{variant:192}+3 to Level of all Ice Crash Gems
+{variant:193}+3 to Level of all Rallying Cry Gems
+{variant:194}+3 to Level of all Plague Bearer Gems
+{variant:195}+3 to Level of all Blade Trap Gems
+{variant:196}+3 to Level of all Convocation Gems
+{variant:197}+3 to Level of all Glacial Hammer Gems
+{variant:198}+3 to Level of all Fireball Gems
+{variant:199}+3 to Level of all Protective Link Gems
+{variant:200}+3 to Level of all Lancing Steel Gems
+{variant:201}+3 to Level of all Wild Strike Gems
+{variant:202}+3 to Level of all Automation Gems
+{variant:203}+3 to Level of all Bear Trap Gems
+{variant:204}+3 to Level of all Herald of Ice Gems
+{variant:205}+3 to Level of all War Banner Gems
+{variant:206}+3 to Level of all Raise Spectre Gems
+{variant:207}+3 to Level of all Blink Arrow Gems
+{variant:208}+3 to Level of all Eviscerate Gems
+{variant:209}+3 to Level of all Precision Gems
+{variant:210}+3 to Level of all Intimidating Cry Gems
+{variant:211}+3 to Level of all Energy Blade Gems
+{variant:212}+3 to Level of all Seismic Trap Gems
+{variant:213}+3 to Level of all Vitality Gems
+{variant:214}+3 to Level of all Poacher's Mark Gems
+{variant:215}+3 to Level of all Righteous Fire Gems
+{variant:216}+3 to Level of all Spectral Throw Gems
+{variant:217}+3 to Level of all Flicker Strike Gems
+{variant:218}+3 to Level of all Blade Vortex Gems
+{variant:219}+3 to Level of all Armageddon Brand Gems
+{variant:220}+3 to Level of all Eye of Winter Gems
+{variant:221}+3 to Level of all Lightning Tendrils Gems
+{variant:222}+3 to Level of all Galvanic Arrow Gems
+{variant:223}+3 to Level of all Vulnerability Gems
+{variant:224}+3 to Level of all Warlord's Mark Gems
+{variant:225}+3 to Level of all Icicle Mine Gems
+{variant:226}+3 to Level of all Cremation Gems
+{variant:227}+3 to Level of all Portal Gems
+{variant:228}+3 to Level of all Shock Nova Gems
+{variant:229}+3 to Level of all Snipe Gems
+{variant:230}+3 to Level of all Explosive Arrow Gems
+{variant:231}+3 to Level of all Summon Reaper Gems
+{variant:232}+3 to Level of all Blood Rage Gems
+{variant:233}+3 to Level of all Spectral Shield Throw Gems
+{variant:234}+3 to Level of all Bane Gems
+{variant:235}+3 to Level of all Brand Recall Gems
+{variant:236}+3 to Level of all Lightning Warp Gems
+{variant:237}+3 to Level of all Ice Shot Gems
+{variant:238}+3 to Level of all Barrage Gems
+{variant:239}+3 to Level of all Burning Arrow Gems
+{variant:240}+3 to Level of all Hexblast Gems
+{variant:241}+3 to Level of all Cleave Gems
+{variant:242}+3 to Level of all Sigil of Power Gems
+{variant:243}+3 to Level of all Frost Blades Gems
+{variant:244}+3 to Level of all Frenzy Gems
+{variant:245}+3 to Level of all Summon Ice Golem Gems
+{variant:246}+3 to Level of all Absolution Gems
+{variant:247}+3 to Level of all Frost Wall Gems
+{variant:248}+3 to Level of all Summon Holy Relic Gems
+{variant:249}+3 to Level of all Pride Gems
+{variant:250}+3 to Level of all Creeping Frost Gems
+{variant:251}+3 to Level of all Assassin's Mark Gems
+{variant:252}+3 to Level of all Destructive Link Gems
+{variant:253}+3 to Level of all Purity of Lightning Gems
+{variant:254}+3 to Level of all Flame Link Gems
+{variant:255}+3 to Level of all Berserk Gems
+{variant:256}+3 to Level of all Flesh and Stone Gems
+{variant:257}+3 to Level of all Frozen Legion Gems
+{variant:258}+3 to Level of all Swordstorm Gems
+{variant:259}+3 to Level of all Animate Guardian Gems
+{variant:260}+3 to Level of all Glacial Cascade Gems
+{variant:261}+3 to Level of all Charged Dash Gems
+{variant:262}+3 to Level of all Blast Rain Gems
+{variant:263}+3 to Level of all Spark Gems
+{variant:264}+3 to Level of all Withering Step Gems
+{variant:265}+3 to Level of all Static Strike Gems
+{variant:266}+3 to Level of all Toxic Rain Gems
+{variant:267}+3 to Level of all Crackling Lance Gems
+{variant:268}+3 to Level of all Dash Gems
+{variant:269}+3 to Level of all Blood and Sand Gems
+{variant:270}+3 to Level of all Incinerate Gems
+{variant:271}+3 to Level of all Herald of Thunder Gems
+{variant:272}+3 to Level of all Earthquake Gems
+{variant:273}+3 to Level of all Galvanic Field Gems
+{variant:274}+3 to Level of all Wintertide Brand Gems
+{variant:275}+3 to Level of all Splitting Steel Gems
+{variant:276}+3 to Level of all Caustic Arrow Gems
+{variant:277}+3 to Level of all Power Siphon Gems
+{variant:278}+3 to Level of all Vigilant Strike Gems
+{variant:279}+3 to Level of all Arc Gems
+{variant:280}+3 to Level of all Manabond Gems
+{variant:281}+3 to Level of all Cyclone Gems
+{variant:1}{range:0.5}(10-15)% increased Reservation Efficiency of Skills
+{variant:2}{range:0.5}(5-10)% increased Reservation Efficiency of Skills
+{variant:1}{range:0.5}Items and Gems have (10-15)% reduced Attribute Requirements
+{variant:2}{range:0.5}Items and Gems have (5-10)% reduced Attribute Requirements</Item>
+    <Item id="28">Rarity: RARE
+New Item
+Gloam Ring
+Crafted: true
+Prefix: {range:0.493}IncreasedLife5
+Prefix: {range:0.363}MinionDamagePercent4
+Prefix: None
+Suffix: {range:0.803}MinionAttackAndCastSpeed3_
+Suffix: {range:0.549}LightningResist6
+Suffix: None
+LevelReq: 48
+Implicits: 2
+{tags:minion}Left ring slot: Minions take 15% reduced Damage
+{tags:minion}Right ring slot: Minions take 15% increased Damage
++77 to maximum Life
++39% to Lightning Resistance
+Minions deal 33% increased Damage
+Minions have 13% increased Attack and Cast Speed
+{tags:resource,unveiled_mod,mana}{crafted}{range:0}Non-Channelling Skills have -(7-6) to Total Mana Cost</Item>
+    <Item id="4">Rarity: RARE
+New Item
+Bone Ring
+Crafted: true
+Prefix: {range:0.775}IncreasedLife5
+Prefix: None
+Prefix: None
+Suffix: None
+Suffix: {range:1}ColdResist4
+Suffix: {range:1}MinionAttackAndCastSpeed2
+Quality: 0
+LevelReq: 30
+Implicits: 1
+{tags:elemental,resistance,minion}{range:1}Minions have +(10-15)% to all Elemental Resistances
++81 to maximum Life
++29% to Cold Resistance
+Minions have 10% increased Attack and Cast Speed
+{tags:unveiled_mod,elemental,lightning,chaos,resistance}{crafted}{range:1}+(13-15)% to Lightning and Chaos Resistances</Item>
+    <Item id="45">Rarity: RARE
+Minion Ring
+Bone Ring
+Crafted: true
+Prefix: None
+Prefix: None
+Prefix: None
+Suffix: None
+Suffix: {range:1}LightningResist8
+Suffix: None
+LevelReq: 67
+Implicits: 1
+{tags:elemental,resistance,minion}{range:1}Minions have +(10-15)% to all Elemental Resistances
+-100% to Lightning Resistance
+{tags:resource,life}{crafted}{range:1}+(41-55) to maximum Life</Item>
+    <Item id="61">Rarity: RARE
+Minion Ring
+Bone Ring
+Crafted: true
+Prefix: {range:1}IncreasedLife7
+Prefix: {range:0.5}MinionDamagePercent3
+Prefix: None
+Suffix: {range:1}MinionAttackAndCastSpeed2
+Suffix: {range:1}LightningResist8
+Suffix: None
+LevelReq: 67
+Implicits: 1
+{tags:elemental,resistance,minion}{range:1}Minions have +(10-15)% to all Elemental Resistances
++100 to maximum Life
+-100% to Lightning Resistance
+Minions deal 65% increased Damage
+Minions have 38% increased Attack and Cast Speed</Item>
+    <Item id="29">Rarity: RARE
+New Item
+Bone Ring
+Crafted: true
+Prefix: {range:0.775}IncreasedLife5
+Prefix: {range:0.504}MinionDamagePercent4
+Prefix: None
+Suffix: None
+Suffix: {range:0.799}Dexterity6
+Suffix: {range:0.014}MinionAttackAndCastSpeed4
+Quality: 0
+LevelReq: 48
+Implicits: 1
+{tags:elemental,resistance,minion}{range:1}Minions have +(10-15)% to all Elemental Resistances
++36 to Dexterity
++81 to maximum Life
+Minions deal 34% increased Damage
+Minions have 14% increased Attack and Cast Speed
+{tags:resource,unveiled_mod,mana}{crafted}{range:0}Non-Channelling Skills have -(7-6) to Total Mana Cost</Item>
+    <Item id="5">Rarity: RARE
+New Item
+Bone Ring
+Crafted: true
+Prefix: {range:0.775}IncreasedLife5
+Prefix: None
+Prefix: None
+Suffix: None
+Suffix: {range:0.799}Dexterity6
+Suffix: {range:1}MinionAttackAndCastSpeed2
+Quality: 0
+LevelReq: 44
+Implicits: 1
+{tags:elemental,resistance,minion}{range:1}Minions have +(10-15)% to all Elemental Resistances
++36 to Dexterity
++81 to maximum Life
+Minions have 10% increased Attack and Cast Speed
+{tags:resource,unveiled_mod,mana}{crafted}{range:0}Non-Channelling Skills have -(7-6) to Total Mana Cost</Item>
+    <Item id="44">Rarity: UNIQUE
+Kalandra's Touch
+Ring
+League: Kalandra
+Implicits: 0
+Reflects your other Ring
+Mirrored</Item>
+    <Item id="30">Rarity: UNIQUE
+Darkness Enthroned
+Stygian Vise
+League: Abyss
+Variant: Pre 3.11.0
+Variant: Pre 3.21.0
+Variant: Current
+Selected Variant: 3
+Sockets: A A
+Implicits: 1
+Has 1 Abyssal Socket
+Has 1 Abyssal Socket
+{variant:1}50% increased Effect of Socketed Abyss Jewels
+{variant:2}75% increased Effect of Socketed Abyss Jewels
+{variant:3}{range:0.841}(50-100)% increased Effect of Socketed Abyss Jewels</Item>
+    <Item id="17">Rarity: UNIQUE
+Darkness Enthroned
+Stygian Vise
+League: Abyss
+Variant: Pre 3.11.0
+Variant: Current
+Selected Variant: 2
+Sockets: A A
+Implicits: 1
+Has 1 Abyssal Socket
+Has 1 Abyssal Socket
+{variant:2}75% increased Effect of Socketed Abyss Jewels</Item>
+    <Item id="52">Rarity: UNIQUE
+Darkness Enthroned
+Stygian Vise
+League: Abyss
+Variant: Pre 3.11.0
+Variant: Pre 3.21.0
+Variant: Current
+Selected Variant: 3
+Sockets: A A
+Implicits: 1
+Has 1 Abyssal Socket
+Has 1 Abyssal Socket
+{variant:1}50% increased Effect of Socketed Abyss Jewels
+{variant:2}75% increased Effect of Socketed Abyss Jewels
+{variant:3}{range:1}(50-100)% increased Effect of Socketed Abyss Jewels</Item>
+    <Item id="8">Rarity: MAGIC
+Seething Divine Life Flask of Assuaging
+Crafted: true
+Prefix: {range:0.5}FlaskFullInstantRecovery1
+Suffix: {range:1}FlaskBleedCorruptingBloodImmunity4_
+Quality: 20
+LevelReq: 64
+Implicits: 0
+66% reduced Amount Recovered
+Instant Recovery
+Grants Immunity to Bleeding for 17 seconds if used while Bleeding
+Grants Immunity to Corrupted Blood for 17 seconds if used while affected by Corrupted Blood</Item>
+    <Item id="31">Rarity: MAGIC
+Flagellant's Basalt Flask of the Armadillo
+Crafted: true
+Prefix: {range:1}FlaskFullRechargeOnHit5___
+Suffix: {range:1}FlaskBuffArmourWhileHealing4
+Quality: 20
+LevelReq: 67
+Implicits: 2
+{crafted}Used when Charges reach full
+Taunts nearby Enemies on use
+Gain 3 Charges when you are Hit by an Enemy
+60% increased Armour during Effect</Item>
+    <Item id="9">Rarity: MAGIC
+Masochist's Basalt Flask of the Pangolin
+Crafted: true
+Prefix: {range:0.521}FlaskFullRechargeOnHit4_
+Suffix: {range:0.929}FlaskBuffArmourWhileHealing3
+Quality: 20
+LevelReq: 50
+Implicits: 1
+Taunts nearby Enemies on use
+Gain 2 Charges when you are Hit by an Enemy
+55% increased Armour during Effect</Item>
+    <Item id="57">Rarity: UNIQUE
+Rumi's Concoction
+Granite Flask
+Variant: Pre 1.3.0
+Variant: Pre 2.5.0
+Variant: Pre 3.15.0
+Variant: Current
+Selected Variant: 4
+Quality: 20
+LevelReq: 68
+Implicits: 0
+{variant:1}{range:0.5}(30-40)% Chance to Block Attack Damage during Effect
+{variant:2}{range:0.5}(20-30)% Chance to Block Attack Damage during Effect
+{variant:3}{range:0.5}(14-20)% Chance to Block Attack Damage during Effect
+{variant:4}{range:0.549}(8-12)% Chance to Block Attack Damage during Effect
+{variant:1}{range:0.5}(15-20)% Chance to Block Spell Damage during Effect
+{variant:2}{range:0.5}(10-15)% Chance to Block Spell Damage during Effect
+{variant:3}{range:0.5}(6-10)% Chance to Block Spell Damage during Effect
+{variant:4}{range:0.768}(4-6)% Chance to Block Spell Damage during Effect</Item>
+    <Item id="47">Rarity: MAGIC
+Flagellant's Granite Flask of the Cheetah
+Crafted: true
+Prefix: {range:1}FlaskFullRechargeOnHit5___
+Suffix: {range:1}FlaskBuffMovementSpeedWhileHealing3
+Quality: 20
+LevelReq: 68
+Implicits: 1
+{crafted}Used when Charges reach full
+Gain 3 Charges when you are Hit by an Enemy
+14% increased Movement Speed during Effect</Item>
+    <Item id="32">Rarity: MAGIC
+Flagellant's Quicksilver Flask of the Owl
+Crafted: true
+Prefix: {range:1}FlaskFullRechargeOnHit5___
+Suffix: {range:1}FlaskBuffCurseEffect5
+Quality: 20
+LevelReq: 67
+Implicits: 1
+{crafted}Used when Charges reach full
+Gain 3 Charges when you are Hit by an Enemy
+65% reduced Effect of Curses on you during Effect</Item>
+    <Item id="11">Rarity: MAGIC
+Masochist's Quicksilver Flask of the Owl
+Crafted: true
+Prefix: {range:0.796}FlaskFullRechargeOnHit4_
+Suffix: {range:0.014}FlaskBuffCurseEffect5
+Quality: 20
+LevelReq: 67
+Implicits: 0
+Gain 2 Charges when you are Hit by an Enemy
+60% reduced Effect of Curses on you during Effect</Item>
+    <Item id="33">Rarity: MAGIC
+Flagellant's Quartz Flask of the Cheetah
+Crafted: true
+Prefix: {range:1}FlaskFullRechargeOnHit5___
+Suffix: {range:1}FlaskBuffMovementSpeedWhileHealing3
+Quality: 20
+LevelReq: 68
+Implicits: 1
+{crafted}Used when Charges reach full
+Gain 3 Charges when you are Hit by an Enemy
+14% increased Movement Speed during Effect</Item>
+    <Item id="58">Rarity: MAGIC
+Masochist's Amethyst Flask of the Moray
+Crafted: true
+Prefix: {range:0.5}FlaskFullRechargeOnHit4_
+Suffix: {range:0.5}FlaskShockImmunityDuringEffect2___
+Quality: 20
+LevelReq: 50
+Implicits: 0
+Gain 2 Charges when you are Hit by an Enemy
+42% less Duration
+Immunity to Shock during Effect</Item>
+    <Item id="54">Rarity: UNIQUE
+Bottled Faith
+Sulphur Flask
+League: Synthesis
+Variant: Pre 3.15.0
+Variant: Pre 3.16.0
+Variant: Current
+Selected Variant: 3
+Quality: 20
+LevelReq: 27
+Implicits: 3
+{crafted}{range:1}(60-70)% increased effect
+{crafted}Gains no Charges during Effect
+Creates Consecrated Ground on Use
+{variant:1}{range:0.5}(30-50)% increased Duration
+{variant:2}{range:0.5}(20-40)% increased Duration
+{variant:3}{range:0.5}(30-15)% reduced Duration
+Consecrated Ground created by this Flask has Tripled Radius
+{variant:1}{range:0.5}+(1-2)% to Critical Strike Chance against Enemies on Consecrated Ground during Effect
+{range:1}Consecrated Ground created during Effect applies (7-10)% increased Damage taken to Enemies
+{variant:2,3}{range:0}(100-150)% increased Critical Strike Chance against Enemies on Consecrated Ground during Effect</Item>
+    <Item id="27">Rarity: RARE
+Option A medium+ budget
+Ghastly Eye Jewel
+Crafted: true
+Prefix: {range:0.563}AbyssJewelAddedLife2
+Prefix: {range:0.12}AbyssMinionAddedColdDamageJewel5
+Suffix: {range:0.94}AbyssMinionAttackAndCastSpeedJewel1
+Suffix: None
+Quality: 0
+LevelReq: 56
+Implicits: 0
++28 to maximum Life
+Minions have 6% increased Attack Speed
+Minions have 6% increased Cast Speed
+Minions deal 24 to 33 additional Cold Damage</Item>
+    <Item id="13">Rarity: RARE
+Option A
+Ghastly Eye Jewel
+Crafted: true
+Prefix: {range:0.563}AbyssJewelAddedLife2
+Prefix: {range:0.12}AbyssMinionAddedColdDamageJewel5
+Suffix: None
+Suffix: None
+Quality: 0
+LevelReq: 56
+Implicits: 0
++28 to maximum Life
+Minions deal 24 to 33 additional Cold Damage</Item>
+    <Item id="49">Rarity: RARE
+One with taunt and/or blind
+Ghastly Eye Jewel
+Crafted: true
+Prefix: {range:1}AbyssJewelAddedLife2
+Prefix: {range:0.394}AbyssMinionAddedLightningDamageJewel5
+Suffix: {range:1}AbyssMinionAttacksTauntOnHitChanceJewel1
+Suffix: {range:1}AbyssMinionAttacksBlindOnHitChanceJewel1
+Quality: 0
+LevelReq: 56
+Implicits: 0
++30 to maximum Life
+Minions have 5% chance to Taunt on Hit with Attacks
+Minions deal 3 to 52 additional Lightning Damage
+Minions have 4% chance to Blind on Hit with Attacks</Item>
+    <Item id="50">Rarity: RARE
+high budget
+Ghastly Eye Jewel
+Crafted: true
+Prefix: {range:1}AbyssJewelAddedLife3
+Prefix: {range:0.176}AbyssMinionAddedLightningDamageJewel6
+Suffix: {range:1}AbyssMinionAttackAndCastSpeedJewel1
+Suffix: None
+Quality: 0
+LevelReq: 65
+Implicits: 0
++35 to maximum Life
+Minions have 6% increased Attack Speed
+Minions have 6% increased Cast Speed
+Minions deal 2 to 67 additional Lightning Damage</Item>
+    <Item id="62">Rarity: RARE
+Option D
+Cobalt Jewel
+Crafted: true
+Prefix: {range:0.5}MinionDamageJewel
+Prefix: {range:0.5}PercentIncreasedLifeJewel
+Suffix: {range:1}FireResistanceJewel
+Suffix: None
+LevelReq: 0
+Implicits: 0
+6% increased maximum Life
++15% to Fire Resistance
+Minions deal 15% increased Damage</Item>
+    <Item id="26">Rarity: UNIQUE
+Watcher's Eye
+Prismatic Jewel
+Variant: None
+Variant: Anger: Fire Damage Life Leech
+Variant: Anger: Fire Penetration
+Variant: Anger: Inc Crit Strike Mult
+Variant: Anger: Inc Fire Damage
+Variant: Anger: Phys Added As Fire
+Variant: Anger: Phys Converted To Fire
+Variant: Clarity: Damage Taken From Mana Before Life
+Variant: Clarity: Damage Taken Gained As Mana
+Variant: Clarity: Mana Added As ES (Pre 3.12.0)
+Variant: Clarity: Mana Added As ES
+Variant: Clarity: Mana Recovery Rate (Pre 3.12.0)
+Variant: Clarity: Mana Recovery Rate
+Variant: Clarity: Recover Mana On Skill Use
+Variant: Clarity: Red. Mana Cost (Pre 3.8.0)
+Variant: Clarity: Red. Mana Cost Non Channelled
+Variant: Determination: Additional Armour
+Variant: Determination: Additional Block
+Variant: Determination: Phys Damage Reduction
+Variant: Determination: Red. Extra Damage From Crits
+Variant: Determination: Red. Reflected Phys Damage
+Variant: Determination: Unaffected By Vulnerability
+Variant: Discipline: Additional Spell Block
+Variant: Discipline: ES Per Hit
+Variant: Discipline: ES Recovery Rate (Pre 3.12.0)
+Variant: Discipline: ES Recovery Rate
+Variant: Discipline: ES Regen
+Variant: Discipline: Faster Start Of Recharge
+Variant: Grace: Additional Chance To Evade
+Variant: Grace: Blind Enemies When Hit
+Variant: Grace: Chance to Suppress Spells
+Variant: Grace: Inc Movement Speed
+Variant: Grace: Unaffected By Enfeeble
+Variant: Haste: Chance to Suppress Spells
+Variant: Haste: Cooldown Recovery For Movement Skills
+Variant: Haste: Debuffs Expire Faster
+Variant: Haste: Gain Onslaught On Kill
+Variant: Haste: Gain Phasing
+Variant: Haste: Unaffected By Temporal Chains
+Variant: Hatred: Added Cold Damage
+Variant: Hatred: Additional Crit Strike Chance
+Variant: Hatred: Cold Penetration
+Variant: Hatred: Inc Cold Damage
+Variant: Hatred: Phys Converted To Cold
+Variant: Malevolence: Damage Over Time Mult (Pre 3.8.0)
+Variant: Malevolence: Damage Over Time Mult
+Variant: Malevolence: Life And ES Recovery Rate (Pre 3.12.0)
+Variant: Malevolence: Life And ES Recovery Rate
+Variant: Malevolence: Unaffected By Bleeding
+Variant: Malevolence: Unaffected By Poison
+Variant: Malevolence: Your Ailments Deal Damage Faster
+Variant: Precision: Cannot Be Blinded
+Variant: Precision: Flask Charge On Crit
+Variant: Precision: Inc Attack Damage
+Variant: Precision: Inc Attack Speed
+Variant: Precision: Inc Crit Strike Mult (Pre 3.12.0)
+Variant: Precision: Inc Crit Strike Mult
+Variant: Pride: Chance For Double Damage
+Variant: Pride: Chance To Impale
+Variant: Pride: Impale Additional Hits
+Variant: Pride: Inc Phys Damage
+Variant: Pride: Intimidate On Hit
+Variant: Purity Of Elements: Chaos Resistance
+Variant: Purity Of Elements: Maximum Ele Resistances
+Variant: Purity Of Elements: Red. Reflected Ele Damage
+Variant: Purity Of Elements: Take Phys As Cold (Pre 3.25.0)
+Variant: Purity Of Elements: Take Phys As Fire (Pre 3.25.0)
+Variant: Purity Of Elements: Take Phys As Lightning (Pre 3.25.0)
+Variant: Purity Of Elements: Unaffected By Ele Weakness
+Variant: Purity Of Fire: Cold And Lightning Taken As Fire
+Variant: Purity Of Fire: Immune To Ignite
+Variant: Purity Of Fire: Take Phys As Fire (Pre 3.25.0)
+Variant: Purity Of Fire: Unaffected By Burning Ground
+Variant: Purity Of Fire: Unaffected By Flammability
+Variant: Purity Of Ice: Fire And Lightning Taken As Cold
+Variant: Purity Of Ice: Immune To Freeze
+Variant: Purity Of Ice: Take Phys As Ice (Pre 3.25.0)
+Variant: Purity Of Ice: Unaffected By Chilled Ground
+Variant: Purity Of Ice: Unaffected By Frostbite
+Variant: Purity Of Lightning: Fire And Cold Taken As Lightning
+Variant: Purity Of Lightning: Immune To Shock
+Variant: Purity Of Lightning: Take Phys As Lightning (Pre 3.25.0)
+Variant: Purity Of Lightning: Unaffected By Conductivity
+Variant: Purity Of Lightning: Unaffected By Shocked Ground
+Variant: Vitality: Damage Life Leech (Pre 3.12.0)
+Variant: Vitality: Damage Life Leech
+Variant: Vitality: Flat Life Regen (Pre 3.12.0)
+Variant: Vitality: Life Gain Per Hit
+Variant: Vitality: Life Recovery From Flasks
+Variant: Vitality: Life Recovery Rate (Pre 3.12.0)
+Variant: Vitality: Life Recovery Rate
+Variant: Vitality: Percent Life Regen
+Variant: Wrath: Inc Crit Strike Chance
+Variant: Wrath: Inc Lightning Damage
+Variant: Wrath: Lightning Damage ES Leech
+Variant: Wrath: Lightning Damage Mana Leech (Pre 3.8.0)
+Variant: Wrath: Lightning Penetration
+Variant: Wrath: Phys Added As Lightning
+Variant: Wrath: Phys Converted To Lightning
+Variant: Zealotry: Cast Speed
+Variant: Zealotry: Consecrated Ground Effect Lingers For Ms After Leaving The Area
+Variant: Zealotry: Consecrated Ground Enemy Damage Taken
+Variant: Zealotry: Crit Strike Chance Against Enemies On Consecrated Ground
+Variant: Zealotry: Crit Strikes Penetrates Ele Resistances
+Variant: Zealotry: Gain Arcane Surge For 4 Seconds When You Create Consecrated Ground
+Variant: Zealotry: Maximum ES Per Second To Maximum ES Leech Rate
+Selected Variant: 19
+Has Alt Variant: true
+Selected Alt Variant: 1
+Has Alt Variant Two: true
+Selected Alt Variant Two: 1
+Limited to: 1
+Implicits: 0
+{range:0.5}(4-6)% increased maximum Energy Shield
+{range:0.768}(4-6)% increased maximum Life
+{range:0.5}(4-6)% increased maximum Mana
+{variant:2}{range:0.5}(1-1.5)% of Fire Damage Leeched as Life while affected by Anger
+{variant:3}{range:0.5}Damage Penetrates (10-15)% Fire Resistance while affected by Anger
+{variant:4}{range:0.5}+(30-50)% to Critical Strike Multiplier while affected by Anger
+{variant:5}{range:0.5}(40-60)% increased Fire Damage while affected by Anger
+{variant:6}{range:0.5}Gain (15-25)% of Physical Damage as Extra Fire Damage while affected by Anger
+{variant:7}{range:0.5}(25-40)% of Physical Damage Converted to Fire Damage while affected by Anger
+{variant:8}{range:0.5}(6-10)% of Damage taken from Mana before Life while affected by Clarity
+{variant:9}{range:0.5}(15-20)% of Damage taken while affected by Clarity Recouped as Mana
+{variant:10}{range:0.5}Gain (12-18)% of Maximum Mana as Extra Maximum Energy Shield while affected by Clarity
+{variant:11}{range:0.5}Gain (6-10)% of Maximum Mana as Extra Maximum Energy Shield while affected by Clarity
+{variant:12}{range:0.5}(20-30)% increased Mana Recovery Rate while affected by Clarity
+{variant:13}{range:0.5}(10-15)% increased Mana Recovery Rate while affected by Clarity
+{variant:14}{range:0.5}(10-15)% chance to Recover 10% of Mana when you use a Skill while affected by Clarity
+{variant:15}{range:0.5}-(10-5) to Total Mana Cost of Skills while affected by Clarity
+{variant:16}{range:0.5}Non-Channelling Skills have -(10-5) to Total Mana Cost while affected by Clarity
+{variant:17}{range:0.5}+(600-1000) to Armour while affected by Determination
+{variant:18}{range:0.5}+(5-8)% Chance to Block Attack Damage while affected by Determination
+{variant:19}{range:1}(5-8)% additional Physical Damage Reduction while affected by Determination
+{variant:20}{range:0.5}You take (40-60)% reduced Extra Damage from Critical Strikes while affected by Determination
+{variant:21}{range:0.5}(40-50)% reduced Reflected Physical Damage taken while affected by Determination
+{variant:22}Unaffected by Vulnerability while affected by Determination
+{variant:23}{range:0.5}+(5-8)% Chance to Block Spell Damage while affected by Discipline
+{variant:24}{range:0.5}Gain (20-30) Energy Shield per Enemy Hit while affected by Discipline
+{variant:25}{range:0.5}(20-30)% increased Energy Shield Recovery Rate while affected by Discipline
+{variant:26}{range:0.5}(10-15)% increased Energy Shield Recovery Rate while affected by Discipline
+{variant:27}{range:0.5}Regenerate (1.5-2.5)% of Energy Shield per Second while affected by Discipline
+{variant:28}{range:0.5}(30-40)% faster start of Energy Shield Recharge while affected by Discipline
+{variant:29}{range:0.5}+(5-8)% chance to Evade Attack Hits while affected by Grace
+{variant:30}{range:0.5}(30-50)% chance to Blind Enemies which Hit you while affected by Grace
+{variant:31}{range:0.5}+(12-15)% chance to Suppress Spell Damage while affected by Grace
+{variant:32}{range:0.5}(10-15)% increased Movement Speed while affected by Grace
+{variant:33}Unaffected by Enfeeble while affected by Grace
+{variant:34}{range:0.5}+(5-8)% chance to Suppress Spell Damage while affected by Haste
+{variant:35}{range:0.5}(30-50)% increased Cooldown Recovery Rate of Movement Skills used while affected by Haste
+{variant:36}Debuffs on you expire (15-20)% faster while affected by Haste
+{variant:37}You gain Onslaught for 4 seconds on Kill while affected by Haste
+{variant:38}You have Phasing while affected by Haste
+{variant:39}Unaffected by Temporal Chains while affected by Haste
+{variant:40}{range:0.5}Adds (58-70) to (88-104) Cold Damage while affected by Hatred
+{variant:41}{range:0.5}+(1.2-1.8)% to Critical Strike Chance while affected by Hatred
+{variant:42}{range:0.5}Damage Penetrates (10-15)% Cold Resistance while affected by Hatred
+{variant:43}{range:0.5}(40-60)% increased Cold Damage while affected by Hatred
+{variant:44}{range:0.5}(25-40)% of Physical Damage Converted to Cold Damage while affected by Hatred
+{variant:45}{range:0.5}+(36-44)% to Damage over Time Multiplier while affected by Malevolence
+{variant:46}{range:0.5}+(18-22)% to Damage over Time Multiplier while affected by Malevolence
+{variant:47}{range:0.5}(15-20)% increased Recovery rate of Life and Energy Shield while affected by Malevolence
+{variant:48}{range:0.5}(8-12)% increased Recovery rate of Life and Energy Shield while affected by Malevolence
+{variant:49}Unaffected by Bleeding while affected by Malevolence
+{variant:50}Unaffected by Poison while affected by Malevolence
+{variant:51}{range:0.5}Damaging Ailments you inflict deal Damage (10-15)% faster while affected by Malevolence
+{variant:52}Cannot be Blinded while affected by Precision
+{variant:53}Gain a Flask Charge when you deal a Critical Strike while affected by Precision
+{variant:54}{range:0.5}(40-60)% increased Attack Damage while affected by Precision
+{variant:55}{range:0.5}(10-15)% increased Attack Speed while affected by Precision
+{variant:56}{range:0.5}+(30-50)% to Critical Strike Multiplier while affected by Precision
+{variant:57}{range:0.5}+(20-30)% to Critical Strike Multiplier while affected by Precision
+{variant:58}{range:0.5}(8-12)% chance to deal Double Damage while using Pride
+{variant:59}25% chance to Impale Enemies on Hit with Attacks while using Pride
+{variant:60}Impales you inflict last 2 additional Hits while using Pride
+{variant:61}{range:0.5}(40-60)% increased Physical Damage while using Pride
+{variant:62}Your Hits Intimidate Enemies for 4 seconds while you are using Pride
+{variant:63}{range:0.5}+(30-50)% to Chaos Resistance while affected by Purity of Elements
+{variant:64}+1% to all maximum Elemental Resistances while affected by Purity of Elements
+{variant:65}{range:0.5}(40-50)% reduced Reflected Elemental Damage taken while affected by Purity of Elements
+{variant:66}{range:0.5}(8-12)% of Physical Damage from Hits taken as Cold Damage while affected by Purity of Elements
+{variant:67}{range:0.5}(8-12)% of Physical Damage from Hits taken as Fire Damage while affected by Purity of Elements
+{variant:68}{range:0.5}(8-12)% of Physical Damage from Hits taken as Lightning Damage while affected by Purity of Elements
+{variant:69}Unaffected by Elemental Weakness while affected by Purity of Elements
+{variant:70}{range:0.5}(10-20)% of Cold and Lightning Damage taken as Fire Damage while affected by Purity of Fire
+{variant:71}Immune to Ignite while affected by Purity of Fire
+{variant:72}{range:0.5}(6-10)% of Physical Damage from Hits taken as Fire Damage while affected by Purity of Fire
+{variant:73}Unaffected by Burning Ground while affected by Purity of Fire
+{variant:74}Unaffected by Flammability while affected by Purity of Fire
+{variant:75}{range:0.5}(10-20)% of Fire and Lightning Damage taken as Cold Damage while affected by Purity of Ice
+{variant:76}Immune to Freeze while affected by Purity of Ice
+{variant:77}{range:0.5}(6-10)% of Physical Damage from Hits taken as Cold Damage while affected by Purity of Ice
+{variant:78}Unaffected by Chilled Ground while affected by Purity of Ice
+{variant:79}Unaffected by Frostbite while affected by Purity of Ice
+{variant:80}{range:0.5}(10-20)% of Fire and Cold Damage taken as Lightning Damage while
+{variant:80}affected by Purity of Lightning
+{variant:81}Immune to Shock while affected by Purity of Lightning
+{variant:82}{range:0.5}(6-10)% of Physical Damage from Hits taken as Lightning Damage while affected by Purity of Lightning
+{variant:83}Unaffected by Conductivity while affected by Purity of Lightning
+{variant:84}Unaffected by Shocked Ground while affected by Purity of Lightning
+{variant:85}{range:0.5}(1-1.5)% of Damage leeched as Life while affected by Vitality
+{variant:86}{range:0.5}(0.8-1.2)% of Damage leeched as Life while affected by Vitality
+{variant:87}{range:0.5}Regenerate (100-140) Life per Second while affected by Vitality
+{variant:88}{range:0.5}Gain (20-30) Life per Enemy Hit while affected by Vitality
+{variant:89}{range:0.5}(50-70)% increased Life Recovery from Flasks while affected by Vitality
+{variant:90}{range:0.5}(20-30)% increased Life Recovery Rate while affected by Vitality
+{variant:91}{range:0.5}(10-15)% increased Life Recovery Rate while affected by Vitality
+{variant:92}{range:0.5}Regenerate (1-1.5)% of Life per second while affected by Vitality
+{variant:93}{range:0.5}(70-100)% increased Critical Strike Chance while affected by Wrath
+{variant:94}{range:0.5}(40-60)% increased Lightning Damage while affected by Wrath
+{variant:95}{range:0.5}(1-1.5)% of Lightning Damage is Leeched as Energy Shield while affected by Wrath
+{variant:96}{range:0.5}(1-1.5)% of Lightning Damage is Leeched as Mana while affected by Wrath
+{variant:97}{range:0.5}Damage Penetrates (10-15)% Lightning Resistance while affected by Wrath
+{variant:98}{range:0.5}Gain (15-25)% of Physical Damage as Extra Lightning Damage while affected by Wrath
+{variant:99}{range:0.5}(25-40)% of Physical Damage Converted to Lightning Damage while affected by Wrath
+{variant:100}{range:0.5}(10-15)% increased Cast Speed while affected by Zealotry
+{variant:101}Effects of Consecrated Ground you create while affected by Zealotry Linger for 2 seconds
+{variant:102}{range:0.5}Consecrated Ground you create while affected by Zealotry causes enemies to take (8-10)% increased Damage
+{variant:103}{range:0.5}(100-120)% increased Critical Strike Chance against Enemies on Consecrated Ground while affected by Zealotry
+{variant:104}{range:0.5}Critical Strikes Penetrate (8-10)% of Enemy Elemental Resistances while affected by Zealotry
+{variant:105}Gain Arcane Surge for 4 seconds when you create Consecrated Ground while affected by Zealotry
+{variant:106}30% increased Maximum total Energy Shield Recovery per second from Leech while affected by Zealotry</Item>
+    <Item id="14">Rarity: UNIQUE
+Unending Hunger
+Cobalt Jewel
+Variant: Pre 2.6.0
+Variant: Current
+Selected Variant: 2
+Radius: Medium
+Limited to: 2
+Implicits: 0
+{variant:1}{range:0.5}Minions have (5-8)% increased Area of Effect of Area Skills
+{variant:2}{range:1}Minions have (6-8)% increased Area of Effect of Area Skills
+With at least 40 Intelligence in Radius, Raised Spectres have a 50% chance to gain Soul Eater for 20 seconds on Kill</Item>
+    <Item id="2">Rarity: RARE
+New Item
+Small Cluster Jewel
+Crafted: true
+Prefix: {range:0.5}AfflictionNotableEnduringComposure
+Prefix: None
+Suffix: None
+Suffix: {range:0.5}AfflictionJewelSmallPassivesGrantElementalResSmall3
+Cluster Jewel Skill: affliction_armour
+Cluster Jewel Node Count: 2
+LevelReq: 58
+Implicits: 2
+{crafted}Adds 2 Passive Skills
+{crafted}Added Small Passive Skills grant: 15% increased Armour
+Added Small Passive Skills also grant: +4% to all Elemental Resistances
+1 Added Passive Skill is Enduring Composure</Item>
+    <Item id="12">Rarity: UNIQUE
+Fortress Covenant
+Cobalt Jewel
+Variant: Pre 3.20.0
+Variant: Current
+Selected Variant: 2
+LevelReq: 20
+Radius: Medium
+Limited to: 1
+Implicits: 0
+{range:0.866}Minions deal (35-45)% increased Damage
+{range:0.5}Minions have +(10-12)% Chance to Block Attack Damage
+{range:0.5}Minions have +(10-12)% Chance to Block Spell Damage
+Notable Passive Skills in Radius are Transformed to instead grant: Minions take 20% increased Damage
+{variant:2}Corrupted</Item>
+    <Item id="6">Rarity: RARE
+New Item
+Large Cluster Jewel
+Crafted: true
+Prefix: {range:0.5}AfflictionJewelSmallPassivesGrantLife2_
+Prefix: {range:0.5}AfflictionNotableRenewal
+Suffix: {range:0.5}AfflictionJewelSmallPassivesGrantMinionAttackAndCastSpeed3
+Suffix: {range:0.5}AfflictionJewelSmallPassivesGrantAttributes
+Cluster Jewel Skill: affliction_minion_damage
+Cluster Jewel Node Count: 12
+LevelReq: 67
+Implicits: 3
+{crafted}Adds 12 Passive Skills
+{crafted}2 Added Passive Skills are Jewel Sockets
+{crafted}Added Small Passive Skills grant: Minions deal 10% increased Damage
+Added Small Passive Skills also grant: +2 to All Attributes
+Added Small Passive Skills also grant: +6 to Maximum Life
+Added Small Passive Skills also grant: Minions have 3% increased Attack and Cast Speed
+1 Added Passive Skill is Renewal</Item>
+    <Item id="1">Rarity: RARE
+One with taunt and/or blind
+Ghastly Eye Jewel
+Crafted: true
+Prefix: {range:1}AbyssJewelAddedLife2
+Prefix: {range:0.394}AbyssMinionAddedColdDamageJewel5
+Suffix: {range:1}AbyssMinionAttacksTauntOnHitChanceJewel1
+Suffix: {range:1}AbyssMinionAttacksBlindOnHitChanceJewel1
+Quality: 0
+LevelReq: 56
+Implicits: 0
++30 to maximum Life
+Minions have 5% chance to Taunt on Hit with Attacks
+Minions deal 25 to 34 additional Cold Damage
+Minions have 4% chance to Blind on Hit with Attacks</Item>
+    <Item id="35">Rarity: UNIQUE
+Glorious Vanity [7365; 86; Mind Over Matter]
+Timeless Jewel
+League: Legion
+Variant: Doryani (Corrupted Soul)
+Variant: Xibaqua (Divine Flesh)
+Variant: Ahuana (Immortal Ambition)
+Selected Variant: 2
+LevelReq: 20
+Radius: Large
+Limited to: 1
+Implicits: 0
+{variant:1}Bathed in the blood of 7365 sacrificed in the name of Doryani
+{variant:2}Bathed in the blood of 7365 sacrificed in the name of Xibaqua
+{variant:3}Bathed in the blood of 7365 sacrificed in the name of Ahuana
+Passives in radius are Conquered by the Vaal
+Historic</Item>
+    <Item id="40">Rarity: RARE
+New Item
+Large Cluster Jewel
+Crafted: true
+Prefix: {range:1}AfflictionJewelSmallPassivesGrantLife3
+Prefix: {range:0.5}AfflictionJewelSmallPassivesHaveIncreasedEffect2
+Suffix: {range:0.5}AfflictionJewelSmallPassivesGrantMinionAttackAndCastSpeed3
+Suffix: {range:0.5}AfflictionJewelSmallPassivesGrantAttributes3
+Cluster Jewel Skill: affliction_minion_damage
+Cluster Jewel Node Count: 12
+LevelReq: 67
+Implicits: 3
+{crafted}Adds 12 Passive Skills
+{crafted}2 Added Passive Skills are Jewel Sockets
+{crafted}Added Small Passive Skills grant: Minions deal 10% increased Damage
+Added Small Passive Skills also grant: +4 to All Attributes
+Added Small Passive Skills also grant: +10 to Maximum Life
+Added Small Passive Skills also grant: Minions have 3% increased Attack and Cast Speed
+Added Small Passive Skills have 35% increased Effect</Item>
+    <Item id="41">Rarity: RARE
+New Item
+Large Cluster Jewel
+Crafted: true
+Prefix: {range:1}AfflictionJewelSmallPassivesGrantLife3
+Prefix: {range:0.5}AfflictionJewelSmallPassivesHaveIncreasedEffect2
+Suffix: {range:0.5}AfflictionJewelSmallPassivesGrantMinionAttackAndCastSpeed3
+Suffix: {range:0.5}AfflictionJewelSmallPassivesGrantChaosRes3
+Cluster Jewel Skill: affliction_minion_damage
+Cluster Jewel Node Count: 12
+LevelReq: 67
+Implicits: 3
+{crafted}Adds 12 Passive Skills
+{crafted}2 Added Passive Skills are Jewel Sockets
+{crafted}Added Small Passive Skills grant: Minions deal 10% increased Damage
+Added Small Passive Skills also grant: +5% to Chaos Resistance
+Added Small Passive Skills also grant: +10 to Maximum Life
+Added Small Passive Skills also grant: Minions have 3% increased Attack and Cast Speed
+Added Small Passive Skills have 35% increased Effect</Item>
+    <Item id="53">Rarity: RARE
+Option B
+Cobalt Jewel
+Crafted: true
+Prefix: {range:0.5}MinionDamageJewel
+Prefix: {range:0.5}PercentIncreasedLifeJewel
+Suffix: None
+Suffix: None
+LevelReq: 0
+Implicits: 0
+6% increased maximum Life
+Minions deal 15% increased Damage
+GET RESS HERE</Item>
+    <Item id="10">Rarity: RARE
+Option C
+Cobalt Jewel
+Crafted: true
+Prefix: {range:0.5}MinionDamageJewel
+Prefix: {range:0.5}PercentIncreasedLifeJewel
+Suffix: {range:0.726}ChaosResistanceJewel
+Suffix: None
+LevelReq: 0
+Implicits: 0
+6% increased maximum Life
++11% to Chaos Resistance
+Minions deal 15% increased Damage</Item>
+    <Item id="37">Rarity: UNIQUE
+Sublime Vision
+Prismatic Jewel
+Shaper Item
+Variant: Anger
+Variant: Clarity
+Variant: Determination
+Variant: Discipline
+Variant: Grace
+Variant: Haste
+Variant: Hatred
+Variant: Malevolence
+Variant: Precision
+Variant: Pride
+Variant: Purity Of Elements
+Variant: Purity Of Fire
+Variant: Purity Of Ice
+Variant: Purity Of Lightning
+Variant: Vitality
+Variant: Wrath
+Variant: Zealotry
+Selected Variant: 13
+Limited to: 1
+Implicits: 0
+{variant:1}{range:0.5}Auras from your Skills have (20-40)% increased Effect on you
+{variant:1}Always Scorch while affected by Anger
+{variant:1}Aura Skills other than Anger are Disabled
+{variant:2}{range:0.5}Auras from your Skills have (20-40)% increased Effect on you
+{variant:2}80% increased Effect of Arcane Surge on you while affected by Clarity
+{variant:2}Aura Skills other than Clarity are Disabled
+{variant:3}{range:0.5}Auras from your Skills have (20-40)% increased Effect on you
+{variant:3}+1 to Maximum Endurance Charges while affected by Determination
+{variant:3}Aura Skills other than Determination are Disabled
+{variant:4}{range:0.5}Auras from your Skills have (20-40)% increased Effect on you
+{variant:4}+1 to Maximum Power Charges while affected by Discipline
+{variant:4}Aura Skills other than Discipline are Disabled
+{variant:5}{range:0.5}Auras from your Skills have (20-40)% increased Effect on you
+{variant:5}+1 to Maximum Frenzy Charges while affected by Grace
+{variant:5}Aura Skills other than Grace are Disabled
+{variant:6}{range:0.5}Auras from your Skills have (20-40)% increased Effect on you
+{variant:6}10% increased Action Speed while affected by Haste
+{variant:6}Aura Skills other than Haste are Disabled
+{variant:7}{range:0.5}Auras from your Skills have (20-40)% increased Effect on you
+{variant:7}Always inflict Brittle while affected by Hatred
+{variant:7}Aura Skills other than Hatred are Disabled
+{variant:8}{range:0.5}Auras from your Skills have (20-40)% increased Effect on you
+{variant:8}You can apply an additional Curse while affected by Malevolence
+{variant:8}Aura Skills other than Malevolence are Disabled
+{variant:9}{range:0.5}Auras from your Skills have (20-40)% increased Effect on you
+{variant:9}25% more Critical Strike chance while affected by Precision
+{variant:9}Aura Skills other than Precision are Disabled
+{variant:10}{range:0.5}(20-40)% increased Effect of Non-Curse Auras from your Skills on Enemies
+{variant:10}Enemies you Kill while using Pride have 25% chance to Explode, dealing a tenth of their maximum Life as Physical Damage
+{variant:10}Aura Skills other than Pride are Disabled
+{variant:11}{range:0.5}Auras from your Skills have (20-40)% increased Effect on you
+{variant:11}+3% to all maximum Elemental Resistances while affected by Purity of Elements
+{variant:11}Aura Skills other than Purity of Elements are Disabled
+{variant:12}{range:0.5}Auras from your Skills have (20-40)% increased Effect on you
+{variant:12}30% of Cold and Lightning Damage taken as Fire Damage while affected by Purity of Fire
+{variant:12}Aura Skills other than Purity of Fire are Disabled
+{variant:13}{range:0.5}Auras from your Skills have (20-40)% increased Effect on you
+{variant:13}30% of Fire and Lightning Damage taken as Cold Damage while affected by Purity of Ice
+{variant:13}Aura Skills other than Purity of Ice are Disabled
+{variant:14}{range:0.5}Auras from your Skills have (20-40)% increased Effect on you
+{variant:14}30% of Fire and Cold Damage taken as Lightning Damage while
+{variant:14}affected by Purity of Lightning
+{variant:14}Aura Skills other than Purity of Lightning are Disabled
+{variant:15}{range:0.5}Auras from your Skills have (20-40)% increased Effect on you
+{variant:15}Regenerate 15% Life over one second when hit while affected by Vitality
+{variant:15}Aura Skills other than Vitality are Disabled
+{variant:16}{range:0.5}Auras from your Skills have (20-40)% increased Effect on you
+{variant:16}Always Sap while affected by Wrath
+{variant:16}Aura Skills other than Wrath are Disabled
+{variant:17}{range:0.5}Auras from your Skills have (20-40)% increased Effect on you
+{variant:17}Unaffected by Curses while affected by Zealotry
+{variant:17}Aura Skills other than Zealotry are Disabled</Item>
+    <Item id="38">Rarity: UNIQUE
+Watcher's Eye
+Prismatic Jewel
+Variant: None
+Variant: Anger: Fire Damage Life Leech
+Variant: Anger: Fire Penetration
+Variant: Anger: Inc Crit Strike Mult
+Variant: Anger: Inc Fire Damage
+Variant: Anger: Phys Added As Fire
+Variant: Anger: Phys Converted To Fire
+Variant: Clarity: Damage Taken From Mana Before Life
+Variant: Clarity: Damage Taken Gained As Mana
+Variant: Clarity: Mana Added As ES (Pre 3.12.0)
+Variant: Clarity: Mana Added As ES
+Variant: Clarity: Mana Recovery Rate (Pre 3.12.0)
+Variant: Clarity: Mana Recovery Rate
+Variant: Clarity: Recover Mana On Skill Use
+Variant: Clarity: Red. Mana Cost (Pre 3.8.0)
+Variant: Clarity: Red. Mana Cost Non Channelled
+Variant: Determination: Additional Armour
+Variant: Determination: Additional Block
+Variant: Determination: Phys Damage Reduction
+Variant: Determination: Red. Extra Damage From Crits
+Variant: Determination: Red. Reflected Phys Damage
+Variant: Determination: Unaffected By Vulnerability
+Variant: Discipline: Additional Spell Block
+Variant: Discipline: ES Per Hit
+Variant: Discipline: ES Recovery Rate (Pre 3.12.0)
+Variant: Discipline: ES Recovery Rate
+Variant: Discipline: ES Regen
+Variant: Discipline: Faster Start Of Recharge
+Variant: Grace: Additional Chance To Evade
+Variant: Grace: Blind Enemies When Hit
+Variant: Grace: Chance to Suppress Spells
+Variant: Grace: Inc Movement Speed
+Variant: Grace: Unaffected By Enfeeble
+Variant: Haste: Chance to Suppress Spells
+Variant: Haste: Cooldown Recovery For Movement Skills
+Variant: Haste: Debuffs Expire Faster
+Variant: Haste: Gain Onslaught On Kill
+Variant: Haste: Gain Phasing
+Variant: Haste: Unaffected By Temporal Chains
+Variant: Hatred: Added Cold Damage
+Variant: Hatred: Additional Crit Strike Chance
+Variant: Hatred: Cold Penetration
+Variant: Hatred: Inc Cold Damage
+Variant: Hatred: Phys Converted To Cold
+Variant: Malevolence: Damage Over Time Mult (Pre 3.8.0)
+Variant: Malevolence: Damage Over Time Mult
+Variant: Malevolence: Life And ES Recovery Rate (Pre 3.12.0)
+Variant: Malevolence: Life And ES Recovery Rate
+Variant: Malevolence: Unaffected By Bleeding
+Variant: Malevolence: Unaffected By Poison
+Variant: Malevolence: Your Ailments Deal Damage Faster
+Variant: Precision: Cannot Be Blinded
+Variant: Precision: Flask Charge On Crit
+Variant: Precision: Inc Attack Damage
+Variant: Precision: Inc Attack Speed
+Variant: Precision: Inc Crit Strike Mult (Pre 3.12.0)
+Variant: Precision: Inc Crit Strike Mult
+Variant: Pride: Chance For Double Damage
+Variant: Pride: Chance To Impale
+Variant: Pride: Impale Additional Hits
+Variant: Pride: Inc Phys Damage
+Variant: Pride: Intimidate On Hit
+Variant: Purity Of Elements: Chaos Resistance
+Variant: Purity Of Elements: Maximum Ele Resistances
+Variant: Purity Of Elements: Red. Reflected Ele Damage
+Variant: Purity Of Elements: Take Phys As Cold (Pre 3.25.0)
+Variant: Purity Of Elements: Take Phys As Fire (Pre 3.25.0)
+Variant: Purity Of Elements: Take Phys As Lightning (Pre 3.25.0)
+Variant: Purity Of Elements: Unaffected By Ele Weakness
+Variant: Purity Of Fire: Cold And Lightning Taken As Fire
+Variant: Purity Of Fire: Immune To Ignite
+Variant: Purity Of Fire: Take Phys As Fire (Pre 3.25.0)
+Variant: Purity Of Fire: Unaffected By Burning Ground
+Variant: Purity Of Fire: Unaffected By Flammability
+Variant: Purity Of Ice: Fire And Lightning Taken As Cold
+Variant: Purity Of Ice: Immune To Freeze
+Variant: Purity Of Ice: Take Phys As Ice (Pre 3.25.0)
+Variant: Purity Of Ice: Unaffected By Chilled Ground
+Variant: Purity Of Ice: Unaffected By Frostbite
+Variant: Purity Of Lightning: Fire And Cold Taken As Lightning
+Variant: Purity Of Lightning: Immune To Shock
+Variant: Purity Of Lightning: Take Phys As Lightning (Pre 3.25.0)
+Variant: Purity Of Lightning: Unaffected By Conductivity
+Variant: Purity Of Lightning: Unaffected By Shocked Ground
+Variant: Vitality: Damage Life Leech (Pre 3.12.0)
+Variant: Vitality: Damage Life Leech
+Variant: Vitality: Flat Life Regen (Pre 3.12.0)
+Variant: Vitality: Life Gain Per Hit
+Variant: Vitality: Life Recovery From Flasks
+Variant: Vitality: Life Recovery Rate (Pre 3.12.0)
+Variant: Vitality: Life Recovery Rate
+Variant: Vitality: Percent Life Regen
+Variant: Wrath: Inc Crit Strike Chance
+Variant: Wrath: Inc Lightning Damage
+Variant: Wrath: Lightning Damage ES Leech
+Variant: Wrath: Lightning Damage Mana Leech (Pre 3.8.0)
+Variant: Wrath: Lightning Penetration
+Variant: Wrath: Phys Added As Lightning
+Variant: Wrath: Phys Converted To Lightning
+Variant: Zealotry: Cast Speed
+Variant: Zealotry: Consecrated Ground Effect Lingers For Ms After Leaving The Area
+Variant: Zealotry: Consecrated Ground Enemy Damage Taken
+Variant: Zealotry: Crit Strike Chance Against Enemies On Consecrated Ground
+Variant: Zealotry: Crit Strikes Penetrates Ele Resistances
+Variant: Zealotry: Gain Arcane Surge For 4 Seconds When You Create Consecrated Ground
+Variant: Zealotry: Maximum ES Per Second To Maximum ES Leech Rate
+Selected Variant: 19
+Has Alt Variant: true
+Selected Alt Variant: 75
+Has Alt Variant Two: true
+Selected Alt Variant Two: 1
+Limited to: 1
+Implicits: 0
+{range:0.5}(4-6)% increased maximum Energy Shield
+{range:0.5}(4-6)% increased maximum Life
+{range:0.5}(4-6)% increased maximum Mana
+{variant:2}{range:0.5}(1-1.5)% of Fire Damage Leeched as Life while affected by Anger
+{variant:3}{range:0.5}Damage Penetrates (10-15)% Fire Resistance while affected by Anger
+{variant:4}{range:0.5}+(30-50)% to Critical Strike Multiplier while affected by Anger
+{variant:5}{range:0.5}(40-60)% increased Fire Damage while affected by Anger
+{variant:6}{range:0.5}Gain (15-25)% of Physical Damage as Extra Fire Damage while affected by Anger
+{variant:7}{range:0.5}(25-40)% of Physical Damage Converted to Fire Damage while affected by Anger
+{variant:8}{range:0.5}(6-10)% of Damage taken from Mana before Life while affected by Clarity
+{variant:9}{range:0.5}(15-20)% of Damage taken while affected by Clarity Recouped as Mana
+{variant:10}{range:0.5}Gain (12-18)% of Maximum Mana as Extra Maximum Energy Shield while affected by Clarity
+{variant:11}{range:0.5}Gain (6-10)% of Maximum Mana as Extra Maximum Energy Shield while affected by Clarity
+{variant:12}{range:0.5}(20-30)% increased Mana Recovery Rate while affected by Clarity
+{variant:13}{range:0.5}(10-15)% increased Mana Recovery Rate while affected by Clarity
+{variant:14}{range:0.5}(10-15)% chance to Recover 10% of Mana when you use a Skill while affected by Clarity
+{variant:15}{range:0.5}-(10-5) to Total Mana Cost of Skills while affected by Clarity
+{variant:16}{range:0.5}Non-Channelling Skills have -(10-5) to Total Mana Cost while affected by Clarity
+{variant:17}{range:0.5}+(600-1000) to Armour while affected by Determination
+{variant:18}{range:0.5}+(5-8)% Chance to Block Attack Damage while affected by Determination
+{variant:19}{range:1}(5-8)% additional Physical Damage Reduction while affected by Determination
+{variant:20}{range:0.5}You take (40-60)% reduced Extra Damage from Critical Strikes while affected by Determination
+{variant:21}{range:0.5}(40-50)% reduced Reflected Physical Damage taken while affected by Determination
+{variant:22}Unaffected by Vulnerability while affected by Determination
+{variant:23}{range:0.5}+(5-8)% Chance to Block Spell Damage while affected by Discipline
+{variant:24}{range:0.5}Gain (20-30) Energy Shield per Enemy Hit while affected by Discipline
+{variant:25}{range:0.5}(20-30)% increased Energy Shield Recovery Rate while affected by Discipline
+{variant:26}{range:0.5}(10-15)% increased Energy Shield Recovery Rate while affected by Discipline
+{variant:27}{range:0.5}Regenerate (1.5-2.5)% of Energy Shield per Second while affected by Discipline
+{variant:28}{range:0.5}(30-40)% faster start of Energy Shield Recharge while affected by Discipline
+{variant:29}{range:0.5}+(5-8)% chance to Evade Attack Hits while affected by Grace
+{variant:30}{range:0.5}(30-50)% chance to Blind Enemies which Hit you while affected by Grace
+{variant:31}{range:0.5}+(12-15)% chance to Suppress Spell Damage while affected by Grace
+{variant:32}{range:0.5}(10-15)% increased Movement Speed while affected by Grace
+{variant:33}Unaffected by Enfeeble while affected by Grace
+{variant:34}{range:0.5}+(5-8)% chance to Suppress Spell Damage while affected by Haste
+{variant:35}{range:0.5}(30-50)% increased Cooldown Recovery Rate of Movement Skills used while affected by Haste
+{variant:36}Debuffs on you expire (15-20)% faster while affected by Haste
+{variant:37}You gain Onslaught for 4 seconds on Kill while affected by Haste
+{variant:38}You have Phasing while affected by Haste
+{variant:39}Unaffected by Temporal Chains while affected by Haste
+{variant:40}{range:0.5}Adds (58-70) to (88-104) Cold Damage while affected by Hatred
+{variant:41}{range:0.5}+(1.2-1.8)% to Critical Strike Chance while affected by Hatred
+{variant:42}{range:0.5}Damage Penetrates (10-15)% Cold Resistance while affected by Hatred
+{variant:43}{range:0.5}(40-60)% increased Cold Damage while affected by Hatred
+{variant:44}{range:0.5}(25-40)% of Physical Damage Converted to Cold Damage while affected by Hatred
+{variant:45}{range:0.5}+(36-44)% to Damage over Time Multiplier while affected by Malevolence
+{variant:46}{range:0.5}+(18-22)% to Damage over Time Multiplier while affected by Malevolence
+{variant:47}{range:0.5}(15-20)% increased Recovery rate of Life and Energy Shield while affected by Malevolence
+{variant:48}{range:0.5}(8-12)% increased Recovery rate of Life and Energy Shield while affected by Malevolence
+{variant:49}Unaffected by Bleeding while affected by Malevolence
+{variant:50}Unaffected by Poison while affected by Malevolence
+{variant:51}{range:0.5}Damaging Ailments you inflict deal Damage (10-15)% faster while affected by Malevolence
+{variant:52}Cannot be Blinded while affected by Precision
+{variant:53}Gain a Flask Charge when you deal a Critical Strike while affected by Precision
+{variant:54}{range:0.5}(40-60)% increased Attack Damage while affected by Precision
+{variant:55}{range:0.5}(10-15)% increased Attack Speed while affected by Precision
+{variant:56}{range:0.5}+(30-50)% to Critical Strike Multiplier while affected by Precision
+{variant:57}{range:0.5}+(20-30)% to Critical Strike Multiplier while affected by Precision
+{variant:58}{range:0.5}(8-12)% chance to deal Double Damage while using Pride
+{variant:59}25% chance to Impale Enemies on Hit with Attacks while using Pride
+{variant:60}Impales you inflict last 2 additional Hits while using Pride
+{variant:61}{range:0.5}(40-60)% increased Physical Damage while using Pride
+{variant:62}Your Hits Intimidate Enemies for 4 seconds while you are using Pride
+{variant:63}{range:0.5}+(30-50)% to Chaos Resistance while affected by Purity of Elements
+{variant:64}+1% to all maximum Elemental Resistances while affected by Purity of Elements
+{variant:65}{range:0.5}(40-50)% reduced Reflected Elemental Damage taken while affected by Purity of Elements
+{variant:66}{range:0.5}(8-12)% of Physical Damage from Hits taken as Cold Damage while affected by Purity of Elements
+{variant:67}{range:0.5}(8-12)% of Physical Damage from Hits taken as Fire Damage while affected by Purity of Elements
+{variant:68}{range:0.5}(8-12)% of Physical Damage from Hits taken as Lightning Damage while affected by Purity of Elements
+{variant:69}Unaffected by Elemental Weakness while affected by Purity of Elements
+{variant:70}{range:0.5}(10-20)% of Cold and Lightning Damage taken as Fire Damage while affected by Purity of Fire
+{variant:71}Immune to Ignite while affected by Purity of Fire
+{variant:72}{range:0.5}(6-10)% of Physical Damage from Hits taken as Fire Damage while affected by Purity of Fire
+{variant:73}Unaffected by Burning Ground while affected by Purity of Fire
+{variant:74}Unaffected by Flammability while affected by Purity of Fire
+{variant:75}{range:1}(10-20)% of Fire and Lightning Damage taken as Cold Damage while affected by Purity of Ice
+{variant:76}Immune to Freeze while affected by Purity of Ice
+{variant:77}{range:0.5}(6-10)% of Physical Damage from Hits taken as Cold Damage while affected by Purity of Ice
+{variant:78}Unaffected by Chilled Ground while affected by Purity of Ice
+{variant:79}Unaffected by Frostbite while affected by Purity of Ice
+{variant:80}{range:0.5}(10-20)% of Fire and Cold Damage taken as Lightning Damage while
+{variant:80}affected by Purity of Lightning
+{variant:81}Immune to Shock while affected by Purity of Lightning
+{variant:82}{range:0.5}(6-10)% of Physical Damage from Hits taken as Lightning Damage while affected by Purity of Lightning
+{variant:83}Unaffected by Conductivity while affected by Purity of Lightning
+{variant:84}Unaffected by Shocked Ground while affected by Purity of Lightning
+{variant:85}{range:0.5}(1-1.5)% of Damage leeched as Life while affected by Vitality
+{variant:86}{range:0.5}(0.8-1.2)% of Damage leeched as Life while affected by Vitality
+{variant:87}{range:0.5}Regenerate (100-140) Life per Second while affected by Vitality
+{variant:88}{range:0.5}Gain (20-30) Life per Enemy Hit while affected by Vitality
+{variant:89}{range:0.5}(50-70)% increased Life Recovery from Flasks while affected by Vitality
+{variant:90}{range:0.5}(20-30)% increased Life Recovery Rate while affected by Vitality
+{variant:91}{range:0.5}(10-15)% increased Life Recovery Rate while affected by Vitality
+{variant:92}{range:0.5}Regenerate (1-1.5)% of Life per second while affected by Vitality
+{variant:93}{range:0.5}(70-100)% increased Critical Strike Chance while affected by Wrath
+{variant:94}{range:0.5}(40-60)% increased Lightning Damage while affected by Wrath
+{variant:95}{range:0.5}(1-1.5)% of Lightning Damage is Leeched as Energy Shield while affected by Wrath
+{variant:96}{range:0.5}(1-1.5)% of Lightning Damage is Leeched as Mana while affected by Wrath
+{variant:97}{range:0.5}Damage Penetrates (10-15)% Lightning Resistance while affected by Wrath
+{variant:98}{range:0.5}Gain (15-25)% of Physical Damage as Extra Lightning Damage while affected by Wrath
+{variant:99}{range:0.5}(25-40)% of Physical Damage Converted to Lightning Damage while affected by Wrath
+{variant:100}{range:0.5}(10-15)% increased Cast Speed while affected by Zealotry
+{variant:101}Effects of Consecrated Ground you create while affected by Zealotry Linger for 2 seconds
+{variant:102}{range:0.5}Consecrated Ground you create while affected by Zealotry causes enemies to take (8-10)% increased Damage
+{variant:103}{range:0.5}(100-120)% increased Critical Strike Chance against Enemies on Consecrated Ground while affected by Zealotry
+{variant:104}{range:0.5}Critical Strikes Penetrate (8-10)% of Enemy Elemental Resistances while affected by Zealotry
+{variant:105}Gain Arcane Surge for 4 seconds when you create Consecrated Ground while affected by Zealotry
+{variant:106}30% increased Maximum total Energy Shield Recovery per second from Leech while affected by Zealotry</Item>
+    <Item id="64">Rarity: RARE
++Minion Shield
+Fossilised Spirit Shield
+Energy Shield: 66
+EnergyShieldBasePercentile: 1
+Crafted: true
+Prefix: {range:0.5}MinionGemLevel1h1
+Prefix: {range:0.188}IncreasedLife6
+Prefix: None
+Suffix: {range:0.07}ColdResist6
+Suffix: None
+Suffix: None
+Quality: 20
+Sockets: B-B-B
+LevelReq: 59
+Implicits: 1
+{tags:damage,minion}{range:1}Minions deal (5-10)% increased Damage
++88 to maximum Life
++1 to Level of all Minion Skill Gems
++36% to Cold Resistance
+{tags:unveiled_mod,elemental,fire,chaos,resistance}{crafted}{range:1}+(13-15)% to Fire and Chaos Resistances</Item>
+    <Item id="65">Rarity: RARE
+Armour/Energy Shield Chest
+Saintly Chainmail
+Armour: 905
+ArmourBasePercentile: 0
+Energy Shield: 217
+EnergyShieldBasePercentile: 0
+Searing Exarch Item
+Eater of Worlds Item
+Crafted: true
+Prefix: {range:0.69}LocalIncreasedArmourAndEnergyShield6
+Prefix: {range:0.254}IncreasedLife10
+Prefix: None
+Suffix: None
+Suffix: {range:0.887}ChaosResist4
+Suffix: {range:0.68}AdditionalPhysicalDamageReduction4
+Quality: 20
+Sockets: B-B-R-R-R-B
+LevelReq: 70
+Implicits: 2
+{tags:resistance}{exarch}+1% to all maximum Resistances
+{tags:physical,elemental,cold}{eater}11% of Physical Damage from Hits taken as Cold Damage
+88% increased Armour and Energy Shield
++149 to maximum Life
++25% to Chaos Resistance
+7% additional Physical Damage Reduction
+{custom}+1 to maximum number of spectres
+{tags:elemental,fire,lightning,resistance}{crafted}{range:1}+(13-16)% to Fire and Lightning Resistances</Item>
+  </Items>
+  <Skills activeSkillSet="1" sortGemsByDPSField="CombinedDPS">
+    <SkillSet id="1">
+      <Skill enabled="true" slot="Body Armour" mainActiveSkill="1" includeInFullDPS="true" label="6L ^210xSpectres ^5(Wretched Defilers)" groupIndex="1">
+        <Gem nameSpec="Raise Spectre" skillId="RaiseSpectre" level="21" quality="20" enabled="true" />
+        <Gem nameSpec="Spell Echo" skillId="SupportSpellEcho" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="Awakened Minion Damage" skillId="SupportAwakenedMinionDamage" level="5" quality="20" enabled="true" />
+        <Gem nameSpec="Awakened Controlled Destruction" skillId="SupportAwakenedControlledDestruction" level="5" quality="20" enabled="true" />
+        <Gem nameSpec="Awakened Elemental Focus" skillId="SupportAwakenedElementalFocus" level="5" quality="20" enabled="true" />
+        <Gem nameSpec="Pierce" skillId="SupportPierce" level="20" quality="20" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="" mainActiveSkill="1" includeInFullDPS="true" label="^5==== Main Skills ============================" groupIndex="2">
+        <Gem nameSpec="Raise Spectre" skillId="" level="" quality="" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Boots" mainActiveSkill="1" includeInFullDPS="true" label="4L ^2FF Utility Spectres ^5*** 1x Perf Guardian Tu" groupIndex="3">
+        <Gem nameSpec="Feeding Frenzy" skillId="SupportFeedingFrenzy" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="Raise Spectre" skillId="RaiseSpectre" level="21" quality="20" enabled="true" />
+        <Gem nameSpec="Minion Life" skillId="SupportMinionLife" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="Congregation" skillId="SupportCongregation" level="4" quality="20" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="" mainActiveSkill="1" includeInFullDPS="true" label="^5==== Utility =================================" groupIndex="4" />
+      <Skill enabled="true" slot="Weapon 1" mainActiveSkill="1" includeInFullDPS="true" label="2L ^2Trigger" groupIndex="5">
+        <Gem nameSpec="Desecrate" skillId="Desecrate" level="1" quality="0" enabled="true" />
+        <Gem nameSpec="Bone Offering" skillId="BoneOffering" level="20" quality="20" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Weapon 2" mainActiveSkill="1" includeInFullDPS="true" label="3L ^2Mobility" groupIndex="6">
+        <Gem nameSpec="Faster Attacks" skillId="SupportFasterAttacks" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="Lifetap" skillId="SupportLifetap" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="Shield Charge" skillId="" level="" quality="" enabled="true" />
+        <Gem nameSpec="Faster Attacks" skillId="" level="" quality="" enabled="true" />
+        <Gem nameSpec="Frostblink" skillId="" level="" quality="" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Helmet" mainActiveSkill="1" includeInFullDPS="true" label="1S ^2Convocation" groupIndex="7">
+        <Gem nameSpec="Convocation" skillId="Convocation" level="1" quality="20" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Helmet" mainActiveSkill="1" includeInFullDPS="true" label="3L ^2Automation + Steelskin" groupIndex="8">
+        <Gem nameSpec="Automation" skillId="Automation" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="Steelskin" skillId="QuickGuard" level="20" quality="20" enabled="false" />
+        <Gem nameSpec="Arcane Surge" skillId="SupportArcaneSurge" level="1" quality="20" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Gloves" mainActiveSkill="1" includeInFullDPS="true" label="1S ^2Mobility" groupIndex="9" />
+      <Skill enabled="true" slot="Gloves" mainActiveSkill="1" includeInFullDPS="true" label="1S ^2Mark" groupIndex="10">
+        <Gem nameSpec="Sniper's Mark" skillId="SnipersMark" level="20" quality="20" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="" mainActiveSkill="1" includeInFullDPS="true" label="^5==== Auras ================================" groupIndex="11" />
+      <Skill enabled="true" slot="Weapon 1" mainActiveSkill="1" includeInFullDPS="true" label="1S ^2Purity of Ice" groupIndex="12">
+        <Gem nameSpec="Purity of Ice" skillId="PurityOfIce" level="21" quality="20" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Gloves" mainActiveSkill="1" includeInFullDPS="true" label="2S ^2Auras" groupIndex="13">
+        <Gem nameSpec="Tempest Shield" skillId="TempestShield" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="Arctic Armour" skillId="ArcticArmour" level="20" quality="20" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="" mainActiveSkill="1" includeInFullDPS="true" label="^5=======Config Group========" groupIndex="14" />
+      <Skill enabled="true" slot="Boots" mainActiveSkill="1" includeInFullDPS="true" label="^5*1x Perfect Spirit of Fortune" groupIndex="15">
+        <Gem nameSpec="Feeding Frenzy" skillId="SupportFeedingFrenzy" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="Raise Spectre" skillId="RaiseSpectre" level="21" quality="20" enabled="true" />
+        <Gem nameSpec="Congregation" skillId="SupportCongregation" level="4" quality="20" enabled="true" />
+        <Gem nameSpec="Minion Life" skillId="SupportMinionLife" level="20" quality="20" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Boots" mainActiveSkill="1" includeInFullDPS="true" label="^5*1x Forest Warrior" groupIndex="16">
+        <Gem nameSpec="Feeding Frenzy" skillId="SupportFeedingFrenzy" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="Raise Spectre" skillId="RaiseSpectre" level="21" quality="20" enabled="true" />
+        <Gem nameSpec="Congregation" skillId="SupportCongregation" level="4" quality="20" enabled="true" />
+        <Gem nameSpec="Minion Life" skillId="SupportMinionLife" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="Culling Strike" skillId="SupportCullingStrike" level="1" quality="0" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Boots" mainActiveSkill="1" includeInFullDPS="true" label="^5*1x Perfect Forest Tiger" groupIndex="17">
+        <Gem nameSpec="Feeding Frenzy" skillId="SupportFeedingFrenzy" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="Raise Spectre" skillId="RaiseSpectre" level="21" quality="20" enabled="true" />
+        <Gem nameSpec="Congregation" skillId="SupportCongregation" level="4" quality="20" enabled="true" />
+        <Gem nameSpec="Minion Life" skillId="SupportMinionLife" level="20" quality="20" enabled="true" />
+      </Skill>
+    </SkillSet>
+  </Skills>
+  <Notes>Archetype stage: early_maps
+Spectre Summoner Necromancer early maps setup focused on low-budget end-game progression with stable minion utility.
+Applied changes:
+- Set class=Witch ascendancy=Necromancer
+- Set level=95
+- Selected tree '^2Low Budget End-Game'
+- Selected primary skill group containing 'Raise Spectre'
+- Added main skill Raise Spectre to group 2
+- Set movement group 6 to: Shield Charge, Faster Attacks, Frostblink
+- Set config enemyLevel=83
+- Set config feedingFrenzyFeedingFrenzyActive=True
+- Set config conditionUsingFlask=True
+- Set config buffOnslaught=True
+- Set config minionBuffOnslaught=True
+- Set config useEnduranceCharges=True</Notes>
+  <Calcs />
+  <Attributes />
+  <PlayerStat />
+  <MinionStat />
+</PathOfBuilding>

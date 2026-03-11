@@ -1,0 +1,63 @@
+{
+  "recommended_archetype": "boneshatter_slayer",
+  "recommended_stage": "leveling",
+  "base_file": "boneshatter_slayer_base.json",
+  "score": 14,
+  "reasons": [
+    "good campaign profile",
+    "good league starter",
+    "supports content 'campaign'",
+    "fits leveling stage"
+  ],
+  "preferences": {
+    "source_prompt": "I want a league starter for acts",
+    "goal": "leveling",
+    "league_starter": true,
+    "stage": "leveling",
+    "content_tags": [
+      "campaign"
+    ]
+  },
+  "generator_command": "python generate_build.py --archetype boneshatter_slayer --stage leveling",
+  "shortlist": [
+    {
+      "archetype": "boneshatter_slayer",
+      "stage": "leveling",
+      "base_file": "boneshatter_slayer_base.json",
+      "score": 14,
+      "reasons": [
+        "good campaign profile",
+        "good league starter",
+        "supports content 'campaign'",
+        "fits leveling stage"
+      ],
+      "generator_command": "python generate_build.py --archetype boneshatter_slayer --stage leveling"
+    },
+    {
+      "archetype": "ice_crash_shadow",
+      "stage": "leveling",
+      "base_file": "build.json",
+      "score": 14,
+      "reasons": [
+        "good campaign profile",
+        "good league starter",
+        "supports content 'campaign'",
+        "fits leveling stage"
+      ],
+      "generator_command": "python generate_build.py --archetype ice_crash_shadow --stage leveling"
+    },
+    {
+      "archetype": "kinetic_fusillade_totem",
+      "stage": "leveling",
+      "base_file": "Kinetic_Fusillade_Totem.json",
+      "score": 14,
+      "reasons": [
+        "good campaign profile",
+        "good league starter",
+        "supports content 'campaign'",
+        "fits leveling stage"
+      ],
+      "generator_command": "python generate_build.py --archetype kinetic_fusillade_totem --stage leveling"
+    }
+  ]
+}

@@ -1,0 +1,1373 @@
+{
+  "archetype": "kinetic_fusillade_totem",
+  "stage": "endgame",
+  "base": "Kinetic_Fusillade_Totem.json",
+  "base_file": "Kinetic_Fusillade_Totem.json",
+  "recommended_archetype": "kinetic_fusillade_totem",
+  "recommended_stage": "endgame",
+  "score": 23,
+  "reasons": [
+    "good bossing profile",
+    "fits tanky/safe preference",
+    "supports content 'maps'",
+    "supports content 'bossing'",
+    "fits endgame stage",
+    "strong safe-build fit",
+    "tiebreak boost for safer ranged bossing",
+    "extra tiebreak boost for safe uber-ready profile"
+  ],
+  "breakdown": {
+    "goal": [
+      {
+        "points": 5,
+        "reason": "good bossing profile"
+      }
+    ],
+    "tankiness": [
+      {
+        "points": 5,
+        "reason": "fits tanky/safe preference"
+      }
+    ],
+    "content": [
+      {
+        "points": 2,
+        "reason": "supports content 'maps'"
+      },
+      {
+        "points": 2,
+        "reason": "supports content 'bossing'"
+      }
+    ],
+    "stage": [
+      {
+        "points": 2,
+        "reason": "fits endgame stage"
+      }
+    ],
+    "special": [
+      {
+        "points": 4,
+        "reason": "strong safe-build fit"
+      },
+      {
+        "points": 2,
+        "reason": "tiebreak boost for safer ranged bossing"
+      },
+      {
+        "points": 1,
+        "reason": "extra tiebreak boost for safe uber-ready profile"
+      }
+    ]
+  },
+  "top_matches": [
+    {
+      "archetype": "kinetic_fusillade_totem",
+      "stage": "endgame",
+      "base": "Kinetic_Fusillade_Totem.json",
+      "base_file": "Kinetic_Fusillade_Totem.json",
+      "recommended_archetype": "kinetic_fusillade_totem",
+      "recommended_stage": "endgame",
+      "score": 23,
+      "reasons": [
+        "good bossing profile",
+        "fits tanky/safe preference",
+        "supports content 'maps'",
+        "supports content 'bossing'",
+        "fits endgame stage",
+        "strong safe-build fit",
+        "tiebreak boost for safer ranged bossing",
+        "extra tiebreak boost for safe uber-ready profile"
+      ],
+      "breakdown": {
+        "goal": [
+          {
+            "points": 5,
+            "reason": "good bossing profile"
+          }
+        ],
+        "tankiness": [
+          {
+            "points": 5,
+            "reason": "fits tanky/safe preference"
+          }
+        ],
+        "content": [
+          {
+            "points": 2,
+            "reason": "supports content 'maps'"
+          },
+          {
+            "points": 2,
+            "reason": "supports content 'bossing'"
+          }
+        ],
+        "stage": [
+          {
+            "points": 2,
+            "reason": "fits endgame stage"
+          }
+        ],
+        "special": [
+          {
+            "points": 4,
+            "reason": "strong safe-build fit"
+          },
+          {
+            "points": 2,
+            "reason": "tiebreak boost for safer ranged bossing"
+          },
+          {
+            "points": 1,
+            "reason": "extra tiebreak boost for safe uber-ready profile"
+          }
+        ]
+      }
+    },
+    {
+      "archetype": "boneshatter_slayer",
+      "stage": "endgame",
+      "base": "boneshatter_slayer_base.json",
+      "base_file": "boneshatter_slayer_base.json",
+      "recommended_archetype": "boneshatter_slayer",
+      "recommended_stage": "endgame",
+      "score": 21,
+      "reasons": [
+        "good bossing profile",
+        "fits tanky/safe preference",
+        "supports content 'maps'",
+        "supports content 'bossing'",
+        "fits endgame stage",
+        "strong safe-build fit",
+        "extra tiebreak boost for safe uber-ready profile"
+      ],
+      "breakdown": {
+        "goal": [
+          {
+            "points": 5,
+            "reason": "good bossing profile"
+          }
+        ],
+        "tankiness": [
+          {
+            "points": 5,
+            "reason": "fits tanky/safe preference"
+          }
+        ],
+        "content": [
+          {
+            "points": 2,
+            "reason": "supports content 'maps'"
+          },
+          {
+            "points": 2,
+            "reason": "supports content 'bossing'"
+          }
+        ],
+        "stage": [
+          {
+            "points": 2,
+            "reason": "fits endgame stage"
+          }
+        ],
+        "special": [
+          {
+            "points": 4,
+            "reason": "strong safe-build fit"
+          },
+          {
+            "points": 1,
+            "reason": "extra tiebreak boost for safe uber-ready profile"
+          }
+        ]
+      }
+    },
+    {
+      "archetype": "spectre_summoner_necromancer",
+      "stage": "endgame",
+      "base": "Spectre_Summoner_Necromancer.json",
+      "base_file": "Spectre_Summoner_Necromancer.json",
+      "recommended_archetype": "spectre_summoner_necromancer",
+      "recommended_stage": "endgame",
+      "score": 20,
+      "reasons": [
+        "supports bossing content",
+        "fits tanky/safe preference",
+        "supports content 'maps'",
+        "supports content 'bossing'",
+        "fits endgame stage",
+        "strong safe-build fit",
+        "tiebreak boost for safer automated bossing"
+      ],
+      "breakdown": {
+        "goal": [
+          {
+            "points": 3,
+            "reason": "supports bossing content"
+          }
+        ],
+        "tankiness": [
+          {
+            "points": 5,
+            "reason": "fits tanky/safe preference"
+          }
+        ],
+        "content": [
+          {
+            "points": 2,
+            "reason": "supports content 'maps'"
+          },
+          {
+            "points": 2,
+            "reason": "supports content 'bossing'"
+          }
+        ],
+        "stage": [
+          {
+            "points": 2,
+            "reason": "fits endgame stage"
+          }
+        ],
+        "special": [
+          {
+            "points": 4,
+            "reason": "strong safe-build fit"
+          },
+          {
+            "points": 2,
+            "reason": "tiebreak boost for safer automated bossing"
+          }
+        ]
+      }
+    },
+    {
+      "archetype": "ice_crash_shadow",
+      "stage": "endgame",
+      "base": "build.json",
+      "base_file": "build.json",
+      "recommended_archetype": "ice_crash_shadow",
+      "recommended_stage": "endgame",
+      "score": 13,
+      "reasons": [
+        "fits tanky/safe preference",
+        "supports content 'maps'",
+        "fits endgame stage",
+        "strong safe-build fit"
+      ],
+      "breakdown": {
+        "tankiness": [
+          {
+            "points": 5,
+            "reason": "fits tanky/safe preference"
+          }
+        ],
+        "content": [
+          {
+            "points": 2,
+            "reason": "supports content 'maps'"
+          }
+        ],
+        "stage": [
+          {
+            "points": 2,
+            "reason": "fits endgame stage"
+          }
+        ],
+        "special": [
+          {
+            "points": 4,
+            "reason": "strong safe-build fit"
+          }
+        ]
+      }
+    },
+    {
+      "archetype": "lightning_arrow_deadeye",
+      "stage": "endgame",
+      "base": "lightning_arrow_deadeye_base.json",
+      "base_file": "lightning_arrow_deadeye_base.json",
+      "recommended_archetype": "lightning_arrow_deadeye",
+      "recommended_stage": "endgame",
+      "score": 4,
+      "reasons": [
+        "supports content 'maps'",
+        "fits endgame stage"
+      ],
+      "breakdown": {
+        "content": [
+          {
+            "points": 2,
+            "reason": "supports content 'maps'"
+          }
+        ],
+        "stage": [
+          {
+            "points": 2,
+            "reason": "fits endgame stage"
+          }
+        ]
+      }
+    }
+  ],
+  "shortlist": [
+    {
+      "archetype": "kinetic_fusillade_totem",
+      "stage": "endgame",
+      "base": "Kinetic_Fusillade_Totem.json",
+      "base_file": "Kinetic_Fusillade_Totem.json",
+      "recommended_archetype": "kinetic_fusillade_totem",
+      "recommended_stage": "endgame",
+      "score": 23,
+      "reasons": [
+        "good bossing profile",
+        "fits tanky/safe preference",
+        "supports content 'maps'",
+        "supports content 'bossing'",
+        "fits endgame stage",
+        "strong safe-build fit",
+        "tiebreak boost for safer ranged bossing",
+        "extra tiebreak boost for safe uber-ready profile"
+      ],
+      "breakdown": {
+        "goal": [
+          {
+            "points": 5,
+            "reason": "good bossing profile"
+          }
+        ],
+        "tankiness": [
+          {
+            "points": 5,
+            "reason": "fits tanky/safe preference"
+          }
+        ],
+        "content": [
+          {
+            "points": 2,
+            "reason": "supports content 'maps'"
+          },
+          {
+            "points": 2,
+            "reason": "supports content 'bossing'"
+          }
+        ],
+        "stage": [
+          {
+            "points": 2,
+            "reason": "fits endgame stage"
+          }
+        ],
+        "special": [
+          {
+            "points": 4,
+            "reason": "strong safe-build fit"
+          },
+          {
+            "points": 2,
+            "reason": "tiebreak boost for safer ranged bossing"
+          },
+          {
+            "points": 1,
+            "reason": "extra tiebreak boost for safe uber-ready profile"
+          }
+        ]
+      }
+    },
+    {
+      "archetype": "boneshatter_slayer",
+      "stage": "endgame",
+      "base": "boneshatter_slayer_base.json",
+      "base_file": "boneshatter_slayer_base.json",
+      "recommended_archetype": "boneshatter_slayer",
+      "recommended_stage": "endgame",
+      "score": 21,
+      "reasons": [
+        "good bossing profile",
+        "fits tanky/safe preference",
+        "supports content 'maps'",
+        "supports content 'bossing'",
+        "fits endgame stage",
+        "strong safe-build fit",
+        "extra tiebreak boost for safe uber-ready profile"
+      ],
+      "breakdown": {
+        "goal": [
+          {
+            "points": 5,
+            "reason": "good bossing profile"
+          }
+        ],
+        "tankiness": [
+          {
+            "points": 5,
+            "reason": "fits tanky/safe preference"
+          }
+        ],
+        "content": [
+          {
+            "points": 2,
+            "reason": "supports content 'maps'"
+          },
+          {
+            "points": 2,
+            "reason": "supports content 'bossing'"
+          }
+        ],
+        "stage": [
+          {
+            "points": 2,
+            "reason": "fits endgame stage"
+          }
+        ],
+        "special": [
+          {
+            "points": 4,
+            "reason": "strong safe-build fit"
+          },
+          {
+            "points": 1,
+            "reason": "extra tiebreak boost for safe uber-ready profile"
+          }
+        ]
+      }
+    },
+    {
+      "archetype": "spectre_summoner_necromancer",
+      "stage": "endgame",
+      "base": "Spectre_Summoner_Necromancer.json",
+      "base_file": "Spectre_Summoner_Necromancer.json",
+      "recommended_archetype": "spectre_summoner_necromancer",
+      "recommended_stage": "endgame",
+      "score": 20,
+      "reasons": [
+        "supports bossing content",
+        "fits tanky/safe preference",
+        "supports content 'maps'",
+        "supports content 'bossing'",
+        "fits endgame stage",
+        "strong safe-build fit",
+        "tiebreak boost for safer automated bossing"
+      ],
+      "breakdown": {
+        "goal": [
+          {
+            "points": 3,
+            "reason": "supports bossing content"
+          }
+        ],
+        "tankiness": [
+          {
+            "points": 5,
+            "reason": "fits tanky/safe preference"
+          }
+        ],
+        "content": [
+          {
+            "points": 2,
+            "reason": "supports content 'maps'"
+          },
+          {
+            "points": 2,
+            "reason": "supports content 'bossing'"
+          }
+        ],
+        "stage": [
+          {
+            "points": 2,
+            "reason": "fits endgame stage"
+          }
+        ],
+        "special": [
+          {
+            "points": 4,
+            "reason": "strong safe-build fit"
+          },
+          {
+            "points": 2,
+            "reason": "tiebreak boost for safer automated bossing"
+          }
+        ]
+      }
+    },
+    {
+      "archetype": "ice_crash_shadow",
+      "stage": "endgame",
+      "base": "build.json",
+      "base_file": "build.json",
+      "recommended_archetype": "ice_crash_shadow",
+      "recommended_stage": "endgame",
+      "score": 13,
+      "reasons": [
+        "fits tanky/safe preference",
+        "supports content 'maps'",
+        "fits endgame stage",
+        "strong safe-build fit"
+      ],
+      "breakdown": {
+        "tankiness": [
+          {
+            "points": 5,
+            "reason": "fits tanky/safe preference"
+          }
+        ],
+        "content": [
+          {
+            "points": 2,
+            "reason": "supports content 'maps'"
+          }
+        ],
+        "stage": [
+          {
+            "points": 2,
+            "reason": "fits endgame stage"
+          }
+        ],
+        "special": [
+          {
+            "points": 4,
+            "reason": "strong safe-build fit"
+          }
+        ]
+      }
+    },
+    {
+      "archetype": "lightning_arrow_deadeye",
+      "stage": "endgame",
+      "base": "lightning_arrow_deadeye_base.json",
+      "base_file": "lightning_arrow_deadeye_base.json",
+      "recommended_archetype": "lightning_arrow_deadeye",
+      "recommended_stage": "endgame",
+      "score": 4,
+      "reasons": [
+        "supports content 'maps'",
+        "fits endgame stage"
+      ],
+      "breakdown": {
+        "content": [
+          {
+            "points": 2,
+            "reason": "supports content 'maps'"
+          }
+        ],
+        "stage": [
+          {
+            "points": 2,
+            "reason": "fits endgame stage"
+          }
+        ]
+      }
+    }
+  ],
+  "all_ranked_results": [
+    {
+      "archetype": "kinetic_fusillade_totem",
+      "stage": "endgame",
+      "base": "Kinetic_Fusillade_Totem.json",
+      "base_file": "Kinetic_Fusillade_Totem.json",
+      "recommended_archetype": "kinetic_fusillade_totem",
+      "recommended_stage": "endgame",
+      "score": 23,
+      "reasons": [
+        "good bossing profile",
+        "fits tanky/safe preference",
+        "supports content 'maps'",
+        "supports content 'bossing'",
+        "fits endgame stage",
+        "strong safe-build fit",
+        "tiebreak boost for safer ranged bossing",
+        "extra tiebreak boost for safe uber-ready profile"
+      ],
+      "breakdown": {
+        "goal": [
+          {
+            "points": 5,
+            "reason": "good bossing profile"
+          }
+        ],
+        "tankiness": [
+          {
+            "points": 5,
+            "reason": "fits tanky/safe preference"
+          }
+        ],
+        "content": [
+          {
+            "points": 2,
+            "reason": "supports content 'maps'"
+          },
+          {
+            "points": 2,
+            "reason": "supports content 'bossing'"
+          }
+        ],
+        "stage": [
+          {
+            "points": 2,
+            "reason": "fits endgame stage"
+          }
+        ],
+        "special": [
+          {
+            "points": 4,
+            "reason": "strong safe-build fit"
+          },
+          {
+            "points": 2,
+            "reason": "tiebreak boost for safer ranged bossing"
+          },
+          {
+            "points": 1,
+            "reason": "extra tiebreak boost for safe uber-ready profile"
+          }
+        ]
+      }
+    },
+    {
+      "archetype": "boneshatter_slayer",
+      "stage": "endgame",
+      "base": "boneshatter_slayer_base.json",
+      "base_file": "boneshatter_slayer_base.json",
+      "recommended_archetype": "boneshatter_slayer",
+      "recommended_stage": "endgame",
+      "score": 21,
+      "reasons": [
+        "good bossing profile",
+        "fits tanky/safe preference",
+        "supports content 'maps'",
+        "supports content 'bossing'",
+        "fits endgame stage",
+        "strong safe-build fit",
+        "extra tiebreak boost for safe uber-ready profile"
+      ],
+      "breakdown": {
+        "goal": [
+          {
+            "points": 5,
+            "reason": "good bossing profile"
+          }
+        ],
+        "tankiness": [
+          {
+            "points": 5,
+            "reason": "fits tanky/safe preference"
+          }
+        ],
+        "content": [
+          {
+            "points": 2,
+            "reason": "supports content 'maps'"
+          },
+          {
+            "points": 2,
+            "reason": "supports content 'bossing'"
+          }
+        ],
+        "stage": [
+          {
+            "points": 2,
+            "reason": "fits endgame stage"
+          }
+        ],
+        "special": [
+          {
+            "points": 4,
+            "reason": "strong safe-build fit"
+          },
+          {
+            "points": 1,
+            "reason": "extra tiebreak boost for safe uber-ready profile"
+          }
+        ]
+      }
+    },
+    {
+      "archetype": "spectre_summoner_necromancer",
+      "stage": "endgame",
+      "base": "Spectre_Summoner_Necromancer.json",
+      "base_file": "Spectre_Summoner_Necromancer.json",
+      "recommended_archetype": "spectre_summoner_necromancer",
+      "recommended_stage": "endgame",
+      "score": 20,
+      "reasons": [
+        "supports bossing content",
+        "fits tanky/safe preference",
+        "supports content 'maps'",
+        "supports content 'bossing'",
+        "fits endgame stage",
+        "strong safe-build fit",
+        "tiebreak boost for safer automated bossing"
+      ],
+      "breakdown": {
+        "goal": [
+          {
+            "points": 3,
+            "reason": "supports bossing content"
+          }
+        ],
+        "tankiness": [
+          {
+            "points": 5,
+            "reason": "fits tanky/safe preference"
+          }
+        ],
+        "content": [
+          {
+            "points": 2,
+            "reason": "supports content 'maps'"
+          },
+          {
+            "points": 2,
+            "reason": "supports content 'bossing'"
+          }
+        ],
+        "stage": [
+          {
+            "points": 2,
+            "reason": "fits endgame stage"
+          }
+        ],
+        "special": [
+          {
+            "points": 4,
+            "reason": "strong safe-build fit"
+          },
+          {
+            "points": 2,
+            "reason": "tiebreak boost for safer automated bossing"
+          }
+        ]
+      }
+    },
+    {
+      "archetype": "kinetic_fusillade_totem",
+      "stage": "early_maps",
+      "base": "Kinetic_Fusillade_Totem.json",
+      "base_file": "Kinetic_Fusillade_Totem.json",
+      "recommended_archetype": "kinetic_fusillade_totem",
+      "recommended_stage": "early_maps",
+      "score": 20,
+      "reasons": [
+        "good bossing profile",
+        "fits tanky/safe preference",
+        "supports content 'maps'",
+        "supports content 'bossing'",
+        "strong safe-build fit",
+        "tiebreak boost for safer ranged bossing",
+        "extra tiebreak boost for safe uber-ready profile"
+      ],
+      "breakdown": {
+        "goal": [
+          {
+            "points": 5,
+            "reason": "good bossing profile"
+          }
+        ],
+        "tankiness": [
+          {
+            "points": 5,
+            "reason": "fits tanky/safe preference"
+          }
+        ],
+        "content": [
+          {
+            "points": 2,
+            "reason": "supports content 'maps'"
+          },
+          {
+            "points": 2,
+            "reason": "supports content 'bossing'"
+          }
+        ],
+        "penalties": [
+          {
+            "points": -1,
+            "reason": "near miss on requested stage 'endgame'"
+          }
+        ],
+        "special": [
+          {
+            "points": 4,
+            "reason": "strong safe-build fit"
+          },
+          {
+            "points": 2,
+            "reason": "tiebreak boost for safer ranged bossing"
+          },
+          {
+            "points": 1,
+            "reason": "extra tiebreak boost for safe uber-ready profile"
+          }
+        ]
+      }
+    },
+    {
+      "archetype": "boneshatter_slayer",
+      "stage": "early_maps",
+      "base": "boneshatter_slayer_base.json",
+      "base_file": "boneshatter_slayer_base.json",
+      "recommended_archetype": "boneshatter_slayer",
+      "recommended_stage": "early_maps",
+      "score": 18,
+      "reasons": [
+        "good bossing profile",
+        "fits tanky/safe preference",
+        "supports content 'maps'",
+        "supports content 'bossing'",
+        "strong safe-build fit",
+        "extra tiebreak boost for safe uber-ready profile"
+      ],
+      "breakdown": {
+        "goal": [
+          {
+            "points": 5,
+            "reason": "good bossing profile"
+          }
+        ],
+        "tankiness": [
+          {
+            "points": 5,
+            "reason": "fits tanky/safe preference"
+          }
+        ],
+        "content": [
+          {
+            "points": 2,
+            "reason": "supports content 'maps'"
+          },
+          {
+            "points": 2,
+            "reason": "supports content 'bossing'"
+          }
+        ],
+        "penalties": [
+          {
+            "points": -1,
+            "reason": "near miss on requested stage 'endgame'"
+          }
+        ],
+        "special": [
+          {
+            "points": 4,
+            "reason": "strong safe-build fit"
+          },
+          {
+            "points": 1,
+            "reason": "extra tiebreak boost for safe uber-ready profile"
+          }
+        ]
+      }
+    },
+    {
+      "archetype": "kinetic_fusillade_totem",
+      "stage": "leveling",
+      "base": "Kinetic_Fusillade_Totem.json",
+      "base_file": "Kinetic_Fusillade_Totem.json",
+      "recommended_archetype": "kinetic_fusillade_totem",
+      "recommended_stage": "leveling",
+      "score": 18,
+      "reasons": [
+        "good bossing profile",
+        "fits tanky/safe preference",
+        "supports content 'maps'",
+        "supports content 'bossing'",
+        "strong safe-build fit",
+        "tiebreak boost for safer ranged bossing",
+        "extra tiebreak boost for safe uber-ready profile"
+      ],
+      "breakdown": {
+        "goal": [
+          {
+            "points": 5,
+            "reason": "good bossing profile"
+          }
+        ],
+        "tankiness": [
+          {
+            "points": 5,
+            "reason": "fits tanky/safe preference"
+          }
+        ],
+        "content": [
+          {
+            "points": 2,
+            "reason": "supports content 'maps'"
+          },
+          {
+            "points": 2,
+            "reason": "supports content 'bossing'"
+          }
+        ],
+        "penalties": [
+          {
+            "points": -3,
+            "reason": "weaker fit for requested stage 'endgame'"
+          }
+        ],
+        "special": [
+          {
+            "points": 4,
+            "reason": "strong safe-build fit"
+          },
+          {
+            "points": 2,
+            "reason": "tiebreak boost for safer ranged bossing"
+          },
+          {
+            "points": 1,
+            "reason": "extra tiebreak boost for safe uber-ready profile"
+          }
+        ]
+      }
+    },
+    {
+      "archetype": "spectre_summoner_necromancer",
+      "stage": "early_maps",
+      "base": "Spectre_Summoner_Necromancer.json",
+      "base_file": "Spectre_Summoner_Necromancer.json",
+      "recommended_archetype": "spectre_summoner_necromancer",
+      "recommended_stage": "early_maps",
+      "score": 17,
+      "reasons": [
+        "supports bossing content",
+        "fits tanky/safe preference",
+        "supports content 'maps'",
+        "supports content 'bossing'",
+        "strong safe-build fit",
+        "tiebreak boost for safer automated bossing"
+      ],
+      "breakdown": {
+        "goal": [
+          {
+            "points": 3,
+            "reason": "supports bossing content"
+          }
+        ],
+        "tankiness": [
+          {
+            "points": 5,
+            "reason": "fits tanky/safe preference"
+          }
+        ],
+        "content": [
+          {
+            "points": 2,
+            "reason": "supports content 'maps'"
+          },
+          {
+            "points": 2,
+            "reason": "supports content 'bossing'"
+          }
+        ],
+        "penalties": [
+          {
+            "points": -1,
+            "reason": "near miss on requested stage 'endgame'"
+          }
+        ],
+        "special": [
+          {
+            "points": 4,
+            "reason": "strong safe-build fit"
+          },
+          {
+            "points": 2,
+            "reason": "tiebreak boost for safer automated bossing"
+          }
+        ]
+      }
+    },
+    {
+      "archetype": "boneshatter_slayer",
+      "stage": "leveling",
+      "base": "boneshatter_slayer_base.json",
+      "base_file": "boneshatter_slayer_base.json",
+      "recommended_archetype": "boneshatter_slayer",
+      "recommended_stage": "leveling",
+      "score": 16,
+      "reasons": [
+        "good bossing profile",
+        "fits tanky/safe preference",
+        "supports content 'maps'",
+        "supports content 'bossing'",
+        "strong safe-build fit",
+        "extra tiebreak boost for safe uber-ready profile"
+      ],
+      "breakdown": {
+        "goal": [
+          {
+            "points": 5,
+            "reason": "good bossing profile"
+          }
+        ],
+        "tankiness": [
+          {
+            "points": 5,
+            "reason": "fits tanky/safe preference"
+          }
+        ],
+        "content": [
+          {
+            "points": 2,
+            "reason": "supports content 'maps'"
+          },
+          {
+            "points": 2,
+            "reason": "supports content 'bossing'"
+          }
+        ],
+        "penalties": [
+          {
+            "points": -3,
+            "reason": "weaker fit for requested stage 'endgame'"
+          }
+        ],
+        "special": [
+          {
+            "points": 4,
+            "reason": "strong safe-build fit"
+          },
+          {
+            "points": 1,
+            "reason": "extra tiebreak boost for safe uber-ready profile"
+          }
+        ]
+      }
+    },
+    {
+      "archetype": "spectre_summoner_necromancer",
+      "stage": "leveling",
+      "base": "Spectre_Summoner_Necromancer.json",
+      "base_file": "Spectre_Summoner_Necromancer.json",
+      "recommended_archetype": "spectre_summoner_necromancer",
+      "recommended_stage": "leveling",
+      "score": 15,
+      "reasons": [
+        "supports bossing content",
+        "fits tanky/safe preference",
+        "supports content 'maps'",
+        "supports content 'bossing'",
+        "strong safe-build fit",
+        "tiebreak boost for safer automated bossing"
+      ],
+      "breakdown": {
+        "goal": [
+          {
+            "points": 3,
+            "reason": "supports bossing content"
+          }
+        ],
+        "tankiness": [
+          {
+            "points": 5,
+            "reason": "fits tanky/safe preference"
+          }
+        ],
+        "content": [
+          {
+            "points": 2,
+            "reason": "supports content 'maps'"
+          },
+          {
+            "points": 2,
+            "reason": "supports content 'bossing'"
+          }
+        ],
+        "penalties": [
+          {
+            "points": -3,
+            "reason": "weaker fit for requested stage 'endgame'"
+          }
+        ],
+        "special": [
+          {
+            "points": 4,
+            "reason": "strong safe-build fit"
+          },
+          {
+            "points": 2,
+            "reason": "tiebreak boost for safer automated bossing"
+          }
+        ]
+      }
+    },
+    {
+      "archetype": "ice_crash_shadow",
+      "stage": "endgame",
+      "base": "build.json",
+      "base_file": "build.json",
+      "recommended_archetype": "ice_crash_shadow",
+      "recommended_stage": "endgame",
+      "score": 13,
+      "reasons": [
+        "fits tanky/safe preference",
+        "supports content 'maps'",
+        "fits endgame stage",
+        "strong safe-build fit"
+      ],
+      "breakdown": {
+        "tankiness": [
+          {
+            "points": 5,
+            "reason": "fits tanky/safe preference"
+          }
+        ],
+        "content": [
+          {
+            "points": 2,
+            "reason": "supports content 'maps'"
+          }
+        ],
+        "stage": [
+          {
+            "points": 2,
+            "reason": "fits endgame stage"
+          }
+        ],
+        "special": [
+          {
+            "points": 4,
+            "reason": "strong safe-build fit"
+          }
+        ]
+      }
+    },
+    {
+      "archetype": "ice_crash_shadow",
+      "stage": "early_maps",
+      "base": "build.json",
+      "base_file": "build.json",
+      "recommended_archetype": "ice_crash_shadow",
+      "recommended_stage": "early_maps",
+      "score": 10,
+      "reasons": [
+        "fits tanky/safe preference",
+        "supports content 'maps'",
+        "strong safe-build fit"
+      ],
+      "breakdown": {
+        "tankiness": [
+          {
+            "points": 5,
+            "reason": "fits tanky/safe preference"
+          }
+        ],
+        "content": [
+          {
+            "points": 2,
+            "reason": "supports content 'maps'"
+          }
+        ],
+        "penalties": [
+          {
+            "points": -1,
+            "reason": "near miss on requested stage 'endgame'"
+          }
+        ],
+        "special": [
+          {
+            "points": 4,
+            "reason": "strong safe-build fit"
+          }
+        ]
+      }
+    },
+    {
+      "archetype": "ice_crash_shadow",
+      "stage": "leveling",
+      "base": "build.json",
+      "base_file": "build.json",
+      "recommended_archetype": "ice_crash_shadow",
+      "recommended_stage": "leveling",
+      "score": 8,
+      "reasons": [
+        "fits tanky/safe preference",
+        "supports content 'maps'",
+        "strong safe-build fit"
+      ],
+      "breakdown": {
+        "tankiness": [
+          {
+            "points": 5,
+            "reason": "fits tanky/safe preference"
+          }
+        ],
+        "content": [
+          {
+            "points": 2,
+            "reason": "supports content 'maps'"
+          }
+        ],
+        "penalties": [
+          {
+            "points": -3,
+            "reason": "weaker fit for requested stage 'endgame'"
+          }
+        ],
+        "special": [
+          {
+            "points": 4,
+            "reason": "strong safe-build fit"
+          }
+        ]
+      }
+    },
+    {
+      "archetype": "lightning_arrow_deadeye",
+      "stage": "endgame",
+      "base": "lightning_arrow_deadeye_base.json",
+      "base_file": "lightning_arrow_deadeye_base.json",
+      "recommended_archetype": "lightning_arrow_deadeye",
+      "recommended_stage": "endgame",
+      "score": 4,
+      "reasons": [
+        "supports content 'maps'",
+        "fits endgame stage"
+      ],
+      "breakdown": {
+        "content": [
+          {
+            "points": 2,
+            "reason": "supports content 'maps'"
+          }
+        ],
+        "stage": [
+          {
+            "points": 2,
+            "reason": "fits endgame stage"
+          }
+        ]
+      }
+    },
+    {
+      "archetype": "elementalist_kinetic_blast",
+      "stage": "endgame",
+      "base": "Elementalist_Kinetic_Blast_base.json",
+      "base_file": "Elementalist_Kinetic_Blast_base.json",
+      "recommended_archetype": "elementalist_kinetic_blast",
+      "recommended_stage": "endgame",
+      "score": 4,
+      "reasons": [
+        "supports content 'maps'",
+        "fits endgame stage"
+      ],
+      "breakdown": {
+        "content": [
+          {
+            "points": 2,
+            "reason": "supports content 'maps'"
+          }
+        ],
+        "stage": [
+          {
+            "points": 2,
+            "reason": "fits endgame stage"
+          }
+        ]
+      }
+    },
+    {
+      "archetype": "lightning_arrow_deadeye",
+      "stage": "early_maps",
+      "base": "lightning_arrow_deadeye_base.json",
+      "base_file": "lightning_arrow_deadeye_base.json",
+      "recommended_archetype": "lightning_arrow_deadeye",
+      "recommended_stage": "early_maps",
+      "score": 1,
+      "reasons": [
+        "supports content 'maps'"
+      ],
+      "breakdown": {
+        "content": [
+          {
+            "points": 2,
+            "reason": "supports content 'maps'"
+          }
+        ],
+        "penalties": [
+          {
+            "points": -1,
+            "reason": "near miss on requested stage 'endgame'"
+          }
+        ]
+      }
+    },
+    {
+      "archetype": "elementalist_kinetic_blast",
+      "stage": "early_maps",
+      "base": "Elementalist_Kinetic_Blast_base.json",
+      "base_file": "Elementalist_Kinetic_Blast_base.json",
+      "recommended_archetype": "elementalist_kinetic_blast",
+      "recommended_stage": "early_maps",
+      "score": 1,
+      "reasons": [
+        "supports content 'maps'"
+      ],
+      "breakdown": {
+        "content": [
+          {
+            "points": 2,
+            "reason": "supports content 'maps'"
+          }
+        ],
+        "penalties": [
+          {
+            "points": -1,
+            "reason": "near miss on requested stage 'endgame'"
+          }
+        ]
+      }
+    },
+    {
+      "archetype": "lightning_arrow_deadeye",
+      "stage": "leveling",
+      "base": "lightning_arrow_deadeye_base.json",
+      "base_file": "lightning_arrow_deadeye_base.json",
+      "recommended_archetype": "lightning_arrow_deadeye",
+      "recommended_stage": "leveling",
+      "score": -1,
+      "reasons": [
+        "supports content 'maps'"
+      ],
+      "breakdown": {
+        "content": [
+          {
+            "points": 2,
+            "reason": "supports content 'maps'"
+          }
+        ],
+        "penalties": [
+          {
+            "points": -3,
+            "reason": "weaker fit for requested stage 'endgame'"
+          }
+        ]
+      }
+    },
+    {
+      "archetype": "elementalist_kinetic_blast",
+      "stage": "leveling",
+      "base": "Elementalist_Kinetic_Blast_base.json",
+      "base_file": "Elementalist_Kinetic_Blast_base.json",
+      "recommended_archetype": "elementalist_kinetic_blast",
+      "recommended_stage": "leveling",
+      "score": -1,
+      "reasons": [
+        "supports content 'maps'"
+      ],
+      "breakdown": {
+        "content": [
+          {
+            "points": 2,
+            "reason": "supports content 'maps'"
+          }
+        ],
+        "penalties": [
+          {
+            "points": -3,
+            "reason": "weaker fit for requested stage 'endgame'"
+          }
+        ]
+      }
+    }
+  ]
+}

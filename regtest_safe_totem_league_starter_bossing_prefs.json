@@ -1,0 +1,14 @@
+{
+  "source_prompt": "I want a safe totem league starter for bossing",
+  "aliases": [
+    "totem"
+  ],
+  "playstyle": "totem",
+  "goal": "bossing",
+  "tankiness": "high",
+  "league_starter": true,
+  "stage": "endgame",
+  "content_tags": [
+    "bossing"
+  ]
+}

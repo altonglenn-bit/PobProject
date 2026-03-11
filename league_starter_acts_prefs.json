@@ -1,0 +1,9 @@
+{
+  "source_prompt": "I want a league starter for acts",
+  "goal": "leveling",
+  "league_starter": true,
+  "stage": "leveling",
+  "content_tags": [
+    "campaign"
+  ]
+}

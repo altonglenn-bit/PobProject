@@ -1,0 +1,5 @@
+python generate_build.py --prompt "I want a spectre necromancer build for bossing"
+python generate_build.py --prompt "I want a ballista totem league starter"
+python generate_build.py --prompt "I want a boneshatter slayer league starter"
+python generate_build.py --prompt "I want a lightning arrow deadeye mapper"
+python generate_build.py --prompt "I want a kinetic blast wander for maps"

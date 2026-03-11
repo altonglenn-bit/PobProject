@@ -1,0 +1,87 @@
+{
+  "recommended_archetype": "spectre_summoner_necromancer",
+  "recommended_stage": "endgame",
+  "base_file": "Spectre_Summoner_Necromancer.json",
+  "score": 34,
+  "reasons": [
+    "matches playstyle 'minion'",
+    "fits low apm preference",
+    "fits low complexity preference",
+    "supports content 'bossing'",
+    "supports content 'maps'",
+    "boosted by alias match: summoner",
+    "fits endgame stage",
+    "strong beginner-friendly fit",
+    "strong low-apm fit"
+  ],
+  "preferences": {
+    "source_prompt": "I want a beginner friendly summoner for maps and bosses",
+    "aliases": [
+      "summoner"
+    ],
+    "playstyle": "minion",
+    "goal": "bossing",
+    "stage": "endgame",
+    "apm": "low",
+    "complexity": "low",
+    "content_tags": [
+      "maps",
+      "bossing"
+    ]
+  },
+  "generator_command": "python generate_build.py --archetype spectre_summoner_necromancer --stage endgame",
+  "shortlist": [
+    {
+      "archetype": "spectre_summoner_necromancer",
+      "stage": "endgame",
+      "base_file": "Spectre_Summoner_Necromancer.json",
+      "score": 34,
+      "reasons": [
+        "matches playstyle 'minion'",
+        "fits low apm preference",
+        "fits low complexity preference",
+        "supports content 'bossing'",
+        "supports content 'maps'",
+        "boosted by alias match: summoner",
+        "fits endgame stage",
+        "strong beginner-friendly fit",
+        "strong low-apm fit"
+      ],
+      "generator_command": "python generate_build.py --archetype spectre_summoner_necromancer --stage endgame"
+    },
+    {
+      "archetype": "boneshatter_slayer",
+      "stage": "endgame",
+      "base_file": "boneshatter_slayer_base.json",
+      "score": 21,
+      "reasons": [
+        "good bossing profile",
+        "fits low apm preference",
+        "fits low complexity preference",
+        "supports content 'bossing'",
+        "supports content 'maps'",
+        "fits endgame stage",
+        "strong beginner-friendly fit",
+        "good low-apm fit",
+        "penalized for not matching requested playstyle 'minion'"
+      ],
+      "generator_command": "python generate_build.py --archetype boneshatter_slayer --stage endgame"
+    },
+    {
+      "archetype": "kinetic_fusillade_totem",
+      "stage": "endgame",
+      "base_file": "Kinetic_Fusillade_Totem.json",
+      "score": 15,
+      "reasons": [
+        "good bossing profile",
+        "fits low apm preference",
+        "supports content 'bossing'",
+        "supports content 'maps'",
+        "fits endgame stage",
+        "good low-apm fit",
+        "penalized for not matching requested playstyle 'minion'"
+      ],
+      "generator_command": "python generate_build.py --archetype kinetic_fusillade_totem --stage endgame"
+    }
+  ]
+}

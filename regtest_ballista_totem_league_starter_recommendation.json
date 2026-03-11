@@ -1,0 +1,79 @@
+{
+  "recommended_archetype": "kinetic_fusillade_totem",
+  "recommended_stage": "leveling",
+  "base": "Kinetic_Fusillade_Totem.json",
+  "score": 17,
+  "reasons": [
+    "matches playstyle 'totem'",
+    "good league starter",
+    "boosted by alias match: ballista, totem",
+    "fits leveling stage"
+  ],
+  "prefs": {
+    "source_prompt": "I want a ballista totem league starter",
+    "aliases": [
+      "ballista",
+      "totem"
+    ],
+    "playstyle": "totem",
+    "league_starter": true,
+    "stage": "leveling"
+  },
+  "command": "python generate_build.py --archetype kinetic_fusillade_totem --stage leveling",
+  "shortlist": [
+    {
+      "archetype": "kinetic_fusillade_totem",
+      "stage": "leveling",
+      "base": "Kinetic_Fusillade_Totem.json",
+      "score": 17,
+      "reasons": [
+        "matches playstyle 'totem'",
+        "good league starter",
+        "boosted by alias match: ballista, totem",
+        "fits leveling stage"
+      ]
+    },
+    {
+      "archetype": "kinetic_fusillade_totem",
+      "stage": "early_maps",
+      "base": "Kinetic_Fusillade_Totem.json",
+      "score": 15,
+      "reasons": [
+        "matches playstyle 'totem'",
+        "good league starter",
+        "boosted by alias match: ballista, totem"
+      ]
+    },
+    {
+      "archetype": "kinetic_fusillade_totem",
+      "stage": "endgame",
+      "base": "Kinetic_Fusillade_Totem.json",
+      "score": 14,
+      "reasons": [
+        "matches playstyle 'totem'",
+        "good league starter",
+        "boosted by alias match: ballista, totem"
+      ]
+    },
+    {
+      "archetype": "spectre_summoner_necromancer",
+      "stage": "leveling",
+      "base": "Spectre_Summoner_Necromancer.json",
+      "score": 0,
+      "reasons": [
+        "good league starter",
+        "fits leveling stage"
+      ]
+    },
+    {
+      "archetype": "lightning_arrow_deadeye",
+      "stage": "leveling",
+      "base": "lightning_arrow_deadeye_base.json",
+      "score": 0,
+      "reasons": [
+        "good league starter",
+        "fits leveling stage"
+      ]
+    }
+  ]
+}

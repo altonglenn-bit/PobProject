@@ -1,0 +1,80 @@
+{
+  "recommended_archetype": "boneshatter_slayer",
+  "recommended_stage": "leveling",
+  "base": "boneshatter_slayer_base.json",
+  "score": 17,
+  "reasons": [
+    "matches playstyle 'melee'",
+    "good league starter",
+    "boosted by alias match: boneshatter, slayer",
+    "fits leveling stage"
+  ],
+  "prefs": {
+    "source_prompt": "I want a boneshatter slayer league starter",
+    "aliases": [
+      "boneshatter",
+      "slayer"
+    ],
+    "playstyle": "melee",
+    "league_starter": true,
+    "stage": "leveling"
+  },
+  "command": "python generate_build.py --archetype boneshatter_slayer --stage leveling",
+  "shortlist": [
+    {
+      "archetype": "boneshatter_slayer",
+      "stage": "leveling",
+      "base": "boneshatter_slayer_base.json",
+      "score": 17,
+      "reasons": [
+        "matches playstyle 'melee'",
+        "good league starter",
+        "boosted by alias match: boneshatter, slayer",
+        "fits leveling stage"
+      ]
+    },
+    {
+      "archetype": "boneshatter_slayer",
+      "stage": "early_maps",
+      "base": "boneshatter_slayer_base.json",
+      "score": 15,
+      "reasons": [
+        "matches playstyle 'melee'",
+        "good league starter",
+        "boosted by alias match: boneshatter, slayer"
+      ]
+    },
+    {
+      "archetype": "boneshatter_slayer",
+      "stage": "endgame",
+      "base": "boneshatter_slayer_base.json",
+      "score": 14,
+      "reasons": [
+        "matches playstyle 'melee'",
+        "good league starter",
+        "boosted by alias match: boneshatter, slayer"
+      ]
+    },
+    {
+      "archetype": "ice_crash_shadow",
+      "stage": "leveling",
+      "base": "ice_crash_shadow_base.json",
+      "score": 13,
+      "reasons": [
+        "matches playstyle 'melee'",
+        "good league starter",
+        "fits leveling stage"
+      ]
+    },
+    {
+      "archetype": "ice_crash_shadow",
+      "stage": "early_maps",
+      "base": "ice_crash_shadow_base.json",
+      "score": 11,
+      "reasons": [
+        "matches playstyle 'melee'",
+        "good league starter"
+      ]
+    }
+  ]
+}

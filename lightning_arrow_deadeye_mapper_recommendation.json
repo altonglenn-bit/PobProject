@@ -1,0 +1,66 @@
+{
+  "recommended_archetype": "lightning_arrow_deadeye",
+  "recommended_stage": "early_maps",
+  "base_file": "lightning_arrow_deadeye_base.json",
+  "score": 26,
+  "reasons": [
+    "matches playstyle 'bow'",
+    "strong mapping profile",
+    "high clear-speed profile",
+    "supports content 'maps'",
+    "boosted by alias match: deadeye, lightning_arrow"
+  ],
+  "preferences": {
+    "source_prompt": "I want a lightning arrow deadeye mapper",
+    "aliases": [
+      "lightning_arrow",
+      "deadeye"
+    ],
+    "playstyle": "bow",
+    "goal": "fast mapper",
+    "content_tags": [
+      "maps"
+    ]
+  },
+  "generator_command": "python generate_build.py --archetype lightning_arrow_deadeye --stage early_maps",
+  "shortlist": [
+    {
+      "archetype": "lightning_arrow_deadeye",
+      "stage": "early_maps",
+      "base_file": "lightning_arrow_deadeye_base.json",
+      "score": 26,
+      "reasons": [
+        "matches playstyle 'bow'",
+        "strong mapping profile",
+        "high clear-speed profile",
+        "supports content 'maps'",
+        "boosted by alias match: deadeye, lightning_arrow"
+      ],
+      "generator_command": "python generate_build.py --archetype lightning_arrow_deadeye --stage early_maps"
+    },
+    {
+      "archetype": "elementalist_kinetic_blast",
+      "stage": "early_maps",
+      "base_file": "Elementalist_Kinetic_Blast_base.json",
+      "score": 6,
+      "reasons": [
+        "strong mapping profile",
+        "high clear-speed profile",
+        "supports content 'maps'",
+        "penalized for not matching requested playstyle 'bow'"
+      ],
+      "generator_command": "python generate_build.py --archetype elementalist_kinetic_blast --stage early_maps"
+    },
+    {
+      "archetype": "kinetic_fusillade_totem",
+      "stage": "early_maps",
+      "base_file": "Kinetic_Fusillade_Totem.json",
+      "score": -1,
+      "reasons": [
+        "supports content 'maps'",
+        "penalized for not matching requested playstyle 'bow'"
+      ],
+      "generator_command": "python generate_build.py --archetype kinetic_fusillade_totem --stage early_maps"
+    }
+  ]
+}

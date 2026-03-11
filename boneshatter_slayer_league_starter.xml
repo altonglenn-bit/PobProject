@@ -1,0 +1,443 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PathOfBuilding>
+  <Build level="28" className="Duelist" ascendClassName="Slayer" bandit="None" targetVersion="3_0" mainSocketGroup="1" viewMode="ITEMS" />
+  <Config activeConfigSet="1">
+    <ConfigSet id="1">
+      <Input name="useFrenzyCharges" boolean="false" />
+      <Input name="multiplierWarcryPower" boolean="false" />
+      <Input name="prideEffect" boolean="false" />
+      <Input name="useEnduranceCharges" boolean="false" />
+      <Input name="buffFortification" boolean="false" />
+      <Input name="conditionStationary" boolean="false" />
+      <Input name="conditionKilledRecently" boolean="false" />
+      <Input name="bloodSandStance" boolean="false" />
+      <Input name="conditionLeeching" boolean="false" />
+      <Input name="traumaStacks" boolean="false" />
+      <Input name="multiplierWarcryUsedRecently" boolean="false" />
+      <Input name="conditionEnemyFullLife" boolean="false" />
+      <Input name="buffLifetap" boolean="false" />
+      <Input name="ruthlessSupportMode" boolean="false" />
+      <Input name="conditionEnemyMoving" boolean="false" />
+      <Input name="conditionEnemyCrushed" boolean="false" />
+      <Input name="conditionUsedWarcryRecently" boolean="false" />
+      <Input name="conditionEnemyIntimidated" boolean="false" />
+      <Input name="pantheonMinorGod" boolean="false" />
+      <Input name="pantheonMajorGod" boolean="false" />
+      <Input name="enemyLevel" number="28" />
+      <Placeholder name="enemySpeed" string="0" />
+      <Placeholder name="enemyChaosResist" string="0" />
+      <Placeholder name="enemyLightningDamage" string="0" />
+      <Placeholder name="enemyCritChance" string="0" />
+      <Placeholder name="enemyFireResist" string="0" />
+      <Placeholder name="enemyColdDamage" string="0" />
+      <Placeholder name="enemyFireDamage" string="0" />
+      <Placeholder name="enemyLevel" string="0" />
+      <Placeholder name="multiplierWitheredStackCountSelf" string="0" />
+      <Placeholder name="enemyColdResist" string="0" />
+      <Placeholder name="enemyLightningPen" string="0" />
+      <Placeholder name="enemyLightningResist" string="0" />
+      <Placeholder name="enemyChaosDamage" string="0" />
+      <Placeholder name="sigilOfPowerStages" string="0" />
+      <Placeholder name="enemyFirePen" string="0" />
+      <Placeholder name="enemyCritDamage" string="0" />
+      <Placeholder name="enemyColdPen" string="0" />
+      <Placeholder name="ScorchStacks" string="0" />
+      <Placeholder name="enemyDamageRollRange" string="0" />
+      <Placeholder name="enemyArmour" string="0" />
+      <Placeholder name="enemyPhysicalDamage" string="0" />
+      <Placeholder name="enemyEvasion" string="0" />
+      <Placeholder name="ShockStacks" string="0" />
+    </ConfigSet>
+  </Config>
+  <Tree activeSpec="1">
+    <Spec id="1" title="Boneshatter Slayer Leveling" classId="4" ascendClassId="1" treeVersion="3_26" nodes="43601,42911,64587,65728,6289,63282,50340,25682,1325,65744,29797,8533,24914,34400,35118,33287,4378,24383,18009,24544,35859,44624,24224,20551,28498,50845,65753,18302,65730,18901,59928,29547,46519,65395,28475,58449,10143,23984,65762,61666,65770,9695,40867,42009,65747,27422,66771,24083,5197,49178,1909,7162,65732,66756,57953,50986,49318,27119,39678,36047,12407,14056,66752,48438,5233,62429,26725,45696,45341,54127,56381,29933,42293,55676,5152,476,63048,64221,12033,16544,18103,23066,47389,30380,3644,15286,10532,60031,33795,487,31471,40907,2491,62817,66768,37800,31961,62530,59335,42086,63723,49571,49412,56595,16306,25933,14767,25796,48287,31080,22356,26023,34009,62319,61198,53118,66777,64406,48807,54629,25781,13922,61262,66754,37956,3184,23038,65760,14930,30691,2092,22703,43374" url="" />
+  </Tree>
+  <Items activeItemSet="1">
+    <ItemSet id="1" useSecondWeaponSet="nil">
+      <Slot name="Flask 1" itemId="15" />
+      <Slot name="Weapon 1" itemId="19" />
+      <Slot name="Belt" itemId="23" />
+      <Slot name="Flask 5" itemId="4" />
+      <Slot name="Helmet" itemId="1" />
+      <Slot name="Body Armour" itemId="2" />
+      <Slot name="Gloves" itemId="5" />
+      <Slot name="Boots" itemId="7" />
+      <Slot name="Ring 1" itemId="12" />
+      <Slot name="Amulet" itemId="16" />
+      <Slot name="Ring 2" itemId="6" />
+    </ItemSet>
+    <Item id="15">Rarity: UNIQUE
+The Writhing Jar
+Hallowed Hybrid Flask
+Unique ID: 0d8e2a039c89499f2d4c04b93f6f4cf1a909adbf62b39f1849e229a6220da7df
+Item Level: 77
+Quality: 0
+LevelReq: 60
+Implicits: 0
+13% reduced Charges per use
+67% reduced Amount Recovered
+Instant Recovery
+2 Enemy Writhing Worms escape the Flask when used
+Writhing Worms are destroyed when Hit</Item>
+    <Item id="19">Rarity: RARE
+New Item
+Karui Chopper
+Crafted: true
+Prefix: None
+Prefix: None
+Prefix: None
+Suffix: None
+Suffix: None
+Suffix: None
+Quality: 20
+Sockets: R-R-R-R-R-R
+LevelReq: 58
+Implicits: 0
+259% increased Physical Damage
+Adds 42 to 79 Physical Damage
+23% increased Attack Speed
++184 to Accuracy Rating
+8% increased damage per endurance charge
+{tags:dot_multi,physical_damage,unveiled_mod,damage,physical}{crafted}{range:1}+(31-35)% to Physical Damage over Time Multiplier</Item>
+    <Item id="21">Rarity: RARE
+New Item
+Medium Cluster Jewel
+Crafted: true
+Prefix: {range:0.5}AfflictionNotableFlowofLife_
+Prefix: {range:0.5}AfflictionNotableCirclingOblivion
+Suffix: {range:0.5}AfflictionJewelSmallPassivesGrantAttributes2
+Suffix: {range:0.5}AfflictionJewelSmallPassivesGrantElementalRes2
+Cluster Jewel Skill: affliction_physical_damage_over_time_multiplier
+Cluster Jewel Node Count: 4
+LevelReq: 54
+Implicits: 3
+{crafted}Adds 4 Passive Skills
+{crafted}1 Added Passive Skill is a Jewel Socket
+{crafted}Added Small Passive Skills grant: 12% increased Physical Damage over Time
+Added Small Passive Skills also grant: +3 to All Attributes
+Added Small Passive Skills also grant: +3% to all Elemental Resistances
+1 Added Passive Skill is Circling Oblivion
+1 Added Passive Skill is Flow of Life</Item>
+    <Item id="22">Rarity: RARE
+New Item
+Small Cluster Jewel
+Crafted: true
+Prefix: {range:0.5}AfflictionJewelSmallPassivesHaveIncreasedEffect2
+Prefix: {range:0.5}AfflictionNotableElegantForm
+Suffix: {range:0.5}AfflictionJewelSmallPassivesGrantElementalResSmall3
+Suffix: {range:0.5}AfflictionJewelSmallPassivesGrantChaosResSmall2
+Cluster Jewel Skill: affliction_chance_to_dodge_attacks
+Cluster Jewel Node Count: 3
+LevelReq: 67
+Implicits: 2
+{crafted}Adds 3 Passive Skills
+{crafted}Added Small Passive Skills grant: +4% chance to Suppress Spell Damage
+Added Small Passive Skills also grant: +4% to Chaos Resistance
+Added Small Passive Skills also grant: +4% to all Elemental Resistances
+Added Small Passive Skills have 35% increased Effect
+1 Added Passive Skill is Elegant Form</Item>
+    <Item id="23">Rarity: UNIQUE
+Ryslatha's Coil
+Studded Belt
+Catalyst: Abrasive
+CatalystQuality: 20
+Variant: Pre 3.5.0
+Variant: Current
+Selected Variant: 2
+LevelReq: 20
+Implicits: 1
+{range:0.5}(20-30)% increased Stun Duration on Enemies
+{tags:jewellery_attribute}{range:0.5}+(20-40) to Strength
+{tags:attack,physical}{variant:1}20% less Minimum Physical Attack Damage
+{tags:attack,physical}{variant:2}{range:0}(30-40)% less Minimum Physical Attack Damage
+{tags:attack,physical}{variant:1}20% more Maximum Physical Attack Damage
+{tags:attack,physical}{variant:2}{range:1}(30-40)% more Maximum Physical Attack Damage
+{tags:attack,physical_damage}{range:0.5}Adds 1 to (15-20) Physical Damage to Attacks
+{tags:life}{variant:2}{range:0.5}+(80-100) to maximum Life
+{tags:life}Gain 50 Life when you Stun an Enemy</Item>
+    <Item id="4">Rarity: MAGIC
+Horticultural Blood Sap Tincture of Dissolution
+Crafted: true
+Prefix: {range:1}TinctureEffect4
+Suffix: {range:1}TinctureDamageOverTimeMultiplier5
+CatalystQuality: 20
+Quality: 20
+LevelReq: 68
+Implicits: 2
+{tags:physical_damage,bleed,damage,physical,attack,ailment}20% chance to cause Bleeding with Melee Weapons
+{tags:physical_damage,bleed,damage,physical,attack,ailment}{range:1}(60-130)% increased Damage with Bleeding from Melee Weapons
+22% increased effect
++45% to Damage over Time Multiplier with Melee Weapon Attacks</Item>
+    <Item id="1">Rarity: RARE
+New Item
+Giantslayer Helmet
+Armour: 1698
+ArmourBasePercentile: 1
+Searing Exarch Item
+Eater of Worlds Item
+Crafted: true
+Prefix: {range:0.313}LocalBaseArmourAndLife3
+Prefix: {range:0.187}LocalIncreasedPhysicalDamageReductionRatingPercent7
+Prefix: {range:0.331}IncreasedLife9
+Suffix: {range:0.887}FireResist6
+Suffix: {range:0.521}ChaosResist5
+Suffix: None
+Quality: 20
+Sockets: R-R-R-R
+LevelReq: 84
+Implicits: 2
+{exarch}{range:1}(23-24)% reduced Mana Cost of Attacks
+{tags:physical,elemental,fire}{eater}7% of Physical Damage from Hits taken as Fire Damage
++64 to Armour
+93% increased Armour
++165 to maximum Life
++40% to Fire Resistance
++28% to Chaos Resistance
+{tags:unveiled_mod,elemental,cold,chaos,resistance}{crafted}{range:1}+(13-15)% to Cold and Chaos Resistances</Item>
+    <Item id="2">Rarity: RARE
+New Item
+Royal Plate
+Armour: 4449
+ArmourBasePercentile: 1
+Searing Exarch Item
+Eater of Worlds Item
+Crafted: true
+Prefix: {range:0.303}LocalIncreasedPhysicalDamageReductionRating11
+Prefix: {range:0.662}LocalIncreasedPhysicalDamageReductionRatingPercent8_
+Prefix: {range:0.542}IncreasedLife12
+Suffix: {range:0.771}AdditionalPhysicalDamageReduction5_
+Suffix: {range:0.634}ColdResist6
+Suffix: None
+CatalystQuality: 20
+Quality: 20
+Sockets: R-R-R-R-R-R
+LevelReq: 84
+Implicits: 2
+{exarch}Gain a Frenzy Charge every 10 seconds
+{tags:physical,elemental,fire}{eater}12% of Physical Damage from Hits taken as Fire Damage
++431 to Armour
+107% increased Armour
++183 to maximum Life
++39% to Cold Resistance
+8% additional Physical Damage Reduction
+{crafted}{range:1}+(8-10)% chance to Suppress Spell Damage</Item>
+    <Item id="5">Rarity: RARE
+New Item
+Dragonscale Gauntlets
+Armour: 214
+ArmourBasePercentile: 1
+Evasion: 167
+EvasionBasePercentile: 1
+Searing Exarch Item
+Eater of Worlds Item
+Crafted: true
+Prefix: {range:0.461}IncreasedLife8
+Prefix: {range:0.373}LocalBaseArmourAndLife2
+Prefix: None
+Suffix: {range:0.806}ChanceToSuppressSpells5__
+Suffix: {range:0.437}FireResist6
+Suffix: {range:1}ChaosResist3
+CatalystQuality: 20
+Quality: 20
+Sockets: G-G-G-G
+LevelReq: 68
+Implicits: 2
+{tags:dot_multi,physical_damage,damage,physical}{exarch}{range:0.5}While a Unique Enemy is in your Presence, +(20-22)% to Physical Damage over Time Multiplier
+{eater}+7% chance to Suppress Spell Damage
++14% chance to Suppress Spell Damage
++39 to Armour
++146 to maximum Life
++38% to Fire Resistance
++20% to Chaos Resistance
+{tags:unveiled_mod,damage}{crafted}{range:1}(37-43)% increased Damage while Leeching</Item>
+    <Item id="7">Rarity: RARE
+New Item
+Dragonscale Boots
+Armour: 167
+ArmourBasePercentile: 1
+Evasion: 167
+EvasionBasePercentile: 1
+Searing Exarch Item
+Eater of Worlds Item
+Crafted: true
+Prefix: {range:0.525}IncreasedLife8
+Prefix: None
+Prefix: None
+Suffix: {range:0.877}ChanceToSuppressSpells5__
+Suffix: {range:0.676}ColdResist5
+Suffix: None
+CatalystQuality: 20
+Quality: 20
+Sockets: G-G-G-G
+LevelReq: 68
+Implicits: 2
+{exarch}5% increased Action Speed
+{tags:physical_damage,bleed,damage,physical,attack,ailment}{eater}Bleeding you inflict deals Damage 7% faster
++14% chance to Suppress Spell Damage
++122 to maximum Life
++33% to Cold Resistance
+{tags:elemental,lightning,ailment}{custom}{range:1}(56-60)% chance to Avoid being Shocked
+{tags:unveiled_mod,elemental,cold,speed,ailment}{custom}{range:0.5}(25-30)% increased Movement Speed
+{tags:unveiled_mod,elemental,cold,speed,ailment}{custom}100% chance to Avoid being Chilled
+{tags:unveiled_mod,elemental,cold,ailment}{crafted}100% chance to Avoid being Frozen</Item>
+    <Item id="12">Rarity: RARE
+New Item
+Cerulean Ring
+Crafted: true
+Prefix: {range:0.634}IncreasedLife7
+Prefix: None
+Prefix: None
+Suffix: {range:0.732}LightningResist7
+Suffix: {range:0.394}ChaosResist5
+Suffix: {range:0.384}AllResistances5
+Catalyst: Fertile
+CatalystQuality: 20
+LevelReq: 80
+Implicits: 1
++1 to maximum frenzy charges
++130 to maximum Life
++15% to all Elemental Resistances
++44% to Lightning Resistance
++28% to Chaos Resistance
+{tags:resource,unveiled_mod,mana}{crafted}{range:0}Non-Channelling Skills have -(7-6) to Total Mana Cost</Item>
+    <Item id="14">Rarity: RARE
+New Item
+Large Cluster Jewel
+Crafted: true
+Prefix: {range:0.5}AfflictionNotableFeedtheFury
+Prefix: {range:0.5}AfflictionNotableFueltheFight
+Suffix: {range:0.5}AfflictionNotableMartialProwess
+Suffix: {range:0.5}AfflictionJewelSmallPassivesGrantElementalRes2
+CatalystQuality: 20
+Cluster Jewel Skill: affliction_axe_and_sword_damage
+Cluster Jewel Node Count: 8
+LevelReq: 54
+Implicits: 3
+{crafted}Adds 8 Passive Skills
+{crafted}2 Added Passive Skills are Jewel Sockets
+{crafted}Added Small Passive Skills grant: Axe Attacks deal 12% increased Damage with Hits and Ailments
+Added Small Passive Skills grant: Sword Attacks deal 12% increased Damage with Hits and Ailments
+Added Small Passive Skills also grant: +3% to all Elemental Resistances
+1 Added Passive Skill is Feed the Fury
+1 Added Passive Skill is Fuel the Fight
+1 Added Passive Skill is Martial Prowess</Item>
+    <Item id="16">Rarity: RARE
+New Item
+Turquoise Amulet
+Warlord Item
+Crafted: true
+Prefix: {range:0.461}IncreasedLife8
+Prefix: {range:0.789}DamagePerEnduranceChargeInfluence1__
+Prefix: None
+Suffix: {range:0.789}GlobalDamageOverTimeMultiplier1h5
+Suffix: {range:1}AllResistances3
+Suffix: {range:0.859}AllAttributes8
+Catalyst: Intrinsic
+CatalystQuality: 20
+LevelReq: 65
+Implicits: 2
+{crafted}Allocates Inveterate
+{tags:attribute}{range:1}+(16-24) to Dexterity and Intelligence
++38 to all Attributes
++26% to Damage over Time Multiplier
++121 to maximum Life
++11% to all Elemental Resistances
+4% increased Damage per Endurance Charge
+{tags:unveiled_mod,damage}{crafted}{range:0.5}(37-43)% increased Damage while Leeching</Item>
+    <Item id="6">Rarity: UNIQUE
+Kalandra's Touch
+Ring
+League: Kalandra
+Implicits: 0
+Reflects your other Ring
+Mirrored</Item>
+    <Item id="3">Rarity: RARE
+New Item
+Crimson Jewel
+Crafted: true
+Prefix: {range:1}PercentIncreasedLifeJewel
+Prefix: None
+Suffix: {range:1}JewelPhysicalDamageOverTimeMultiplier1
+Suffix: {range:1}MaximumFireResistanceJewel
+CatalystQuality: 20
+LevelReq: 0
+Implicits: 0
++8% to Physical Damage over Time Multiplier
+7% increased maximum Life
++2% to maximum Fire Resistance</Item>
+    <Item id="8">Rarity: RARE
+New Item
+Crimson Jewel
+Crafted: true
+Prefix: {range:1}PercentIncreasedLifeJewel
+Prefix: None
+Suffix: {range:1}JewelPhysicalDamageOverTimeMultiplier1
+Suffix: {range:1}MaximumLightningResistanceJewel
+CatalystQuality: 20
+LevelReq: 0
+Implicits: 0
++8% to Physical Damage over Time Multiplier
+7% increased maximum Life
++2% to maximum Lightning Resistance</Item>
+  </Items>
+  <Skills activeSkillSet="1" sortGemsByDPSField="CombinedDPS">
+    <SkillSet id="1">
+      <Skill enabled="true" slot="Boots" mainActiveSkill="1" includeInFullDPS="true" label="" groupIndex="1">
+        <Gem nameSpec="Lifetap" skillId="SupportLifetap" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="War Banner" skillId="" level="" quality="" enabled="true" />
+        <Gem nameSpec="War Banner" skillId="" level="" quality="" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Gloves" mainActiveSkill="1" includeInFullDPS="true" label="" groupIndex="2">
+        <Gem nameSpec="Momentum" skillId="SupportMomentum" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="Lifetap" skillId="SupportLifetap" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="Faster Attacks" skillId="SupportFasterAttacks" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="Blood and Sand" skillId="" level="" quality="" enabled="true" />
+        <Gem nameSpec="Blood and Sand" skillId="" level="" quality="" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Helmet" mainActiveSkill="1" includeInFullDPS="true" label="" groupIndex="3">
+        <Gem nameSpec="Cast when Damage Taken" skillId="SupportCastWhenDamageTaken" level="1" quality="0" enabled="true" />
+        <Gem nameSpec="Vaal Molten Shell" skillId="VaalMoltenShell" level="5" quality="0" enabled="true" />
+        <Gem nameSpec="Lifetap" skillId="SupportLifetap" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="Vulnerability" skillId="Vulnerability" level="21" quality="20" enabled="true" />
+        <Gem nameSpec="Ancestral Protector" skillId="" level="" quality="" enabled="true" />
+        <Gem nameSpec="Ancestral Protector" skillId="" level="" quality="" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Body Armour" mainActiveSkill="1" includeInFullDPS="true" label="" groupIndex="4">
+        <Gem nameSpec="Boneshatter" skillId="BoneshatterAltX" level="21" quality="20" enabled="true" />
+        <Gem nameSpec="Ruthless" skillId="SupportRuthless" level="21" quality="20" enabled="true" />
+        <Gem nameSpec="Volatility" skillId="SupportVolatility" level="21" quality="20" enabled="true" />
+        <Gem nameSpec="Awakened Brutality" skillId="SupportAwakenedBrutality" level="5" quality="20" enabled="true" />
+        <Gem nameSpec="Awakened Melee Physical Damage" skillId="SupportAwakenedMeleePhysicalDamage" level="5" quality="20" enabled="true" />
+        <Gem nameSpec="Cruelty" skillId="SupportCruelty" level="21" quality="20" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Weapon 1" mainActiveSkill="1" includeInFullDPS="true" label="" groupIndex="5">
+        <Gem nameSpec="Pride" skillId="Pride" level="21" quality="20" enabled="true" />
+        <Gem nameSpec="Enlighten" skillId="SupportEnlighten" level="4" quality="0" enabled="true" />
+        <Gem nameSpec="Flesh and Stone" skillId="FleshAndStone" level="21" quality="0" enabled="true" />
+        <Gem nameSpec="Ancestral Cry" skillId="AncestralCry" level="1" quality="20" enabled="true" />
+        <Gem nameSpec="Autoexertion" skillId="Autoexertion" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="Arctic Armour" skillId="ArcticArmour" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="Molten Shell" skillId="" level="" quality="" enabled="true" />
+        <Gem nameSpec="Leap Slam" skillId="" level="" quality="" enabled="true" />
+        <Gem nameSpec="Molten Shell" skillId="" level="" quality="" enabled="true" />
+      </Skill>
+    </SkillSet>
+  </Skills>
+  <Notes>Archetype stage: leveling
+Leveling Boneshatter Slayer setup focused on early campaign progression.
+Applied changes:
+- Set class=Duelist ascendancy=Slayer
+- Set level=28
+- Selected tree 'Boneshatter Slayer Leveling'
+- Set main skill to Boneshatter in group 4
+- Set movement group 5 to: Leap Slam
+- Added War Banner to group 1
+- Added Blood and Sand to group 2
+- Added Ancestral Protector to group 3
+- Added Molten Shell to group 5
+- Set config enemyLevel=28</Notes>
+  <Calcs />
+  <Attributes />
+  <PlayerStat />
+  <MinionStat />
+</PathOfBuilding>

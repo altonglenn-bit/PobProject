@@ -1,0 +1,10 @@
+{
+  "source_prompt": "I want a safe build for red maps and voidstones",
+  "goal": "bossing",
+  "tankiness": "high",
+  "stage": "endgame",
+  "content_tags": [
+    "maps",
+    "bossing"
+  ]
+}

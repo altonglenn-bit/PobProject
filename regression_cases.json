@@ -1,0 +1,92 @@
+[
+  {
+    "name": "beginner_friendly_summoner_maps_bosses",
+    "prompt": "I want a beginner friendly summoner for maps and bosses",
+    "expected_archetype": "spectre_summoner_necromancer",
+    "expected_stage": "endgame"
+  },
+  {
+    "name": "safe_red_maps_voidstones",
+    "prompt": "I want a safe build for red maps and voidstones",
+    "expected_archetype": "kinetic_fusillade_totem",
+    "expected_stage": "endgame"
+  },
+  {
+    "name": "bossing_ubers",
+    "prompt": "I want a bossing build for ubers",
+    "expected_archetype": "kinetic_fusillade_totem",
+    "expected_stage": "endgame"
+  },
+  {
+    "name": "lightning_arrow_deadeye_mapper",
+    "prompt": "I want a lightning arrow deadeye mapper",
+    "expected_archetype": "lightning_arrow_deadeye",
+    "expected_stage": "early_maps"
+  },
+  {
+    "name": "boneshatter_slayer_league_starter",
+    "prompt": "I want a boneshatter slayer league starter",
+    "expected_archetype": "boneshatter_slayer",
+    "expected_stage": "leveling"
+  },
+  {
+    "name": "ballista_totem_league_starter",
+    "prompt": "I want a ballista totem league starter",
+    "expected_archetype": "kinetic_fusillade_totem",
+    "expected_stage": "leveling"
+  },
+  {
+    "name": "spectre_necromancer_bossing",
+    "prompt": "I want a spectre necromancer build for bossing",
+    "expected_archetype": "spectre_summoner_necromancer",
+    "expected_stage": "endgame"
+  },
+  {
+    "name": "kinetic_blast_wander_maps",
+    "prompt": "I want a kinetic blast wander for maps",
+    "expected_archetype": "elementalist_kinetic_blast",
+    "expected_stage": "early_maps"
+  },
+  {
+    "name": "safe_totem_league_starter_bossing",
+    "prompt": "I want a safe totem league starter for bossing",
+    "expected_archetype": "kinetic_fusillade_totem",
+    "expected_stage": "endgame"
+  },
+  {
+    "name": "fast_bow_mapper_low_budget",
+    "prompt": "I want a fast bow mapper league starter on low budget",
+    "expected_archetype": "lightning_arrow_deadeye",
+    "expected_stage": "early_maps"
+  },
+  {
+    "name": "low_apm_minion_league_starter",
+    "prompt": "I want a low apm minion league starter that is safe for bosses",
+    "expected_archetype": "spectre_summoner_necromancer",
+    "expected_stage": "endgame"
+  },
+  {
+    "name": "safe_totem_bosser",
+    "prompt": "I want a safe totem build for bossing",
+    "expected_archetype": "kinetic_fusillade_totem",
+    "expected_stage": "endgame"
+  },
+  {
+    "name": "zoomy_bow_mapper",
+    "prompt": "I want a zoomy bow mapper for heist and maps on a low budget",
+    "expected_archetype": "lightning_arrow_deadeye",
+    "expected_stage": "early_maps"
+  },
+  {
+    "name": "tanky_melee_bosser",
+    "prompt": "I want a tanky melee league starter with low apm that can do bosses",
+    "expected_archetype": "boneshatter_slayer",
+    "expected_stage": "endgame"
+  },
+  {
+    "name": "fast_caster_mapper",
+    "prompt": "I want a fast caster mapper for heist and maps",
+    "expected_archetype": "elementalist_kinetic_blast",
+    "expected_stage": "early_maps"
+  }
+]

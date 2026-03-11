@@ -1,0 +1,3481 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PathOfBuilding>
+  <Build level="95" className="Ranger" ascendClassName="Deadeye" bandit="Alira" targetVersion="3_0" mainSocketGroup="1" viewMode="ITEMS" />
+  <Config activeConfigSet="1">
+    <ConfigSet id="1">
+      <Input name="conditionEnemyChilled" boolean="true" />
+      <Input name="multiplierGaleForce" number="10" />
+      <Input name="conditionEnemyShocked" boolean="true" />
+      <Input name="conditionShockEffect" number="30" />
+      <Input name="usePowerCharges" boolean="true" />
+      <Input name="buffTailwind" boolean="true" />
+      <Input name="projectileDistance" number="10" />
+      <Input name="useFrenzyCharges" boolean="true" />
+      <Input name="configResonanceCount" number="50" />
+      <Input name="pantheonMinorGod" string="Ralakesh" />
+      <Input name="pantheonMajorGod" string="Lunaris" />
+      <Input name="conditionEnemyIgnited" boolean="true" />
+      <Input name="bandit" string="Alira" />
+      <Input name="customMods" string="////return proj/// 35% more projectile damage" />
+      <Input name="enemyIsBoss" string="Boss" />
+      <Placeholder name="meleeDistance" string="15" />
+      <Placeholder name="enemyLightningDamage" string="722" />
+      <Placeholder name="enemyColdDamage" string="722" />
+      <Placeholder name="sigilOfPowerStages" string="1" />
+      <Placeholder name="enemyChaosDamage" string="289" />
+      <Placeholder name="enemyArmour" string="20722" />
+      <Placeholder name="enemyEvasion" string="6029" />
+      <Placeholder name="ScorchStacks" string="1" />
+      <Placeholder name="enemyDamageRollRange" string="70" />
+      <Placeholder name="configSpectralTigerCount" string="5" />
+      <Placeholder name="enemyFireResist" string="40" />
+      <Placeholder name="multiplierWitheredStackCountSelf" string="15" />
+      <Placeholder name="enemyFireDamage" string="722" />
+      <Placeholder name="enemyLightningResist" string="40" />
+      <Placeholder name="enemyColdResist" string="40" />
+      <Placeholder name="enemyChaosResist" string="25" />
+      <Placeholder name="enemySpeed" string="700" />
+      <Placeholder name="enemyCritChance" string="5" />
+      <Placeholder name="enemyCritDamage" string="30" />
+      <Placeholder name="enemyPhysicalDamage" string="722" />
+      <Placeholder name="projectileDistance" string="40" />
+      <Placeholder name="ShockStacks" string="1" />
+      <Input name="enemyLevel" number="84" />
+    </ConfigSet>
+  </Config>
+  <Tree activeSpec="1">
+    <Spec id="1" title="Endgame no HH" classId="2" ascendClassId="2" treeVersion="3_27" nodes="13375,5237,36281,40132,55750,27656,53086,64265,24848,41866,32477,39861,33989,56856,2715,8001,20807,32514,9206,7488,18707,53114,25178,33753,58854,26528,45202,62744,49379,10840,23334,65808,59370,29454,32555,25058,65824,46882,54142,9469,51881,37504,12948,65502,45313,64028,22266,65817,36221,50338,56295,36287,63251,18436,4481,31508,5632,26067,52157,30969,65427,45593,32763,39665,49900,28995,65632,6538,65826,33545,59220,19858,65834,45283,31039,28658,65811,14804,50459,61834,49978,18770,48099,8458,12412,34678,60735,58271,59837,46393,8938,14292,64878,20953,38662,40170,65528,25411,13935,48660,6799,12801,41119,44306,38149,63795,59606,63194,7594,4656,65210,2185,38995,3571,65634,23912,45035,30679,1461,6427,46277,11678,65642,57240,5443,49459,36764,6797,22994,19069,6910" url="" />
+    <Spec id="2" title="Entering maps" classId="2" ascendClassId="2" treeVersion="3_27" nodes="13375,32117,56646,25067,36221,31315,58302,50338,3469,36287,14292,4481,55880,31508,31222,25260,26067,24848,27788,65427,39665,49900,48614,28995,56856,6538,19069,11678,52714,2185,6913,2715,19858,8001,38149,22266,41866,20807,65210,16851,45035,34317,49621,58271,38662,50459,64265,9373,63620,4269,7488,8458,65224,37504,23912,59606,6799,25511,25178,44306,54142,34678,12068,26528,53086,903,45202,3187,6654,44316,10840,32681,63194,59370,3571,9206,60180,32555,48099,39718,35086,63795,12412,15842,59837,6427,60735,57080,38995,13935,37502,53114,51881,30679,10843,30894,46277,42964,16079,45313,1461,64028,5443,32657,42104,47743,20953" url="" />
+    <Spec id="3" title="Crit swap" classId="2" ascendClassId="2" treeVersion="3_27" nodes="13375,32117,56646,25067,55750,36221,31315,50338,58271,36287,63251,14292,4481,55880,31508,31222,5632,2185,24848,27788,18770,41119,64265,65427,41866,25260,39665,64028,20807,49900,52714,9373,5443,65528,28995,65210,6538,6913,42964,59220,45035,10843,2715,19858,8001,38149,37504,45283,31039,56856,22266,53086,28658,44306,26067,14804,50459,6654,32514,25511,4269,7488,8458,65224,49621,3571,59606,6799,60180,25178,48099,39718,34678,44316,26528,35086,903,45202,3187,12412,62744,10840,32681,63194,59370,29454,15842,59837,32555,6427,36764,40170,63795,60735,34317,53114,23912,9206,57080,38995,13935,54142,9469,51881,30679,1461,30894,46277,12948,65502,45313,11678,49459,38662,32657,42104,19069,20953" url="" />
+    <Spec id="4" title="Starter" classId="2" ascendClassId="2" treeVersion="3_27" nodes="13375,32117,56646,5237,63251,19069,6427,58271,25067,55750,25260,36221,27656,49459,36764,56295,36287,42178,14292,53086,55880,31508,31222,5632,2185,24848,27788,41119,56856,45035,6913,20953,65427,45593,1461,39665,30679,46277,49900,41866,54142,50338,65528,28995,65210,6538,38995,42964,59220,28658,31315,2715,19858,8001,38149,31039,45283,20807,23912,59606,6799,32514,9206,35086,14804,50459,61834,22266,62744,18770,48099,8458,65224,40170,3571,53114,12412,39718,59837,40362,21228,34678,60735,26528,11678,903,45202,3187,4481,26067,10840,32681,63194,59370,29454,12068,44316,32555,53324,60180,7488,63795,4269,49621,44306,3469,38662,57080,6654,13935,25411,9469,51881,37504,10843,16851,5443,12948,65502,45313,64265,64028,34317,32657,42104,47743,25511" url="" />
+    <Spec id="5" title="Mid game" classId="2" ascendClassId="2" treeVersion="3_27" nodes="13375,32117,22266,56646,47743,41866,56295,5632,49459,25067,55750,31508,36221,27656,46277,50338,3469,36287,63251,14292,4481,55880,64265,31222,25260,2185,24848,27788,38149,6427,38662,6538,1461,65427,45593,30679,39665,31039,28658,49900,25411,26067,6654,65528,28995,65210,45035,53086,42964,59220,41119,48614,2715,19858,8001,16851,5443,45283,20807,20953,31315,63795,32514,49621,34317,14804,50459,61834,11678,3571,18770,48099,8458,65224,60735,23912,53114,12412,39718,59837,40362,21228,40170,44316,26528,3187,903,45202,62744,53324,25511,10840,32681,63194,59370,29454,12068,34678,32555,6799,59606,60180,35086,7488,4269,58271,44306,9206,57080,38995,13935,54142,9469,51881,37504,10843,465,6913,12948,65502,45313,16079,64028,56856,32657,42104,19069,36764" url="" />
+    <Spec id="6" title="Inspired setup(Optional)" classId="2" ascendClassId="2" treeVersion="3_27" nodes="13375,36281,25067,55750,27656,53086,64265,31222,24848,27788,41866,35851,32477,57240,33989,65210,42964,2715,8001,16851,20807,32514,9206,4269,7488,23912,59606,25178,40362,26528,45202,21228,49379,10840,32681,63194,59370,29454,42443,25058,13935,25411,9469,51881,37504,10843,12948,65502,45313,64028,20953,36221,50338,56295,36287,63251,14292,4481,55880,31508,5632,2185,52157,30969,65427,45593,39665,49900,28995,6538,33545,59220,16079,19858,38149,45283,31039,47484,14804,50459,61834,49978,18770,48099,65224,12412,34678,53213,8938,48614,47743,22266,41119,60592,5443,54142,3571,48660,28658,12801,53114,58271,63795,35086,32555,62744,7594,60735,40170,6799,38995,6427,36764,59837,12068,30679,1461,45035,46277,56856,65528,39861,38662,49459,26067,25260,64878,19069,3469" url="" />
+    <Spec id="7" title="Headhunter" classId="2" ascendClassId="2" treeVersion="3_27" nodes="13375,5237,36281,40132,55750,27656,53086,64265,31222,24848,41866,32477,39861,65528,65210,42964,2715,8001,20807,32514,9206,7488,60180,23912,59606,33753,58854,26528,45202,59837,49379,10840,23334,65808,59370,29454,32555,25058,65824,46882,25411,9469,51881,37504,10843,12948,65502,45313,64028,20953,65817,36221,36764,56295,36287,63251,18436,4481,31508,5632,2185,30969,65427,45593,32763,39665,49900,28995,65632,6538,65826,33545,59220,19858,65834,45283,31039,7085,6910,65811,14804,50459,61834,49978,18770,48099,65224,6799,40170,60735,8938,26067,33989,46393,14292,22266,41119,56856,38662,48660,54142,12801,13935,45035,34678,63795,63194,12412,7594,5443,21228,53114,38995,3571,65634,62744,18707,30679,1461,6427,46277,38149,65642,50338,64878,49459,28658,22994,6797,19069,58271" url="" />
+    <Spec id="8" title="Headhunter - Warden" classId="2" ascendClassId="1" treeVersion="3_27" nodes="13375,5237,36281,40132,5926,27656,24214,41119,64265,41866,32477,39861,65528,65210,42964,2715,8001,20807,32514,9206,7488,60180,23912,59606,33753,58854,31364,45202,4656,49379,10840,23334,65808,59370,29454,32555,25058,65824,13935,25411,9469,51881,61761,12948,65502,44206,22266,65817,36221,50338,56295,36287,63251,18436,4481,21019,31508,5632,2185,30969,65427,45593,32763,39665,49900,16848,65632,6538,65826,33545,59220,36958,19858,65834,45283,31039,7085,58427,6910,65811,14804,50459,61834,49978,18770,63940,65224,12412,40170,60735,8938,45035,18707,46393,33989,22845,20953,38662,64878,48660,37504,12801,54142,46882,53114,63795,48099,35086,7594,55509,63194,62744,38995,42178,65634,6799,3571,30679,1461,34978,46277,38149,65642,36764,28658,49459,6427,6797,55750,22994,14292" url="" />
+    <Spec id="9" title="Uber Endgame" classId="2" ascendClassId="2" treeVersion="3_27" nodes="13375,5237,36281,40132,25067,55750,27656,58302,9393,41119,64265,24848,14400,32477,39861,65528,41420,65210,16882,2715,8001,20807,32514,44306,7488,3571,53114,33753,58854,26528,45202,62744,49379,10840,23334,63194,59370,29454,32555,25058,65824,13935,54142,9469,51881,12948,65502,45313,64028,42104,20953,36221,53615,36764,56295,36287,63251,14292,64878,31508,5632,26067,30969,65427,45593,32763,39665,49900,28995,65632,45035,65826,11678,59220,19858,65834,45283,31039,7085,6910,49621,14804,50459,61834,49978,18770,48099,8458,6799,34678,60735,8938,9206,12412,22994,46393,28658,56856,53086,38662,48660,23912,12801,6797,49391,25411,63795,46882,22266,7594,2185,59606,57080,38995,18707,65634,59837,46277,30679,1461,50338,5443,4481,65642,38149,33545,49459,6538,33989,6427,19069,58271" url="" />
+    <Spec id="10" title="Tornado shot - Far shot" classId="2" ascendClassId="2" treeVersion="3_27" nodes="13375,5237,36281,40132,55750,27656,5082,41119,64265,24848,41866,32477,39861,33989,56856,2715,8001,20807,32514,9206,7488,18707,59606,33753,58854,26528,45202,59837,49379,10840,23334,63194,59370,29454,32555,25058,65824,13935,54142,9469,49391,37504,12948,65502,45313,64028,42104,22266,36221,53615,50338,56295,36287,63251,14292,64878,31508,5632,26067,47212,30969,65427,45593,32763,39665,49900,28995,65632,6538,65826,33545,59220,19858,65834,45283,31039,7085,6910,49621,14804,50459,61834,49978,18770,48099,8458,12412,34678,60735,8938,12794,6799,22994,4481,20953,38662,6797,65210,46393,51881,12801,61627,30455,62744,63795,46882,40170,7594,2185,48660,57080,38995,36764,65634,53114,3571,30679,1461,44306,46277,6427,65642,11678,45035,49459,58271,38149,58302,19069,23912" url="" />
+    <Spec id="11" title="Tornado shot - point blank" classId="2" ascendClassId="2" treeVersion="3_27" nodes="13375,66643,5237,36281,40132,55750,27656,5082,56134,65829,53086,64265,24848,41866,32477,39861,33989,56856,2715,8001,20807,32514,9206,7488,18707,53114,33753,58854,65831,45202,59837,49379,10840,23334,63194,59370,29454,32555,25058,65824,13935,54142,9469,51881,37504,12948,65502,22266,36221,53615,65825,50338,56295,36287,63251,14292,64878,65833,5632,2185,65616,3109,30969,66640,65427,45593,32763,39665,49900,65632,6538,65826,33545,59220,19858,65834,45283,7085,28658,14804,50459,61834,49978,65625,66649,61305,12412,65827,40170,60735,65619,3571,8938,65835,48660,22994,6910,26067,4481,36764,23912,46393,34678,12801,61627,5443,20953,63795,26528,49391,7594,46882,41119,45035,38995,6799,65634,62744,46277,30679,1461,58271,38662,59606,65642,6797,18770,49459,31508,38149,6427,19069,42178" url="" />
+  </Tree>
+  <Items activeItemSet="1">
+    <ItemSet id="1" useSecondWeaponSet="nil">
+      <Slot name="Flask 1" itemId="15" />
+      <Slot name="Flask 2" itemId="16" />
+      <Slot name="Flask 3" itemId="17" />
+      <Slot name="Flask 5" itemId="19" />
+      <Slot name="Body Armour" itemId="82" />
+      <Slot name="Weapon 2" itemId="96" />
+      <Slot name="Ring 2" itemId="98" />
+      <Slot name="Weapon 1" itemId="103" />
+      <Slot name="Belt" itemId="104" />
+      <Slot name="Amulet" itemId="105" />
+      <Slot name="Helmet" itemId="106" />
+      <Slot name="Gloves" itemId="117" />
+      <Slot name="Boots" itemId="118" />
+    </ItemSet>
+    <Item id="1">Rarity: UNIQUE
+Thread of Hope
+Crimson Jewel
+Variant: Small Ring
+Variant: Medium Ring
+Variant: Large Ring
+Variant: Very Large Ring
+Variant: Massive Ring (Uber)
+Selected Variant: 5
+Radius: Variable
+Implicits: 0
+{variant:1}Only affects Passives in Small Ring
+{variant:2}Only affects Passives in Medium Ring
+{variant:3}Only affects Passives in Large Ring
+{variant:4}Only affects Passives in Very Large Ring
+{variant:5}Only affects Passives in Massive Ring
+Passives in Radius can be Allocated without being connected to your tree
+{range:1}-(20-10)% to all Elemental Resistances</Item>
+    <Item id="2">Rarity: UNIQUE
+Inspired Learning
+Crimson Jewel
+Radius: Small
+Implicits: 0</Item>
+    <Item id="3">Rarity: RARE
+New Item
+Large Cluster Jewel
+Crafted: true
+Prefix: {range:0.5}AfflictionNotableArcingShot__
+Prefix: {range:0.5}AfflictionNotableBroadside_
+Suffix: {range:0.5}AfflictionNotableMartialProwess
+Suffix: {range:1}AfflictionJewelSmallPassivesGrantInt2_
+Cluster Jewel Skill: affliction_bow_damage
+Cluster Jewel Node Count: 8
+LevelReq: 54
+Implicits: 3
+{crafted}Adds 8 Passive Skills
+{crafted}2 Added Passive Skills are Jewel Sockets
+{crafted}Added Small Passive Skills grant: 12% increased Damage with Bows
+Added Small Passive Skills grant: 12% increased Damage Over Time with Bow Skills
+Added Small Passive Skills also grant: +5 to Intelligence
+1 Added Passive Skill is Arcing Shot
+1 Added Passive Skill is Broadside
+1 Added Passive Skill is Martial Prowess</Item>
+    <Item id="4">Rarity: UNIQUE
+The Interrogation
+Small Cluster Jewel
+League: Delirium
+Implicits: 0
+Adds Secrets of Suffering</Item>
+    <Item id="5">Rarity: RARE
+Corpse Fletch
+Spine Bow
+Item Level: 83
+Quality: 20
+Sockets: G-W-B-G-W-G
+LevelReq: 64
+Implicits: 0
+{fractured}Adds 147 to 282 Cold Damage
+Adds 150 to 297 Fire Damage
+Adds 28 to 526 Lightning Damage
+12% increased Attack Speed
+11% increased Projectile Speed
+{tags:attack,critical,attribute}{crafted}{range:1}+(20-24) to Strength and Intelligence
+{tags:attack,critical,attribute}{crafted}{range:1}(21-25)% increased Critical Strike Chance</Item>
+    <Item id="6">Rarity: UNIQUE
+The Taming
+Prismatic Ring
+League: Domination, Nemesis
+Catalyst: Turbulent
+CatalystQuality: 20
+Variant: Pre 3.0.0
+Variant: Pre 3.25.0
+Variant: Current
+Selected Variant: 3
+LevelReq: 30
+Implicits: 1
+{tags:jewellery_resistance}{range:1}+(8-10)% to all Elemental Resistances
+{tags:jewellery_elemental,attack}{variant:1}15% increased Elemental Damage with Attack Skills
+{tags:jewellery_elemental,attack}{variant:2}30% increased Elemental Damage with Attack Skills
+{tags:jewellery_resistance}{variant:1}{range:0.5}+(10-15)% to all Elemental Resistances
+{tags:jewellery_resistance}{variant:2,3}{range:1}+(20-30)% to all Elemental Resistances
+{tags:jewellery_elemental}{variant:1}15% increased Elemental Damage
+{tags:jewellery_elemental}{variant:2}30% increased Elemental Damage
+{variant:1}5% chance to Freeze, Shock and Ignite
+{variant:2,3}10% chance to Freeze, Shock and Ignite
+{variant:1}10% increased Damage per Freeze, Shock and Ignite on Enemy
+{variant:2}20% increased Damage with Hits and Ailments per Freeze, Shock and Ignite on Enemy
+{tags:jewellery_elemental}{variant:3}{range:1}(30-40)% increased Elemental Damage with Hits and Ailments for each type of Elemental Ailment on Enemy</Item>
+    <Item id="7">Rarity: UNIQUE
+Bisco's Leash
+Heavy Belt
+CatalystQuality: 20
+Variant: Pre 3.25.0
+Variant: Current
+Selected Variant: 2
+LevelReq: 30
+Implicits: 1
+{tags:jewellery_attribute}{range:1}+(25-35) to Strength
+{variant:1}5% increased Quantity of Items found
+{tags:jewellery_attribute}{variant:2}{range:1}+(10-15) to all Attributes
+{tags:jewellery_resistance}{range:0.5}+(20-40)% to Cold Resistance
+1% increased Rarity of Items found per 15 Rampage Kills
+Rampage</Item>
+    <Item id="8">Rarity: UNIQUE
+Hyrri's Truth
+Jade Amulet
+League: Synthesis
+Variant: Pre 3.16.0
+Variant: Pre 3.19.0
+Variant: Current
+Selected Variant: 3
+LevelReq: 64
+Implicits: 2
+{crafted}Allocates Sovereignty
+{tags:jewellery_attribute}{range:1}+(20-30) to Dexterity
+{variant:1,2}Grants Level 22 Precision Skill
+{variant:3}Grants Level 30 Precision Skill
+{tags:jewellery_attribute}{variant:1,2}{range:0.5}+(25-35) to Dexterity
+{tags:jewellery_attribute}{variant:3}{range:1}+(40-80) to Dexterity
+{tags:attack,physical_damage}{variant:1,2}{range:0.5}Adds (12-15) to (24-28) Physical Damage to Attacks
+{tags:jewellery_elemental,attack}{variant:1,2}{range:0.5}Adds (11-15) to (23-28) Cold Damage to Attacks
+{tags:critical}{variant:1,2}{range:0.5}+(23-28)% to Global Critical Strike Multiplier
+{tags:critical}{variant:3}{range:1}+(25-50)% to Global Critical Strike Multiplier
+{variant:3}Bow Attacks have Culling Strike
+{tags:attack,life}{variant:1,2}{range:0.5}(0.8-1)% of Physical Attack Damage Leeched as Life
+{variant:1}Precision has 50% less Reservation
+{tags:mana}{variant:2,3}Precision has 100% increased Mana Reservation Efficiency</Item>
+    <Item id="9">Rarity: UNIQUE
+Ancestral Vision
+Viridian Jewel
+Limited to: 1
+Implicits: 0
+{range:0.5}+(5-10) to Dexterity
+Modifiers to Chance to Suppress Spell Damage also apply to Chance to Avoid Elemental Ailments at 50% of their Value</Item>
+    <Item id="10">Rarity: UNIQUE
+Hyrri's Ire
+Zodiac Leather
+Evasion: 3771
+EvasionBasePercentile: 1
+Variant: Pre 1.0.0
+Variant: Pre 2.0.0
+Variant: Pre 2.6.0
+Variant: Pre 3.5.0
+Variant: Pre 3.9.0
+Variant: Current
+Selected Variant: 6
+Quality: 20
+Sockets: G-G-G-G-G-G
+LevelReq: 65
+Implicits: 0
+{variant:1,2,3}{range:0.5}+(20-30) to Dexterity
+{variant:4,5,6}{range:1}+(40-50) to Dexterity
+{variant:1}{range:0.5}(80-120)% increased Evasion Rating
+{variant:2,3,4,5,6}{range:1}(140-220)% increased Evasion Rating
+25% increased Chill Duration on Enemies
+{variant:1,2,3}Adds 13 to 24 Cold Damage to Bow Attacks
+{variant:4}{range:0.5}Adds (50-60) to (70-80) Cold Damage to Bow Attacks
+{variant:5}{range:0.5}Adds (173-188) to (240-262) Cold Damage to Bow Attacks
+{variant:6}{range:1}Adds (100-145) to (160-200) Cold Damage to Bow Attacks
+{variant:1,2}Acrobatics
+{variant:3,4,5,6}30% chance to Suppress Spell Damage</Item>
+    <Item id="11">Rarity: RARE
+Cataclysm Bolt
+Feathered Arrow Quiver
+Unique ID: 0c35459fb8f0ddf32c08a48574b81e0ff718c1302e719dbdde656552ced57c99
+Item Level: 81
+LevelReq: 65
+Implicits: 1
+30% increased Projectile Speed
+Adds 12 to 144 Lightning Damage to Attacks
++36% to Critical Strike Multiplier with Bows
++120 to maximum Life
+41% increased Damage with Bow Skills
+{crafted}12% increased Attack Speed</Item>
+    <Item id="12">Rarity: RARE
+New Item
+Velour Boots
+Evasion: 496
+EvasionBasePercentile: 1
+Searing Exarch Item
+Eater of Worlds Item
+Crafted: true
+Prefix: {range:0.901}MovementVelocity5
+Prefix: {range:0.637}IncreasedLife7
+Prefix: None
+Suffix: {range:1}ChaosResist6
+Suffix: {range:0.574}ChanceToSuppressSpells4
+Suffix: {range:1}ColdResist4
+Quality: 20
+Sockets: G-G-G-G
+LevelReq: 84
+Implicits: 1
+{exarch}5% increased Action Speed
++12% chance to Suppress Spell Damage
++109 to maximum Life
++29% to Cold Resistance
++35% to Chaos Resistance
+30% increased Movement Speed</Item>
+    <Item id="13">Rarity: RARE
+New Item
+Majestic Pelt
+Evasion: 803
+EvasionBasePercentile: 1
+Searing Exarch Item
+Eater of Worlds Item
+Crafted: true
+Prefix: {range:0.275}IncreasedLife8
+Prefix: None
+Prefix: None
+Suffix: {range:0.507}FireResist5
+Suffix: {range:0.563}LightningResist5
+Suffix: None
+Quality: 20
+Sockets: G-G-G-G
+LevelReq: 84
+Implicits: 2
+{exarch}{range:1}(19-20)% reduced Mana Cost of Attacks
+{tags:resource,mana}{eater}7% increased Mana Reservation Efficiency of Skills
++119 to maximum Life
++33% to Fire Resistance
++33% to Lightning Resistance
+{tags:unveiled_mod,elemental,cold,chaos,resistance}{crafted}{range:1}+(13-15)% to Cold and Chaos Resistances</Item>
+    <Item id="14">Rarity: RARE
+New Item
+Velour Gloves
+Evasion: 496
+EvasionBasePercentile: 1
+Searing Exarch Item
+Eater of Worlds Item
+Crafted: true
+Prefix: {range:0.669}IncreasedLife7
+Prefix: None
+Prefix: None
+Suffix: {range:1}FireResist4
+Suffix: {range:1}LightningResist4
+Suffix: {range:0.979}ChanceToSuppressSpells4
+Quality: 20
+Sockets: G-G-G-G
+LevelReq: 84
+Implicits: 2
+{exarch}Gain 1 Rage on Attack Hit
+{eater}+5% chance to Suppress Spell Damage
++12% chance to Suppress Spell Damage
++109 to maximum Life
++29% to Fire Resistance
++29% to Lightning Resistance
+{tags:flask,unveiled_mod,damage}{crafted}{range:0.5}(24-28)% increased Damage during any Flask Effect</Item>
+    <Item id="15">Rarity: MAGIC
+Brewer's Silver Flask of the Owl
+Crafted: true
+Prefix: {range:0.31}FlaskChargesUsed4__
+Suffix: {range:1}FlaskBuffCurseEffect5
+Quality: 20
+LevelReq: 67
+Implicits: 0
+24% reduced Charges per use
+65% reduced Effect of Curses on you during Effect</Item>
+    <Item id="16">Rarity: MAGIC
+Doctor's Quicksilver Flask of the Cheetah
+Crafted: true
+Prefix: {range:0.5}FlaskChanceRechargeOnCrit3___
+Suffix: {range:1}FlaskBuffMovementSpeedWhileHealing3
+Quality: 20
+LevelReq: 68
+Implicits: 0
+23% chance to gain a Flask Charge when you deal a Critical Strike
+14% increased Movement Speed during Effect</Item>
+    <Item id="17">Rarity: MAGIC
+Experimenter's Jade Flask of the Impala
+Crafted: true
+Prefix: {range:1}FlaskIncreasedDuration6
+Suffix: {range:0.183}FlaskBuffEvasionWhileHealing4
+Quality: 20
+LevelReq: 67
+Implicits: 0
+40% increased Duration
+57% increased Evasion Rating during Effect</Item>
+    <Item id="18">Rarity: MAGIC
+Practitioner's Amethyst Flask of Persistence
+Crafted: true
+Prefix: {range:0.5}FlaskChargesUsed3__
+Suffix: {range:0.5}FlaskBuffAvoidStunWhileHealing3
+Quality: 20
+LevelReq: 38
+Implicits: 0
+21% reduced Charges per use
+43% Chance to Avoid being Stunned during Effect</Item>
+    <Item id="19">Rarity: MAGIC
+Alarmed Divine Life Flask of Alleviation
+Crafted: true
+Prefix: {range:0.5}FlaskInstantRecoveryOnLowLife3
+Suffix: {range:1}FlaskBleedCorruptingBloodImmunity2
+Quality: 20
+LevelReq: 60
+Implicits: 0
+21% reduced Amount Recovered
+Instant Recovery when on Low Life
+Grants Immunity to Bleeding for 11 seconds if used while Bleeding
+Grants Immunity to Corrupted Blood for 11 seconds if used while affected by Corrupted Blood</Item>
+    <Item id="20">Rarity: UNIQUE
+The Fledgling
+Lacquered Helmet
+Armour: 556
+ArmourBasePercentile: 1
+Evasion: 556
+EvasionBasePercentile: 1
+League: Heist
+Quality: 20
+Sockets: G-G-G-G
+LevelReq: 51
+Implicits: 0
+{range:0.976}(150-200)% increased Armour and Evasion
+{range:1}(30-50)% increased Projectile Speed
+{range:1}(30-50)% increased Projectile Damage
+Projectiles cannot collide with Enemies at Close Range
+Far Shot</Item>
+    <Item id="21">Rarity: UNIQUE
+Daresso's Defiance
+Full Dragonscale
+Armour: 2000
+ArmourBasePercentile: 1
+Evasion: 1586
+EvasionBasePercentile: 1
+Variant: Pre 2.6.0
+Variant: Pre 3.5.0
+Variant: Pre 3.16.0
+Variant: Pre 3.19.0
+Variant: Current
+Selected Variant: 5
+Quality: 20
+Sockets: R-R-R-R-R-R
+LevelReq: 63
+Implicits: 0
+{variant:1,2,3}{range:0.5}(160-200)% increased Armour and Evasion
+{variant:5,4}{range:0.707}(180-220)% increased Armour and Evasion
+{variant:1,2}{range:0.5}+(40-60) to maximum Life
+{variant:3,4,5}{range:1}+(60-90) to maximum Life
+{variant:1,2,3,4}{range:0.5}(0.4-0.6)% of Physical Attack Damage Leeched as Life
+{variant:5}2% of Physical Attack Damage Leeched as Life
+You lose all Endurance Charges when Hit
+You gain an Endurance Charge on Kill
+{variant:1}You gain Onslaught for 1 seconds per Endurance Charge when Hit
+{variant:2}You gain Onslaught for 2 seconds per Endurance Charge when Hit
+{variant:3,4,5}You gain Onslaught for 5 seconds per Endurance Charge when Hit
+{variant:3,4}{range:0.5}(60-100)% increased Onslaught Effect
+{variant:5}100% increased Onslaught Effect</Item>
+    <Item id="22">Rarity: RARE
+New Item
+Viridian Jewel
+Crafted: true
+Prefix: {range:0.5}LightningCritMultiplier
+Prefix: {range:0.5}PercentIncreasedLifeJewel
+Suffix: {range:0.5}ElementalCritMultiplier
+Suffix: None
+LevelReq: 0
+Implicits: 0
++17% to Critical Strike Multiplier with Lightning Skills
++14% to Critical Strike Multiplier with Elemental Skills
+6% increased maximum Life</Item>
+    <Item id="23">Rarity: RARE
+New Item
+Medium Cluster Jewel
+Crafted: true
+Prefix: {range:0.5}AfflictionNotableRepeater
+Prefix: {range:0.5}AfflictionNotableStreamlined
+Suffix: {range:0.5}AfflictionJewelSmallPassivesGrantInt2_
+Suffix: None
+Cluster Jewel Skill: affliction_projectile_damage
+Cluster Jewel Node Count: 4
+LevelReq: 54
+Implicits: 3
+{crafted}Adds 4 Passive Skills
+{crafted}1 Added Passive Skill is a Jewel Socket
+{crafted}Added Small Passive Skills grant: 10% increased Projectile Damage
+Added Small Passive Skills also grant: +5 to Intelligence
+1 Added Passive Skill is Repeater
+1 Added Passive Skill is Streamlined</Item>
+    <Item id="24">Rarity: UNIQUE
+Headhunter
+Leather Belt
+League: Nemesis
+Catalyst: Intrinsic
+CatalystQuality: 20
+LevelReq: 40
+Implicits: 1
+{tags:life}{range:1}+(25-40) to maximum Life
+{tags:jewellery_attribute}{range:1}+(40-55) to Strength
+{tags:jewellery_attribute}{range:0.5}+(40-55) to Dexterity
+{tags:life}{range:0.5}+(50-60) to maximum Life
+{range:0.5}(20-30)% increased Damage with Hits against Rare monsters
+When you Kill a Rare monster, you gain its Modifiers for 60 seconds</Item>
+    <Item id="25">Rarity: UNIQUE
+Lethal Pride
+Timeless Jewel
+League: Legion
+Variant: Kaom (Strength of Blood)
+Variant: Kiloava (Glancing Blows) (Pre 3.11.0)
+Variant: Rakiata (Tempered by War)
+Variant: Akoya (Chainbreaker)
+Selected Variant: 4
+LevelReq: 20
+Radius: Large
+Limited to: 1
+Implicits: 0
+{variant:1}{range:0.5}Commanded leadership over (10000-18000) warriors under Kaom
+{variant:2}{range:0.5}Commanded leadership over (10000-18000) warriors under Kiloava
+{variant:3}{range:0.5}Commanded leadership over (10000-18000) warriors under Rakiata
+{variant:4}Commanded leadership over 11234 warriors under Akoya
+Passives in radius are Conquered by the Karui
+Historic</Item>
+    <Item id="26">Rarity: RARE
+Cataclysm Bolt
+Feathered Arrow Quiver
+Unique ID: 0c35459fb8f0ddf32c08a48574b81e0ff718c1302e719dbdde656552ced57c99
+Item Level: 81
+LevelReq: 65
+Implicits: 1
+30% increased Projectile Speed
+Adds 12 to 144 Lightning Damage to Attacks
++36% to Critical Strike Multiplier with Bows
++120 to maximum Life
+41% increased Damage with Bow Skills
+{tags:unveiled_mod,attribute}{crafted}{range:1}+(21-25) to Strength and Intelligence</Item>
+    <Item id="27">Rarity: RARE
+New Item
+Viridian Jewel
+Crafted: true
+Prefix: {range:1}PercentIncreasedLifeJewel
+Prefix: {range:1}BowAttackSpeedJewel
+Suffix: {range:1}CriticalStrikeMultiplierJewel
+Suffix: None
+LevelReq: 0
+Implicits: 0
+8% increased Attack Speed with Bows
++12% to Global Critical Strike Multiplier
+7% increased maximum Life</Item>
+    <Item id="28">Rarity: RARE
+New Item
+Spine Bow
+Crafted: true
+Prefix: {range:1}LocalAddedFireDamageTwoHand10
+Prefix: {range:1}LocalAddedColdDamageTwoHand10
+Prefix: {range:1}LocalAddedLightningDamageTwoHand10
+Suffix: {range:1}AdditionalArrowBow2_
+Suffix: {range:1}LocalIncreasedAttackSpeed5
+Suffix: None
+Quality: 20
+Sockets: G-G-G-G-G-G
+LevelReq: 68
+Implicits: 0
+Adds 225 to 390 Fire Damage
+Adds 204 to 348 Cold Damage
+Adds 38 to 638 Lightning Damage
+19% increased Attack Speed
+Bow Attacks fire 2 additional Arrows
+{tags:attack,critical,attribute}{crafted}{range:1}+(20-24) to Strength and Intelligence
+{tags:attack,critical,attribute}{crafted}{range:1}(21-25)% increased Critical Strike Chance</Item>
+    <Item id="29">Rarity: RARE
+New Item
+Feathered Arrow Quiver
+Crafted: true
+Prefix: {range:1}IncreasedLife9
+Prefix: {range:1}AddedLightningDamageQuiver9
+Prefix: {range:1}DamageWithBowSkills6_
+Suffix: {range:1}AdditionalArrowQuiver1_
+Suffix: {range:1}CriticalMultiplierWithBows6
+Suffix: None
+LevelReq: 68
+Implicits: 1
+{tags:speed}{range:1}(20-30)% increased Projectile Speed
+Adds 11 to 140 Lightning Damage to Attacks
++38% to Critical Strike Multiplier with Bows
++144 to maximum Life
+Bow Attacks fire an additional Arrow
+50% increased Damage with Bow Skills
+{tags:attack,speed}{crafted}{range:1}(7-12)% increased Attack Speed</Item>
+    <Item id="30">Rarity: RARE
+New Item
+Large Cluster Jewel
+Crafted: true
+Prefix: {range:0.5}AfflictionJewelSmallPassivesHaveIncreasedEffect2
+Prefix: {range:1}AfflictionJewelSmallPassivesGrantLife3
+Suffix: {range:0.5}AfflictionJewelSmallPassivesGrantAttackSpeed3__
+Suffix: {range:0.5}AfflictionJewelSmallPassivesGrantChaosRes3
+Cluster Jewel Skill: affliction_bow_damage
+Cluster Jewel Node Count: 12
+LevelReq: 67
+Implicits: 3
+{crafted}Adds 12 Passive Skills
+{crafted}2 Added Passive Skills are Jewel Sockets
+{crafted}Added Small Passive Skills grant: 12% increased Damage with Bows
+Added Small Passive Skills grant: 12% increased Damage Over Time with Bow Skills
+Added Small Passive Skills also grant: 3% increased Attack Speed
+Added Small Passive Skills also grant: +5% to Chaos Resistance
+Added Small Passive Skills also grant: +10 to Maximum Life
+Added Small Passive Skills have 35% increased Effect</Item>
+    <Item id="31">Rarity: RARE
+New Item
+Large Cluster Jewel
+Crafted: true
+Prefix: {range:1}AfflictionJewelSmallPassivesGrantLife3
+Prefix: {range:0.5}AfflictionJewelSmallPassivesHaveIncreasedEffect2
+Suffix: {range:0.5}AfflictionJewelSmallPassivesGrantElementalRes3
+Suffix: {range:0.5}AfflictionJewelSmallPassivesGrantAttackSpeed3__
+Cluster Jewel Skill: affliction_bow_damage
+Cluster Jewel Node Count: 12
+LevelReq: 67
+Implicits: 3
+{crafted}Adds 12 Passive Skills
+{crafted}2 Added Passive Skills are Jewel Sockets
+{crafted}Added Small Passive Skills grant: 12% increased Damage with Bows
+Added Small Passive Skills grant: 12% increased Damage Over Time with Bow Skills
+Added Small Passive Skills also grant: 3% increased Attack Speed
+Added Small Passive Skills also grant: +4% to all Elemental Resistances
+Added Small Passive Skills also grant: +10 to Maximum Life
+Added Small Passive Skills have 35% increased Effect</Item>
+    <Item id="32">Rarity: RARE
+New Item
+Majestic Pelt
+Evasion: 917
+EvasionBasePercentile: 1
+Searing Exarch Item
+Eater of Worlds Item
+Crafted: true
+Prefix: {range:1}IncreasedLife9
+Prefix: {range:1}LocalBaseEvasionRatingAndLife3
+Prefix: None
+Suffix: {range:1}ChanceToSuppressSpells5__
+Suffix: {range:1}Intelligence10
+Suffix: {range:1}ChaosResist6
+Quality: 20
+Sockets: G-G-G-G
+LevelReq: 84
+Implicits: 2
+{exarch}{range:1}(23-24)% reduced Mana Cost of Attacks
+{tags:resource,mana}{eater}10% increased Mana Reservation Efficiency of Skills
++14% chance to Suppress Spell Damage
++60 to Intelligence
++95 to Evasion Rating
++177 to maximum Life
++35% to Chaos Resistance</Item>
+    <Item id="33">Rarity: UNIQUE
+Progenesis
+Amethyst Flask
+Quality: 20
+LevelReq: 60
+Implicits: 0
+{range:0.5}(10-20)% reduced Charges per use
+{range:0.5}(-35-35)% increased Duration
+When Hit during effect, 25% of Life loss from Damage taken occurs over 4 seconds instead</Item>
+    <Item id="34">Rarity: RARE
+New Item
+Supreme Leather
+Evasion: 1234
+EvasionBasePercentile: 1
+Searing Exarch Item
+Eater of Worlds Item
+Crafted: true
+Prefix: {range:1}IncreasedLife12
+Prefix: None
+Prefix: None
+Suffix: {range:0.965}ChanceToSuppressSpellsHigh5___
+Suffix: {range:1}LightningResist8
+Suffix: {range:1}FireResist8
+Quality: 20
+Sockets: G-G-G-G-G-G
+LevelReq: 73
+Implicits: 2
+{tags:aura}{exarch}{range:1}(19-20)% increased effect of Non-Curse Auras from your Skills
+{tags:physical,elemental,fire}{eater}11% of Physical Damage from Hits taken as Fire Damage
++22% chance to Suppress Spell Damage
++189 to maximum Life
++48% to Fire Resistance
++48% to Lightning Resistance
+{tags:resource,unveiled_mod,life,mana}{crafted}{range:1}(5-8)% increased maximum Life
+{tags:resource,unveiled_mod,life,mana}{crafted}{range:1}(5-8)% increased maximum Mana</Item>
+    <Item id="35">Rarity: RARE
+New Item
+Velour Gloves
+Evasion: 496
+EvasionBasePercentile: 1
+Searing Exarch Item
+Eater of Worlds Item
+Crafted: true
+Prefix: {range:1}IncreasedLife8
+Prefix: {range:1}AddedFireDamage6
+Prefix: None
+Suffix: None
+Suffix: {range:1}IncreasedAttackSpeed4
+Suffix: {range:1}ColdResist8
+Quality: 20
+Sockets: G-G-G A
+LevelReq: 84
+Implicits: 2
+{exarch}Gain 1 Rage on Attack Hit
+{eater}+8% chance to Suppress Spell Damage
+Adds 15 to 27 Fire Damage to Attacks
+16% increased Attack Speed
++129 to maximum Life
++48% to Cold Resistance
+50% increased damage with hits against chilled enemies
+{tags:flask,unveiled_mod,damage}{crafted}{range:0.5}(24-28)% increased Damage during any Flask Effect
+{custom}Has 1 Abyssal Socket</Item>
+    <Item id="36">Rarity: UNIQUE
+Watcher's Eye
+Prismatic Jewel
+Variant: None
+Variant: Anger: Fire Damage Life Leech
+Variant: Anger: Fire Penetration
+Variant: Anger: Inc Crit Strike Mult
+Variant: Anger: Inc Fire Damage
+Variant: Anger: Phys Added As Fire
+Variant: Anger: Phys Converted To Fire
+Variant: Clarity: Damage Taken From Mana Before Life
+Variant: Clarity: Damage Taken Gained As Mana
+Variant: Clarity: Mana Added As ES (Pre 3.12.0)
+Variant: Clarity: Mana Added As ES
+Variant: Clarity: Mana Recovery Rate (Pre 3.12.0)
+Variant: Clarity: Mana Recovery Rate
+Variant: Clarity: Recover Mana On Skill Use
+Variant: Clarity: Red. Mana Cost (Pre 3.8.0)
+Variant: Clarity: Red. Mana Cost Non Channelled
+Variant: Determination: Additional Armour
+Variant: Determination: Additional Block
+Variant: Determination: Phys Damage Reduction
+Variant: Determination: Red. Extra Damage From Crits
+Variant: Determination: Red. Reflected Phys Damage
+Variant: Determination: Unaffected By Vulnerability
+Variant: Discipline: Additional Spell Block
+Variant: Discipline: ES Per Hit
+Variant: Discipline: ES Recovery Rate (Pre 3.12.0)
+Variant: Discipline: ES Recovery Rate
+Variant: Discipline: ES Regen
+Variant: Discipline: Faster Start Of Recharge
+Variant: Grace: Additional Chance To Evade
+Variant: Grace: Blind Enemies When Hit
+Variant: Grace: Chance to Suppress Spells
+Variant: Grace: Inc Movement Speed
+Variant: Grace: Unaffected By Enfeeble
+Variant: Haste: Chance to Suppress Spells
+Variant: Haste: Cooldown Recovery For Movement Skills
+Variant: Haste: Debuffs Expire Faster
+Variant: Haste: Gain Onslaught On Kill
+Variant: Haste: Gain Phasing
+Variant: Haste: Unaffected By Temporal Chains
+Variant: Hatred: Added Cold Damage
+Variant: Hatred: Additional Crit Strike Chance
+Variant: Hatred: Cold Penetration
+Variant: Hatred: Inc Cold Damage
+Variant: Hatred: Phys Converted To Cold
+Variant: Malevolence: Damage Over Time Mult (Pre 3.8.0)
+Variant: Malevolence: Damage Over Time Mult
+Variant: Malevolence: Life And ES Recovery Rate (Pre 3.12.0)
+Variant: Malevolence: Life And ES Recovery Rate
+Variant: Malevolence: Unaffected By Bleeding
+Variant: Malevolence: Unaffected By Poison
+Variant: Malevolence: Your Ailments Deal Damage Faster
+Variant: Precision: Cannot Be Blinded
+Variant: Precision: Flask Charge On Crit
+Variant: Precision: Inc Attack Damage
+Variant: Precision: Inc Attack Speed
+Variant: Precision: Inc Crit Strike Mult (Pre 3.12.0)
+Variant: Precision: Inc Crit Strike Mult
+Variant: Pride: Chance For Double Damage
+Variant: Pride: Chance To Impale
+Variant: Pride: Impale Additional Hits
+Variant: Pride: Inc Phys Damage
+Variant: Pride: Intimidate On Hit
+Variant: Purity Of Elements: Chaos Resistance
+Variant: Purity Of Elements: Maximum Ele Resistances
+Variant: Purity Of Elements: Red. Reflected Ele Damage
+Variant: Purity Of Elements: Take Phys As Cold (Pre 3.25.0)
+Variant: Purity Of Elements: Take Phys As Fire (Pre 3.25.0)
+Variant: Purity Of Elements: Take Phys As Lightning (Pre 3.25.0)
+Variant: Purity Of Elements: Unaffected By Ele Weakness
+Variant: Purity Of Fire: Cold And Lightning Taken As Fire
+Variant: Purity Of Fire: Immune To Ignite
+Variant: Purity Of Fire: Take Phys As Fire (Pre 3.25.0)
+Variant: Purity Of Fire: Unaffected By Burning Ground
+Variant: Purity Of Fire: Unaffected By Flammability
+Variant: Purity Of Ice: Fire And Lightning Taken As Cold
+Variant: Purity Of Ice: Immune To Freeze
+Variant: Purity Of Ice: Take Phys As Ice (Pre 3.25.0)
+Variant: Purity Of Ice: Unaffected By Chilled Ground
+Variant: Purity Of Ice: Unaffected By Frostbite
+Variant: Purity Of Lightning: Fire And Cold Taken As Lightning
+Variant: Purity Of Lightning: Immune To Shock
+Variant: Purity Of Lightning: Take Phys As Lightning (Pre 3.25.0)
+Variant: Purity Of Lightning: Unaffected By Conductivity
+Variant: Purity Of Lightning: Unaffected By Shocked Ground
+Variant: Vitality: Damage Life Leech (Pre 3.12.0)
+Variant: Vitality: Damage Life Leech
+Variant: Vitality: Flat Life Regen (Pre 3.12.0)
+Variant: Vitality: Life Gain Per Hit
+Variant: Vitality: Life Recovery From Flasks
+Variant: Vitality: Life Recovery Rate (Pre 3.12.0)
+Variant: Vitality: Life Recovery Rate
+Variant: Vitality: Percent Life Regen
+Variant: Wrath: Inc Crit Strike Chance
+Variant: Wrath: Inc Lightning Damage
+Variant: Wrath: Lightning Damage ES Leech
+Variant: Wrath: Lightning Damage Mana Leech (Pre 3.8.0)
+Variant: Wrath: Lightning Penetration
+Variant: Wrath: Phys Added As Lightning
+Variant: Wrath: Phys Converted To Lightning
+Variant: Zealotry: Cast Speed
+Variant: Zealotry: Consecrated Ground Effect Lingers For Ms After Leaving The Area
+Variant: Zealotry: Consecrated Ground Enemy Damage Taken
+Variant: Zealotry: Crit Strike Chance Against Enemies On Consecrated Ground
+Variant: Zealotry: Crit Strikes Penetrates Ele Resistances
+Variant: Zealotry: Gain Arcane Surge For 4 Seconds When You Create Consecrated Ground
+Variant: Zealotry: Maximum ES Per Second To Maximum ES Leech Rate
+Selected Variant: 4
+Has Alt Variant: true
+Selected Alt Variant: 29
+Has Alt Variant Two: true
+Selected Alt Variant Two: 1
+Limited to: 1
+Implicits: 0
+{range:0.5}(4-6)% increased maximum Energy Shield
+{range:1}(4-6)% increased maximum Life
+{range:0.5}(4-6)% increased maximum Mana
+{variant:2}{range:0.5}(1-1.5)% of Fire Damage Leeched as Life while affected by Anger
+{variant:3}{range:0.5}Damage Penetrates (10-15)% Fire Resistance while affected by Anger
+{variant:4}{range:1}+(30-50)% to Critical Strike Multiplier while affected by Anger
+{variant:5}{range:0.5}(40-60)% increased Fire Damage while affected by Anger
+{variant:6}{range:0.5}Gain (15-25)% of Physical Damage as Extra Fire Damage while affected by Anger
+{variant:7}{range:0.5}(25-40)% of Physical Damage Converted to Fire Damage while affected by Anger
+{variant:8}{range:0.5}(6-10)% of Damage taken from Mana before Life while affected by Clarity
+{variant:9}{range:0.5}(15-20)% of Damage taken while affected by Clarity Recouped as Mana
+{variant:10}{range:0.5}Gain (12-18)% of Maximum Mana as Extra Maximum Energy Shield while affected by Clarity
+{variant:11}{range:0.5}Gain (6-10)% of Maximum Mana as Extra Maximum Energy Shield while affected by Clarity
+{variant:12}{range:0.5}(20-30)% increased Mana Recovery Rate while affected by Clarity
+{variant:13}{range:0.5}(10-15)% increased Mana Recovery Rate while affected by Clarity
+{variant:14}{range:0.5}(10-15)% chance to Recover 10% of Mana when you use a Skill while affected by Clarity
+{variant:15}{range:0.5}-(10-5) to Total Mana Cost of Skills while affected by Clarity
+{variant:16}{range:0.5}Non-Channelling Skills have -(10-5) to Total Mana Cost while affected by Clarity
+{variant:17}{range:0.5}+(600-1000) to Armour while affected by Determination
+{variant:18}{range:0.5}+(5-8)% Chance to Block Attack Damage while affected by Determination
+{variant:19}{range:0.5}(5-8)% additional Physical Damage Reduction while affected by Determination
+{variant:20}{range:0.5}You take (40-60)% reduced Extra Damage from Critical Strikes while affected by Determination
+{variant:21}{range:0.5}(40-50)% reduced Reflected Physical Damage taken while affected by Determination
+{variant:22}Unaffected by Vulnerability while affected by Determination
+{variant:23}{range:0.5}+(5-8)% Chance to Block Spell Damage while affected by Discipline
+{variant:24}{range:0.5}Gain (20-30) Energy Shield per Enemy Hit while affected by Discipline
+{variant:25}{range:0.5}(20-30)% increased Energy Shield Recovery Rate while affected by Discipline
+{variant:26}{range:0.5}(10-15)% increased Energy Shield Recovery Rate while affected by Discipline
+{variant:27}{range:0.5}Regenerate (1.5-2.5)% of Energy Shield per Second while affected by Discipline
+{variant:28}{range:0.5}(30-40)% faster start of Energy Shield Recharge while affected by Discipline
+{variant:29}{range:1}+(5-8)% chance to Evade Attack Hits while affected by Grace
+{variant:30}{range:0.5}(30-50)% chance to Blind Enemies which Hit you while affected by Grace
+{variant:31}{range:0.5}+(12-15)% chance to Suppress Spell Damage while affected by Grace
+{variant:32}{range:0.5}(10-15)% increased Movement Speed while affected by Grace
+{variant:33}Unaffected by Enfeeble while affected by Grace
+{variant:34}{range:0.5}+(5-8)% chance to Suppress Spell Damage while affected by Haste
+{variant:35}{range:0.5}(30-50)% increased Cooldown Recovery Rate of Movement Skills used while affected by Haste
+{variant:36}Debuffs on you expire (15-20)% faster while affected by Haste
+{variant:37}You gain Onslaught for 4 seconds on Kill while affected by Haste
+{variant:38}You have Phasing while affected by Haste
+{variant:39}Unaffected by Temporal Chains while affected by Haste
+{variant:40}{range:0.5}Adds (58-70) to (88-104) Cold Damage while affected by Hatred
+{variant:41}{range:0.5}+(1.2-1.8)% to Critical Strike Chance while affected by Hatred
+{variant:42}{range:0.5}Damage Penetrates (10-15)% Cold Resistance while affected by Hatred
+{variant:43}{range:0.5}(40-60)% increased Cold Damage while affected by Hatred
+{variant:44}{range:0.5}(25-40)% of Physical Damage Converted to Cold Damage while affected by Hatred
+{variant:45}{range:0.5}+(36-44)% to Damage over Time Multiplier while affected by Malevolence
+{variant:46}{range:0.5}+(18-22)% to Damage over Time Multiplier while affected by Malevolence
+{variant:47}{range:0.5}(15-20)% increased Recovery rate of Life and Energy Shield while affected by Malevolence
+{variant:48}{range:0.5}(8-12)% increased Recovery rate of Life and Energy Shield while affected by Malevolence
+{variant:49}Unaffected by Bleeding while affected by Malevolence
+{variant:50}Unaffected by Poison while affected by Malevolence
+{variant:51}{range:0.5}Damaging Ailments you inflict deal Damage (10-15)% faster while affected by Malevolence
+{variant:52}Cannot be Blinded while affected by Precision
+{variant:53}Gain a Flask Charge when you deal a Critical Strike while affected by Precision
+{variant:54}{range:0.5}(40-60)% increased Attack Damage while affected by Precision
+{variant:55}{range:0.5}(10-15)% increased Attack Speed while affected by Precision
+{variant:56}{range:0.5}+(30-50)% to Critical Strike Multiplier while affected by Precision
+{variant:57}{range:0.5}+(20-30)% to Critical Strike Multiplier while affected by Precision
+{variant:58}{range:0.5}(8-12)% chance to deal Double Damage while using Pride
+{variant:59}25% chance to Impale Enemies on Hit with Attacks while using Pride
+{variant:60}Impales you inflict last 2 additional Hits while using Pride
+{variant:61}{range:0.5}(40-60)% increased Physical Damage while using Pride
+{variant:62}Your Hits Intimidate Enemies for 4 seconds while you are using Pride
+{variant:63}{range:0.5}+(30-50)% to Chaos Resistance while affected by Purity of Elements
+{variant:64}+1% to all maximum Elemental Resistances while affected by Purity of Elements
+{variant:65}{range:0.5}(40-50)% reduced Reflected Elemental Damage taken while affected by Purity of Elements
+{variant:66}{range:0.5}(8-12)% of Physical Damage from Hits taken as Cold Damage while affected by Purity of Elements
+{variant:67}{range:0.5}(8-12)% of Physical Damage from Hits taken as Fire Damage while affected by Purity of Elements
+{variant:68}{range:0.5}(8-12)% of Physical Damage from Hits taken as Lightning Damage while affected by Purity of Elements
+{variant:69}Unaffected by Elemental Weakness while affected by Purity of Elements
+{variant:70}{range:0.5}(10-20)% of Cold and Lightning Damage taken as Fire Damage while affected by Purity of Fire
+{variant:71}Immune to Ignite while affected by Purity of Fire
+{variant:72}{range:0.5}(6-10)% of Physical Damage from Hits taken as Fire Damage while affected by Purity of Fire
+{variant:73}Unaffected by Burning Ground while affected by Purity of Fire
+{variant:74}Unaffected by Flammability while affected by Purity of Fire
+{variant:75}{range:0.5}(10-20)% of Fire and Lightning Damage taken as Cold Damage while affected by Purity of Ice
+{variant:76}Immune to Freeze while affected by Purity of Ice
+{variant:77}{range:0.5}(6-10)% of Physical Damage from Hits taken as Cold Damage while affected by Purity of Ice
+{variant:78}Unaffected by Chilled Ground while affected by Purity of Ice
+{variant:79}Unaffected by Frostbite while affected by Purity of Ice
+{variant:80}{range:0.5}(10-20)% of Fire and Cold Damage taken as Lightning Damage while
+{variant:81}Immune to Shock while affected by Purity of Lightning
+{variant:82}{range:0.5}(6-10)% of Physical Damage from Hits taken as Lightning Damage while affected by Purity of Lightning
+{variant:83}Unaffected by Conductivity while affected by Purity of Lightning
+{variant:84}Unaffected by Shocked Ground while affected by Purity of Lightning
+{variant:85}{range:0.5}(1-1.5)% of Damage leeched as Life while affected by Vitality
+{variant:86}{range:0.5}(0.8-1.2)% of Damage leeched as Life while affected by Vitality
+{variant:87}{range:0.5}Regenerate (100-140) Life per Second while affected by Vitality
+{variant:88}{range:0.5}Gain (20-30) Life per Enemy Hit while affected by Vitality
+{variant:89}{range:0.5}(50-70)% increased Life Recovery from Flasks while affected by Vitality
+{variant:90}{range:0.5}(20-30)% increased Life Recovery Rate while affected by Vitality
+{variant:91}{range:0.5}(10-15)% increased Life Recovery Rate while affected by Vitality
+{variant:92}{range:0.5}Regenerate (1-1.5)% of Life per second while affected by Vitality
+{variant:93}{range:0.5}(70-100)% increased Critical Strike Chance while affected by Wrath
+{variant:94}{range:0.5}(40-60)% increased Lightning Damage while affected by Wrath
+{variant:95}{range:0.5}(1-1.5)% of Lightning Damage is Leeched as Energy Shield while affected by Wrath
+{variant:96}{range:0.5}(1-1.5)% of Lightning Damage is Leeched as Mana while affected by Wrath
+{variant:97}{range:0.5}Damage Penetrates (10-15)% Lightning Resistance while affected by Wrath
+{variant:98}{range:0.5}Gain (15-25)% of Physical Damage as Extra Lightning Damage while affected by Wrath
+{variant:99}{range:0.5}(25-40)% of Physical Damage Converted to Lightning Damage while affected by Wrath
+{variant:100}{range:0.5}(10-15)% increased Cast Speed while affected by Zealotry
+{variant:101}Effects of Consecrated Ground you create while affected by Zealotry Linger for 2 seconds
+{variant:102}{range:0.5}Consecrated Ground you create while affected by Zealotry causes enemies to take (8-10)% increased Damage
+{variant:103}{range:0.5}(100-120)% increased Critical Strike Chance against Enemies on Consecrated Ground while affected by Zealotry
+{variant:104}{range:0.5}Critical Strikes Penetrate (8-10)% of Enemy Elemental Resistances while affected by Zealotry
+{variant:105}Gain Arcane Surge for 4 seconds when you create Consecrated Ground while affected by Zealotry
+{variant:106}30% increased Maximum total Energy Shield Recovery per second from Leech while affected by Zealotry</Item>
+    <Item id="37">Rarity: RARE
+New Item
+Velour Boots
+Evasion: 546
+EvasionBasePercentile: 1
+Searing Exarch Item
+Eater of Worlds Item
+Crafted: true
+Prefix: {range:1}IncreasedLife8
+Prefix: {range:1}LocalBaseEvasionRatingAndLife2
+Prefix: {range:1}MovementVelocity6
+Suffix: {range:0.493}FireResist6
+Suffix: {range:1}LightningResist8
+Suffix: {range:1}ColdResist8
+Quality: 20
+Sockets: G-G-G A
+LevelReq: 84
+Implicits: 2
+{exarch}5% increased Action Speed
+{tags:elemental,fire,cold,lightning,ailment}{eater}{range:0.5}(30-32)% chance to Avoid Elemental Ailments
++42 to Evasion Rating
++157 to maximum Life
++38% to Fire Resistance
++48% to Cold Resistance
++48% to Lightning Resistance
+35% increased Movement Speed</Item>
+    <Item id="38">Rarity: RARE
+New Item
+Searching Eye Jewel
+Crafted: true
+Prefix: {range:1}AbyssAddedLightningDamageWithBowsJewel6
+Prefix: {range:1}AbyssJewelAddedLife4
+Suffix: {range:1}AbyssAttackSpeedIfCriticalStrikeDealtRecentlyJewel1
+Suffix: {range:1}AbyssCriticalStrikeMultiplierJewel1
+LevelReq: 65
+Implicits: 0
++12% to Global Critical Strike Multiplier
++40 to maximum Life
+5 to 50 Added Lightning Damage with Bow Attacks
+8% increased Attack Speed if you've dealt a Critical Strike Recently</Item>
+    <Item id="39">Rarity: UNIQUE
+Dying Sun
+Ruby Flask
+Variant: Pre 3.0.0
+Variant: Pre 3.15.0
+Variant: Pre 3.16.0
+Variant: Current
+Selected Variant: 4
+Quality: 20
+LevelReq: 68
+Implicits: 0
+{variant:2}{range:0.5}(10--10)% increased Charges per use
+{variant:3,4}{range:1}(150-125)% increased Charges per use
+{variant:3}{range:0.5}(60-40)% reduced duration
+{variant:4}{range:0.5}(60-40)% less duration
+{variant:1}30% increased Area of Effect during Effect
+{variant:2}{range:0.5}(15-25)% increased Area of Effect during Effect
+{variant:3,4}{range:0.5}(10-20)% increased Area of Effect during Effect
+Skills fire 2 additional Projectiles during Effect</Item>
+    <Item id="40">Rarity: UNIQUE
+Yoke of Suffering
+Onyx Amulet
+Variant: Pre 3.24.0
+Variant: Current
+Selected Variant: 2
+LevelReq: 70
+Implicits: 2
+{crafted}Allocates Sovereignty
+{tags:jewellery_attribute}{range:1}+(10-16) to all Attributes
+{tags:jewellery_resistance}{range:0.5}+(10-20)% to Fire Resistance
+{tags:jewellery_resistance}{range:0.5}+(10-20)% to Cold Resistance
+{tags:jewellery_resistance}{range:0.5}+(20-40)% to Lightning Resistance
+30% reduced Duration of Ailments on Enemies
+{range:0.5}(5-10)% chance to Shock
+{variant:1}Enemies take 5% increased Damage for each type of Ailment you have inflicted on them
+{variant:2}{range:1}Enemies take (5-10)% increased Damage for each type of Ailment you have inflicted on them
+Your Elemental Damage can Shock</Item>
+    <Item id="41">Rarity: RARE
+New Item
+Vermillion Ring
+Crafted: true
+Prefix: {range:1}IncreasedLife7
+Prefix: {range:1}WeaponElementalDamage5
+Prefix: None
+Suffix: {range:0.239}FireResist6
+Suffix: {range:1}LightningResist8
+Suffix: {range:1}ColdResist8
+LevelReq: 80
+Implicits: 1
+{tags:resource,life}{range:1}(5-7)% increased maximum Life
++114 to maximum Life
++37% to Fire Resistance
++48% to Cold Resistance
++48% to Lightning Resistance
+42% increased Elemental Damage with Attack Skills
+{tags:resource,unveiled_mod,mana}{crafted}{range:0.5}Non-Channelling Skills have -(7-6) to Total Mana Cost</Item>
+    <Item id="42">Rarity: UNIQUE
+Forbidden Flesh
+Cobalt Jewel
+Item Level: 83
+Variant: (Duelist) Impact
+Variant: (Duelist) Fatal Flourish
+Variant: (Duelist) War of Attrition
+Variant: (Duelist) Master of Metal
+Variant: (Duelist) First to Strike, Last to Fall
+Variant: (Duelist) Unstoppable Hero
+Variant: (Duelist) Bane of Legends
+Variant: (Duelist) Weapon Master
+Variant: (Duelist) Inspirational
+Variant: (Duelist) Determined Survivor
+Variant: (Duelist) Gratuitous Violence
+Variant: (Duelist) Overwhelm
+Variant: (Duelist) Masterful Form
+Variant: (Duelist) Jagged Technique
+Variant: (Duelist) Headsman
+Variant: (Duelist) Conqueror
+Variant: (Duelist) Measured Retaliation
+Variant: (Duelist) Worthy Foe
+Variant: (Duelist) Fortitude
+Variant: (Duelist) Brutal Fervour
+Variant: (Duelist) More Than Skill
+Variant: (Duelist) Endless Hunger
+Variant: (Templar) Instruments of Virtue
+Variant: (Templar) Sanctuary of Thought
+Variant: (Templar) Pursuit of Faith
+Variant: (Templar) Time of Need
+Variant: (Templar) Divine Guidance
+Variant: (Templar) Righteous Providence
+Variant: (Templar) Conviction of Power
+Variant: (Templar) Pious Path
+Variant: (Templar) Radiant Faith
+Variant: (Templar) Instruments of Zeal
+Variant: (Templar) Sign of Purpose
+Variant: (Templar) Augury of Penitence
+Variant: (Templar) Radiant Crusade
+Variant: (Templar) Searing Purity
+Variant: (Templar) Ritual of Awakening
+Variant: (Templar) Unwavering Faith
+Variant: (Templar) Arcane Blessing
+Variant: (Templar) Unwavering Crusade
+Variant: (Templar) Illuminated Devotion
+Variant: (Templar) Sanctuary
+Variant: (Templar) Bastion of Hope
+Variant: (Templar) Inevitable Judgement
+Variant: (Templar) Harmony of Purpose
+Variant: (Marauder) Sione, Sun's Roar
+Variant: (Marauder) Ramako, Sun's Light
+Variant: (Marauder) Tasalio, Cleansing Water
+Variant: (Marauder) Unrelenting
+Variant: (Marauder) Tukohama, War's Herald
+Variant: (Marauder) Unbreakable
+Variant: (Marauder) Indomitable Resolve
+Variant: (Marauder) War Bringer
+Variant: (Marauder) Undeniable
+Variant: (Marauder) Valako, Storm's Embrace
+Variant: (Marauder) Ngamahu, Flame's Advance
+Variant: (Marauder) Crave the Slaughter
+Variant: (Marauder) Unflinching
+Variant: (Marauder) Flawless Savagery
+Variant: (Marauder) Rite of Ruin
+Variant: (Marauder) Unyielding
+Variant: (Marauder) Blitz
+Variant: (Marauder) Aspect of Carnage
+Variant: (Marauder) Hinekora, Death's Fury
+Variant: (Marauder) Untiring
+Variant: (Marauder) Defy Pain
+Variant: (Marauder) Unstoppable
+Variant: (Ranger) Enduring Suffusion
+Variant: (Ranger) Oath of Winter
+Variant: (Ranger) Master Alchemist
+Variant: (Ranger) Nature's Adrenaline
+Variant: (Ranger) Fury of Nature
+Variant: (Ranger) Master Toxicist
+Variant: (Ranger) Mother's Teachings
+Variant: (Ranger) Avidity
+Variant: (Ranger) Seasoned Hunter
+Variant: (Ranger) Master Distiller
+Variant: (Ranger) Far Shot
+Variant: (Ranger) Ricochet
+Variant: (Ranger) Wind Ward
+Variant: (Ranger) Focal Point
+Variant: (Ranger) Oath of Spring
+Variant: (Ranger) Experienced Herbalist
+Variant: (Ranger) Avatar of the Wilds
+Variant: (Ranger) Oath of Summer
+Variant: (Ranger) Nature's Reprisal
+Variant: (Ranger) Lesson of the Seasons
+Variant: (Ranger) Nature's Boon
+Variant: (Ranger) Endless Munitions
+Variant: (Ranger) Occupying Force
+Variant: (Ranger) Gathering Winds
+Variant: (Ranger) Master Surgeon
+Variant: (Witch) Shaper of Winter
+Variant: (Witch) Heart of Destruction
+Variant: (Witch) Unholy Authority
+Variant: (Witch) Nine Lives
+Variant: (Witch) Mindless Aggression
+Variant: (Witch) Plaguebringer
+Variant: (Witch) Corpse Pact
+Variant: (Witch) Liege of the Primordial
+Variant: (Witch) Bastion of Elements
+Variant: (Witch) Essence Glutton
+Variant: (Witch) Shaper of Storms
+Variant: (Witch) Mistress of Sacrifice
+Variant: (Witch) Elemancer
+Variant: (Witch) Mastermind of Discord
+Variant: (Witch) Shaper of Flames
+Variant: (Witch) Unnatural Strength
+Variant: (Witch) Profane Bloom
+Variant: (Witch) Bone Barrier
+Variant: (Witch) Vile Bastion
+Variant: (Witch) Frigid Wake
+Variant: (Witch) Withering Presence
+Variant: (Witch) Commander of Darkness
+Variant: (Witch) Void Beacon
+Variant: (Witch) Forbidden Power
+Variant: (Scion) Slayer
+Variant: (Scion) Guardian
+Variant: (Scion) Warden
+Variant: (Scion) Hierophant
+Variant: (Scion) Assassin
+Variant: (Scion) Chieftain
+Variant: (Scion) Pathfinder
+Variant: (Scion) Elementalist
+Variant: (Scion) Inquisitor
+Variant: (Scion) Saboteur
+Variant: (Scion) Necromancer
+Variant: (Scion) Juggernaut
+Variant: (Scion) Champion
+Variant: (Scion) Gladiator
+Variant: (Scion) Deadeye
+Variant: (Scion) Trickster
+Variant: (Scion) Unleashed Potential
+Variant: (Scion) Occultist
+Variant: (Scion) Berserker
+Variant: (Shadow) Pyromaniac
+Variant: (Shadow) Like Clockwork
+Variant: (Shadow) Harness the Void
+Variant: (Shadow) Noxious Strike
+Variant: (Shadow) Polymath
+Variant: (Shadow) Soul Drinker
+Variant: (Shadow) Ambush and Assassinate
+Variant: (Shadow) Heartstopper
+Variant: (Shadow) Born in the Shadows
+Variant: (Shadow) Explosives Expert
+Variant: (Shadow) Chain Reaction
+Variant: (Shadow) Perfect Crime
+Variant: (Shadow) Escape Artist
+Variant: (Shadow) Swift Killer
+Variant: (Shadow) Spellbreaker
+Variant: (Shadow) Opportunistic
+Variant: (Shadow) Unstable Infusion
+Variant: (Shadow) Bomb Specialist
+Variant: (Shadow) One Step Ahead
+Variant: (Shadow) Mistwalker
+Variant: (Shadow) Toxic Delivery
+Variant: (Shadow) Deadly Infusion
+Variant: (Shadow) Demolitions Specialist
+Selected Variant: 82
+Limited to: 1
+Requires Class Ranger
+Implicits: 0
+{variant:1}Requires Class Duelist
+{variant:2}Requires Class Duelist
+{variant:3}Requires Class Duelist
+{variant:4}Requires Class Duelist
+{variant:5}Requires Class Duelist
+{variant:6}Requires Class Duelist
+{variant:7}Requires Class Duelist
+{variant:8}Requires Class Duelist
+{variant:9}Requires Class Duelist
+{variant:10}Requires Class Duelist
+{variant:11}Requires Class Duelist
+{variant:12}Requires Class Duelist
+{variant:13}Requires Class Duelist
+{variant:14}Requires Class Duelist
+{variant:15}Requires Class Duelist
+{variant:16}Requires Class Duelist
+{variant:17}Requires Class Duelist
+{variant:18}Requires Class Duelist
+{variant:19}Requires Class Duelist
+{variant:20}Requires Class Duelist
+{variant:21}Requires Class Duelist
+{variant:22}Requires Class Duelist
+{variant:23}Requires Class Templar
+{variant:24}Requires Class Templar
+{variant:25}Requires Class Templar
+{variant:26}Requires Class Templar
+{variant:27}Requires Class Templar
+{variant:28}Requires Class Templar
+{variant:29}Requires Class Templar
+{variant:30}Requires Class Templar
+{variant:31}Requires Class Templar
+{variant:32}Requires Class Templar
+{variant:33}Requires Class Templar
+{variant:34}Requires Class Templar
+{variant:35}Requires Class Templar
+{variant:36}Requires Class Templar
+{variant:37}Requires Class Templar
+{variant:38}Requires Class Templar
+{variant:39}Requires Class Templar
+{variant:40}Requires Class Templar
+{variant:41}Requires Class Templar
+{variant:42}Requires Class Templar
+{variant:43}Requires Class Templar
+{variant:44}Requires Class Templar
+{variant:45}Requires Class Templar
+{variant:46}Requires Class Marauder
+{variant:47}Requires Class Marauder
+{variant:48}Requires Class Marauder
+{variant:49}Requires Class Marauder
+{variant:50}Requires Class Marauder
+{variant:51}Requires Class Marauder
+{variant:52}Requires Class Marauder
+{variant:53}Requires Class Marauder
+{variant:54}Requires Class Marauder
+{variant:55}Requires Class Marauder
+{variant:56}Requires Class Marauder
+{variant:57}Requires Class Marauder
+{variant:58}Requires Class Marauder
+{variant:59}Requires Class Marauder
+{variant:60}Requires Class Marauder
+{variant:61}Requires Class Marauder
+{variant:62}Requires Class Marauder
+{variant:63}Requires Class Marauder
+{variant:64}Requires Class Marauder
+{variant:65}Requires Class Marauder
+{variant:66}Requires Class Marauder
+{variant:67}Requires Class Marauder
+{variant:68}Requires Class Ranger
+{variant:69}Requires Class Ranger
+{variant:70}Requires Class Ranger
+{variant:71}Requires Class Ranger
+{variant:72}Requires Class Ranger
+{variant:73}Requires Class Ranger
+{variant:74}Requires Class Ranger
+{variant:75}Requires Class Ranger
+{variant:76}Requires Class Ranger
+{variant:77}Requires Class Ranger
+{variant:78}Requires Class Ranger
+{variant:79}Requires Class Ranger
+{variant:80}Requires Class Ranger
+{variant:81}Requires Class Ranger
+{variant:82}Requires Class Ranger
+{variant:83}Requires Class Ranger
+{variant:84}Requires Class Ranger
+{variant:85}Requires Class Ranger
+{variant:86}Requires Class Ranger
+{variant:87}Requires Class Ranger
+{variant:88}Requires Class Ranger
+{variant:89}Requires Class Ranger
+{variant:90}Requires Class Ranger
+{variant:91}Requires Class Ranger
+{variant:92}Requires Class Ranger
+{variant:93}Requires Class Witch
+{variant:94}Requires Class Witch
+{variant:95}Requires Class Witch
+{variant:96}Requires Class Witch
+{variant:97}Requires Class Witch
+{variant:98}Requires Class Witch
+{variant:99}Requires Class Witch
+{variant:100}Requires Class Witch
+{variant:101}Requires Class Witch
+{variant:102}Requires Class Witch
+{variant:103}Requires Class Witch
+{variant:104}Requires Class Witch
+{variant:105}Requires Class Witch
+{variant:106}Requires Class Witch
+{variant:107}Requires Class Witch
+{variant:108}Requires Class Witch
+{variant:109}Requires Class Witch
+{variant:110}Requires Class Witch
+{variant:111}Requires Class Witch
+{variant:112}Requires Class Witch
+{variant:113}Requires Class Witch
+{variant:114}Requires Class Witch
+{variant:115}Requires Class Witch
+{variant:116}Requires Class Witch
+{variant:117}Requires Class Scion
+{variant:118}Requires Class Scion
+{variant:119}Requires Class Scion
+{variant:120}Requires Class Scion
+{variant:121}Requires Class Scion
+{variant:122}Requires Class Scion
+{variant:123}Requires Class Scion
+{variant:124}Requires Class Scion
+{variant:125}Requires Class Scion
+{variant:126}Requires Class Scion
+{variant:127}Requires Class Scion
+{variant:128}Requires Class Scion
+{variant:129}Requires Class Scion
+{variant:130}Requires Class Scion
+{variant:131}Requires Class Scion
+{variant:132}Requires Class Scion
+{variant:133}Requires Class Scion
+{variant:134}Requires Class Scion
+{variant:135}Requires Class Scion
+{variant:136}Requires Class Shadow
+{variant:137}Requires Class Shadow
+{variant:138}Requires Class Shadow
+{variant:139}Requires Class Shadow
+{variant:140}Requires Class Shadow
+{variant:141}Requires Class Shadow
+{variant:142}Requires Class Shadow
+{variant:143}Requires Class Shadow
+{variant:144}Requires Class Shadow
+{variant:145}Requires Class Shadow
+{variant:146}Requires Class Shadow
+{variant:147}Requires Class Shadow
+{variant:148}Requires Class Shadow
+{variant:149}Requires Class Shadow
+{variant:150}Requires Class Shadow
+{variant:151}Requires Class Shadow
+{variant:152}Requires Class Shadow
+{variant:153}Requires Class Shadow
+{variant:154}Requires Class Shadow
+{variant:155}Requires Class Shadow
+{variant:156}Requires Class Shadow
+{variant:157}Requires Class Shadow
+{variant:158}Requires Class Shadow
+{variant:1}Allocates Impact if you have the matching modifier on Forbidden Flame
+{variant:2}Allocates Fatal Flourish if you have the matching modifier on Forbidden Flame
+{variant:3}Allocates War of Attrition if you have the matching modifier on Forbidden Flame
+{variant:4}Allocates Master of Metal if you have the matching modifier on Forbidden Flame
+{variant:5}Allocates First to Strike, Last to Fall if you have the matching modifier on Forbidden Flame
+{variant:6}Allocates Unstoppable Hero if you have the matching modifier on Forbidden Flame
+{variant:7}Allocates Bane of Legends if you have the matching modifier on Forbidden Flame
+{variant:8}Allocates Weapon Master if you have the matching modifier on Forbidden Flame
+{variant:9}Allocates Inspirational if you have the matching modifier on Forbidden Flame
+{variant:10}Allocates Determined Survivor if you have the matching modifier on Forbidden Flame
+{variant:11}Allocates Gratuitous Violence if you have the matching modifier on Forbidden Flame
+{variant:12}Allocates Overwhelm if you have the matching modifier on Forbidden Flame
+{variant:13}Allocates Masterful Form if you have the matching modifier on Forbidden Flame
+{variant:14}Allocates Jagged Technique if you have the matching modifier on Forbidden Flame
+{variant:15}Allocates Headsman if you have the matching modifier on Forbidden Flame
+{variant:16}Allocates Conqueror if you have the matching modifier on Forbidden Flame
+{variant:17}Allocates Measured Retaliation if you have the matching modifier on Forbidden Flame
+{variant:18}Allocates Worthy Foe if you have the matching modifier on Forbidden Flame
+{variant:19}Allocates Fortitude if you have the matching modifier on Forbidden Flame
+{variant:20}Allocates Brutal Fervour if you have the matching modifier on Forbidden Flame
+{variant:21}Allocates More Than Skill if you have the matching modifier on Forbidden Flame
+{variant:22}Allocates Endless Hunger if you have the matching modifier on Forbidden Flame
+{variant:23}Allocates Instruments of Virtue if you have the matching modifier on Forbidden Flame
+{variant:24}Allocates Sanctuary of Thought if you have the matching modifier on Forbidden Flame
+{variant:25}Allocates Pursuit of Faith if you have the matching modifier on Forbidden Flame
+{variant:26}Allocates Time of Need if you have the matching modifier on Forbidden Flame
+{variant:27}Allocates Divine Guidance if you have the matching modifier on Forbidden Flame
+{variant:28}Allocates Righteous Providence if you have the matching modifier on Forbidden Flame
+{variant:29}Allocates Conviction of Power if you have the matching modifier on Forbidden Flame
+{variant:30}Allocates Pious Path if you have the matching modifier on Forbidden Flame
+{variant:31}Allocates Radiant Faith if you have the matching modifier on Forbidden Flame
+{variant:32}Allocates Instruments of Zeal if you have the matching modifier on Forbidden Flame
+{variant:33}Allocates Sign of Purpose if you have the matching modifier on Forbidden Flame
+{variant:34}Allocates Augury of Penitence if you have the matching modifier on Forbidden Flame
+{variant:35}Allocates Radiant Crusade if you have the matching modifier on Forbidden Flame
+{variant:36}Allocates Searing Purity if you have the matching modifier on Forbidden Flame
+{variant:37}Allocates Ritual of Awakening if you have the matching modifier on Forbidden Flame
+{variant:38}Allocates Unwavering Faith if you have the matching modifier on Forbidden Flame
+{variant:39}Allocates Arcane Blessing if you have the matching modifier on Forbidden Flame
+{variant:40}Allocates Unwavering Crusade if you have the matching modifier on Forbidden Flame
+{variant:41}Allocates Illuminated Devotion if you have the matching modifier on Forbidden Flame
+{variant:42}Allocates Sanctuary if you have the matching modifier on Forbidden Flame
+{variant:43}Allocates Bastion of Hope if you have the matching modifier on Forbidden Flame
+{variant:44}Allocates Inevitable Judgement if you have the matching modifier on Forbidden Flame
+{variant:45}Allocates Harmony of Purpose if you have the matching modifier on Forbidden Flame
+{variant:46}Allocates Sione, Sun's Roar if you have the matching modifier on Forbidden Flame
+{variant:47}Allocates Ramako, Sun's Light if you have the matching modifier on Forbidden Flame
+{variant:48}Allocates Tasalio, Cleansing Water if you have the matching modifier on Forbidden Flame
+{variant:49}Allocates Unrelenting if you have the matching modifier on Forbidden Flame
+{variant:50}Allocates Tukohama, War's Herald if you have the matching modifier on Forbidden Flame
+{variant:51}Allocates Unbreakable if you have the matching modifier on Forbidden Flame
+{variant:52}Allocates Indomitable Resolve if you have the matching modifier on Forbidden Flame
+{variant:53}Allocates War Bringer if you have the matching modifier on Forbidden Flame
+{variant:54}Allocates Undeniable if you have the matching modifier on Forbidden Flame
+{variant:55}Allocates Valako, Storm's Embrace if you have the matching modifier on Forbidden Flame
+{variant:56}Allocates Ngamahu, Flame's Advance if you have the matching modifier on Forbidden Flame
+{variant:57}Allocates Crave the Slaughter if you have the matching modifier on Forbidden Flame
+{variant:58}Allocates Unflinching if you have the matching modifier on Forbidden Flame
+{variant:59}Allocates Flawless Savagery if you have the matching modifier on Forbidden Flame
+{variant:60}Allocates Rite of Ruin if you have the matching modifier on Forbidden Flame
+{variant:61}Allocates Unyielding if you have the matching modifier on Forbidden Flame
+{variant:62}Allocates Blitz if you have the matching modifier on Forbidden Flame
+{variant:63}Allocates Aspect of Carnage if you have the matching modifier on Forbidden Flame
+{variant:64}Allocates Hinekora, Death's Fury if you have the matching modifier on Forbidden Flame
+{variant:65}Allocates Untiring if you have the matching modifier on Forbidden Flame
+{variant:66}Allocates Defy Pain if you have the matching modifier on Forbidden Flame
+{variant:67}Allocates Unstoppable if you have the matching modifier on Forbidden Flame
+{variant:68}Allocates Enduring Suffusion if you have the matching modifier on Forbidden Flame
+{variant:69}Allocates Oath of Winter if you have the matching modifier on Forbidden Flame
+{variant:70}Allocates Master Alchemist if you have the matching modifier on Forbidden Flame
+{variant:71}Allocates Nature's Adrenaline if you have the matching modifier on Forbidden Flame
+{variant:72}Allocates Fury of Nature if you have the matching modifier on Forbidden Flame
+{variant:73}Allocates Master Toxicist if you have the matching modifier on Forbidden Flame
+{variant:74}Allocates Mother's Teachings if you have the matching modifier on Forbidden Flame
+{variant:75}Allocates Avidity if you have the matching modifier on Forbidden Flame
+{variant:76}Allocates Seasoned Hunter if you have the matching modifier on Forbidden Flame
+{variant:77}Allocates Master Distiller if you have the matching modifier on Forbidden Flame
+{variant:78}Allocates Far Shot if you have the matching modifier on Forbidden Flame
+{variant:79}Allocates Ricochet if you have the matching modifier on Forbidden Flame
+{variant:80}Allocates Wind Ward if you have the matching modifier on Forbidden Flame
+{variant:81}Allocates Focal Point if you have the matching modifier on Forbidden Flame
+{variant:82}Allocates Oath of Spring if you have the matching modifier on Forbidden Flame
+{variant:83}Allocates Experienced Herbalist if you have the matching modifier on Forbidden Flame
+{variant:84}Allocates Avatar of the Wilds if you have the matching modifier on Forbidden Flame
+{variant:85}Allocates Oath of Summer if you have the matching modifier on Forbidden Flame
+{variant:86}Allocates Nature's Reprisal if you have the matching modifier on Forbidden Flame
+{variant:87}Allocates Lesson of the Seasons if you have the matching modifier on Forbidden Flame
+{variant:88}Allocates Nature's Boon if you have the matching modifier on Forbidden Flame
+{variant:89}Allocates Endless Munitions if you have the matching modifier on Forbidden Flame
+{variant:90}Allocates Occupying Force if you have the matching modifier on Forbidden Flame
+{variant:91}Allocates Gathering Winds if you have the matching modifier on Forbidden Flame
+{variant:92}Allocates Master Surgeon if you have the matching modifier on Forbidden Flame
+{variant:93}Allocates Shaper of Winter if you have the matching modifier on Forbidden Flame
+{variant:94}Allocates Heart of Destruction if you have the matching modifier on Forbidden Flame
+{variant:95}Allocates Unholy Authority if you have the matching modifier on Forbidden Flame
+{variant:96}Allocates Nine Lives if you have the matching modifier on Forbidden Flame
+{variant:97}Allocates Mindless Aggression if you have the matching modifier on Forbidden Flame
+{variant:98}Allocates Plaguebringer if you have the matching modifier on Forbidden Flame
+{variant:99}Allocates Corpse Pact if you have the matching modifier on Forbidden Flame
+{variant:100}Allocates Liege of the Primordial if you have the matching modifier on Forbidden Flame
+{variant:101}Allocates Bastion of Elements if you have the matching modifier on Forbidden Flame
+{variant:102}Allocates Essence Glutton if you have the matching modifier on Forbidden Flame
+{variant:103}Allocates Shaper of Storms if you have the matching modifier on Forbidden Flame
+{variant:104}Allocates Mistress of Sacrifice if you have the matching modifier on Forbidden Flame
+{variant:105}Allocates Elemancer if you have the matching modifier on Forbidden Flame
+{variant:106}Allocates Mastermind of Discord if you have the matching modifier on Forbidden Flame
+{variant:107}Allocates Shaper of Flames if you have the matching modifier on Forbidden Flame
+{variant:108}Allocates Unnatural Strength if you have the matching modifier on Forbidden Flame
+{variant:109}Allocates Profane Bloom if you have the matching modifier on Forbidden Flame
+{variant:110}Allocates Bone Barrier if you have the matching modifier on Forbidden Flame
+{variant:111}Allocates Vile Bastion if you have the matching modifier on Forbidden Flame
+{variant:112}Allocates Frigid Wake if you have the matching modifier on Forbidden Flame
+{variant:113}Allocates Withering Presence if you have the matching modifier on Forbidden Flame
+{variant:114}Allocates Commander of Darkness if you have the matching modifier on Forbidden Flame
+{variant:115}Allocates Void Beacon if you have the matching modifier on Forbidden Flame
+{variant:116}Allocates Forbidden Power if you have the matching modifier on Forbidden Flame
+{variant:117}Allocates Slayer if you have the matching modifier on Forbidden Flame
+{variant:118}Allocates Guardian if you have the matching modifier on Forbidden Flame
+{variant:119}Allocates Warden if you have the matching modifier on Forbidden Flame
+{variant:120}Allocates Hierophant if you have the matching modifier on Forbidden Flame
+{variant:121}Allocates Assassin if you have the matching modifier on Forbidden Flame
+{variant:122}Allocates Chieftain if you have the matching modifier on Forbidden Flame
+{variant:123}Allocates Pathfinder if you have the matching modifier on Forbidden Flame
+{variant:124}Allocates Elementalist if you have the matching modifier on Forbidden Flame
+{variant:125}Allocates Inquisitor if you have the matching modifier on Forbidden Flame
+{variant:126}Allocates Saboteur if you have the matching modifier on Forbidden Flame
+{variant:127}Allocates Necromancer if you have the matching modifier on Forbidden Flame
+{variant:128}Allocates Juggernaut if you have the matching modifier on Forbidden Flame
+{variant:129}Allocates Champion if you have the matching modifier on Forbidden Flame
+{variant:130}Allocates Gladiator if you have the matching modifier on Forbidden Flame
+{variant:131}Allocates Deadeye if you have the matching modifier on Forbidden Flame
+{variant:132}Allocates Trickster if you have the matching modifier on Forbidden Flame
+{variant:133}Allocates Unleashed Potential if you have the matching modifier on Forbidden Flame
+{variant:134}Allocates Occultist if you have the matching modifier on Forbidden Flame
+{variant:135}Allocates Berserker if you have the matching modifier on Forbidden Flame
+{variant:136}Allocates Pyromaniac if you have the matching modifier on Forbidden Flame
+{variant:137}Allocates Like Clockwork if you have the matching modifier on Forbidden Flame
+{variant:138}Allocates Harness the Void if you have the matching modifier on Forbidden Flame
+{variant:139}Allocates Noxious Strike if you have the matching modifier on Forbidden Flame
+{variant:140}Allocates Polymath if you have the matching modifier on Forbidden Flame
+{variant:141}Allocates Soul Drinker if you have the matching modifier on Forbidden Flame
+{variant:142}Allocates Ambush and Assassinate if you have the matching modifier on Forbidden Flame
+{variant:143}Allocates Heartstopper if you have the matching modifier on Forbidden Flame
+{variant:144}Allocates Born in the Shadows if you have the matching modifier on Forbidden Flame
+{variant:145}Allocates Explosives Expert if you have the matching modifier on Forbidden Flame
+{variant:146}Allocates Chain Reaction if you have the matching modifier on Forbidden Flame
+{variant:147}Allocates Perfect Crime if you have the matching modifier on Forbidden Flame
+{variant:148}Allocates Escape Artist if you have the matching modifier on Forbidden Flame
+{variant:149}Allocates Swift Killer if you have the matching modifier on Forbidden Flame
+{variant:150}Allocates Spellbreaker if you have the matching modifier on Forbidden Flame
+{variant:151}Allocates Opportunistic if you have the matching modifier on Forbidden Flame
+{variant:152}Allocates Unstable Infusion if you have the matching modifier on Forbidden Flame
+{variant:153}Allocates Bomb Specialist if you have the matching modifier on Forbidden Flame
+{variant:154}Allocates One Step Ahead if you have the matching modifier on Forbidden Flame
+{variant:155}Allocates Mistwalker if you have the matching modifier on Forbidden Flame
+{variant:156}Allocates Toxic Delivery if you have the matching modifier on Forbidden Flame
+{variant:157}Allocates Deadly Infusion if you have the matching modifier on Forbidden Flame
+{variant:158}Allocates Demolitions Specialist if you have the matching modifier on Forbidden Flame
+Corrupted</Item>
+    <Item id="43">Rarity: UNIQUE
+Forbidden Flame
+Crimson Jewel
+Item Level: 83
+Variant: (Duelist) Impact
+Variant: (Duelist) Fatal Flourish
+Variant: (Duelist) War of Attrition
+Variant: (Duelist) Master of Metal
+Variant: (Duelist) First to Strike, Last to Fall
+Variant: (Duelist) Unstoppable Hero
+Variant: (Duelist) Bane of Legends
+Variant: (Duelist) Weapon Master
+Variant: (Duelist) Inspirational
+Variant: (Duelist) Determined Survivor
+Variant: (Duelist) Gratuitous Violence
+Variant: (Duelist) Overwhelm
+Variant: (Duelist) Masterful Form
+Variant: (Duelist) Jagged Technique
+Variant: (Duelist) Headsman
+Variant: (Duelist) Conqueror
+Variant: (Duelist) Measured Retaliation
+Variant: (Duelist) Worthy Foe
+Variant: (Duelist) Fortitude
+Variant: (Duelist) Brutal Fervour
+Variant: (Duelist) More Than Skill
+Variant: (Duelist) Endless Hunger
+Variant: (Templar) Instruments of Virtue
+Variant: (Templar) Sanctuary of Thought
+Variant: (Templar) Pursuit of Faith
+Variant: (Templar) Time of Need
+Variant: (Templar) Divine Guidance
+Variant: (Templar) Righteous Providence
+Variant: (Templar) Conviction of Power
+Variant: (Templar) Pious Path
+Variant: (Templar) Radiant Faith
+Variant: (Templar) Instruments of Zeal
+Variant: (Templar) Sign of Purpose
+Variant: (Templar) Augury of Penitence
+Variant: (Templar) Radiant Crusade
+Variant: (Templar) Searing Purity
+Variant: (Templar) Ritual of Awakening
+Variant: (Templar) Unwavering Faith
+Variant: (Templar) Arcane Blessing
+Variant: (Templar) Unwavering Crusade
+Variant: (Templar) Illuminated Devotion
+Variant: (Templar) Sanctuary
+Variant: (Templar) Bastion of Hope
+Variant: (Templar) Inevitable Judgement
+Variant: (Templar) Harmony of Purpose
+Variant: (Marauder) Sione, Sun's Roar
+Variant: (Marauder) Ramako, Sun's Light
+Variant: (Marauder) Tasalio, Cleansing Water
+Variant: (Marauder) Unrelenting
+Variant: (Marauder) Tukohama, War's Herald
+Variant: (Marauder) Unbreakable
+Variant: (Marauder) Indomitable Resolve
+Variant: (Marauder) War Bringer
+Variant: (Marauder) Undeniable
+Variant: (Marauder) Valako, Storm's Embrace
+Variant: (Marauder) Ngamahu, Flame's Advance
+Variant: (Marauder) Crave the Slaughter
+Variant: (Marauder) Unflinching
+Variant: (Marauder) Flawless Savagery
+Variant: (Marauder) Rite of Ruin
+Variant: (Marauder) Unyielding
+Variant: (Marauder) Blitz
+Variant: (Marauder) Aspect of Carnage
+Variant: (Marauder) Hinekora, Death's Fury
+Variant: (Marauder) Untiring
+Variant: (Marauder) Defy Pain
+Variant: (Marauder) Unstoppable
+Variant: (Ranger) Enduring Suffusion
+Variant: (Ranger) Oath of Winter
+Variant: (Ranger) Master Alchemist
+Variant: (Ranger) Nature's Adrenaline
+Variant: (Ranger) Fury of Nature
+Variant: (Ranger) Master Toxicist
+Variant: (Ranger) Mother's Teachings
+Variant: (Ranger) Avidity
+Variant: (Ranger) Seasoned Hunter
+Variant: (Ranger) Master Distiller
+Variant: (Ranger) Far Shot
+Variant: (Ranger) Ricochet
+Variant: (Ranger) Wind Ward
+Variant: (Ranger) Focal Point
+Variant: (Ranger) Oath of Spring
+Variant: (Ranger) Experienced Herbalist
+Variant: (Ranger) Avatar of the Wilds
+Variant: (Ranger) Oath of Summer
+Variant: (Ranger) Nature's Reprisal
+Variant: (Ranger) Lesson of the Seasons
+Variant: (Ranger) Nature's Boon
+Variant: (Ranger) Endless Munitions
+Variant: (Ranger) Occupying Force
+Variant: (Ranger) Gathering Winds
+Variant: (Ranger) Master Surgeon
+Variant: (Witch) Shaper of Winter
+Variant: (Witch) Heart of Destruction
+Variant: (Witch) Unholy Authority
+Variant: (Witch) Nine Lives
+Variant: (Witch) Mindless Aggression
+Variant: (Witch) Plaguebringer
+Variant: (Witch) Corpse Pact
+Variant: (Witch) Liege of the Primordial
+Variant: (Witch) Bastion of Elements
+Variant: (Witch) Essence Glutton
+Variant: (Witch) Shaper of Storms
+Variant: (Witch) Mistress of Sacrifice
+Variant: (Witch) Elemancer
+Variant: (Witch) Mastermind of Discord
+Variant: (Witch) Shaper of Flames
+Variant: (Witch) Unnatural Strength
+Variant: (Witch) Profane Bloom
+Variant: (Witch) Bone Barrier
+Variant: (Witch) Vile Bastion
+Variant: (Witch) Frigid Wake
+Variant: (Witch) Withering Presence
+Variant: (Witch) Commander of Darkness
+Variant: (Witch) Void Beacon
+Variant: (Witch) Forbidden Power
+Variant: (Scion) Slayer
+Variant: (Scion) Guardian
+Variant: (Scion) Warden
+Variant: (Scion) Hierophant
+Variant: (Scion) Assassin
+Variant: (Scion) Chieftain
+Variant: (Scion) Pathfinder
+Variant: (Scion) Elementalist
+Variant: (Scion) Inquisitor
+Variant: (Scion) Saboteur
+Variant: (Scion) Necromancer
+Variant: (Scion) Juggernaut
+Variant: (Scion) Champion
+Variant: (Scion) Gladiator
+Variant: (Scion) Deadeye
+Variant: (Scion) Trickster
+Variant: (Scion) Unleashed Potential
+Variant: (Scion) Occultist
+Variant: (Scion) Berserker
+Variant: (Shadow) Pyromaniac
+Variant: (Shadow) Like Clockwork
+Variant: (Shadow) Harness the Void
+Variant: (Shadow) Noxious Strike
+Variant: (Shadow) Polymath
+Variant: (Shadow) Soul Drinker
+Variant: (Shadow) Ambush and Assassinate
+Variant: (Shadow) Heartstopper
+Variant: (Shadow) Born in the Shadows
+Variant: (Shadow) Explosives Expert
+Variant: (Shadow) Chain Reaction
+Variant: (Shadow) Perfect Crime
+Variant: (Shadow) Escape Artist
+Variant: (Shadow) Swift Killer
+Variant: (Shadow) Spellbreaker
+Variant: (Shadow) Opportunistic
+Variant: (Shadow) Unstable Infusion
+Variant: (Shadow) Bomb Specialist
+Variant: (Shadow) One Step Ahead
+Variant: (Shadow) Mistwalker
+Variant: (Shadow) Toxic Delivery
+Variant: (Shadow) Deadly Infusion
+Variant: (Shadow) Demolitions Specialist
+Selected Variant: 82
+Limited to: 1
+Requires Class Ranger
+Implicits: 0
+{variant:1}Requires Class Duelist
+{variant:2}Requires Class Duelist
+{variant:3}Requires Class Duelist
+{variant:4}Requires Class Duelist
+{variant:5}Requires Class Duelist
+{variant:6}Requires Class Duelist
+{variant:7}Requires Class Duelist
+{variant:8}Requires Class Duelist
+{variant:9}Requires Class Duelist
+{variant:10}Requires Class Duelist
+{variant:11}Requires Class Duelist
+{variant:12}Requires Class Duelist
+{variant:13}Requires Class Duelist
+{variant:14}Requires Class Duelist
+{variant:15}Requires Class Duelist
+{variant:16}Requires Class Duelist
+{variant:17}Requires Class Duelist
+{variant:18}Requires Class Duelist
+{variant:19}Requires Class Duelist
+{variant:20}Requires Class Duelist
+{variant:21}Requires Class Duelist
+{variant:22}Requires Class Duelist
+{variant:23}Requires Class Templar
+{variant:24}Requires Class Templar
+{variant:25}Requires Class Templar
+{variant:26}Requires Class Templar
+{variant:27}Requires Class Templar
+{variant:28}Requires Class Templar
+{variant:29}Requires Class Templar
+{variant:30}Requires Class Templar
+{variant:31}Requires Class Templar
+{variant:32}Requires Class Templar
+{variant:33}Requires Class Templar
+{variant:34}Requires Class Templar
+{variant:35}Requires Class Templar
+{variant:36}Requires Class Templar
+{variant:37}Requires Class Templar
+{variant:38}Requires Class Templar
+{variant:39}Requires Class Templar
+{variant:40}Requires Class Templar
+{variant:41}Requires Class Templar
+{variant:42}Requires Class Templar
+{variant:43}Requires Class Templar
+{variant:44}Requires Class Templar
+{variant:45}Requires Class Templar
+{variant:46}Requires Class Marauder
+{variant:47}Requires Class Marauder
+{variant:48}Requires Class Marauder
+{variant:49}Requires Class Marauder
+{variant:50}Requires Class Marauder
+{variant:51}Requires Class Marauder
+{variant:52}Requires Class Marauder
+{variant:53}Requires Class Marauder
+{variant:54}Requires Class Marauder
+{variant:55}Requires Class Marauder
+{variant:56}Requires Class Marauder
+{variant:57}Requires Class Marauder
+{variant:58}Requires Class Marauder
+{variant:59}Requires Class Marauder
+{variant:60}Requires Class Marauder
+{variant:61}Requires Class Marauder
+{variant:62}Requires Class Marauder
+{variant:63}Requires Class Marauder
+{variant:64}Requires Class Marauder
+{variant:65}Requires Class Marauder
+{variant:66}Requires Class Marauder
+{variant:67}Requires Class Marauder
+{variant:68}Requires Class Ranger
+{variant:69}Requires Class Ranger
+{variant:70}Requires Class Ranger
+{variant:71}Requires Class Ranger
+{variant:72}Requires Class Ranger
+{variant:73}Requires Class Ranger
+{variant:74}Requires Class Ranger
+{variant:75}Requires Class Ranger
+{variant:76}Requires Class Ranger
+{variant:77}Requires Class Ranger
+{variant:78}Requires Class Ranger
+{variant:79}Requires Class Ranger
+{variant:80}Requires Class Ranger
+{variant:81}Requires Class Ranger
+{variant:82}Requires Class Ranger
+{variant:83}Requires Class Ranger
+{variant:84}Requires Class Ranger
+{variant:85}Requires Class Ranger
+{variant:86}Requires Class Ranger
+{variant:87}Requires Class Ranger
+{variant:88}Requires Class Ranger
+{variant:89}Requires Class Ranger
+{variant:90}Requires Class Ranger
+{variant:91}Requires Class Ranger
+{variant:92}Requires Class Ranger
+{variant:93}Requires Class Witch
+{variant:94}Requires Class Witch
+{variant:95}Requires Class Witch
+{variant:96}Requires Class Witch
+{variant:97}Requires Class Witch
+{variant:98}Requires Class Witch
+{variant:99}Requires Class Witch
+{variant:100}Requires Class Witch
+{variant:101}Requires Class Witch
+{variant:102}Requires Class Witch
+{variant:103}Requires Class Witch
+{variant:104}Requires Class Witch
+{variant:105}Requires Class Witch
+{variant:106}Requires Class Witch
+{variant:107}Requires Class Witch
+{variant:108}Requires Class Witch
+{variant:109}Requires Class Witch
+{variant:110}Requires Class Witch
+{variant:111}Requires Class Witch
+{variant:112}Requires Class Witch
+{variant:113}Requires Class Witch
+{variant:114}Requires Class Witch
+{variant:115}Requires Class Witch
+{variant:116}Requires Class Witch
+{variant:117}Requires Class Scion
+{variant:118}Requires Class Scion
+{variant:119}Requires Class Scion
+{variant:120}Requires Class Scion
+{variant:121}Requires Class Scion
+{variant:122}Requires Class Scion
+{variant:123}Requires Class Scion
+{variant:124}Requires Class Scion
+{variant:125}Requires Class Scion
+{variant:126}Requires Class Scion
+{variant:127}Requires Class Scion
+{variant:128}Requires Class Scion
+{variant:129}Requires Class Scion
+{variant:130}Requires Class Scion
+{variant:131}Requires Class Scion
+{variant:132}Requires Class Scion
+{variant:133}Requires Class Scion
+{variant:134}Requires Class Scion
+{variant:135}Requires Class Scion
+{variant:136}Requires Class Shadow
+{variant:137}Requires Class Shadow
+{variant:138}Requires Class Shadow
+{variant:139}Requires Class Shadow
+{variant:140}Requires Class Shadow
+{variant:141}Requires Class Shadow
+{variant:142}Requires Class Shadow
+{variant:143}Requires Class Shadow
+{variant:144}Requires Class Shadow
+{variant:145}Requires Class Shadow
+{variant:146}Requires Class Shadow
+{variant:147}Requires Class Shadow
+{variant:148}Requires Class Shadow
+{variant:149}Requires Class Shadow
+{variant:150}Requires Class Shadow
+{variant:151}Requires Class Shadow
+{variant:152}Requires Class Shadow
+{variant:153}Requires Class Shadow
+{variant:154}Requires Class Shadow
+{variant:155}Requires Class Shadow
+{variant:156}Requires Class Shadow
+{variant:157}Requires Class Shadow
+{variant:158}Requires Class Shadow
+{variant:1}Allocates Impact if you have the matching modifier on Forbidden Flesh
+{variant:2}Allocates Fatal Flourish if you have the matching modifier on Forbidden Flesh
+{variant:3}Allocates War of Attrition if you have the matching modifier on Forbidden Flesh
+{variant:4}Allocates Master of Metal if you have the matching modifier on Forbidden Flesh
+{variant:5}Allocates First to Strike, Last to Fall if you have the matching modifier on Forbidden Flesh
+{variant:6}Allocates Unstoppable Hero if you have the matching modifier on Forbidden Flesh
+{variant:7}Allocates Bane of Legends if you have the matching modifier on Forbidden Flesh
+{variant:8}Allocates Weapon Master if you have the matching modifier on Forbidden Flesh
+{variant:9}Allocates Inspirational if you have the matching modifier on Forbidden Flesh
+{variant:10}Allocates Determined Survivor if you have the matching modifier on Forbidden Flesh
+{variant:11}Allocates Gratuitous Violence if you have the matching modifier on Forbidden Flesh
+{variant:12}Allocates Overwhelm if you have the matching modifier on Forbidden Flesh
+{variant:13}Allocates Masterful Form if you have the matching modifier on Forbidden Flesh
+{variant:14}Allocates Jagged Technique if you have the matching modifier on Forbidden Flesh
+{variant:15}Allocates Headsman if you have the matching modifier on Forbidden Flesh
+{variant:16}Allocates Conqueror if you have the matching modifier on Forbidden Flesh
+{variant:17}Allocates Measured Retaliation if you have the matching modifier on Forbidden Flesh
+{variant:18}Allocates Worthy Foe if you have the matching modifier on Forbidden Flesh
+{variant:19}Allocates Fortitude if you have the matching modifier on Forbidden Flesh
+{variant:20}Allocates Brutal Fervour if you have the matching modifier on Forbidden Flesh
+{variant:21}Allocates More Than Skill if you have the matching modifier on Forbidden Flesh
+{variant:22}Allocates Endless Hunger if you have the matching modifier on Forbidden Flesh
+{variant:23}Allocates Instruments of Virtue if you have the matching modifier on Forbidden Flesh
+{variant:24}Allocates Sanctuary of Thought if you have the matching modifier on Forbidden Flesh
+{variant:25}Allocates Pursuit of Faith if you have the matching modifier on Forbidden Flesh
+{variant:26}Allocates Time of Need if you have the matching modifier on Forbidden Flesh
+{variant:27}Allocates Divine Guidance if you have the matching modifier on Forbidden Flesh
+{variant:28}Allocates Righteous Providence if you have the matching modifier on Forbidden Flesh
+{variant:29}Allocates Conviction of Power if you have the matching modifier on Forbidden Flesh
+{variant:30}Allocates Pious Path if you have the matching modifier on Forbidden Flesh
+{variant:31}Allocates Radiant Faith if you have the matching modifier on Forbidden Flesh
+{variant:32}Allocates Instruments of Zeal if you have the matching modifier on Forbidden Flesh
+{variant:33}Allocates Sign of Purpose if you have the matching modifier on Forbidden Flesh
+{variant:34}Allocates Augury of Penitence if you have the matching modifier on Forbidden Flesh
+{variant:35}Allocates Radiant Crusade if you have the matching modifier on Forbidden Flesh
+{variant:36}Allocates Searing Purity if you have the matching modifier on Forbidden Flesh
+{variant:37}Allocates Ritual of Awakening if you have the matching modifier on Forbidden Flesh
+{variant:38}Allocates Unwavering Faith if you have the matching modifier on Forbidden Flesh
+{variant:39}Allocates Arcane Blessing if you have the matching modifier on Forbidden Flesh
+{variant:40}Allocates Unwavering Crusade if you have the matching modifier on Forbidden Flesh
+{variant:41}Allocates Illuminated Devotion if you have the matching modifier on Forbidden Flesh
+{variant:42}Allocates Sanctuary if you have the matching modifier on Forbidden Flesh
+{variant:43}Allocates Bastion of Hope if you have the matching modifier on Forbidden Flesh
+{variant:44}Allocates Inevitable Judgement if you have the matching modifier on Forbidden Flesh
+{variant:45}Allocates Harmony of Purpose if you have the matching modifier on Forbidden Flesh
+{variant:46}Allocates Sione, Sun's Roar if you have the matching modifier on Forbidden Flesh
+{variant:47}Allocates Ramako, Sun's Light if you have the matching modifier on Forbidden Flesh
+{variant:48}Allocates Tasalio, Cleansing Water if you have the matching modifier on Forbidden Flesh
+{variant:49}Allocates Unrelenting if you have the matching modifier on Forbidden Flesh
+{variant:50}Allocates Tukohama, War's Herald if you have the matching modifier on Forbidden Flesh
+{variant:51}Allocates Unbreakable if you have the matching modifier on Forbidden Flesh
+{variant:52}Allocates Indomitable Resolve if you have the matching modifier on Forbidden Flesh
+{variant:53}Allocates War Bringer if you have the matching modifier on Forbidden Flesh
+{variant:54}Allocates Undeniable if you have the matching modifier on Forbidden Flesh
+{variant:55}Allocates Valako, Storm's Embrace if you have the matching modifier on Forbidden Flesh
+{variant:56}Allocates Ngamahu, Flame's Advance if you have the matching modifier on Forbidden Flesh
+{variant:57}Allocates Crave the Slaughter if you have the matching modifier on Forbidden Flesh
+{variant:58}Allocates Unflinching if you have the matching modifier on Forbidden Flesh
+{variant:59}Allocates Flawless Savagery if you have the matching modifier on Forbidden Flesh
+{variant:60}Allocates Rite of Ruin if you have the matching modifier on Forbidden Flesh
+{variant:61}Allocates Unyielding if you have the matching modifier on Forbidden Flesh
+{variant:62}Allocates Blitz if you have the matching modifier on Forbidden Flesh
+{variant:63}Allocates Aspect of Carnage if you have the matching modifier on Forbidden Flesh
+{variant:64}Allocates Hinekora, Death's Fury if you have the matching modifier on Forbidden Flesh
+{variant:65}Allocates Untiring if you have the matching modifier on Forbidden Flesh
+{variant:66}Allocates Defy Pain if you have the matching modifier on Forbidden Flesh
+{variant:67}Allocates Unstoppable if you have the matching modifier on Forbidden Flesh
+{variant:68}Allocates Enduring Suffusion if you have the matching modifier on Forbidden Flesh
+{variant:69}Allocates Oath of Winter if you have the matching modifier on Forbidden Flesh
+{variant:70}Allocates Master Alchemist if you have the matching modifier on Forbidden Flesh
+{variant:71}Allocates Nature's Adrenaline if you have the matching modifier on Forbidden Flesh
+{variant:72}Allocates Fury of Nature if you have the matching modifier on Forbidden Flesh
+{variant:73}Allocates Master Toxicist if you have the matching modifier on Forbidden Flesh
+{variant:74}Allocates Mother's Teachings if you have the matching modifier on Forbidden Flesh
+{variant:75}Allocates Avidity if you have the matching modifier on Forbidden Flesh
+{variant:76}Allocates Seasoned Hunter if you have the matching modifier on Forbidden Flesh
+{variant:77}Allocates Master Distiller if you have the matching modifier on Forbidden Flesh
+{variant:78}Allocates Far Shot if you have the matching modifier on Forbidden Flesh
+{variant:79}Allocates Ricochet if you have the matching modifier on Forbidden Flesh
+{variant:80}Allocates Wind Ward if you have the matching modifier on Forbidden Flesh
+{variant:81}Allocates Focal Point if you have the matching modifier on Forbidden Flesh
+{variant:82}Allocates Oath of Spring if you have the matching modifier on Forbidden Flesh
+{variant:83}Allocates Experienced Herbalist if you have the matching modifier on Forbidden Flesh
+{variant:84}Allocates Avatar of the Wilds if you have the matching modifier on Forbidden Flesh
+{variant:85}Allocates Oath of Summer if you have the matching modifier on Forbidden Flesh
+{variant:86}Allocates Nature's Reprisal if you have the matching modifier on Forbidden Flesh
+{variant:87}Allocates Lesson of the Seasons if you have the matching modifier on Forbidden Flesh
+{variant:88}Allocates Nature's Boon if you have the matching modifier on Forbidden Flesh
+{variant:89}Allocates Endless Munitions if you have the matching modifier on Forbidden Flesh
+{variant:90}Allocates Occupying Force if you have the matching modifier on Forbidden Flesh
+{variant:91}Allocates Gathering Winds if you have the matching modifier on Forbidden Flesh
+{variant:92}Allocates Master Surgeon if you have the matching modifier on Forbidden Flesh
+{variant:93}Allocates Shaper of Winter if you have the matching modifier on Forbidden Flesh
+{variant:94}Allocates Heart of Destruction if you have the matching modifier on Forbidden Flesh
+{variant:95}Allocates Unholy Authority if you have the matching modifier on Forbidden Flesh
+{variant:96}Allocates Nine Lives if you have the matching modifier on Forbidden Flesh
+{variant:97}Allocates Mindless Aggression if you have the matching modifier on Forbidden Flesh
+{variant:98}Allocates Plaguebringer if you have the matching modifier on Forbidden Flesh
+{variant:99}Allocates Corpse Pact if you have the matching modifier on Forbidden Flesh
+{variant:100}Allocates Liege of the Primordial if you have the matching modifier on Forbidden Flesh
+{variant:101}Allocates Bastion of Elements if you have the matching modifier on Forbidden Flesh
+{variant:102}Allocates Essence Glutton if you have the matching modifier on Forbidden Flesh
+{variant:103}Allocates Shaper of Storms if you have the matching modifier on Forbidden Flesh
+{variant:104}Allocates Mistress of Sacrifice if you have the matching modifier on Forbidden Flesh
+{variant:105}Allocates Elemancer if you have the matching modifier on Forbidden Flesh
+{variant:106}Allocates Mastermind of Discord if you have the matching modifier on Forbidden Flesh
+{variant:107}Allocates Shaper of Flames if you have the matching modifier on Forbidden Flesh
+{variant:108}Allocates Unnatural Strength if you have the matching modifier on Forbidden Flesh
+{variant:109}Allocates Profane Bloom if you have the matching modifier on Forbidden Flesh
+{variant:110}Allocates Bone Barrier if you have the matching modifier on Forbidden Flesh
+{variant:111}Allocates Vile Bastion if you have the matching modifier on Forbidden Flesh
+{variant:112}Allocates Frigid Wake if you have the matching modifier on Forbidden Flesh
+{variant:113}Allocates Withering Presence if you have the matching modifier on Forbidden Flesh
+{variant:114}Allocates Commander of Darkness if you have the matching modifier on Forbidden Flesh
+{variant:115}Allocates Void Beacon if you have the matching modifier on Forbidden Flesh
+{variant:116}Allocates Forbidden Power if you have the matching modifier on Forbidden Flesh
+{variant:117}Allocates Slayer if you have the matching modifier on Forbidden Flesh
+{variant:118}Allocates Guardian if you have the matching modifier on Forbidden Flesh
+{variant:119}Allocates Warden if you have the matching modifier on Forbidden Flesh
+{variant:120}Allocates Hierophant if you have the matching modifier on Forbidden Flesh
+{variant:121}Allocates Assassin if you have the matching modifier on Forbidden Flesh
+{variant:122}Allocates Chieftain if you have the matching modifier on Forbidden Flesh
+{variant:123}Allocates Pathfinder if you have the matching modifier on Forbidden Flesh
+{variant:124}Allocates Elementalist if you have the matching modifier on Forbidden Flesh
+{variant:125}Allocates Inquisitor if you have the matching modifier on Forbidden Flesh
+{variant:126}Allocates Saboteur if you have the matching modifier on Forbidden Flesh
+{variant:127}Allocates Necromancer if you have the matching modifier on Forbidden Flesh
+{variant:128}Allocates Juggernaut if you have the matching modifier on Forbidden Flesh
+{variant:129}Allocates Champion if you have the matching modifier on Forbidden Flesh
+{variant:130}Allocates Gladiator if you have the matching modifier on Forbidden Flesh
+{variant:131}Allocates Deadeye if you have the matching modifier on Forbidden Flesh
+{variant:132}Allocates Trickster if you have the matching modifier on Forbidden Flesh
+{variant:133}Allocates Unleashed Potential if you have the matching modifier on Forbidden Flesh
+{variant:134}Allocates Occultist if you have the matching modifier on Forbidden Flesh
+{variant:135}Allocates Berserker if you have the matching modifier on Forbidden Flesh
+{variant:136}Allocates Pyromaniac if you have the matching modifier on Forbidden Flesh
+{variant:137}Allocates Like Clockwork if you have the matching modifier on Forbidden Flesh
+{variant:138}Allocates Harness the Void if you have the matching modifier on Forbidden Flesh
+{variant:139}Allocates Noxious Strike if you have the matching modifier on Forbidden Flesh
+{variant:140}Allocates Polymath if you have the matching modifier on Forbidden Flesh
+{variant:141}Allocates Soul Drinker if you have the matching modifier on Forbidden Flesh
+{variant:142}Allocates Ambush and Assassinate if you have the matching modifier on Forbidden Flesh
+{variant:143}Allocates Heartstopper if you have the matching modifier on Forbidden Flesh
+{variant:144}Allocates Born in the Shadows if you have the matching modifier on Forbidden Flesh
+{variant:145}Allocates Explosives Expert if you have the matching modifier on Forbidden Flesh
+{variant:146}Allocates Chain Reaction if you have the matching modifier on Forbidden Flesh
+{variant:147}Allocates Perfect Crime if you have the matching modifier on Forbidden Flesh
+{variant:148}Allocates Escape Artist if you have the matching modifier on Forbidden Flesh
+{variant:149}Allocates Swift Killer if you have the matching modifier on Forbidden Flesh
+{variant:150}Allocates Spellbreaker if you have the matching modifier on Forbidden Flesh
+{variant:151}Allocates Opportunistic if you have the matching modifier on Forbidden Flesh
+{variant:152}Allocates Unstable Infusion if you have the matching modifier on Forbidden Flesh
+{variant:153}Allocates Bomb Specialist if you have the matching modifier on Forbidden Flesh
+{variant:154}Allocates One Step Ahead if you have the matching modifier on Forbidden Flesh
+{variant:155}Allocates Mistwalker if you have the matching modifier on Forbidden Flesh
+{variant:156}Allocates Toxic Delivery if you have the matching modifier on Forbidden Flesh
+{variant:157}Allocates Deadly Infusion if you have the matching modifier on Forbidden Flesh
+{variant:158}Allocates Demolitions Specialist if you have the matching modifier on Forbidden Flesh
+Corrupted</Item>
+    <Item id="44">Rarity: UNIQUE
+Unnatural Instinct
+Viridian Jewel
+Radius: Small
+Limited to: 1
+Implicits: 0
+Allocated Small Passive Skills in Radius grant nothing
+Grants all bonuses of Unallocated Small Passive Skills in Radius</Item>
+    <Item id="45">Rarity: RARE
+New Item
+Syndicate's Garb
+Evasion: 1663
+EvasionBasePercentile: 1
+Shaper Item
+Hunter Item
+Crafted: true
+Prefix: {range:1}IncreasedLife12
+Prefix: None
+Prefix: {range:1}PhysicalDamageTakenAsColdPercentUberMaven
+Suffix: {range:1}AdditionalCritWithAttacksInfluenceMaven
+Suffix: {range:0.5}ChanceToSuppressSpellsHigh3
+Suffix: None
+Quality: 20
+Sockets: G-G-G-G-G-G
+LevelReq: 84
+Implicits: 0
++15% chance to Suppress Spell Damage
++189 to maximum Life
+18% of Physical Damage from Hits taken as Cold Damage
+Attacks have +2% to Critical Strike Chance
+10% of Cold Damage taken Recouped as Life</Item>
+    <Item id="46">Rarity: RARE
+New Item
+Medium Cluster Jewel
+Crafted: true
+Prefix: {range:0.5}AfflictionNotablePressurePoints__
+Prefix: {range:0.5}AfflictionNotableBasicsofPain
+Suffix: None
+Suffix: None
+Cluster Jewel Skill: affliction_critical_chance
+Cluster Jewel Node Count: 4
+LevelReq: 40
+Implicits: 3
+{crafted}Adds 4 Passive Skills
+{crafted}1 Added Passive Skill is a Jewel Socket
+{crafted}Added Small Passive Skills grant: 15% increased Critical Strike Chance
+1 Added Passive Skill is Basics of Pain
+1 Added Passive Skill is Pressure Points</Item>
+    <Item id="47">Rarity: RARE
+New Item
+Medium Cluster Jewel
+Crafted: true
+Prefix: {range:0.5}AfflictionNotableEyetoEye
+Prefix: {range:0.5}AfflictionNotableRepeater
+Suffix: None
+Suffix: None
+Cluster Jewel Skill: affliction_projectile_damage
+Cluster Jewel Node Count: 4
+LevelReq: 40
+Implicits: 3
+{crafted}Adds 4 Passive Skills
+{crafted}1 Added Passive Skill is a Jewel Socket
+{crafted}Added Small Passive Skills grant: 10% increased Projectile Damage
+1 Added Passive Skill is Eye to Eye
+1 Added Passive Skill is Repeater</Item>
+    <Item id="48">Rarity: MAGIC
+Experimenter's Diamond Flask of Incision
+Crafted: true
+Prefix: {range:1}FlaskIncreasedDuration6
+Suffix: {range:1}FlaskBuffCriticalChanceWhileHealing5
+Quality: 20
+LevelReq: 67
+Implicits: 0
+40% increased Duration
+55% increased Critical Strike Chance during Effect</Item>
+    <Item id="49">Rarity: UNIQUE
+Lethal Pride
+Timeless Jewel
+Item Level: 84
+Radius: Large
+Limited to: 1
+Implicits: 0
+Commanded leadership over 15565 warriors under Kaom
+Passives in radius are Conquered by the Karui
+Historic</Item>
+    <Item id="50">Rarity: RARE
+New Item
+Medium Cluster Jewel
+Crafted: true
+Prefix: {range:0.5}AfflictionNotableRepeater
+Prefix: {range:0.5}AfflictionNotableStreamlined
+Suffix: None
+Suffix: None
+Cluster Jewel Skill: affliction_projectile_damage
+Cluster Jewel Node Count: 4
+LevelReq: 0
+Implicits: 3
+{crafted}Adds 4 Passive Skills
+{crafted}1 Added Passive Skill is a Jewel Socket
+{crafted}Added Small Passive Skills grant: 10% increased Projectile Damage
+1 Added Passive Skill is Repeater
+1 Added Passive Skill is Streamlined</Item>
+    <Item id="51">Rarity: UNIQUE
+Lethal Pride
+Timeless Jewel
+Item Level: 84
+Radius: Large
+Limited to: 1
+Implicits: 0
+Commanded leadership over 15648 warriors under Rakiata
+Passives in radius are Conquered by the Karui
+Historic</Item>
+    <Item id="52">Rarity: RARE
+Dragon Ichor
+Viridian Jewel
+Unique ID: 16c769c5fab269fa5a6d9e94cbf04f030f959945b50a7c724612f94e19eb19f6
+Item Level: 83
+Implicits: 2
+24% reduced Effect of Curses on you
+20% reduced Bleed Duration on you
+7% increased Attack Speed with Bows
++12% to Global Critical Strike Multiplier
+7% increased maximum Life
+18% increased Damage with Bleeding
+Corrupted</Item>
+    <Item id="53">Rarity: RELIC
+Forbidden Flesh
+Cobalt Jewel
+Unique ID: 39a6760ef4ec1fb95a6fef047072dfa05b802f24c30d5ceb2e607f4d94cca4a6
+Item Level: 84
+Limited to: 1
+Requires Class Ranger
+Implicits: 0
+Allocates Focal Point if you have the matching modifier on Forbidden Flame
+Corrupted</Item>
+    <Item id="54">Rarity: UNIQUE
+Thread of Hope
+Crimson Jewel
+Unique ID: bcea4e7239947f38808a3e3dd2ff07867d296a606a09868adc6da716823e481b
+Item Level: 87
+Radius: Variable
+Implicits: 0
+Only affects Passives in Massive Ring
+Passives in Radius can be Allocated without being connected to your tree
+-11% to all Elemental Resistances
+Corrupted</Item>
+    <Item id="55">Rarity: UNIQUE
+Unnatural Instinct
+Viridian Jewel
+Unique ID: ed05fda146a13a352c7b1052ac323c2d8d4b30e3b978c5f77c0ca53fb206b22f
+Item Level: 86
+Radius: Small
+Limited to: 1
+Implicits: 0
+Allocated Small Passive Skills in Radius grant nothing
+Grants all bonuses of Unallocated Small Passive Skills in Radius
+Corrupted</Item>
+    <Item id="56">Rarity: RARE
+Hypnotic Prism
+Large Cluster Jewel
+Unique ID: 3342e8516f43b72f7039afd5f45f4c95e507193a69b2e646358baae9dd198ff5
+Item Level: 83
+LevelReq: 54
+Implicits: 4
+{crafted}Adds 8 Passive Skills
+{crafted}2 Added Passive Skills are Jewel Sockets
+{crafted}Added Small Passive Skills grant: 12% increased Damage with Bows
+Added Small Passive Skills grant: 12% increased Damage Over Time with Bow Skills
+Added Small Passive Skills also grant: +4% to Chaos Resistance
+1 Added Passive Skill is Arcing Shot
+1 Added Passive Skill is Broadside
+1 Added Passive Skill is Martial Prowess</Item>
+    <Item id="57">Rarity: UNIQUE
+Watcher's Eye
+Prismatic Jewel
+Unique ID: 26ff46472d41eddc94550e8a58e6ce31c37c2dcef59c8123e5a74672a18ff610
+Item Level: 87
+Limited to: 1
+Implicits: 0
+4% increased maximum Energy Shield
+5% increased maximum Life
+4% increased maximum Mana
+Cannot be Blinded while affected by Precision
++43% to Critical Strike Multiplier while affected by Anger
+You have Phasing while affected by Haste</Item>
+    <Item id="58">Rarity: UNIQUE
+Lethal Pride
+Timeless Jewel
+Unique ID: 23928e0936011f929cc32d25652cd9c83ed7e36a2ff7e1302b4d754446f929f2
+Item Level: 84
+Radius: Large
+Implicits: 0
+Commanded leadership over 15565 warriors under Kaom
+Passives in radius are Conquered by the Karui
+Historic</Item>
+    <Item id="59">Rarity: UNIQUE
+Forbidden Flame
+Crimson Jewel
+Unique ID: db6aecc3d983b0faae29f0789c9ccf9537585d90b63b36f924900c20442a7f51
+Item Level: 86
+Limited to: 1
+Requires Class Ranger
+Implicits: 0
+Allocates Focal Point if you have the matching modifier on Forbidden Flesh
+Corrupted</Item>
+    <Item id="60">Rarity: RARE
+Spirit Desire
+Large Cluster Jewel
+Unique ID: 945a1eb8ba3c9b7ce451454ebddc7ab7289822d892e19a6291406435e031d3ba
+Item Level: 83
+LevelReq: 40
+Implicits: 4
+{crafted}Adds 8 Passive Skills
+{crafted}2 Added Passive Skills are Jewel Sockets
+{crafted}Added Small Passive Skills grant: 12% increased Damage with Bows
+Added Small Passive Skills grant: 12% increased Damage Over Time with Bow Skills
+Added Small Passive Skills also grant: +2 to All Attributes
+1 Added Passive Skill is Arcing Shot
+1 Added Passive Skill is Broadside
+1 Added Passive Skill is Martial Prowess</Item>
+    <Item id="61">Rarity: UNIQUE
+Headhunter
+Leather Belt
+Unique ID: 2e9f452679ecdb4744832a710fc3198c92d888d2909e31704197f334804acbfa
+Item Level: 84
+LevelReq: 40
+Implicits: 1
++40 to maximum Life
++63 to Strength
++61 to Dexterity
++59 to maximum Life
+20% increased Damage with Hits against Rare monsters
+When you Kill a Rare monster, you gain its Modifiers for 60 seconds</Item>
+    <Item id="62">Rarity: RARE
+Eagle Hand
+Slink Gloves
+Evasion: 330
+EvasionBasePercentile: 0.9167
+Unique ID: 62652f7cba5cae20879ace93d15a8dc863a1e4f28db5a6da90808fcfa15f1e40
+Item Level: 85
+Quality: 20
+Sockets: B-B-R-G
+LevelReq: 70
+Implicits: 2
++7% chance to Suppress Spell Damage
+Gain 1 Rage on Attack Hit
+{fractured}+33% to Chaos Resistance
+Adds 4 to 6 Physical Damage to Attacks
+17% increased Attack Speed
++121 to maximum Life
++47% to Cold Resistance
+{crafted}28% increased Damage during any Flask Effect</Item>
+    <Item id="63">Rarity: UNIQUE
+Progenesis
+Amethyst Flask
+Unique ID: 474cdb917f0855ae3b61ca6febf0a764ad357baa389ee7e67e358e71622f24df
+Item Level: 87
+Quality: 20
+LevelReq: 60
+Implicits: 1
+{crafted}Used when Charges reach full
+14% reduced Charges per use
+21% increased Duration
+When Hit during effect, 25% of Life loss from Damage taken occurs over 4 seconds instead</Item>
+    <Item id="64">Rarity: RARE
+Bramble Bolt
+Feathered Arrow Quiver
+Unique ID: 15c28d68b2d753245e6da9433e54187a5fcbff55cd3bb3e876ea2b542baa12ba
+Item Level: 83
+LevelReq: 65
+Implicits: 1
+30% increased Projectile Speed
+{fractured}+37% to Critical Strike Multiplier with Bows
+Adds 8 to 141 Lightning Damage to Attacks
++108 to maximum Life
+Bow Attacks fire an additional Arrow
+40% increased Damage with Bow Skills
+{crafted}12% increased Attack Speed</Item>
+    <Item id="65">Rarity: RARE
+Onslaught Skin
+Supreme Leather
+Evasion: 2374
+EvasionBasePercentile: 0.3589
+Unique ID: e9030ab6bd6083981be68d711dd55afbdd7c63f86bca188a70874689b5db3cd4
+Item Level: 86
+Quality: 20
+Sockets: G-G-B-G-G-G
+LevelReq: 73
+Implicits: 2
+11% of Physical Damage from Hits taken as Cold Damage
+14% increased effect of Non-Curse Auras from your Skills
+{fractured}+34% to Chaos Resistance
++22% chance to Suppress Spell Damage
++55 to Intelligence
++185 to maximum Life
+{crafted}8% increased maximum Life
+{crafted}8% increased maximum Mana
+{tags:defences,evasion}{custom}{range:1}(101-110)% increased Evasion Rating</Item>
+    <Item id="66">Rarity: UNIQUE
+Yoke of Suffering
+Onyx Amulet
+Unique ID: fa69761bd9ef7bbc100e6d7b964bd2385dff8b09c6e5edfd39c837e0bdc566b8
+Item Level: 86
+LevelReq: 70
+Implicits: 2
+{crafted}Allocates Sovereignty
++16 to all Attributes
++14% to Fire Resistance
++17% to Cold Resistance
++31% to Lightning Resistance
+30% reduced Duration of Ailments on Enemies
+9% chance to Shock
+Enemies take 10% increased Damage for each type of Ailment you have inflicted on them
+Your Elemental Damage can Shock</Item>
+    <Item id="67">Rarity: MAGIC
+Clinician's Silver Flask of Persistence
+Unique ID: 86e7a6befd0e3fbd8bef95b41cbc008a5778eb985f2cba820f26dbcabe72877e
+Item Level: 78
+Quality: 20
+LevelReq: 54
+Implicits: 1
+{crafted}Used when Charges reach full
+32% increased Duration
+43% Chance to Avoid being Stunned during Effect</Item>
+    <Item id="68">Rarity: MAGIC
+Burnished Foil of Stinging
+Unique ID: b6fd860a87961dc2f236129eb57fe113d9e0dddb2399a5a2c3f55a315df785c8
+Item Level: 51
+Quality: 0
+Sockets: G R G
+LevelReq: 40
+Implicits: 1
++25% to Global Critical Strike Multiplier
+18% increased Critical Strike Chance</Item>
+    <Item id="69">Rarity: NORMAL
+Fancy Foil
+Unique ID: c243b4eaeab36980f145adf9f759ac7d89ae28436c20a51c4c2e37433125b701
+Item Level: 52
+Quality: 0
+Sockets: G R-G
+LevelReq: 52
+Implicits: 1
++25% to Global Critical Strike Multiplier</Item>
+    <Item id="70">Rarity: UNIQUE
+The Taming
+Prismatic Ring
+Unique ID: 3f44d97e7c3ec919bc7c8f073aa38281d5e79cfcfbc0a810d76c6c6da49b2adc
+Item Level: 85
+LevelReq: 30
+Implicits: 1
++10% to all Elemental Resistances
++27% to all Elemental Resistances
+10% chance to Freeze, Shock and Ignite
+46% increased Elemental Damage with Hits and Ailments for
+each type of Elemental Ailment on Enemy</Item>
+    <Item id="71">Rarity: MAGIC
+Scholar's Jade Flask of the Petrel
+Unique ID: 1283fd0407fb1370d60a22d7583511d37f732705fb138e8dfe85c529ee721c46
+Item Level: 42
+Quality: 20
+LevelReq: 27
+Implicits: 1
+{crafted}Used when Charges reach full
+18% reduced Charges per use
+41% reduced Effect of Curses on you during Effect</Item>
+    <Item id="72">Rarity: MAGIC
+Constant Quicksilver Flask of the Gazelle
+Unique ID: 61a994b55d08bfbb9db86a121884f88e1eb623317b2aa18a4fcc156351b2aab2
+Item Level: 53
+Quality: 20
+LevelReq: 4
+Implicits: 1
+{crafted}Used when Charges reach full
+18% increased Charge Recovery
+43% increased Evasion Rating during Effect</Item>
+    <Item id="73">Rarity: RELIC
+Dying Sun
+Ruby Flask
+Unique ID: e96855923a2710f065d1af1025478c21705125f2159e635da6217542f75a1497
+Item Level: 84
+Quality: 20
+LevelReq: 68
+Implicits: 1
+{crafted}Used when Charges reach full
+135% increased Charges per use
+46% less Duration
+17% increased Area of Effect during Effect
+Skills fire 2 additional Projectiles during Effect</Item>
+    <Item id="74">Rarity: RARE
+Blight Slippers
+Slink Boots
+Evasion: 380
+EvasionBasePercentile: 0.1261
+Unique ID: ac3d23367c1d6e48c2a4245b68cd3aab0c9ed197dd71b56f849d3effcc9a2bb7
+Item Level: 85
+Quality: 20
+Sockets: G-G-G G
+LevelReq: 69
+Implicits: 2
+34% chance to Avoid Bleeding
+4% increased Action Speed
+{fractured}+33% to Chaos Resistance
++14% chance to Suppress Spell Damage
++66 to Evasion Rating
++123 to maximum Life
++47% to Lightning Resistance
+{crafted}20% increased Movement Speed
+{crafted}8% increased Movement Speed if you haven't been Hit Recently</Item>
+    <Item id="75">Rarity: RARE
+Demon Siege
+Spine Bow
+Unique ID: 068d77625777384d9cea4a2ce5a2adf688d6ee23a5d223f40a2d8c07337e36df
+Item Level: 86
+Quality: 20
+Sockets: G-R-W-W-G-W
+LevelReq: 64
+Implicits: 0
+{fractured}Bow Attacks fire 2 additional Arrows
++28 to Dexterity and Intelligence
+Adds 223 to 390 Fire Damage
+Adds 118 to 229 Cold Damage
+Adds 32 to 529 Lightning Damage
+15% increased Attack Speed
+{crafted}27% increased Critical Strike Chance</Item>
+    <Item id="76">Rarity: UNIQUE
+The Fledgling
+Lacquered Helmet
+Armour: 527
+ArmourBasePercentile: 0.8835
+Evasion: 527
+EvasionBasePercentile: 0.8835
+Unique ID: 30c601ffc04933cd771e1c6858a6e778448d299e58289518d6d86f6fa8bb6543
+Item Level: 83
+Quality: 20
+Sockets: B B-R-R
+LevelReq: 51
+Implicits: 0
+187% increased Armour and Evasion
+48% increased Projectile Speed
+44% increased Projectile Damage
+Projectiles cannot collide with Enemies in Close Range
+Far Shot</Item>
+    <Item id="77">Rarity: UNIQUE
+The Taming
+Prismatic Ring
+Unique ID: 99bf16c41d5917854304573036c856f044c8424d32b1ffdc4321389b65b8ac75
+Item Level: 75
+LevelReq: 30
+Implicits: 1
++10% to all Elemental Resistances
++26% to all Elemental Resistances
+10% chance to Freeze, Shock and Ignite
+46% increased Elemental Damage with Hits and Ailments for
+each type of Elemental Ailment on Enemy</Item>
+    <Item id="78">Rarity: RARE
+New Item
+Large Cluster Jewel
+Crafted: true
+Prefix: {range:0.5}AfflictionNotableFeedtheFury
+Prefix: {range:0.5}AfflictionNotableFueltheFight
+Suffix: {range:0.5}AfflictionNotableMartialProwess
+Suffix: None
+Cluster Jewel Skill: affliction_bow_damage
+Cluster Jewel Node Count: 8
+LevelReq: 40
+Implicits: 3
+{crafted}Adds 8 Passive Skills
+{crafted}2 Added Passive Skills are Jewel Sockets
+{crafted}Added Small Passive Skills grant: 12% increased Damage with Bows
+Added Small Passive Skills grant: 12% increased Damage Over Time with Bow Skills
+1 Added Passive Skill is Feed the Fury
+1 Added Passive Skill is Fuel the Fight
+1 Added Passive Skill is Martial Prowess</Item>
+    <Item id="79">Rarity: RARE
+New Item
+Medium Cluster Jewel
+Crafted: true
+Prefix: {range:0.5}AfflictionNotableRepeater
+Prefix: {range:0.5}AfflictionNotableStreamlined
+Suffix: {range:0.5}AfflictionJewelSmallPassivesGrantChaosRes2
+Suffix: None
+Cluster Jewel Skill: affliction_projectile_damage
+Cluster Jewel Node Count: 4
+LevelReq: 54
+Implicits: 3
+{crafted}Adds 4 Passive Skills
+{crafted}1 Added Passive Skill is a Jewel Socket
+{crafted}Added Small Passive Skills grant: 10% increased Projectile Damage
+Added Small Passive Skills also grant: +4% to Chaos Resistance
+1 Added Passive Skill is Repeater
+1 Added Passive Skill is Streamlined</Item>
+    <Item id="80">Rarity: UNIQUE
+Lethal Pride [15918; 4; Wind Dancer]
+Timeless Jewel
+League: Legion
+Variant: Kaom (Strength of Blood)
+Variant: Rakiata (Tempered by War)
+Variant: Akoya (Chainbreaker)
+Selected Variant: 1
+LevelReq: 20
+Radius: Large
+Limited to: 1
+Implicits: 0
+{variant:1}Commanded leadership over 15918 warriors under Kaom
+{variant:2}Commanded leadership over 15918 warriors under Rakiata
+{variant:3}Commanded leadership over 15918 warriors under Akoya
+Passives in radius are Conquered by the Karui
+Historic</Item>
+    <Item id="81">Rarity: RARE
+New Item
+Medium Cluster Jewel
+Crafted: true
+Prefix: {range:0.5}AfflictionNotablePressurePoints__
+Prefix: {range:0.5}AfflictionNotableBasicsofPain
+Suffix: None
+Suffix: None
+Cluster Jewel Skill: affliction_critical_chance
+Cluster Jewel Node Count: 4
+LevelReq: 40
+Implicits: 3
+{crafted}Adds 4 Passive Skills
+{crafted}1 Added Passive Skill is a Jewel Socket
+{crafted}Added Small Passive Skills grant: 15% increased Critical Strike Chance
+1 Added Passive Skill is Basics of Pain
+1 Added Passive Skill is Pressure Points</Item>
+    <Item id="82">Rarity: RARE
+New Item
+Supreme Leather
+Evasion: 2283
+EvasionBasePercentile: 1
+Crafted: true
+Prefix: {range:0.5}LocalIncreasedEvasionRating6
+Prefix: {range:1}LocalIncreasedEvasionRatingPercent4
+Prefix: None
+Suffix: {range:0.775}LightningResist6
+Suffix: {range:1}ColdResist4
+Suffix: None
+Quality: 20
+Sockets: G-G-G-G-G-G
+LevelReq: 73
+Implicits: 0
++111 to Evasion Rating
+67% increased Evasion Rating
++29% to Cold Resistance
++40% to Lightning Resistance</Item>
+    <Item id="83">Rarity: UNIQUE
+Fluid Motion
+Viridian Jewel
+Variant: Pre 3.20.0
+Variant: Current
+Selected Variant: 2
+Radius: Large
+Implicits: 0
+{range:1}+(16-24) to Dexterity
+Strength from Passives in Radius is Transformed to Dexterity
+{variant:2}Corrupted</Item>
+    <Item id="84">Rarity: UNIQUE
+Inertia
+Crimson Jewel
+Variant: Pre 3.20.0
+Variant: Current
+Selected Variant: 2
+Radius: Large
+Implicits: 0
+{range:1}+(16-24) to Strength
+Dexterity from Passives in Radius is Transformed to Strength
+{variant:2}Corrupted</Item>
+    <Item id="85">Rarity: RARE
+New Item
+Viridian Jewel
+Crafted: true
+Prefix: {range:1}LightningCritMultiplier
+Prefix: {range:1}ColdCritMultiplier
+Suffix: {range:1}ElementalCritMultiplier
+Suffix: {range:1}CriticalStrikeMultiplierJewel
+LevelReq: 0
+Implicits: 0
++12% to Global Critical Strike Multiplier
++18% to Critical Strike Multiplier with Lightning Skills
++18% to Critical Strike Multiplier with Cold Skills
++15% to Critical Strike Multiplier with Elemental Skills</Item>
+    <Item id="86">Rarity: UNIQUE
+Nimis
+Topaz Ring
+LevelReq: 48
+Implicits: 1
+{tags:jewellery_resistance}{range:1}+(20-30)% to Lightning Resistance
+{tags:jewellery_attribute}{range:1}+(30-50) to Dexterity
+{range:1}(25-35)% increased Projectile Damage
+Projectiles Return to you at end of flight
+Projectiles are fired in random directions</Item>
+    <Item id="87">Rarity: UNIQUE
+Watcher's Eye
+Prismatic Jewel
+Variant: None
+Variant: Anger: Fire Damage Life Leech
+Variant: Anger: Fire Penetration
+Variant: Anger: Inc Crit Strike Mult
+Variant: Anger: Inc Fire Damage
+Variant: Anger: Phys Added As Fire
+Variant: Anger: Phys Converted To Fire
+Variant: Clarity: Damage Taken From Mana Before Life
+Variant: Clarity: Damage Taken Gained As Mana
+Variant: Clarity: Mana Added As ES (Pre 3.12.0)
+Variant: Clarity: Mana Added As ES
+Variant: Clarity: Mana Recovery Rate (Pre 3.12.0)
+Variant: Clarity: Mana Recovery Rate
+Variant: Clarity: Recover Mana On Skill Use
+Variant: Clarity: Red. Mana Cost (Pre 3.8.0)
+Variant: Clarity: Red. Mana Cost Non Channelled
+Variant: Determination: Additional Armour
+Variant: Determination: Additional Block
+Variant: Determination: Phys Damage Reduction
+Variant: Determination: Red. Extra Damage From Crits
+Variant: Determination: Red. Reflected Phys Damage
+Variant: Determination: Unaffected By Vulnerability
+Variant: Discipline: Additional Spell Block
+Variant: Discipline: ES Per Hit
+Variant: Discipline: ES Recovery Rate (Pre 3.12.0)
+Variant: Discipline: ES Recovery Rate
+Variant: Discipline: ES Regen
+Variant: Discipline: Faster Start Of Recharge
+Variant: Grace: Additional Chance To Evade
+Variant: Grace: Blind Enemies When Hit
+Variant: Grace: Chance to Suppress Spells
+Variant: Grace: Inc Movement Speed
+Variant: Grace: Unaffected By Enfeeble
+Variant: Haste: Chance to Suppress Spells
+Variant: Haste: Cooldown Recovery For Movement Skills
+Variant: Haste: Debuffs Expire Faster
+Variant: Haste: Gain Onslaught On Kill
+Variant: Haste: Gain Phasing
+Variant: Haste: Unaffected By Temporal Chains
+Variant: Hatred: Added Cold Damage
+Variant: Hatred: Additional Crit Strike Chance
+Variant: Hatred: Cold Penetration
+Variant: Hatred: Inc Cold Damage
+Variant: Hatred: Phys Converted To Cold
+Variant: Malevolence: Damage Over Time Mult (Pre 3.8.0)
+Variant: Malevolence: Damage Over Time Mult
+Variant: Malevolence: Life And ES Recovery Rate (Pre 3.12.0)
+Variant: Malevolence: Life And ES Recovery Rate
+Variant: Malevolence: Unaffected By Bleeding
+Variant: Malevolence: Unaffected By Poison
+Variant: Malevolence: Your Ailments Deal Damage Faster
+Variant: Precision: Cannot Be Blinded
+Variant: Precision: Flask Charge On Crit
+Variant: Precision: Inc Attack Damage
+Variant: Precision: Inc Attack Speed
+Variant: Precision: Inc Crit Strike Mult (Pre 3.12.0)
+Variant: Precision: Inc Crit Strike Mult
+Variant: Pride: Chance For Double Damage
+Variant: Pride: Chance To Impale
+Variant: Pride: Impale Additional Hits
+Variant: Pride: Inc Phys Damage
+Variant: Pride: Intimidate On Hit
+Variant: Purity Of Elements: Chaos Resistance
+Variant: Purity Of Elements: Maximum Ele Resistances
+Variant: Purity Of Elements: Red. Reflected Ele Damage
+Variant: Purity Of Elements: Take Phys As Cold (Pre 3.25.0)
+Variant: Purity Of Elements: Take Phys As Fire (Pre 3.25.0)
+Variant: Purity Of Elements: Take Phys As Lightning (Pre 3.25.0)
+Variant: Purity Of Elements: Unaffected By Ele Weakness
+Variant: Purity Of Fire: Cold And Lightning Taken As Fire
+Variant: Purity Of Fire: Immune To Ignite
+Variant: Purity Of Fire: Take Phys As Fire (Pre 3.25.0)
+Variant: Purity Of Fire: Unaffected By Burning Ground
+Variant: Purity Of Fire: Unaffected By Flammability
+Variant: Purity Of Ice: Fire And Lightning Taken As Cold
+Variant: Purity Of Ice: Immune To Freeze
+Variant: Purity Of Ice: Take Phys As Ice (Pre 3.25.0)
+Variant: Purity Of Ice: Unaffected By Chilled Ground
+Variant: Purity Of Ice: Unaffected By Frostbite
+Variant: Purity Of Lightning: Fire And Cold Taken As Lightning
+Variant: Purity Of Lightning: Immune To Shock
+Variant: Purity Of Lightning: Take Phys As Lightning (Pre 3.25.0)
+Variant: Purity Of Lightning: Unaffected By Conductivity
+Variant: Purity Of Lightning: Unaffected By Shocked Ground
+Variant: Vitality: Damage Life Leech (Pre 3.12.0)
+Variant: Vitality: Damage Life Leech
+Variant: Vitality: Flat Life Regen (Pre 3.12.0)
+Variant: Vitality: Life Gain Per Hit
+Variant: Vitality: Life Recovery From Flasks
+Variant: Vitality: Life Recovery Rate (Pre 3.12.0)
+Variant: Vitality: Life Recovery Rate
+Variant: Vitality: Percent Life Regen
+Variant: Wrath: Inc Crit Strike Chance
+Variant: Wrath: Inc Lightning Damage
+Variant: Wrath: Lightning Damage ES Leech
+Variant: Wrath: Lightning Damage Mana Leech (Pre 3.8.0)
+Variant: Wrath: Lightning Penetration
+Variant: Wrath: Phys Added As Lightning
+Variant: Wrath: Phys Converted To Lightning
+Variant: Zealotry: Cast Speed
+Variant: Zealotry: Consecrated Ground Effect Lingers For Ms After Leaving The Area
+Variant: Zealotry: Consecrated Ground Enemy Damage Taken
+Variant: Zealotry: Crit Strike Chance Against Enemies On Consecrated Ground
+Variant: Zealotry: Crit Strikes Penetrates Ele Resistances
+Variant: Zealotry: Gain Arcane Surge For 4 Seconds When You Create Consecrated Ground
+Variant: Zealotry: Maximum ES Per Second To Maximum ES Leech Rate
+Selected Variant: 54
+Has Alt Variant: true
+Selected Alt Variant: 4
+Has Alt Variant Two: true
+Selected Alt Variant Two: 1
+Limited to: 1
+Implicits: 0
+{range:1}(4-6)% increased maximum Energy Shield
+{range:1}(4-6)% increased maximum Life
+{range:0.5}(4-6)% increased maximum Mana
+{variant:2}{range:0.5}(1-1.5)% of Fire Damage Leeched as Life while affected by Anger
+{variant:3}{range:0.5}Damage Penetrates (10-15)% Fire Resistance while affected by Anger
+{variant:4}{range:1}+(30-50)% to Critical Strike Multiplier while affected by Anger
+{variant:5}{range:0.5}(40-60)% increased Fire Damage while affected by Anger
+{variant:6}{range:0.5}Gain (15-25)% of Physical Damage as Extra Fire Damage while affected by Anger
+{variant:7}{range:0.5}(25-40)% of Physical Damage Converted to Fire Damage while affected by Anger
+{variant:8}{range:0.5}(6-10)% of Damage taken from Mana before Life while affected by Clarity
+{variant:9}{range:0.5}(15-20)% of Damage taken while affected by Clarity Recouped as Mana
+{variant:10}{range:0.5}Gain (12-18)% of Maximum Mana as Extra Maximum Energy Shield while affected by Clarity
+{variant:11}{range:0.5}Gain (6-10)% of Maximum Mana as Extra Maximum Energy Shield while affected by Clarity
+{variant:12}{range:0.5}(20-30)% increased Mana Recovery Rate while affected by Clarity
+{variant:13}{range:0.5}(10-15)% increased Mana Recovery Rate while affected by Clarity
+{variant:14}{range:0.5}(10-15)% chance to Recover 10% of Mana when you use a Skill while affected by Clarity
+{variant:15}{range:0.5}-(10-5) to Total Mana Cost of Skills while affected by Clarity
+{variant:16}{range:0.5}Non-Channelling Skills have -(10-5) to Total Mana Cost while affected by Clarity
+{variant:17}{range:0.5}+(600-1000) to Armour while affected by Determination
+{variant:18}{range:0.5}+(5-8)% Chance to Block Attack Damage while affected by Determination
+{variant:19}{range:0.5}(5-8)% additional Physical Damage Reduction while affected by Determination
+{variant:20}{range:0.5}You take (40-60)% reduced Extra Damage from Critical Strikes while affected by Determination
+{variant:21}{range:0.5}(40-50)% reduced Reflected Physical Damage taken while affected by Determination
+{variant:22}Unaffected by Vulnerability while affected by Determination
+{variant:23}{range:0.5}+(5-8)% Chance to Block Spell Damage while affected by Discipline
+{variant:24}{range:0.5}Gain (20-30) Energy Shield per Enemy Hit while affected by Discipline
+{variant:25}{range:0.5}(20-30)% increased Energy Shield Recovery Rate while affected by Discipline
+{variant:26}{range:0.5}(10-15)% increased Energy Shield Recovery Rate while affected by Discipline
+{variant:27}{range:0.5}Regenerate (1.5-2.5)% of Energy Shield per Second while affected by Discipline
+{variant:28}{range:0.5}(30-40)% faster start of Energy Shield Recharge while affected by Discipline
+{variant:29}{range:1}+(5-8)% chance to Evade Attack Hits while affected by Grace
+{variant:30}{range:0.5}(30-50)% chance to Blind Enemies which Hit you while affected by Grace
+{variant:31}{range:0.5}+(12-15)% chance to Suppress Spell Damage while affected by Grace
+{variant:32}{range:0.5}(10-15)% increased Movement Speed while affected by Grace
+{variant:33}Unaffected by Enfeeble while affected by Grace
+{variant:34}{range:0.5}+(5-8)% chance to Suppress Spell Damage while affected by Haste
+{variant:35}{range:0.5}(30-50)% increased Cooldown Recovery Rate of Movement Skills used while affected by Haste
+{variant:36}Debuffs on you expire (15-20)% faster while affected by Haste
+{variant:37}You gain Onslaught for 4 seconds on Kill while affected by Haste
+{variant:38}You have Phasing while affected by Haste
+{variant:39}Unaffected by Temporal Chains while affected by Haste
+{variant:40}{range:0.5}Adds (58-70) to (88-104) Cold Damage while affected by Hatred
+{variant:41}{range:0.5}+(1.2-1.8)% to Critical Strike Chance while affected by Hatred
+{variant:42}{range:0.5}Damage Penetrates (10-15)% Cold Resistance while affected by Hatred
+{variant:43}{range:0.5}(40-60)% increased Cold Damage while affected by Hatred
+{variant:44}{range:0.5}(25-40)% of Physical Damage Converted to Cold Damage while affected by Hatred
+{variant:45}{range:0.5}+(36-44)% to Damage over Time Multiplier while affected by Malevolence
+{variant:46}{range:0.5}+(18-22)% to Damage over Time Multiplier while affected by Malevolence
+{variant:47}{range:0.5}(15-20)% increased Recovery rate of Life and Energy Shield while affected by Malevolence
+{variant:48}{range:0.5}(8-12)% increased Recovery rate of Life and Energy Shield while affected by Malevolence
+{variant:49}Unaffected by Bleeding while affected by Malevolence
+{variant:50}Unaffected by Poison while affected by Malevolence
+{variant:51}{range:0.5}Damaging Ailments you inflict deal Damage (10-15)% faster while affected by Malevolence
+{variant:52}Cannot be Blinded while affected by Precision
+{variant:53}Gain a Flask Charge when you deal a Critical Strike while affected by Precision
+{variant:54}{range:1}(40-60)% increased Attack Damage while affected by Precision
+{variant:55}{range:0.5}(10-15)% increased Attack Speed while affected by Precision
+{variant:56}{range:0.5}+(30-50)% to Critical Strike Multiplier while affected by Precision
+{variant:57}{range:0.5}+(20-30)% to Critical Strike Multiplier while affected by Precision
+{variant:58}{range:0.5}(8-12)% chance to deal Double Damage while using Pride
+{variant:59}25% chance to Impale Enemies on Hit with Attacks while using Pride
+{variant:60}Impales you inflict last 2 additional Hits while using Pride
+{variant:61}{range:0.5}(40-60)% increased Physical Damage while using Pride
+{variant:62}Your Hits Intimidate Enemies for 4 seconds while you are using Pride
+{variant:63}{range:0.5}+(30-50)% to Chaos Resistance while affected by Purity of Elements
+{variant:64}+1% to all maximum Elemental Resistances while affected by Purity of Elements
+{variant:65}{range:0.5}(40-50)% reduced Reflected Elemental Damage taken while affected by Purity of Elements
+{variant:66}{range:0.5}(8-12)% of Physical Damage from Hits taken as Cold Damage while affected by Purity of Elements
+{variant:67}{range:0.5}(8-12)% of Physical Damage from Hits taken as Fire Damage while affected by Purity of Elements
+{variant:68}{range:0.5}(8-12)% of Physical Damage from Hits taken as Lightning Damage while affected by Purity of Elements
+{variant:69}Unaffected by Elemental Weakness while affected by Purity of Elements
+{variant:70}{range:0.5}(10-20)% of Cold and Lightning Damage taken as Fire Damage while affected by Purity of Fire
+{variant:71}Immune to Ignite while affected by Purity of Fire
+{variant:72}{range:0.5}(6-10)% of Physical Damage from Hits taken as Fire Damage while affected by Purity of Fire
+{variant:73}Unaffected by Burning Ground while affected by Purity of Fire
+{variant:74}Unaffected by Flammability while affected by Purity of Fire
+{variant:75}{range:0.5}(10-20)% of Fire and Lightning Damage taken as Cold Damage while affected by Purity of Ice
+{variant:76}Immune to Freeze while affected by Purity of Ice
+{variant:77}{range:0.5}(6-10)% of Physical Damage from Hits taken as Cold Damage while affected by Purity of Ice
+{variant:78}Unaffected by Chilled Ground while affected by Purity of Ice
+{variant:79}Unaffected by Frostbite while affected by Purity of Ice
+{variant:80}{range:0.5}(10-20)% of Fire and Cold Damage taken as Lightning Damage while
+{variant:81}Immune to Shock while affected by Purity of Lightning
+{variant:82}{range:0.5}(6-10)% of Physical Damage from Hits taken as Lightning Damage while affected by Purity of Lightning
+{variant:83}Unaffected by Conductivity while affected by Purity of Lightning
+{variant:84}Unaffected by Shocked Ground while affected by Purity of Lightning
+{variant:85}{range:0.5}(1-1.5)% of Damage leeched as Life while affected by Vitality
+{variant:86}{range:0.5}(0.8-1.2)% of Damage leeched as Life while affected by Vitality
+{variant:87}{range:0.5}Regenerate (100-140) Life per Second while affected by Vitality
+{variant:88}{range:0.5}Gain (20-30) Life per Enemy Hit while affected by Vitality
+{variant:89}{range:0.5}(50-70)% increased Life Recovery from Flasks while affected by Vitality
+{variant:90}{range:0.5}(20-30)% increased Life Recovery Rate while affected by Vitality
+{variant:91}{range:0.5}(10-15)% increased Life Recovery Rate while affected by Vitality
+{variant:92}{range:0.5}Regenerate (1-1.5)% of Life per second while affected by Vitality
+{variant:93}{range:0.5}(70-100)% increased Critical Strike Chance while affected by Wrath
+{variant:94}{range:0.5}(40-60)% increased Lightning Damage while affected by Wrath
+{variant:95}{range:0.5}(1-1.5)% of Lightning Damage is Leeched as Energy Shield while affected by Wrath
+{variant:96}{range:0.5}(1-1.5)% of Lightning Damage is Leeched as Mana while affected by Wrath
+{variant:97}{range:0.5}Damage Penetrates (10-15)% Lightning Resistance while affected by Wrath
+{variant:98}{range:0.5}Gain (15-25)% of Physical Damage as Extra Lightning Damage while affected by Wrath
+{variant:99}{range:0.5}(25-40)% of Physical Damage Converted to Lightning Damage while affected by Wrath
+{variant:100}{range:0.5}(10-15)% increased Cast Speed while affected by Zealotry
+{variant:101}Effects of Consecrated Ground you create while affected by Zealotry Linger for 2 seconds
+{variant:102}{range:0.5}Consecrated Ground you create while affected by Zealotry causes enemies to take (8-10)% increased Damage
+{variant:103}{range:0.5}(100-120)% increased Critical Strike Chance against Enemies on Consecrated Ground while affected by Zealotry
+{variant:104}{range:0.5}Critical Strikes Penetrate (8-10)% of Enemy Elemental Resistances while affected by Zealotry
+{variant:105}Gain Arcane Surge for 4 seconds when you create Consecrated Ground while affected by Zealotry
+{variant:106}30% increased Maximum total Energy Shield Recovery per second from Leech while affected by Zealotry</Item>
+    <Item id="88">Rarity: RARE
+New Item
+Searching Eye Jewel
+Crafted: true
+Prefix: {range:1}AbyssJewelAddedLife4
+Prefix: {range:1}AbyssAddedColdDamageWithBowsJewel6
+Suffix: {range:1}AbyssChancetoGainPhasingOnKillJewel1
+Suffix: {range:1}AbyssAttackSpeedIfCriticalStrikeDealtRecentlyJewel1
+LevelReq: 66
+Implicits: 0
++40 to maximum Life
+15 to 28 Added Cold Damage with Bow Attacks
+5% chance to gain Phasing for 4 seconds on Kill
+8% increased Attack Speed if you've dealt a Critical Strike Recently</Item>
+    <Item id="89">Rarity: RARE
+New Item
+Velour Boots
+Evasion: 600
+EvasionBasePercentile: 1
+Searing Exarch Item
+Eater of Worlds Item
+Crafted: true
+Prefix: {range:1}IncreasedLife8
+Prefix: {range:1}MovementVelocity6
+Prefix: None
+Suffix: {range:1}ChanceToSuppressSpells5__
+Suffix: {range:1}ChaosResist6
+Suffix: None
+CatalystQuality: 20
+Quality: 20
+Sockets: G-G-G A
+LevelReq: 84
+Implicits: 2
+{exarch}6% increased Action Speed
+{eater}{range:1}(21-23)% increased Cooldown Recovery Rate of Travel Skills
++14% chance to Suppress Spell Damage
++129 to maximum Life
++35% to Chaos Resistance
+35% increased Movement Speed
+{custom}Has 1 Abyssal Socket
+{tags:resource,unveiled_mod,life,defences,evasion}{crafted}{range:1}(18-21)% increased Evasion Rating
+{tags:resource,unveiled_mod,life,defences,evasion}{crafted}{range:1}+(12-14) to maximum Life</Item>
+    <Item id="90">Rarity: RARE
+New Item
+Velour Gloves
+Evasion: 496
+EvasionBasePercentile: 1
+Searing Exarch Item
+Eater of Worlds Item
+Crafted: true
+Prefix: {range:1}IncreasedLife8
+Prefix: None
+Prefix: None
+Suffix: {range:1}IncreasedAttackSpeed4
+Suffix: None
+Suffix: None
+Quality: 20
+Sockets: G-G-G A
+LevelReq: 84
+Implicits: 2
+{exarch}Gain 2 Rage on Attack Hit
+{eater}Projectiles Pierce 2 additional Targets
+16% increased Attack Speed
++129 to maximum Life
++48% to cold resistance
+50% increased damage against chilled enemies
+{custom}Has 1 Abyssal Socket
+{tags:unveiled_mod,gem}{custom}+2 to Level of Socketed Projectile Gems
+{tags:unveiled_mod,gem}{custom}Projectiles Pierce an additional Target
+{tags:flask,unveiled_mod,damage}{crafted}{range:1}(24-28)% increased Damage during any Flask Effect</Item>
+    <Item id="91">Rarity: UNIQUE
+Yoke of Suffering
+Onyx Amulet
+Catalyst: Prismatic
+CatalystQuality: 20
+Variant: Pre 3.24.0
+Variant: Current
+Selected Variant: 2
+LevelReq: 70
+Implicits: 2
+{crafted}Allocates Sovereignty
+{tags:jewellery_attribute}{range:1}+(10-16) to all Attributes
+{tags:jewellery_resistance}{range:1}+(10-20)% to Fire Resistance
+{tags:jewellery_resistance}{range:0.768}+(10-20)% to Cold Resistance
+{tags:jewellery_resistance}{range:0.89}+(20-40)% to Lightning Resistance
+30% reduced Duration of Ailments on Enemies
+{range:0.5}(5-10)% chance to Shock
+{variant:1}Enemies take 5% increased Damage for each type of Ailment you have inflicted on them
+{variant:2}{range:1}Enemies take (5-10)% increased Damage for each type of Ailment you have inflicted on them
+Your Elemental Damage can Shock</Item>
+    <Item id="92">Rarity: UNIQUE
+The Fledgling
+Lacquered Helmet
+Armour: 558
+ArmourBasePercentile: 1
+Evasion: 558
+EvasionBasePercentile: 1
+League: Heist
+Quality: 20
+Sockets: G-G-G-G
+LevelReq: 51
+Implicits: 1
+{tags:power_charge}+1 to Maximum Power Charges
+{range:1}(150-200)% increased Armour and Evasion
+{range:0.915}(30-50)% increased Projectile Speed
+{range:0.878}(30-50)% increased Projectile Damage
+Projectiles cannot collide with Enemies at Close Range
+Far Shot
+Corrupted</Item>
+    <Item id="93">Rarity: RARE
+New Item
+Syndicate's Garb
+Evasion: 3493
+EvasionBasePercentile: 1
+Searing Exarch Item
+Eater of Worlds Item
+Crafted: true
+Prefix: {range:1}IncreasedLife12
+Prefix: {range:1}LocalIncreasedEvasionRatingPercent8
+Prefix: None
+Suffix: {range:1}ChaosResist6
+Suffix: None
+Suffix: {range:1}ChanceToSuppressSpellsHigh5___
+Quality: 20
+Sockets: G-G-G-G-G-G
+LevelReq: 84
+Implicits: 3
+{crafted}40% reduced Attribute Requirements
+{tags:aura}{exarch}{range:1}(19-20)% increased effect of Non-Curse Auras from your Skills
+{tags:aura}{eater}{range:1}Haste has (25-27)% increased Aura Effect
++22% chance to Suppress Spell Damage
+110% increased Evasion Rating
++189 to maximum Life
++35% to Chaos Resistance
+{tags:resource,unveiled_mod,life,mana}{crafted}{range:1}(5-8)% increased maximum Life
+{tags:resource,unveiled_mod,life,mana}{crafted}{range:1}(5-8)% increased maximum Mana
+{tags:attribute}{custom}{range:1}+(51-58) to Intelligence</Item>
+    <Item id="94">Rarity: RARE
+Horror Wing
+Ivory Bow
+Item Level: 84
+Quality: 20
+Sockets: R-G-G-R G
+LevelReq: 47
+Implicits: 0
+Adds 167 to 365 Fire Damage
+Adds 134 to 290 Cold Damage
+{tags:attack,critical,attribute}{crafted}{range:1}+(20-24) to Strength and Intelligence
+{tags:attack,critical,attribute}{crafted}{range:1}(21-25)% increased Critical Strike Chance</Item>
+    <Item id="95">Rarity: RARE
+New Item
+Spine Bow
+Crafted: true
+Prefix: {range:0.324}LocalAddedFireDamageTwoHand8_
+Prefix: {range:0.162}LocalAddedLightningDamageTwoHand7
+Prefix: {range:0.62}LocalAddedColdDamageTwoHand7
+Suffix: None
+Suffix: None
+Suffix: None
+Quality: 20
+Sockets: G-G-G-G-G-G
+LevelReq: 64
+Implicits: 0
+Adds 123 to 235 Fire Damage
+Adds 94 to 169 Cold Damage
+Adds 15 to 288 Lightning Damage
+{tags:attack,critical,attribute}{crafted}{range:1}+(20-24) to Strength and Intelligence
+{tags:attack,critical,attribute}{crafted}{range:1}(21-25)% increased Critical Strike Chance
+{tags:attack,speed}{custom}{range:0.5}(11-12)% increased Attack Speed</Item>
+    <Item id="96">Rarity: RARE
+New Item
+Feathered Arrow Quiver
+Crafted: true
+Prefix: {range:0.673}AddedLightningDamageQuiver6___
+Prefix: {range:0.289}IncreasedLife7
+Prefix: {range:0.465}DamageWithBowSkills4_
+Suffix: None
+Suffix: None
+Suffix: None
+LevelReq: 48
+Implicits: 1
+{tags:speed}{range:1}(20-30)% increased Projectile Speed
+Adds 4 to 60 Lightning Damage to Attacks
++104 to maximum Life
+33% increased Damage with Bow Skills
+{tags:attack,speed}{crafted}{range:1}(7-12)% increased Attack Speed</Item>
+    <Item id="97">Rarity: UNIQUE
+Rat's Nest
+Ursine Pelt
+Evasion: 975
+EvasionBasePercentile: 1
+Quality: 20
+Sockets: G-G-G-G
+LevelReq: 55
+Implicits: 0
+15% increased Attack Speed
+{range:1}(60-75)% increased Global Critical Strike Chance
+150% increased Evasion Rating
+{range:0.5}(20-25)% increased Rarity of Items found
+10% increased Movement Speed
+10% reduced Character Size</Item>
+    <Item id="98">Rarity: RARE
+New Item
+Two-Stone Ring (Cold/Lightning)
+Crafted: true
+Prefix: {range:0.539}WeaponElementalDamage4
+Prefix: {range:0.493}IncreasedLife5
+Prefix: None
+Suffix: {range:1}AllResistances5
+Suffix: {range:0.211}FireResist6
+Suffix: None
+LevelReq: 48
+Implicits: 1
+{tags:elemental,cold,lightning,resistance}{range:1}+(12-16)% to Cold and Lightning Resistances
++77 to maximum Life
++16% to all Elemental Resistances
++37% to Fire Resistance
+34% increased Elemental Damage with Attack Skills</Item>
+    <Item id="99">Rarity: UNIQUE
+Cinderswallow Urn
+Silver Flask
+League: Betrayal
+Variant: Pre 3.26 Crit Chance
+Variant: Damage Taken is Leeched as Life
+Variant: Item Rarity
+Variant: Pre 3.26 Movement Speed/Stun Avoidance
+Variant: Stun Avoidance
+Variant: Life Regen
+Variant: Reduced Reflected Damage Taken
+Variant: Physical Damage can Ignite
+Variant: Ignited enemies have Malediction
+Variant: Additional Curse
+Variant: Ignite Spread
+Variant: Ignite Leech
+Variant: Pre 3.15.0
+Variant: Pre 3.16.0 Crit Chance
+Variant: Pre 3.26
+Variant: Life on Kill
+Variant: Mana on Kill
+Variant: ES on Kill
+Selected Variant: 18
+Has Alt Variant: true
+Selected Alt Variant: 9
+Quality: 20
+LevelReq: 48
+Implicits: 0
+{variant:15}+90 to maximum Charges
+{variant:17,16,18}{range:0.5}+(10-20) to maximum Charges
+{variant:13}Recharges 1 Charge when you Consume an Ignited corpse
+{variant:17,16,15,18}Recharges 5 Charges when you Consume an Ignited corpse
+{variant:13}Enemies Ignited by you during Effect take 10% increased Damage
+{variant:14,18,17,16,15}{range:0.5}Enemies Ignited by you during Effect take (7-10)% increased Damage
+{variant:13,15,16}{range:0.5}Recover (1-3)% of Life when you Kill an Enemy during Effect
+{variant:17,13,15}{range:0.5}Recover (1-3)% of Mana when you Kill an Enemy during Effect
+{variant:13,15,18}{range:1}Recover (1-3)% of Energy Shield when you Kill an Enemy during Effect
+{variant:14}{range:0.5}(175-200)% increased Charges per use
+{variant:14}{crafted}{range:0.5}(60-80)% increased Critical Strike Chance during Effect
+{variant:1}{crafted}{range:0.5}(45-55)% increased Critical Strike Chance during Effect
+{variant:2}{crafted}15% of Damage Taken from Hits is Leeched as Life during Effect
+{variant:3}{crafted}{range:0.5}(20-30)% increased Rarity of Items found during Effect
+{variant:4}{crafted}{range:0.5}(8-12)% increased Movement Speed during Effect
+{variant:5,4}{crafted}50% Chance to avoid being Stunned during Effect
+{variant:6}{crafted}Regenerate 3% of Life per second during Effect
+{variant:7}{crafted}{range:0.5}(60-80)% reduced Reflected Damage taken during Effect
+{variant:8}{crafted}Your Physical Damage can Ignite during Effect
+{variant:9}{crafted}Enemies Ignited by you during Effect have Malediction
+{variant:10}{crafted}You can apply an additional Curse during Effect
+{variant:11}{crafted}Ignites you inflict during Effect spread to other Enemies within 1.5 metres
+{variant:12}{crafted}Leech 1.5% of Expected Ignite Damage as Life when you Ignite an Enemy during Effect</Item>
+    <Item id="100">Rarity: MAGIC
+Horticultural Prismatic Tincture of Overpowering
+Crafted: true
+Prefix: {range:1}TinctureEffect4
+Suffix: {range:1}TinctureElementalPenetration5
+Quality: 20
+LevelReq: 68
+Implicits: 1
+{tags:elemental_damage,damage,elemental,attack}{range:1}(70-100)% increased Elemental Damage with Melee Weapons
+22% increased effect
+Melee Weapon Damage Penetrates 19% Elemental Resistances</Item>
+    <Item id="101">Rarity: RARE
+New Item
+Viridian Jewel
+Crafted: true
+Prefix: {range:0.5}LightningCritMultiplier
+Prefix: {range:0.5}FireCritMultiplier
+Suffix: None
+Suffix: None
+LevelReq: 0
+Implicits: 0
++17% to Critical Strike Multiplier with Fire Skills
++17% to Critical Strike Multiplier with Lightning Skills</Item>
+    <Item id="102">Rarity: UNIQUE
+Hyrri's Truth
+Jade Amulet
+League: Synthesis
+Variant: Pre 3.16.0
+Variant: Pre 3.19.0
+Variant: Current
+Selected Variant: 3
+LevelReq: 64
+Implicits: 2
+{crafted}Allocates Divine Judgement
+{tags:jewellery_attribute}{range:1}+(20-30) to Dexterity
+{variant:1,2}Grants Level 22 Precision Skill
+{variant:3}Grants Level 30 Precision Skill
+{tags:jewellery_attribute}{variant:1,2}{range:0.5}+(25-35) to Dexterity
+{tags:jewellery_attribute}{variant:3}{range:1}+(40-80) to Dexterity
+{tags:attack,physical_damage}{variant:1,2}{range:0.5}Adds (12-15) to (24-28) Physical Damage to Attacks
+{tags:jewellery_elemental,attack}{variant:1,2}{range:0.5}Adds (11-15) to (23-28) Cold Damage to Attacks
+{tags:critical}{variant:1,2}{range:0.5}+(23-28)% to Global Critical Strike Multiplier
+{tags:critical}{variant:3}{range:1}+(25-50)% to Global Critical Strike Multiplier
+{variant:3}Bow Attacks have Culling Strike
+{tags:attack,life}{variant:1,2}{range:0.5}(0.8-1)% of Physical Attack Damage Leeched as Life
+{variant:1}Precision has 50% less Reservation
+{tags:mana}{variant:2,3}Precision has 100% increased Mana Reservation Efficiency</Item>
+    <Item id="103">Rarity: RARE
+New Item
+Imperial Bow
+Crafted: true
+Prefix: {range:0.62}LocalAddedFireDamageTwoHand7
+Prefix: {range:0.549}LocalAddedColdDamageTwoHand7
+Prefix: {range:0.408}LocalAddedLightningDamageTwoHand7
+Suffix: None
+Suffix: None
+Suffix: None
+Quality: 20
+Sockets: G-G-G-G-G-G
+LevelReq: 66
+Implicits: 1
+{tags:elemental_damage,damage,elemental,attack}{range:1}(20-24)% increased Elemental Damage with Attack Skills
+Adds 104 to 189 Fire Damage
+Adds 92 to 167 Cold Damage
+Adds 16 to 300 Lightning Damage
+{tags:attack,speed}{crafted}{range:1}(11-13)% increased Attack Speed</Item>
+    <Item id="104">Rarity: UNIQUE
+Prismweave
+Rustic Sash
+Variant: Pre 2.6.0
+Variant: Pre 3.19.0
+Variant: Current
+Selected Variant: 3
+LevelReq: 25
+Implicits: 1
+{tags:physical_damage}{range:1}(12-24)% increased Global Physical Damage
+{tags:jewellery_elemental,attack}{variant:1}{range:0.5}Adds (3-4) to (7-8) Fire Damage to Attacks
+{tags:jewellery_elemental,attack}{variant:2}{range:0.5}Adds (7-8) to (15-16) Fire Damage to Attacks
+{tags:jewellery_elemental,attack}{variant:3}{range:1}Adds (14-16) to (30-32) Fire Damage to Attacks
+{tags:jewellery_elemental,attack}{variant:1}{range:0.5}Adds (2-3) to (5-7) Cold Damage to Attacks
+{tags:jewellery_elemental,attack}{variant:2}{range:0.5}Adds (5-6) to (12-14) Cold Damage to Attacks
+{tags:jewellery_elemental,attack}{variant:3}{range:1}Adds (10-12) to (24-28) Cold Damage to Attacks
+{tags:jewellery_elemental,attack}{variant:1}{range:0.5}Adds 1 to (13-17) Lightning Damage to Attacks
+{tags:jewellery_elemental,attack}{variant:2}{range:0.5}Adds 1 to (30-34) Lightning Damage to Attacks
+{tags:jewellery_elemental,attack}{variant:3}{range:1}Adds 1 to (60-68) Lightning Damage to Attacks
+{tags:jewellery_resistance}{variant:1,2}{range:0.5}+(6-8)% to all Elemental Resistances
+{tags:jewellery_resistance}{variant:3}{range:1}+(6-15)% to all Elemental Resistances
+{tags:jewellery_elemental,attack}30% increased Elemental Damage with Attack Skills during any Flask Effect
+{variant:1,2}10% increased Elemental Damage with Attack Skills</Item>
+    <Item id="105">Rarity: RARE
+New Item
+Onyx Amulet
+Crafted: true
+Prefix: {range:0.447}IncreasedLife7
+Prefix: {range:0.845}WeaponElementalDamage4
+Prefix: None
+Suffix: {range:0.5}Strength5
+Suffix: None
+Suffix: None
+LevelReq: 48
+Implicits: 2
+{crafted}Allocates Divine Judgement
+{tags:attribute}{range:1}+(10-16) to all Attributes
++30 to Strength
++106 to maximum Life
+35% increased Elemental Damage with Attack Skills</Item>
+    <Item id="106">Rarity: RARE
+New Item
+Majestic Pelt
+Evasion: 1301
+EvasionBasePercentile: 1
+Crafted: true
+Prefix: {range:0.606}IncreasedLife7
+Prefix: {range:0.5}LocalIncreasedEvasionRatingPercent4
+Prefix: None
+Suffix: {range:1}ColdResist4
+Suffix: None
+Suffix: None
+Quality: 20
+Sockets: G-G-G-G
+LevelReq: 84
+Implicits: 0
+62% increased Evasion Rating
++108 to maximum Life
++29% to Cold Resistance</Item>
+    <Item id="107">Rarity: RARE
+New Item
+Spine Bow
+Crafted: true
+Prefix: {range:0.535}LocalAddedFireDamageTwoHand8_
+Prefix: {range:0.711}LocalAddedColdDamageTwoHand8
+Prefix: {range:0.45}LocalAddedLightningDamageTwoHand9
+Suffix: {range:0.31}LocalIncreasedAttackSpeed4
+Suffix: None
+Suffix: None
+Quality: 20
+Sockets: G-G-G-G-G-G
+LevelReq: 64
+Implicits: 0
+Adds 131 to 243 Fire Damage
+Adds 125 to 223 Cold Damage
+Adds 27 to 491 Lightning Damage
+15% increased Attack Speed
+{tags:attack,critical,attribute}{crafted}{range:1}+(20-24) to Strength and Intelligence
+{tags:attack,critical,attribute}{crafted}{range:1}(21-25)% increased Critical Strike Chance</Item>
+    <Item id="108">Rarity: RARE
+New Item
+Feathered Arrow Quiver
+Crafted: true
+Prefix: {range:0.627}IncreasedLife8
+Prefix: {range:0.479}AddedLightningDamageQuiver8
+Prefix: {range:0.352}DamageWithBowSkills5
+Suffix: {range:0.549}CriticalMultiplierWithBows4__
+Suffix: None
+Suffix: None
+LevelReq: 64
+Implicits: 1
+{tags:speed}{range:1}(20-30)% increased Projectile Speed
+Adds 5 to 94 Lightning Damage to Attacks
++27% to Critical Strike Multiplier with Bows
++124 to maximum Life
+39% increased Damage with Bow Skills
+{tags:attack,speed}{crafted}{range:1}(7-12)% increased Attack Speed</Item>
+    <Item id="109">Rarity: RARE
+New Item
+Velour Gloves
+Evasion: 496
+EvasionBasePercentile: 1
+Searing Exarch Item
+Eater of Worlds Item
+Crafted: true
+Prefix: {range:1}IncreasedLife8
+Prefix: None
+Prefix: None
+Suffix: {range:1}IncreasedAttackSpeed4
+Suffix: None
+Suffix: None
+Quality: 20
+Sockets: G-G-G A
+LevelReq: 84
+Implicits: 2
+{exarch}Gain 2 Rage on Attack Hit
+{eater}Projectiles Pierce 2 additional Targets
+16% increased Attack Speed
++129 to maximum Life
++48% to cold resistance
+50% increased damage against chilled enemies
++35% to chaos resistance
+{tags:unveiled_mod,gem}{custom}+2 to Level of Socketed Projectile Gems
+{tags:unveiled_mod,gem}{custom}Projectiles Pierce an additional Target
+{tags:flask,unveiled_mod,damage}{crafted}{range:1}(24-28)% increased Damage during any Flask Effect</Item>
+    <Item id="110">Rarity: RARE
+New Item
+Velour Gloves
+Evasion: 496
+EvasionBasePercentile: 1
+Searing Exarch Item
+Eater of Worlds Item
+Crafted: true
+Prefix: {range:0.511}IncreasedLife7
+Prefix: None
+Prefix: None
+Suffix: {range:0.662}ChanceToSuppressSpells4
+Suffix: {range:0.282}FireResist5
+Suffix: {range:0.592}LightningResist7
+Quality: 20
+Sockets: G-G-G-G
+LevelReq: 84
+Implicits: 2
+{exarch}Gain 1 Rage on Attack Hit
+{eater}Projectiles Pierce an additional Target
++12% chance to Suppress Spell Damage
++107 to maximum Life
++31% to Fire Resistance
++44% to Lightning Resistance
+{tags:flask,unveiled_mod,damage}{crafted}{range:1}(24-28)% increased Damage during any Flask Effect</Item>
+    <Item id="111">Rarity: UNIQUE
+Lethal Pride [15401; 3; Wind Dancer]
+Timeless Jewel
+League: Legion
+Variant: Kaom (Strength of Blood)
+Variant: Rakiata (Tempered by War)
+Variant: Akoya (Chainbreaker)
+Selected Variant: 1
+LevelReq: 20
+Radius: Large
+Limited to: 1
+Implicits: 0
+{variant:1}Commanded leadership over 15401 warriors under Kaom
+{variant:2}Commanded leadership over 15401 warriors under Rakiata
+{variant:3}Commanded leadership over 15401 warriors under Akoya
+Passives in radius are Conquered by the Karui
+Historic</Item>
+    <Item id="112">Rarity: UNIQUE
+Lethal Pride [13348; 3; Wind Dancer]
+Timeless Jewel
+League: Legion
+Variant: Kaom (Strength of Blood)
+Variant: Rakiata (Tempered by War)
+Variant: Akoya (Chainbreaker)
+Selected Variant: 1
+LevelReq: 20
+Radius: Large
+Limited to: 1
+Implicits: 0
+{variant:1}Commanded leadership over 13348 warriors under Kaom
+{variant:2}Commanded leadership over 13348 warriors under Rakiata
+{variant:3}Commanded leadership over 13348 warriors under Akoya
+Passives in radius are Conquered by the Karui
+Historic</Item>
+    <Item id="113">Rarity: RARE
+New Item
+Stygian Vise
+Crafted: true
+Prefix: {range:0.732}WeaponElementalDamage5
+Prefix: {range:0.627}IncreasedLife8
+Prefix: None
+Suffix: {range:0.648}ChaosResist5
+Suffix: {range:0.93}ColdResist5
+Suffix: None
+Sockets: A
+LevelReq: 64
+Implicits: 1
+Has 1 Abyssal Socket
++124 to maximum Life
++35% to Cold Resistance
++29% to Chaos Resistance
+41% increased Elemental Damage with Attack Skills
+{tags:unveiled_mod,attribute}{crafted}{range:1}+(21-25) to Strength and Intelligence</Item>
+    <Item id="114">Rarity: RARE
+New Item
+Blizzard Crown
+Evasion: 254
+EvasionBasePercentile: 1
+Energy Shield: 52
+EnergyShieldBasePercentile: 1
+Crafted: true
+Prefix: {range:0.521}IncreasedLife8
+Prefix: None
+Prefix: None
+Suffix: {range:0.415}ChaosResist5
+Suffix: {range:0.761}Intelligence7
+Suffix: None
+Quality: 20
+Sockets: G-G-G-G
+LevelReq: 75
+Implicits: 2
+{tags:elemental_damage,damage,elemental,cold}{range:1}Adds (75-85) to (115-128) Cold Damage
+{tags:elemental_damage,damage,elemental,cold}Your Hits treat Cold Resistance as 10% higher than actual value
++41 to Intelligence
++122 to maximum Life
++28% to Chaos Resistance
+{tags:elemental,cold,lightning,resistance}{crafted}{range:1}+(17-20)% to Cold and Lightning Resistances</Item>
+    <Item id="115">Rarity: RARE
+New Item
+Large Cluster Jewel
+Crafted: true
+Prefix: {range:0.5}AfflictionNotableFeedtheFury
+Prefix: {range:0.5}AfflictionNotableFueltheFight
+Suffix: {range:0.5}AfflictionNotableMartialProwess
+Suffix: None
+Cluster Jewel Skill: affliction_bow_damage
+Cluster Jewel Node Count: 8
+LevelReq: 40
+Implicits: 3
+{crafted}Adds 8 Passive Skills
+{crafted}2 Added Passive Skills are Jewel Sockets
+{crafted}Added Small Passive Skills grant: 12% increased Damage with Bows
+Added Small Passive Skills grant: 12% increased Damage Over Time with Bow Skills
+1 Added Passive Skill is Feed the Fury
+1 Added Passive Skill is Fuel the Fight
+1 Added Passive Skill is Martial Prowess</Item>
+    <Item id="116">Rarity: RARE
+Cataclysm Bolt
+Feathered Arrow Quiver
+Unique ID: 0c35459fb8f0ddf32c08a48574b81e0ff718c1302e719dbdde656552ced57c99
+Item Level: 81
+LevelReq: 65
+Implicits: 1
+30% increased Projectile Speed
+Adds 12 to 144 Lightning Damage to Attacks
++36% to Critical Strike Multiplier with Bows
++120 to maximum Life
+41% increased Damage with Bow Skills
+{tags:attack,speed}{crafted}{range:1}(7-12)% increased Attack Speed</Item>
+    <Item id="117">Rarity: RARE
+New Item
+Velour Gloves
+Evasion: 496
+EvasionBasePercentile: 1
+Crafted: true
+Prefix: {range:0.303}IncreasedLife8
+Prefix: None
+Prefix: None
+Suffix: {range:1}FireResist4
+Suffix: {range:1}LightningResist4
+Suffix: None
+Quality: 20
+Sockets: G-G-G-G
+LevelReq: 84
+Implicits: 0
++119 to maximum Life
++29% to Fire Resistance
++29% to Lightning Resistance
+{tags:attack,speed}{crafted}{range:1}(7-12)% increased Attack Speed</Item>
+    <Item id="118">Rarity: RARE
+New Item
+Velour Boots
+Evasion: 496
+EvasionBasePercentile: 1
+Crafted: true
+Prefix: {range:0.415}IncreasedLife7
+Prefix: {range:0.754}MovementVelocity5
+Prefix: None
+Suffix: {range:0.549}ColdResist6
+Suffix: {range:0.289}ChaosResist5
+Suffix: None
+Quality: 20
+Sockets: G-G-G-G
+LevelReq: 84
+Implicits: 0
++106 to maximum Life
++39% to Cold Resistance
++27% to Chaos Resistance
+30% increased Movement Speed</Item>
+  </Items>
+  <Skills activeSkillSet="1" sortGemsByDPSField="CombinedDPS">
+    <SkillSet id="1">
+      <Skill enabled="true" slot="Weapon 1" mainActiveSkill="1" includeInFullDPS="true" label="" groupIndex="1">
+        <Gem nameSpec="Elemental Hit of the Spectrum" skillId="ElementalHitAltX" level="20" quality="0" enabled="true" />
+        <Gem nameSpec="Mirage Archer" skillId="SupportMirageArcher" level="20" quality="0" enabled="true" />
+        <Gem nameSpec="Trinity" skillId="SupportTrinity" level="20" quality="0" enabled="true" />
+        <Gem nameSpec="Returning Projectiles" skillId="SupportReturningProjectiles" level="20" quality="0" enabled="true" />
+        <Gem nameSpec="Elemental Damage with Attacks" skillId="SupportElementalDamageWithAttacks" level="20" quality="0" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Body Armour" mainActiveSkill="1" includeInFullDPS="true" label="" groupIndex="2">
+        <Gem nameSpec="Artillery Ballista" skillId="ArtilleryBallista" level="20" quality="0" enabled="true" />
+        <Gem nameSpec="Focused Ballista" skillId="SupportFocusedBallista" level="20" quality="0" enabled="true" />
+        <Gem nameSpec="Inspiration" skillId="SupportInspiration" level="20" quality="0" enabled="true" />
+        <Gem nameSpec="Elemental Damage with Attacks" skillId="SupportElementalDamageWithAttacks" level="20" quality="0" enabled="true" />
+        <Gem nameSpec="Immolate" skillId="SupportImmolate" level="20" quality="0" enabled="false" />
+        <Gem nameSpec="Increased Critical Damage" skillId="SupportIncreasedCriticalDamage" level="20" quality="0" enabled="false" />
+      </Skill>
+      <Skill enabled="true" slot="Gloves" mainActiveSkill="1" includeInFullDPS="true" label="" groupIndex="3">
+        <Gem nameSpec="Haste" skillId="Haste" level="20" quality="0" enabled="true" />
+        <Gem nameSpec="Sniper's Mark" skillId="SnipersMark" level="20" quality="0" enabled="true" />
+        <Gem nameSpec="Mark On Hit" skillId="SupportMarkOnHit" level="20" quality="0" enabled="true" />
+        <Gem nameSpec="Anger" skillId="Anger" level="20" quality="0" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Helmet" mainActiveSkill="1" includeInFullDPS="true" label="" groupIndex="4">
+        <Gem nameSpec="Blink Arrow" skillId="BlinkArrow" level="20" quality="0" enabled="true" />
+        <Gem nameSpec="Cast when Damage Taken" skillId="SupportCastWhenDamageTaken" level="1" quality="0" enabled="true" />
+        <Gem nameSpec="Immortal Call" skillId="ImmortalCall" level="2" quality="0" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Helmet" mainActiveSkill="1" includeInFullDPS="true" label="" groupIndex="5">
+        <Gem nameSpec="Blink Arrow" skillId="" level="" quality="" enabled="true" />
+        <Gem nameSpec="Frostblink" skillId="" level="" quality="" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Boots" mainActiveSkill="1" includeInFullDPS="true" label="" groupIndex="6">
+        <Gem nameSpec="Manaforged Arrows" skillId="SupportManaforgedArrows" level="20" quality="0" enabled="true" />
+        <Gem nameSpec="Frenzy" skillId="Frenzy" level="20" quality="0" enabled="true" />
+        <Gem nameSpec="Power Charge On Critical" skillId="SupportPowerChargeOnCritical" level="6" quality="0" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Boots" mainActiveSkill="1" includeInFullDPS="true" label="" groupIndex="7">
+        <Gem nameSpec="Precision" skillId="Precision" level="12" quality="0" enabled="true" />
+      </Skill>
+      <Skill enabled="true" slot="Weapon 1" mainActiveSkill="1" includeInFullDPS="true" label="LA Setup if you don't have Ele hit yet" groupIndex="8">
+        <Gem nameSpec="Lightning Arrow" skillId="LightningArrow" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="Trinity" skillId="SupportTrinity" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="Mirage Archer" skillId="SupportMirageArcher" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="Added Cold Damage" skillId="SupportAddedColdDamage" level="20" quality="20" enabled="true" />
+        <Gem nameSpec="Elemental Damage with Attacks" skillId="SupportElementalDamageWithAttacks" level="20" quality="20" enabled="true" />
+      </Skill>
+    </SkillSet>
+  </Skills>
+  <Notes>Archetype stage: endgame
+Lightning Arrow Deadeye endgame setup using the non-Headhunter tree baseline.
+Applied changes:
+- Set class=Ranger ascendancy=Deadeye
+- Set level=95
+- Selected tree 'Endgame no HH'
+- Set main skill to Lightning Arrow in group 8
+- Set movement group 5 to: Blink Arrow, Frostblink
+- Set config enemyLevel=84
+- Set config bandit=Alira
+- Set config enemyIsBoss=Boss
+- Set config useFrenzyCharges=True
+- Set config usePowerCharges=True
+- Set config buffTailwind=True</Notes>
+  <Calcs />
+  <Attributes />
+  <PlayerStat />
+  <MinionStat />
+</PathOfBuilding>

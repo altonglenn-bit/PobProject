@@ -1,0 +1,12 @@
+{
+  "source_prompt": "I want a spectre necromancer build for bossing",
+  "aliases": [
+    "spectre"
+  ],
+  "playstyle": "minion",
+  "goal": "bossing",
+  "stage": "endgame",
+  "content_tags": [
+    "bossing"
+  ]
+}

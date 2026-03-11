@@ -1,0 +1,58 @@
+{
+  "recommended_archetype": "elementalist_kinetic_blast",
+  "recommended_stage": "early_maps",
+  "base_file": "Elementalist_Kinetic_Blast_base.json",
+  "score": 13,
+  "reasons": [
+    "matches playstyle 'caster'",
+    "supports content 'maps'",
+    "boosted by alias match: kinetic_blast"
+  ],
+  "preferences": {
+    "source_prompt": "I want a kinetic blast wander for maps",
+    "aliases": [
+      "kinetic_blast"
+    ],
+    "playstyle": "caster",
+    "content_tags": [
+      "maps"
+    ]
+  },
+  "generator_command": "python generate_build.py --archetype elementalist_kinetic_blast --stage early_maps",
+  "shortlist": [
+    {
+      "archetype": "elementalist_kinetic_blast",
+      "stage": "early_maps",
+      "base_file": "Elementalist_Kinetic_Blast_base.json",
+      "score": 13,
+      "reasons": [
+        "matches playstyle 'caster'",
+        "supports content 'maps'",
+        "boosted by alias match: kinetic_blast"
+      ],
+      "generator_command": "python generate_build.py --archetype elementalist_kinetic_blast --stage early_maps"
+    },
+    {
+      "archetype": "kinetic_fusillade_totem",
+      "stage": "early_maps",
+      "base_file": "Kinetic_Fusillade_Totem.json",
+      "score": -3,
+      "reasons": [
+        "supports content 'maps'",
+        "penalized for not matching requested playstyle 'caster'"
+      ],
+      "generator_command": "python generate_build.py --archetype kinetic_fusillade_totem --stage early_maps"
+    },
+    {
+      "archetype": "lightning_arrow_deadeye",
+      "stage": "early_maps",
+      "base_file": "lightning_arrow_deadeye_base.json",
+      "score": -3,
+      "reasons": [
+        "supports content 'maps'",
+        "penalized for not matching requested playstyle 'caster'"
+      ],
+      "generator_command": "python generate_build.py --archetype lightning_arrow_deadeye --stage early_maps"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "recommended_archetype": "kinetic_fusillade_totem",
+  "recommended_stage": "endgame",
+  "base": "Kinetic_Fusillade_Totem.json",
+  "score": 36,
+  "reasons": [
+    "matches playstyle 'totem'",
+    "good bossing profile",
+    "good league starter",
+    "fits tanky/safe preference",
+    "strong safe-build fit",
+    "supports content 'bossing'",
+    "boosted by alias match: totem",
+    "fits endgame stage",
+    "tiebreak boost for safer ranged bossing",
+    "extra tiebreak boost for safe uber-ready profile"
+  ],
+  "prefs": {
+    "source_prompt": "I want a safe totem league starter for bossing",
+    "aliases": [
+      "totem"
+    ],
+    "playstyle": "totem",
+    "goal": "bossing",
+    "tankiness": "high",
+    "league_starter": true,
+    "stage": "endgame",
+    "content_tags": [
+      "bossing"
+    ]
+  },
+  "command": "python generate_build.py --archetype kinetic_fusillade_totem --stage endgame",
+  "shortlist": [
+    {
+      "archetype": "kinetic_fusillade_totem",
+      "stage": "endgame",
+      "base": "Kinetic_Fusillade_Totem.json",
+      "score": 36,
+      "reasons": [
+        "matches playstyle 'totem'",
+        "good bossing profile",
+        "good league starter",
+        "fits tanky/safe preference",
+        "strong safe-build fit",
+        "supports content 'bossing'",
+        "boosted by alias match: totem",
+        "fits endgame stage",
+        "tiebreak boost for safer ranged bossing",
+        "extra tiebreak boost for safe uber-ready profile"
+      ]
+    },
+    {
+      "archetype": "kinetic_fusillade_totem",
+      "stage": "early_maps",
+      "base": "Kinetic_Fusillade_Totem.json",
+      "score": 33,
+      "reasons": [
+        "matches playstyle 'totem'",
+        "good bossing profile",
+        "good league starter",
+        "fits tanky/safe preference",
+        "strong safe-build fit",
+        "supports content 'bossing'",
+        "boosted by alias match: totem",
+        "tiebreak boost for safer ranged bossing",
+        "extra tiebreak boost for safe uber-ready profile"
+      ]
+    },
+    {
+      "archetype": "kinetic_fusillade_totem",
+      "stage": "leveling",
+      "base": "Kinetic_Fusillade_Totem.json",
+      "score": 31,
+      "reasons": [
+        "matches playstyle 'totem'",
+        "good bossing profile",
+        "good league starter",
+        "fits tanky/safe preference",
+        "strong safe-build fit",
+        "supports content 'bossing'",
+        "boosted by alias match: totem",
+        "tiebreak boost for safer ranged bossing",
+        "extra tiebreak boost for safe uber-ready profile"
+      ]
+    },
+    {
+      "archetype": "spectre_summoner_necromancer",
+      "stage": "endgame",
+      "base": "Spectre_Summoner_Necromancer.json",
+      "score": 16,
+      "reasons": [
+        "supports content 'bossing'",
+        "good league starter",
+        "fits tanky/safe preference",
+        "strong safe-build fit",
+        "fits endgame stage",
+        "tiebreak boost for safer automated bossing"
+      ]
+    },
+    {
+      "archetype": "boneshatter_slayer",
+      "stage": "endgame",
+      "base": "boneshatter_slayer_base.json",
+      "score": 16,
+      "reasons": [
+        "good bossing profile",
+        "good league starter",
+        "fits tanky/safe preference",
+        "strong safe-build fit",
+        "supports content 'bossing'",
+        "fits endgame stage",
+        "extra tiebreak boost for safe uber-ready profile"
+      ]
+    }
+  ]
+}

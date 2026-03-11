@@ -1,0 +1,62 @@
+{
+  "recommended_archetype": "spectre_summoner_necromancer",
+  "recommended_stage": "endgame",
+  "base_file": "Spectre_Summoner_Necromancer.json",
+  "score": 16,
+  "reasons": [
+    "matches playstyle 'minion'",
+    "supports content 'bossing'",
+    "boosted by alias match: spectre"
+  ],
+  "preferences": {
+    "source_prompt": "I want a spectre necromancer build for bossing",
+    "aliases": [
+      "spectre"
+    ],
+    "playstyle": "minion",
+    "goal": "bossing",
+    "stage": "endgame",
+    "content_tags": [
+      "bossing"
+    ]
+  },
+  "generator_command": "python generate_build.py --archetype spectre_summoner_necromancer --stage endgame",
+  "shortlist": [
+    {
+      "archetype": "spectre_summoner_necromancer",
+      "stage": "endgame",
+      "base_file": "Spectre_Summoner_Necromancer.json",
+      "score": 16,
+      "reasons": [
+        "matches playstyle 'minion'",
+        "supports content 'bossing'",
+        "boosted by alias match: spectre"
+      ],
+      "generator_command": "python generate_build.py --archetype spectre_summoner_necromancer --stage endgame"
+    },
+    {
+      "archetype": "boneshatter_slayer",
+      "stage": "endgame",
+      "base_file": "boneshatter_slayer_base.json",
+      "score": 4,
+      "reasons": [
+        "good bossing profile",
+        "supports content 'bossing'",
+        "penalized for not matching requested playstyle 'minion'"
+      ],
+      "generator_command": "python generate_build.py --archetype boneshatter_slayer --stage endgame"
+    },
+    {
+      "archetype": "kinetic_fusillade_totem",
+      "stage": "endgame",
+      "base_file": "Kinetic_Fusillade_Totem.json",
+      "score": 4,
+      "reasons": [
+        "good bossing profile",
+        "supports content 'bossing'",
+        "penalized for not matching requested playstyle 'minion'"
+      ],
+      "generator_command": "python generate_build.py --archetype kinetic_fusillade_totem --stage endgame"
+    }
+  ]
+}

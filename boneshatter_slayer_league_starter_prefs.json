@@ -1,0 +1,10 @@
+{
+  "source_prompt": "I want a boneshatter slayer league starter",
+  "aliases": [
+    "boneshatter",
+    "slayer"
+  ],
+  "playstyle": "melee",
+  "league_starter": true,
+  "stage": "leveling"
+}

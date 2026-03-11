@@ -1,0 +1,58 @@
+{
+  "recommended_archetype": "boneshatter_slayer",
+  "recommended_stage": "leveling",
+  "base_file": "boneshatter_slayer_base.json",
+  "score": 19,
+  "reasons": [
+    "matches playstyle 'melee'",
+    "good league starter",
+    "boosted by alias match: boneshatter, slayer"
+  ],
+  "preferences": {
+    "source_prompt": "I want a boneshatter slayer league starter",
+    "aliases": [
+      "boneshatter",
+      "slayer"
+    ],
+    "playstyle": "melee",
+    "league_starter": true,
+    "stage": "leveling"
+  },
+  "generator_command": "python generate_build.py --archetype boneshatter_slayer --stage leveling",
+  "shortlist": [
+    {
+      "archetype": "boneshatter_slayer",
+      "stage": "leveling",
+      "base_file": "boneshatter_slayer_base.json",
+      "score": 19,
+      "reasons": [
+        "matches playstyle 'melee'",
+        "good league starter",
+        "boosted by alias match: boneshatter, slayer"
+      ],
+      "generator_command": "python generate_build.py --archetype boneshatter_slayer --stage leveling"
+    },
+    {
+      "archetype": "ice_crash_shadow",
+      "stage": "leveling",
+      "base_file": "build.json",
+      "score": 11,
+      "reasons": [
+        "matches playstyle 'melee'",
+        "good league starter"
+      ],
+      "generator_command": "python generate_build.py --archetype ice_crash_shadow --stage leveling"
+    },
+    {
+      "archetype": "kinetic_fusillade_totem",
+      "stage": "leveling",
+      "base_file": "Kinetic_Fusillade_Totem.json",
+      "score": 1,
+      "reasons": [
+        "good league starter",
+        "slight penalty for weaker fit to requested playstyle 'melee'"
+      ],
+      "generator_command": "python generate_build.py --archetype kinetic_fusillade_totem --stage leveling"
+    }
+  ]
+}

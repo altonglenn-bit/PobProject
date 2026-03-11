@@ -1,0 +1,119 @@
+{
+  "recommended_archetype": "spectre_summoner_necromancer",
+  "recommended_stage": "endgame",
+  "base": "Spectre_Summoner_Necromancer.json",
+  "score": 36,
+  "reasons": [
+    "matches playstyle 'minion'",
+    "supports content 'bossing'",
+    "fits low apm preference",
+    "strong low-apm fit",
+    "fits low complexity preference",
+    "supports content 'maps'",
+    "boosted by alias match: summoner",
+    "fits endgame stage",
+    "strong beginner-friendly fit",
+    "tiebreak boost for safer automated bossing"
+  ],
+  "prefs": {
+    "source_prompt": "I want a beginner friendly summoner for maps and bosses",
+    "aliases": [
+      "summoner"
+    ],
+    "playstyle": "minion",
+    "goal": "bossing",
+    "stage": "endgame",
+    "apm": "low",
+    "complexity": "low",
+    "content_tags": [
+      "maps",
+      "bossing"
+    ]
+  },
+  "command": "python generate_build.py --archetype spectre_summoner_necromancer --stage endgame",
+  "shortlist": [
+    {
+      "archetype": "spectre_summoner_necromancer",
+      "stage": "endgame",
+      "base": "Spectre_Summoner_Necromancer.json",
+      "score": 36,
+      "reasons": [
+        "matches playstyle 'minion'",
+        "supports content 'bossing'",
+        "fits low apm preference",
+        "strong low-apm fit",
+        "fits low complexity preference",
+        "supports content 'maps'",
+        "boosted by alias match: summoner",
+        "fits endgame stage",
+        "strong beginner-friendly fit",
+        "tiebreak boost for safer automated bossing"
+      ]
+    },
+    {
+      "archetype": "spectre_summoner_necromancer",
+      "stage": "early_maps",
+      "base": "Spectre_Summoner_Necromancer.json",
+      "score": 33,
+      "reasons": [
+        "matches playstyle 'minion'",
+        "supports content 'bossing'",
+        "fits low apm preference",
+        "strong low-apm fit",
+        "fits low complexity preference",
+        "supports content 'maps'",
+        "boosted by alias match: summoner",
+        "strong beginner-friendly fit",
+        "tiebreak boost for safer automated bossing"
+      ]
+    },
+    {
+      "archetype": "spectre_summoner_necromancer",
+      "stage": "leveling",
+      "base": "Spectre_Summoner_Necromancer.json",
+      "score": 31,
+      "reasons": [
+        "matches playstyle 'minion'",
+        "supports content 'bossing'",
+        "fits low apm preference",
+        "strong low-apm fit",
+        "fits low complexity preference",
+        "supports content 'maps'",
+        "boosted by alias match: summoner",
+        "strong beginner-friendly fit",
+        "tiebreak boost for safer automated bossing"
+      ]
+    },
+    {
+      "archetype": "kinetic_fusillade_totem",
+      "stage": "endgame",
+      "base": "Kinetic_Fusillade_Totem.json",
+      "score": 18,
+      "reasons": [
+        "good bossing profile",
+        "fits low apm preference",
+        "strong low-apm fit",
+        "supports content 'maps'",
+        "supports content 'bossing'",
+        "fits endgame stage",
+        "tiebreak boost for safer ranged bossing",
+        "extra tiebreak boost for safe uber-ready profile"
+      ]
+    },
+    {
+      "archetype": "kinetic_fusillade_totem",
+      "stage": "early_maps",
+      "base": "Kinetic_Fusillade_Totem.json",
+      "score": 15,
+      "reasons": [
+        "good bossing profile",
+        "fits low apm preference",
+        "strong low-apm fit",
+        "supports content 'maps'",
+        "supports content 'bossing'",
+        "tiebreak boost for safer ranged bossing",
+        "extra tiebreak boost for safe uber-ready profile"
+      ]
+    }
+  ]
+}

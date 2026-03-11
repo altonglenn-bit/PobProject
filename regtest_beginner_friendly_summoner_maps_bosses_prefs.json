@@ -1,0 +1,15 @@
+{
+  "source_prompt": "I want a beginner friendly summoner for maps and bosses",
+  "aliases": [
+    "summoner"
+  ],
+  "playstyle": "minion",
+  "goal": "bossing",
+  "stage": "endgame",
+  "apm": "low",
+  "complexity": "low",
+  "content_tags": [
+    "maps",
+    "bossing"
+  ]
+}

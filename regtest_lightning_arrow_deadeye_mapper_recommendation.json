@@ -1,0 +1,92 @@
+{
+  "recommended_archetype": "lightning_arrow_deadeye",
+  "recommended_stage": "early_maps",
+  "base": "lightning_arrow_deadeye_base.json",
+  "score": 26,
+  "reasons": [
+    "matches playstyle 'bow'",
+    "strong mapping profile",
+    "high clear-speed profile",
+    "supports content 'maps'",
+    "boosted by alias match: deadeye, lightning_arrow",
+    "fits early mapping stage"
+  ],
+  "prefs": {
+    "source_prompt": "I want a lightning arrow deadeye mapper",
+    "aliases": [
+      "lightning_arrow",
+      "deadeye"
+    ],
+    "playstyle": "bow",
+    "goal": "fast mapper",
+    "content_tags": [
+      "maps"
+    ]
+  },
+  "command": "python generate_build.py --archetype lightning_arrow_deadeye --stage early_maps",
+  "shortlist": [
+    {
+      "archetype": "lightning_arrow_deadeye",
+      "stage": "early_maps",
+      "base": "lightning_arrow_deadeye_base.json",
+      "score": 26,
+      "reasons": [
+        "matches playstyle 'bow'",
+        "strong mapping profile",
+        "high clear-speed profile",
+        "supports content 'maps'",
+        "boosted by alias match: deadeye, lightning_arrow",
+        "fits early mapping stage"
+      ]
+    },
+    {
+      "archetype": "lightning_arrow_deadeye",
+      "stage": "endgame",
+      "base": "lightning_arrow_deadeye_base.json",
+      "score": 22,
+      "reasons": [
+        "matches playstyle 'bow'",
+        "strong mapping profile",
+        "high clear-speed profile",
+        "supports content 'maps'",
+        "boosted by alias match: deadeye, lightning_arrow"
+      ]
+    },
+    {
+      "archetype": "lightning_arrow_deadeye",
+      "stage": "leveling",
+      "base": "lightning_arrow_deadeye_base.json",
+      "score": 17,
+      "reasons": [
+        "matches playstyle 'bow'",
+        "strong mapping profile",
+        "high clear-speed profile",
+        "supports content 'maps'",
+        "boosted by alias match: deadeye, lightning_arrow"
+      ]
+    },
+    {
+      "archetype": "elementalist_kinetic_blast",
+      "stage": "early_maps",
+      "base": "Elementalist_Kinetic_Blast_base.json",
+      "score": 9,
+      "reasons": [
+        "strong mapping profile",
+        "high clear-speed profile",
+        "supports content 'maps'",
+        "fits early mapping stage"
+      ]
+    },
+    {
+      "archetype": "elementalist_kinetic_blast",
+      "stage": "endgame",
+      "base": "Elementalist_Kinetic_Blast_base.json",
+      "score": 5,
+      "reasons": [
+        "strong mapping profile",
+        "high clear-speed profile",
+        "supports content 'maps'"
+      ]
+    }
+  ]
+}

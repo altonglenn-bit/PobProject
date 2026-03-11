@@ -1,0 +1,53 @@
+{
+  "recommended_archetype": "boneshatter_slayer",
+  "recommended_stage": "early_maps",
+  "base_file": "boneshatter_slayer_base.json",
+  "score": 4,
+  "reasons": [
+    "supports content 'maps'",
+    "fits early mapping stage"
+  ],
+  "preferences": {
+    "source_prompt": "I want a build for white maps",
+    "stage": "early_maps",
+    "content_tags": [
+      "maps"
+    ]
+  },
+  "generator_command": "python generate_build.py --archetype boneshatter_slayer --stage early_maps",
+  "shortlist": [
+    {
+      "archetype": "boneshatter_slayer",
+      "stage": "early_maps",
+      "base_file": "boneshatter_slayer_base.json",
+      "score": 4,
+      "reasons": [
+        "supports content 'maps'",
+        "fits early mapping stage"
+      ],
+      "generator_command": "python generate_build.py --archetype boneshatter_slayer --stage early_maps"
+    },
+    {
+      "archetype": "elementalist_kinetic_blast",
+      "stage": "early_maps",
+      "base_file": "Elementalist_Kinetic_Blast_base.json",
+      "score": 4,
+      "reasons": [
+        "supports content 'maps'",
+        "fits early mapping stage"
+      ],
+      "generator_command": "python generate_build.py --archetype elementalist_kinetic_blast --stage early_maps"
+    },
+    {
+      "archetype": "ice_crash_shadow",
+      "stage": "early_maps",
+      "base_file": "build.json",
+      "score": 4,
+      "reasons": [
+        "supports content 'maps'",
+        "fits early mapping stage"
+      ],
+      "generator_command": "python generate_build.py --archetype ice_crash_shadow --stage early_maps"
+    }
+  ]
+}
