@@ -1,0 +1,41 @@
+name: CI
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+
+jobs:
+  test:
+    runs-on: windows-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Upgrade pip
+        run: python -m pip install --upgrade pip
+
+      - name: Install dependencies
+        shell: cmd
+        run: |
+          if exist requirements.txt (
+            pip install -r requirements.txt
+          ) else (
+            echo No requirements.txt found, skipping dependency install file.
+          )
+
+      - name: Validate archetypes
+        run: python validate_archetypes.py
+
+      - name: Run regression tests
+        run: python run_regression_tests.py
+
+      - name: Run end-to-end regression tests
+        run: python run_regression_tests.py --e2e
